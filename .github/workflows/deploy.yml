@@ -19,13 +19,30 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
-        cache: 'npm'
+        
+    - name: Setup pnpm
+      uses: pnpm/action-setup@v2
+      with:
+        version: 8
+        
+    - name: Get pnpm store directory
+      shell: bash
+      run: |
+        echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
+        
+    - name: Setup pnpm cache
+      uses: actions/cache@v3
+      with:
+        path: ${{ env.STORE_PATH }}
+        key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+        restore-keys: |
+          ${{ runner.os }}-pnpm-store-
         
     - name: Install dependencies
-      run: npm ci
+      run: pnpm install --frozen-lockfile
       
     - name: Build Astro site
-      run: npm run build
+      run: pnpm run build
       
     - name: Create deployment artifact
       run: |
@@ -38,8 +55,8 @@ jobs:
         path: build.tar.gz
         retention-days: 30
         
-    # Option 1: Deploy via SSH to your server
-    - name: Deploy to server via SSH
+    # Deploy via SSH through Cloudflare tunnel
+    - name: Deploy to server via Cloudflare SSH
       if: github.ref == 'refs/heads/main'
       uses: appleboy/ssh-action@v1.0.3
       with:
@@ -47,31 +64,91 @@ jobs:
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.SSH_KEY }}
         port: ${{ secrets.PORT || 22 }}
+        timeout: 60s
+        command_timeout: 10m
         script: |
-          # Navigate to deployment directory
-          cd /var/www/boardbon.tinymeepletalk.com  # Adjust this path
+          echo "🚀 Starting deployment to boardbon.tinymeepletalk.com..."
           
-          # Download the artifact
-          curl -H "Authorization: token ${{ secrets.PERSONAL_TOKEN_GITHUB }}" \
-               -H "Accept: application/vnd.github.v3+json" \
-               -L -o build.tar.gz \
-               "https://api.github.com/repos/${{ github.repository }}/actions/artifacts/$(curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/${{ github.repository }}/actions/artifacts" | jq -r '.artifacts[] | select(.name=="astro-build") | .archive_download_url')"
+          # Set variables
+          DEPLOY_PATH="/var/www/html/boardbon"
+          BACKUP_PATH="${DEPLOY_PATH}_backup_$(date +%Y%m%d_%H%M%S)"
+          TEMP_DIR="/tmp/boardbon_deploy_$(date +%s)"
           
-          # Backup current site
-          if [ -d "current" ]; then
-            rm -rf backup
-            mv current backup
+          # Create temporary directory
+          mkdir -p "$TEMP_DIR"
+          cd "$TEMP_DIR"
+          
+          # Download the build artifact from GitHub
+          echo "📦 Downloading build artifact..."
+          
+          # Get latest workflow run ID
+          WORKFLOW_RUN=$(curl -s \
+            -H "Authorization: token ${{ secrets.PERSONAL_TOKEN_GITHUB }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/runs?status=success&branch=main&per_page=1" \
+            | jq -r '.workflow_runs[0].id')
+          
+          if [ "$WORKFLOW_RUN" = "null" ] || [ -z "$WORKFLOW_RUN" ]; then
+            echo "❌ No successful workflow runs found"
+            exit 1
           fi
           
+          echo "Found workflow run: $WORKFLOW_RUN"
+          
+          # Get artifact download URL
+          ARTIFACT_URL=$(curl -s \
+            -H "Authorization: token ${{ secrets.PERSONAL_TOKEN_GITHUB }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/runs/$WORKFLOW_RUN/artifacts" \
+            | jq -r '.artifacts[] | select(.name=="astro-build") | .archive_download_url')
+          
+          if [ "$ARTIFACT_URL" = "null" ] || [ -z "$ARTIFACT_URL" ]; then
+            echo "❌ No build artifact found"
+            exit 1
+          fi
+          
+          # Download artifact
+          echo "⬇️ Downloading artifact..."
+          curl -L \
+            -H "Authorization: token ${{ secrets.PERSONAL_TOKEN_GITHUB }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "$ARTIFACT_URL" \
+            -o artifact.zip
+          
+          # Extract artifact
+          unzip -q artifact.zip
+          if [ ! -f "build.tar.gz" ]; then
+            echo "❌ Build archive not found in artifact"
+            exit 1
+          fi
+          
+          # Backup current deployment
+          if [ -d "$DEPLOY_PATH" ] && [ "$(ls -A $DEPLOY_PATH 2>/dev/null)" ]; then
+            echo "💾 Backing up current deployment..."
+            sudo cp -r "$DEPLOY_PATH" "$BACKUP_PATH"
+            echo "Backup created at: $BACKUP_PATH"
+          fi
+          
+          # Create deployment directory
+          sudo mkdir -p "$DEPLOY_PATH"
+          
           # Extract new build
-          mkdir -p current
-          tar -xzf build.tar.gz -C current
+          echo "🚀 Extracting and deploying new build..."
+          sudo tar -xzf build.tar.gz -C "$DEPLOY_PATH"
           
-          # Clean up
-          rm build.tar.gz
+          # Set proper permissions
+          sudo chown -R www-data:www-data "$DEPLOY_PATH"
+          sudo chmod -R 755 "$DEPLOY_PATH"
           
-          echo "✅ Deployment completed successfully!"
+          # Clean up temporary files
+          cd /
+          rm -rf "$TEMP_DIR"
           
-    # Remove the other deployment options since we're using SSH
-    # Option 2: Alternative - Upload to server via SCP (DISABLED)
-    # Option 3: Use rsync for deployment (DISABLED)
+          # Test if deployment was successful
+          if [ -f "$DEPLOY_PATH/index.html" ]; then
+            echo "✅ Deployment completed successfully!"
+            echo "🌐 Site should now be available at https://boardbon.tinymeepletalk.com"
+          else
+            echo "❌ Deployment may have failed - index.html not found"
+            exit 1
+          fi
