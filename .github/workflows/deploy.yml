@@ -1,5 +1,5 @@
-# .github/workflows/deploy.yml
-name: Deploy Astro Site
+# .github/workflows/ci-cd.yml
+name: Build, Test and Deploy
 
 on:
   push:
@@ -7,29 +7,41 @@ on:
   pull_request:
     branches: [ main ]
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
 jobs:
-  build-and-deploy:
+  # Job 1: Check and Build (runs on PRs and pushes)
+  build:
+    strategy:
+      matrix:
+        node: [ 18, 20 ]  # Use LTS versions
     runs-on: ubuntu-latest
+    name: Build and Check (Node.js ${{ matrix.node }})
     
     steps:
-    - name: Checkout repository
+    - name: Checkout
       uses: actions/checkout@v4
       
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '18'
+        node-version: ${{ matrix.node }}
         
     - name: Setup pnpm
       uses: pnpm/action-setup@v2
       with:
         version: 8
+        run_install: false
         
     - name: Get pnpm store directory
       shell: bash
-      run: |
-        echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
-        
+      run: echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
+      
     - name: Setup pnpm cache
       uses: actions/cache@v3
       with:
@@ -37,27 +49,38 @@ jobs:
         key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
         restore-keys: |
           ${{ runner.os }}-pnpm-store-
-        
+          
     - name: Install dependencies
       run: pnpm install --frozen-lockfile
       
-    - name: Build Astro site
-      run: pnpm run build
+    - name: Run Astro Check
+      run: pnpm astro check
       
+    - name: Run Astro Build
+      run: pnpm astro build
+      
+    # Only create artifact for Node 18 (main deployment version)
     - name: Create deployment artifact
-      run: |
-        tar -czf build.tar.gz -C dist .
+      if: matrix.node == 18
+      run: tar -czf build.tar.gz -C dist .
         
     - name: Upload build artifact
+      if: matrix.node == 18
       uses: actions/upload-artifact@v4
       with:
         name: astro-build
         path: build.tar.gz
-        retention-days: 30
-        
-    # Deploy via SSH through Cloudflare tunnel
-    - name: Deploy to server via Cloudflare SSH
-      if: github.ref == 'refs/heads/main'
+        retention-days: 7
+
+  # Job 2: Deploy (only runs on main branch pushes, after build succeeds)
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    name: Deploy to Production
+    
+    steps:
+    - name: Deploy via Cloudflare SSH
       uses: appleboy/ssh-action@v1.0.3
       with:
         host: ${{ secrets.HOST }}
@@ -81,19 +104,9 @@ jobs:
           # Download the build artifact from GitHub
           echo "📦 Downloading build artifact..."
           
-          # Get latest workflow run ID
-          WORKFLOW_RUN=$(curl -s \
-            -H "Authorization: token ${{ secrets.PERSONAL_TOKEN_GITHUB }}" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/${{ github.repository }}/actions/runs?status=success&branch=main&per_page=1" \
-            | jq -r '.workflow_runs[0].id')
-          
-          if [ "$WORKFLOW_RUN" = "null" ] || [ -z "$WORKFLOW_RUN" ]; then
-            echo "❌ No successful workflow runs found"
-            exit 1
-          fi
-          
-          echo "Found workflow run: $WORKFLOW_RUN"
+          # Get this workflow run ID
+          WORKFLOW_RUN="${{ github.run_id }}"
+          echo "Using workflow run: $WORKFLOW_RUN"
           
           # Get artifact download URL
           ARTIFACT_URL=$(curl -s \
@@ -148,6 +161,9 @@ jobs:
           if [ -f "$DEPLOY_PATH/index.html" ]; then
             echo "✅ Deployment completed successfully!"
             echo "🌐 Site should now be available at https://boardbon.tinymeepletalk.com"
+            
+            # Optional: Clean up old backups (keep last 5)
+            find /var/www/html -name "boardbon_backup_*" -type d | sort | head -n -5 | xargs -r sudo rm -rf
           else
             echo "❌ Deployment may have failed - index.html not found"
             exit 1
