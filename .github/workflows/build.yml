@@ -66,14 +66,12 @@ jobs:
       - name: Run Astro Build
         run: pnpm astro build
 
-      - name: Deploy via SSH
-        uses: appleboy/ssh-action@v0.1.7
+      - name: Deploy via rsync over SSH
+        uses: webfactory/ssh-agent@v0.9.0
         with:
-          host: boardbon-ssh.tinymeepletalk.com
-          username: kong
-          key: ${{ secrets.SSH_DEPLOY_KEY }}
-          port: 22
-          ssh_args: "-o AddressFamily=inet"
-          script: |
-            mkdir -p /var/www/boardbon.tinymeepletalk.com
-            rsync -avz --delete ./dist/ /var/www/boardbon.tinymeepletalk.com/"
+          ssh-private-key: ${{ secrets.SSH_DEPLOY_KEY }}
+
+      - name: Upload files with rsync
+        run: |
+          rsync -avz --delete -e "ssh -o StrictHostKeyChecking=no -o AddressFamily=inet" ./dist/ kong@boardbon-ssh.tinymeepletalk.com:/var/www/boardbon.tinymeepletalk.com/
+
