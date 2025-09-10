@@ -21,7 +21,7 @@ jobs:
 
       # Step 2c: Install dependencies
       - name: Install dependencies
-        run: pnpm ci
+        run: npm ci
 
       # Step 2d: Build Astro
       - name: Build Astro
