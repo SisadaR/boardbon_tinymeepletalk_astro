@@ -73,8 +73,7 @@ jobs:
           username: kong
           key: ${{ secrets.SSH_DEPLOY_KEY }}
           port: 22
+          ssh_args: "-o AddressFamily=inet"
           script: |
-            echo "Deploying on host"
             mkdir -p /var/www/boardbon.tinymeepletalk.com
-            rsync -avz --delete ./dist/ /var/www/boardbon.tinymeepletalk.com/
-            echo "Deployment finished on host"
+            rsync -avz --delete ./dist/ /var/www/boardbon.tinymeepletalk.com/"
