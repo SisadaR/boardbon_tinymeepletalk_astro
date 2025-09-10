@@ -1,31 +1,42 @@
-# .github/workflows/deploy.yml
-name: Deploy to Kong's Directory
+name: Deploy Astro to Boardbon
 
 on:
   push:
-    branches: [ main ]
-
-concurrency:
-  group: deploy-${{ github.ref }}
-  cancel-in-progress: true
+    branches:
+      - main
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    name: Deploy to boardbon.tinymeepletalk.com
-    
     steps:
-    - name: Deploy via Cloudflare SSH
-      uses: appleboy/ssh-action@v1.0.3
-      with:
-        host: ${{ secrets.HOST }}
-        username: ${{ secrets.USERNAME }}  # deploy user
-        key: ${{ secrets.SSH_KEY }}  # SSH key for deploy user
-        port: ${{ secrets.PORT }}
-        timeout: 60s
-        command_timeout: 15m
-        script: |
-          echo "🚀 GitHub Actions triggered deployment"
-          echo "Repository: ${{ github.repository }}"
-          echo "Commit: ${{ github.sha }}"
-          echo "Triggered by: ${{ github.actor }}"
+      # Step 2a: Checkout code
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # Step 2b: Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      # Step 2c: Install dependencies
+      - name: Install dependencies
+        run: pnpm ci
+
+      # Step 2d: Build Astro
+      - name: Build Astro
+        run: pnpm run build
+
+      # Step 2e: Deploy via SSH
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v0.1.7
+        with:
+          host: boardbon-ssh.tinymeepletalk.com
+          username: kong
+          key: ${{ secrets.SSH_DEPLOY_KEY }}
+          port: 22
+          script: |
+            echo "Deploying on host"
+            mkdir -p /var/www/boardbon.tinymeepletalk.com
+            rsync -avz --delete ./dist/ /var/www/boardbon.tinymeepletalk.com/
+            echo "Deployment finished on host"
