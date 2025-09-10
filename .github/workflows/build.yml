@@ -65,3 +65,16 @@ jobs:
 
       - name: Run Astro Build
         run: pnpm astro build
+
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v0.1.7
+        with:
+          host: boardbon-ssh.tinymeepletalk.com
+          username: kong
+          key: ${{ secrets.SSH_DEPLOY_KEY }}
+          port: 22
+          script: |
+            echo "Deploying on host"
+            mkdir -p /var/www/boardbon.tinymeepletalk.com
+            rsync -avz --delete ./dist/ /var/www/boardbon.tinymeepletalk.com/
+            echo "Deployment finished on host"
