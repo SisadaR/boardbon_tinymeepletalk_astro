@@ -1,9 +1,10 @@
 ---
-title: Don't Listen To This Guy  
-published: 2025-12-11  
+title: Don't Listen To This Guy
+published: 2025-12-11
 description: ""
-image: ./images/2025-12-11_cover.jpg
-tags: ["review"]
+image:
+tags:
+  - review
 category: review
 draft: false
 ---
