@@ -2,7 +2,6 @@
 title: Don't Listen To This Guy
 published: 2025-12-11
 description: ""
-image:
 tags:
   - review
 category: review
