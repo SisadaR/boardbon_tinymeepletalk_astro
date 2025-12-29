@@ -69,6 +69,11 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:instagram",
 			url: "https://www.instagram.com/tinymeepletalk/",
 		},
+		{
+			name: "Youtube",
+			icon: "fa6-brands:youtube",
+			url: "https://www.youtube.com/@boardcast2796",
+		},
 	],
 };
 
