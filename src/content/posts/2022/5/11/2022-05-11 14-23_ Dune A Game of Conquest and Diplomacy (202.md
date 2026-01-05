@@ -6,7 +6,7 @@ published: '2022-11-05'
 description: ''
 image: ./images/481666231_9434118236703551_900270090903773959_n.jpg
 tags:
-- archived
+  - archived
 - bite_size
 - อินเนอร์เยอะ
 category: archived

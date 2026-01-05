@@ -4,7 +4,7 @@ published: '2020-27-09'
 description: ''
 image: ./images/120202828_3344382235677212_384076003824862154_n.jpg
 tags:
-- archived
+  - archived
 - thought
 category: archived
 draft: 'false'

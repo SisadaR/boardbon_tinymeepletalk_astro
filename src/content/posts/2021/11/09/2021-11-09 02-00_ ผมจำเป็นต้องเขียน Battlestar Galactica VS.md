@@ -4,7 +4,7 @@ published: '2021-09-11'
 description: ''
 image: ./images/476137775_9260079907440719_4776622037891597352_n.jpg
 tags:
-- archived
+  - archived
 - บ่นไปเรื่อย
 category: archived
 draft: 'false'

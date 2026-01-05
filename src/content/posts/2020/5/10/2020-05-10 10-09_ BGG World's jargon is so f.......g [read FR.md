@@ -4,7 +4,7 @@ published: '2020-10-05'
 description: ''
 image: ./images/96675133_2949048658543907_8588335425351843840_n.png
 tags:
-- archived
+  - archived
 - บ่นไปเรื่อย
 category: archived
 draft: 'false'
