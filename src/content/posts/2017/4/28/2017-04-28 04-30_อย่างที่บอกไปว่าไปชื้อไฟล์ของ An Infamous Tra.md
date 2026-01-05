@@ -4,7 +4,6 @@ published: 2017-28-04
 description: ""
 image: ./images/512200748_24012308078457992_6376743630452066220_n.jpg
 tags:
-  - 24374909
   - archived
   - เรื่อยเปื่อย
 category: archived

@@ -4,7 +4,6 @@ published: 2024-14-12
 description: ""
 image: ./images/492073578_1272521141548596_6668531272718004578_n.jpg
 tags:
-  - 2
   - archived
 category: archived
 draft: false
