@@ -7,7 +7,7 @@ tags:
   - archived
 - บ่นไปเรื่อย
 category: archived
-draft: 'false'
+draft: false
 ---
 🔹 BGG World's jargon is so f.......g  [read FROG] weird Pt.1 #บ่นไปเรื่อย
 

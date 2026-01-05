@@ -6,7 +6,7 @@ image: ./images/469779799_8929991237116256_6882695490772107481_n.jpg
 tags:
   - archived
 category: archived
-draft: 'false'
+draft: false
 ---
 🔹 The Witcher: Old World 
 

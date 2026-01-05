@@ -7,7 +7,7 @@ tags:
   - archived
 - bite_size
 category: archived
-draft: 'false'
+draft: false
 ---
 🌙 Mooncake Master #bite_size
 

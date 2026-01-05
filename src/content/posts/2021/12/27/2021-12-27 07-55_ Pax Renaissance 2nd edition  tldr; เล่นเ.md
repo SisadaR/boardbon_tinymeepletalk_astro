@@ -7,7 +7,7 @@ tags:
   - archived
 - bite_size
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️ Pax Renaissance 2nd edition #bite_size
 

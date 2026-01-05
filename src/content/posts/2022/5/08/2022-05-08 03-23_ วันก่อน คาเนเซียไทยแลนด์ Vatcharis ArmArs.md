@@ -6,7 +6,7 @@ image: ./images/481251108_9429552260493482_6100570426181289267_n.jpg
 tags:
   - archived
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️ วันก่อน คาเนเซียไทยแลนด์ Vatcharis ArmArs Thanomsub จาก DNR Boardgame เอาเกมที่ทำอยู่สามเกมมาให้ลอง 
 

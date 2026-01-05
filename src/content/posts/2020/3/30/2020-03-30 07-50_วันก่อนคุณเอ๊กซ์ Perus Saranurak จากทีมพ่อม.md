@@ -6,7 +6,7 @@ description: ''
 tags:
   - archived
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️วันก่อนคุณเอ๊กซ์ Perus Saranurak จากทีมพ่อมดกำลังเรียน เค้าเสนอโจทย์มาให้อันนึง คิดว่าน่าสนใจดีเลยเดี๋ยวหาเวลาทำก่อน 
  

@@ -10,7 +10,7 @@ tags:
 - bite_size
 - อินเนอร์เยอะ
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️ Dune: A Game of Conquest and Diplomacy (2021) เป็นเกมที่ย่นย่อเอาสุดยอดเกมขึ้นหิ้งอย่าง  Dune (1979 มี reprint อีกรอบตอน 2019) มาทำให้สั้นและเล็กลงสามเท่าจนสามารถเล่นจบได้ในเวลาเพียง 1 ชั่วโมง #bite_size #อินเนอร์เยอะ 
 

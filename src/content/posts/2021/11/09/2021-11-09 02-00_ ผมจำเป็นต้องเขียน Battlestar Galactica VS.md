@@ -7,7 +7,7 @@ tags:
   - archived
 - บ่นไปเรื่อย
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️ ผมจำเป็นต้องเขียน Battlestar Galactica VS Unfathomable จริงๆหรือ?  #บ่นไปเรื่อย 
 

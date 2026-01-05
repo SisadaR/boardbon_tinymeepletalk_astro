@@ -8,7 +8,7 @@ tags:
 - first_impression
 - thought
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️Stroganov 
 blog: https://boardnbon.wordpress.com/2021/05/16/stroganov/

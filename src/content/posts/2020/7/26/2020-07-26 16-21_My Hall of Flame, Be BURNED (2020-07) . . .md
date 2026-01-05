@@ -7,7 +7,7 @@ tags:
   - archived
 - bite_size
 category: archived
-draft: 'false'
+draft: false
 ---
 🔥My Hall of Flame, Be BURNED (2020-07) #bite_size
 .

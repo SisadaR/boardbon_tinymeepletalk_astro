@@ -6,7 +6,7 @@ tags:
   - archived
 - บ่นไปเรื่อย
 category: archived
-draft: 'false'
+draft: false
 ---
 🔹 My All Time Top 50 (2022 edition) #บ่นไปเรื่อย
 

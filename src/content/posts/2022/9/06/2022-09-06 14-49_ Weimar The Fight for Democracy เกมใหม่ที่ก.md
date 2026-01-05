@@ -7,7 +7,7 @@ image: ./images/484443017_9517752348340139_4913710747855339023_n.jpg
 tags:
   - archived
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️ Weimar: The Fight for Democracy เกมใหม่ที่กำลังระดมทุนใน KS ตอนนี้จากผู้สร้าง Watergate, Glen More, Rokoko
 

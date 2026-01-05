@@ -10,7 +10,7 @@ tags:
 - bite_size
 - first_impression
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️ Sagani เกม Puzzle ระดับเบาจาก Uwe Rosenberg ที่เชื่อว่าคนเล่นเกมใหม่ๆน่าจะรู้จักเค้าจากเกมแนว puzzle น่ารักๆอย่าง Patchwork, Indian Summer, Nova Luna, New York Zoo มากกว่าจะเป็นเกมหนักอย่าง Agricola, Le Harve #bite_size #first_impression
 

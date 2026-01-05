@@ -8,7 +8,7 @@ tags:
   - archived
 - bite_size
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️ วันก่อนได้ไปลองเล่น Meeple Detective เกมแนวตัดตัวเลือกแบบเบาๆ ของนักออกแบบชาวไทย Nutthapol Oripipath ก็พบว่าน่าสนใจดีครับ #bite_size
 

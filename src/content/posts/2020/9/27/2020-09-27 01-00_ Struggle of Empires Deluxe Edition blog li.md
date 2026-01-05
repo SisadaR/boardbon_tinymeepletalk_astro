@@ -7,7 +7,7 @@ tags:
   - archived
 - thought
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️ Struggle of Empires : Deluxe Edition #thought
 blog link: https://boardnbon.wordpress.com/2020/09/26/struggle-of-empires-deluxe-edition/

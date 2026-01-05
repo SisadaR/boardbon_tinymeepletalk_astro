@@ -7,7 +7,7 @@ tags:
   - archived
 - bite_size
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️ Ticket to Ride: Europe – 15th Anniversary #bite_size
 

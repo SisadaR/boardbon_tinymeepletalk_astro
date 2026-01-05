@@ -6,7 +6,7 @@ tags:
   - archived
 - บ่นไปเรื่อย
 category: archived
-draft: 'false'
+draft: false
 ---
 ▪️ จาก Red (Tayler's Version) สู่ Brass: Lancashire #บ่นไปเรื่อย
 

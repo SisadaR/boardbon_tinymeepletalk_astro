@@ -9,7 +9,7 @@ image: ./images/290045901_5248607408588009_2136221133986401378_n.png
 tags:
   - archived
 category: archived
-draft: 'false'
+draft: false
 ---
 The Agricola 15th Anniversary Edition will be available at SPIEL '22 Essen this October. The limited edition will be available with Asmodee and Asmodee partners worldwide and released in German, Englisch, Spanish, Portuguese, Korean, Japanese, Chinese (traditional and simplified) and 🔹🔹🔹🔹Thai 🔹🔹🔹🔹. 
 
