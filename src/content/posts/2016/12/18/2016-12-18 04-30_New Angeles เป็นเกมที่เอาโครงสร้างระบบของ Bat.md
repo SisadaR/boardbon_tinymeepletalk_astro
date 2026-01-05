@@ -4,8 +4,8 @@ published: 2016-18-12
 description: ""
 image: ./images/509704520_24002564106099056_1072847494643214476_n.jpg
 tags:
-  -archived
-  -first_impression
+  - archived
+  - first_impression
 category: archived
 draft: false
 ---

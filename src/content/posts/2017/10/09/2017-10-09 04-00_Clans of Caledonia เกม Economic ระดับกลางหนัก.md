@@ -4,10 +4,10 @@ published: 2017-09-10
 description: ""
 image: ./images/512847672_24023411054014361_6021398813261932125_n.jpg
 tags:
-  -archived
-  -first_impression
-  -thought
-  -กบชอบ
+  - archived
+  - first_impression
+  - thought
+  - กบชอบ
 category: archived
 draft: false
 ---

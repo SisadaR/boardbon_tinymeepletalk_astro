@@ -4,7 +4,7 @@ published: 2019-05-12
 description: ""
 image: ./images/maxresdefault.jpg
 tags:
-  -archived
+  - archived
 category: archived
 draft: false
 ---

@@ -4,10 +4,10 @@ published: 2021-19-11
 description: ""
 image: ./images/476805823_9264545633660813_8049802258679079509_n.jpg
 tags:
-  -archived
-  -bite_size
-  -first_impression
-  -กบชอบ
+  - archived
+  - bite_size
+  - first_impression
+  - กบชอบ
 category: archived
 draft: false
 ---

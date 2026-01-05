@@ -4,9 +4,9 @@ published: 2016-24-12
 description: ""
 image: ./images/510555884_24003598199328980_133757908243484518_n.jpg
 tags:
-  -archived
-  -first_impression
-  -thought
+  - archived
+  - first_impression
+  - thought
 category: archived
 draft: false
 ---

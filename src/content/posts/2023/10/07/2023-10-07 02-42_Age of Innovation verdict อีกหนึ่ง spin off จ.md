@@ -4,8 +4,8 @@ published: 2023-07-10
 description: ""
 image: ./images/488036540_1251851936948850_7093929184199833179_n.jpg
 tags:
-  -archived
-  -first_impression
+  - archived
+  - first_impression
 category: archived
 draft: false
 ---

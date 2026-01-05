@@ -4,9 +4,9 @@ published: 2019-29-12
 description: ""
 image: ./images/80772254_2650168418431934_554788811184275456_n.jpg
 tags:
-  -@
-  -archived
-  -though
+  - @
+  - archived
+  - though
 category: archived
 draft: false
 ---

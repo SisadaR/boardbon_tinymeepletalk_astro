@@ -4,8 +4,8 @@ published: 2019-22-12
 description: ""
 image: ./images/80030975_2635251189923657_5641920137251520512_n.jpg
 tags:
-  -archived
-  -bite_size
+  - archived
+  - bite_size
 category: archived
 draft: false
 ---

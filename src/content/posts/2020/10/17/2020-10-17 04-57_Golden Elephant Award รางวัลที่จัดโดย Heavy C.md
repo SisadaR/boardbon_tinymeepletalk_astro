@@ -4,8 +4,8 @@ published: 2020-17-10
 description: ""
 image: ./images/121342140_3407103562738412_9146647196941503936_n.png
 tags:
-  -archived
-  -news
+  - archived
+  - news
 category: archived
 draft: false
 ---

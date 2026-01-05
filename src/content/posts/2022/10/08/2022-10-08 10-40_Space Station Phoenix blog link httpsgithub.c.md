@@ -4,9 +4,9 @@ published: 2022-08-10
 description: ""
 image: ./images/481142804_1217106607090050_715216048251602830_n.jpg
 tags:
-  -archived
-  -thought
-  -กบโอเค
+  - archived
+  - thought
+  - กบโอเค
 category: archived
 draft: false
 ---

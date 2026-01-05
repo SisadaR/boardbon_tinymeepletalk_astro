@@ -4,9 +4,9 @@ published: 2016-30-11
 description: ""
 image: ./images/511132796_24000443876311079_3616524015789651519_n.jpg
 tags:
-  -archived
-  -shot_comment
-  -ไม่มีสปอย
+  - archived
+  - shot_comment
+  - ไม่มีสปอย
 category: archived
 draft: false
 ---

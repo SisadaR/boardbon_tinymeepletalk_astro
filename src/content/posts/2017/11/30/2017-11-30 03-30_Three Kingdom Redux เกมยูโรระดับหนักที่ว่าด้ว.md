@@ -4,11 +4,11 @@ published: 2017-30-11
 description: ""
 image: ./images/511197367_24025689993786467_7721396797622040826_n.jpg
 tags:
-  -archived
-  -first_impression
-  -thought
-  -กบชอบ
-  -กบโปรด
+  - archived
+  - first_impression
+  - thought
+  - กบชอบ
+  - กบโปรด
 category: archived
 draft: false
 ---

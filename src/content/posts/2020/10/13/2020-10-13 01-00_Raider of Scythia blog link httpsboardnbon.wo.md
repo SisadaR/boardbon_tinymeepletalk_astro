@@ -4,9 +4,9 @@ published: 2020-13-10
 description: ""
 image: ./images/121309698_3394969427285159_8329795333646037646_n.jpg
 tags:
-  -archived
-  -bite_size
-  -thought
+  - archived
+  - bite_size
+  - thought
 category: archived
 draft: false
 ---

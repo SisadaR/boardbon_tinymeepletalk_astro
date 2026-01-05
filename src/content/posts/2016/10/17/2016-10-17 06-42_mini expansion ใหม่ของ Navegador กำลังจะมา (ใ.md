@@ -4,7 +4,7 @@ published: 2016-17-10
 description: ""
 image: ./images/fb.png
 tags:
-  -archived
+  - archived
 category: archived
 draft: false
 ---

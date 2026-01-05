@@ -4,8 +4,8 @@ published: 2020-05-12
 description: ""
 image: ./images/128176021_3542829645832469_3796819421396430821_n.jpg
 tags:
-  -archived
-  -ไม่ใช่รีวิวแต่มาเล่าให้ฟัง
+  - archived
+  - ไม่ใช่รีวิวแต่มาเล่าให้ฟัง
 category: archived
 draft: false
 ---

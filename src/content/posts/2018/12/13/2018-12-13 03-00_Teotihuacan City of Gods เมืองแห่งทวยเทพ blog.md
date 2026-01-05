@@ -4,9 +4,9 @@ published: 2018-13-12
 description: ""
 image: ./images/48344935_1961899157258867_4151281011948257280_n.jpg
 tags:
-  -archived
-  -thought
-  -กบชอบ
+  - archived
+  - thought
+  - กบชอบ
 category: archived
 draft: false
 ---

@@ -4,10 +4,10 @@ published: 2018-24-10
 description: ""
 image: ./images/44658272_1887336251381825_1597541144768544768_n.jpg
 tags:
-  -archived
-  -first_impression
-  -thought
-  -กบชอบ
+  - archived
+  - first_impression
+  - thought
+  - กบชอบ
 category: archived
 draft: false
 ---

@@ -4,9 +4,9 @@ published: 2019-01-10
 description: ""
 image: ./images/71231462_2449921595123285_5857581504724467712_n.jpg
 tags:
-  -archived
-  -bite_size
-  -thought
+  - archived
+  - bite_size
+  - thought
 category: archived
 draft: false
 ---

@@ -4,8 +4,8 @@ published: 2020-12-10
 description: ""
 image: ./images/121191763_3390670287715073_553171623131977639_n.jpg
 tags:
-  -archived
-  -playtesting
+  - archived
+  - playtesting
 category: archived
 draft: false
 ---

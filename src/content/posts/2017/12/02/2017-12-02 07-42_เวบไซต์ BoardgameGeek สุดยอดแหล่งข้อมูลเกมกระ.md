@@ -4,8 +4,8 @@ published: 2017-02-12
 description: ""
 image: ./images/geekfacebook.png
 tags:
-  -archived
-  -news
+  - archived
+  - news
 category: archived
 draft: false
 ---

@@ -4,7 +4,7 @@ published: 2022-10-12
 description: ""
 image: ./images/482808989_1230393769094667_6573543292327536793_n.jpg
 tags:
-  -archived
+  - archived
 category: archived
 draft: false
 ---

@@ -4,7 +4,7 @@ published: 2016-04-11
 description: ""
 image: ./images/unnamed_2dcc13d4-513a-48b1-bc38-604921b35b79_medium.jpg
 tags:
-  -archived
+  - archived
 category: archived
 draft: false
 ---

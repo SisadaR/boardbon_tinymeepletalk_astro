@@ -4,9 +4,9 @@ published: 2019-07-11
 description: ""
 image: ./images/75392652_2525060944276016_424818646926229504_n.jpg
 tags:
-  -archived
-  -บ่นไปเรื่อย
-  -สาระไม่ค่อยมี
+  - archived
+  - บ่นไปเรื่อย
+  - สาระไม่ค่อยมี
 category: archived
 draft: false
 ---

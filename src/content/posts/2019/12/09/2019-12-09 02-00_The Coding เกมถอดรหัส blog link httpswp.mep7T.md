@@ -4,9 +4,9 @@ published: 2019-09-12
 description: ""
 image: ./images/78491900_2604521536329956_1022998396010496000_n.jpg
 tags:
-  -archived
-  -first_impression
-  -thought
+  - archived
+  - first_impression
+  - thought
 category: archived
 draft: false
 ---

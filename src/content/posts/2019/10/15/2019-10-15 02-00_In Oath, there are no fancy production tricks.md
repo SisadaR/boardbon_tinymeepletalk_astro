@@ -4,8 +4,8 @@ published: 2019-15-10
 description: ""
 image: ./images/pic4997248.png
 tags:
-  -archived
-  -news
+  - archived
+  - news
 category: archived
 draft: false
 ---

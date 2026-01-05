@@ -4,8 +4,8 @@ published: 2021-18-11
 description: ""
 image: ./images/476825094_9264532010328842_5331504492141055413_n.jpg
 tags:
-  -archived
-  -กบโปรด
+  - archived
+  - กบโปรด
 category: archived
 draft: false
 ---

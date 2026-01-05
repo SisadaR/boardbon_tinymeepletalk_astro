@@ -4,8 +4,8 @@ published: 2020-04-11
 description: ""
 image: ./images/123200724_3457353667713401_5563968372288818424_n.jpg
 tags:
-  -archived
-  -tbs_20
+  - archived
+  - tbs_20
 category: archived
 draft: false
 ---

@@ -4,8 +4,8 @@ published: 2019-17-10
 description: ""
 image: ./images/73325268_2485065231608921_4276852528399777792_n.jpg
 tags:
-  -archived
-  -mini_reviews
+  - archived
+  - mini_reviews
 category: archived
 draft: false
 ---

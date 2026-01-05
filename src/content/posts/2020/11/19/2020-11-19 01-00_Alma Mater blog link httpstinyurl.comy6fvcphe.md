@@ -4,8 +4,8 @@ published: 2020-19-11
 description: ""
 image: ./images/125467444_3498705166911584_5672404590687438777_n.jpg
 tags:
-  -archived
-  -thought
+  - archived
+  - thought
 category: archived
 draft: false
 ---

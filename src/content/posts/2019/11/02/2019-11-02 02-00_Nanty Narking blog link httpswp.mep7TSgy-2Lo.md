@@ -4,9 +4,9 @@ published: 2019-02-11
 description: ""
 image: ./images/73323460_2518782071570570_5315272451163160576_n.jpg
 tags:
-  -archived
-  -bitesize
-  -first_impression
+  - archived
+  - bitesize
+  - first_impression
 category: archived
 draft: false
 ---

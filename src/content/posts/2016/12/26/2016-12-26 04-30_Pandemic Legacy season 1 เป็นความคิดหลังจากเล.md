@@ -4,11 +4,11 @@ published: 2016-26-12
 description: ""
 image: ./images/510797736_24002570472765086_5745687786261492222_n.jpg
 tags:
-  -archived
-  -thought
-  -ยูโร
-  -แมวชาวบ้านเราก็ใช้
-  -ไม่มีสปอลย์
+  - archived
+  - thought
+  - ยูโร
+  - แมวชาวบ้านเราก็ใช้
+  - ไม่มีสปอลย์
 category: archived
 draft: false
 ---

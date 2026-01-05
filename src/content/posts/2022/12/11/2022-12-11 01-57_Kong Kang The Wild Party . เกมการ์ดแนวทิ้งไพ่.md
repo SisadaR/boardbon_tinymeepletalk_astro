@@ -4,8 +4,8 @@ published: 2022-11-12
 description: ""
 image: ./images/482324357_1230393742428003_7028854247735581550_n.jpg
 tags:
-  -archived
-  -bite_size
+  - archived
+  - bite_size
 category: archived
 draft: false
 ---

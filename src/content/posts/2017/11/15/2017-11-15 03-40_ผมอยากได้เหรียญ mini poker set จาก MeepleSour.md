@@ -4,8 +4,8 @@ published: 2017-15-11
 description: ""
 image: ./images/511177269_24025064113849055_2614962237215448232_n.jpg
 tags:
-  -archived
-  -อวด
+  - archived
+  - อวด
 category: archived
 draft: false
 ---

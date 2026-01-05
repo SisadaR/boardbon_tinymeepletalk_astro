@@ -4,8 +4,8 @@ published: 2017-02-11
 description: ""
 image: ./images/513081540_24024648187223981_2914073814782659001_n.jpg
 tags:
-  -archived
-  -talk
+  - archived
+  - talk
 category: archived
 draft: false
 ---

@@ -4,10 +4,10 @@ published: 2018-21-11
 description: ""
 image: ./images/46520343_1929442097171240_6195334769354473472_n.jpg
 tags:
-  -archived
-  -first_impression
-  -thought
-  -กบเฉย
+  - archived
+  - first_impression
+  - thought
+  - กบเฉย
 category: archived
 draft: false
 ---

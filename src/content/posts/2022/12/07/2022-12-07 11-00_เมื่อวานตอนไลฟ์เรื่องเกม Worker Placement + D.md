@@ -3,7 +3,7 @@ title: "เมื่อวานตอนไลฟ์เรื่องเกม
 published: 2022-07-12
 description: ""
 tags:
-  -archived
+  - archived
 category: archived
 draft: false
 ---

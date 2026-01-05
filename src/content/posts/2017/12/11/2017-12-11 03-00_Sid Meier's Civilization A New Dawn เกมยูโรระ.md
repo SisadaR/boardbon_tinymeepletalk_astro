@@ -4,10 +4,10 @@ published: 2017-11-12
 description: ""
 image: ./images/513647358_24026184407070359_5627839186807293892_n.jpg
 tags:
-  -archived
-  -first_impression
-  -thought
-  -กบโอเค
+  - archived
+  - first_impression
+  - thought
+  - กบโอเค
 category: archived
 draft: false
 ---

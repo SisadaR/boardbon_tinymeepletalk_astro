@@ -4,9 +4,9 @@ published: 2016-31-10
 description: ""
 image: ./images/pic1898221.png
 tags:
-  -archived
-  -geeklist
-  -ต้องpnpแน่นอน
+  - archived
+  - geeklist
+  - ต้องpnpแน่นอน
 category: archived
 draft: false
 ---

@@ -4,9 +4,9 @@ published: 2020-28-10
 description: ""
 image: ./images/122470871_3436339213148180_2609619384582032128_n.jpg
 tags:
-  -archived
-  -bite_size
-  -หยิบบางมุมมาเล่า
+  - archived
+  - bite_size
+  - หยิบบางมุมมาเล่า
 category: archived
 draft: false
 ---

@@ -4,10 +4,10 @@ published: 2023-21-10
 description: ""
 image: ./images/487502616_1252887426845301_762801721010586716_n.jpg
 tags:
-  -archived
-  -bite_size
-  -first_impression
-  -จ่ายก่อนเล่นก่อน
+  - archived
+  - bite_size
+  - first_impression
+  - จ่ายก่อนเล่นก่อน
 category: archived
 draft: false
 ---

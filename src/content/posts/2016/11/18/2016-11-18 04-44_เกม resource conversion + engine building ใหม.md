@@ -4,8 +4,8 @@ published: 2016-18-11
 description: ""
 image: ./images/dsc022561.jpg
 tags:
-  -archived
-  -friday_review
+  - archived
+  - friday_review
 category: archived
 draft: false
 ---

@@ -4,7 +4,7 @@ published: 2016-04-10
 description: ""
 image: ./images/509979132_23997606936594773_2100288984326257932_n.jpg
 tags:
-  -archived
+  - archived
 category: archived
 draft: false
 ---

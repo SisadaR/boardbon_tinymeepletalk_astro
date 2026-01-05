@@ -4,9 +4,9 @@ published: 2023-11-12
 description: ""
 image: ./images/489203560_1256028313197879_3890491500208637118_n.jpg
 tags:
-  -archived
-  -bite_size
-  -ไม่ใช่เฟ้ย
+  - archived
+  - bite_size
+  - ไม่ใช่เฟ้ย
 category: archived
 draft: false
 ---

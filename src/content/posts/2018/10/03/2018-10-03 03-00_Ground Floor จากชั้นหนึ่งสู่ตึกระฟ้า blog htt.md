@@ -4,9 +4,9 @@ published: 2018-03-10
 description: ""
 image: ./images/43037217_1859241824191268_2957771525228331008_n.jpg
 tags:
-  -archived
-  -thought
-  -กบโปรด
+  - archived
+  - thought
+  - กบโปรด
 category: archived
 draft: false
 ---

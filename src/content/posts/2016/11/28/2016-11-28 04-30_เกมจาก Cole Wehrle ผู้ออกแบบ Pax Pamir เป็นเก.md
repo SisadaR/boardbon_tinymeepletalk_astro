@@ -4,8 +4,8 @@ published: 2016-28-11
 description: ""
 image: ./images/pic3135977.jpg
 tags:
-  -archived
-  -short_rule_overview
+  - archived
+  - short_rule_overview
 category: archived
 draft: false
 ---

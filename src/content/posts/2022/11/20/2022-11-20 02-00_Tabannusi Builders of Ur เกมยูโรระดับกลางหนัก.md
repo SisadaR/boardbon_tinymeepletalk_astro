@@ -4,8 +4,8 @@ published: 2022-20-11
 description: ""
 image: ./images/481944752_1228667219267322_8848341322271660894_n.jpg
 tags:
-  -archived
-  -thought
+  - archived
+  - thought
 category: archived
 draft: false
 ---

@@ -3,9 +3,9 @@ title: "The loneliness of one board game explorer...."
 published: 2019-21-11
 description: ""
 tags:
-  -archived
-  -บ่นเรื่อยเปื่อย
-  -สาระก็ไม่ค่อยมี
+  - archived
+  - บ่นเรื่อยเปื่อย
+  - สาระก็ไม่ค่อยมี
 category: archived
 draft: false
 ---

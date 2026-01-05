@@ -4,8 +4,8 @@ published: 2020-05-10
 description: ""
 image: ./images/120827428_3369888786459890_2267594864975454527_n.jpg
 tags:
-  -archived
-  -bite_size
+  - archived
+  - bite_size
 category: archived
 draft: false
 ---

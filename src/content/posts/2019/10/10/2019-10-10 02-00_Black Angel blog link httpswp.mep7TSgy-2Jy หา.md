@@ -4,8 +4,8 @@ published: 2019-10-10
 description: ""
 image: ./images/72077376_2467962523319192_703343105658585088_n.jpg
 tags:
-  -archived
-  -thought
+  - archived
+  - thought
 category: archived
 draft: false
 ---

@@ -4,9 +4,9 @@ published: 2018-20-12
 description: ""
 image: ./images/48380929_1972001809581935_2680718466457010176_n.jpg
 tags:
-  -archived
-  -thought
-  -กบโอเค
+  - archived
+  - thought
+  - กบโอเค
 category: archived
 draft: false
 ---

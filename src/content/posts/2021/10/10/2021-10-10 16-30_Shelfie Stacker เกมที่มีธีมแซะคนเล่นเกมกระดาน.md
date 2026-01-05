@@ -4,9 +4,9 @@ published: 2021-10-10
 description: ""
 image: ./images/473009486_9108649102583801_1117575394090101286_n.jpg
 tags:
-  -archived
-  -bite_size
-  -first_impression
+  - archived
+  - bite_size
+  - first_impression
 category: archived
 draft: false
 ---

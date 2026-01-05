@@ -4,8 +4,8 @@ published: 2016-26-10
 description: ""
 image: ./images/hQEgn_I4_400x400.jpg
 tags:
-  -archived
-  -gtscomeandplayday”
+  - archived
+  - gtscomeandplayday”
 category: archived
 draft: false
 ---

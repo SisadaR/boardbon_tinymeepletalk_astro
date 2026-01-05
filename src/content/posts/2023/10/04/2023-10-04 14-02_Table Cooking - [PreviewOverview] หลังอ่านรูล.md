@@ -3,7 +3,7 @@ title: "Table Cooking - [Preview/Overview] หลังอ่านรูลจ�
 published: 2023-04-10
 description: ""
 tags:
-  -archived
+  - archived
 category: archived
 draft: false
 ---

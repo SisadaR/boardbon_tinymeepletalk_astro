@@ -4,8 +4,8 @@ published: 2016-21-10
 description: ""
 image: ./images/14750919_6057951643902_3071393429050097664_n.png
 tags:
-  -archived
-  -friday_review
+  - archived
+  - friday_review
 category: archived
 draft: false
 ---

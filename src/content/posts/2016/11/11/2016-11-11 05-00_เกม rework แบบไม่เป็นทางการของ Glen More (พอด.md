@@ -4,7 +4,7 @@ published: 2016-11-11
 description: ""
 image: ./images/pic2748912.jpg
 tags:
-  -archived
+  - archived
 category: archived
 draft: false
 ---
