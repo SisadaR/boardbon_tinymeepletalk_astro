@@ -18,36 +18,36 @@ International Gamers Awards นอมินีปี 2021 มาแล้ว
 
 MULTIPLAYER
 
-• Anno 1800
-• Beyond the Sun
-• Dune: Imperium
-• Hallertau
-• Lost Ruins of Arnak
-• Nidavellir
-• Paleo
-• Praga Caput Regni
+- Anno 1800
+- Beyond the Sun
+- Dune: Imperium
+- Hallertau
+- Lost Ruins of Arnak
+- Nidavellir
+- Paleo
+- Praga Caput Regni
 
 TWO-PLAYER
 
-• Botanik
-• Gloomhaven: Jaws of the Lion
-• Imperium: Classics & Imperium: Legends
-• Jekyll vs. Hyde
-• Let's Make a Bus Route: The Dice Game
-• MicroMacro: Crime City
-• My City
-• Undaunted: North Africa
+- Botanik
+- Gloomhaven: Jaws of the Lion
+- Imperium: Classics & Imperium: Legends
+- Jekyll vs. Hyde
+- Let's Make a Bus Route: The Dice Game
+- MicroMacro: Crime City
+- My City
+- Undaunted: North Africa
 
 SOLO
 
-• Calico
-• Cantaloop: Book 1 – Breaking into Prison
-• Clever Cubed
-• Hallertau
-• Imperium: Classics & Imperium: Legends
-• MicroMacro: Crime City
-• Sleeping Gods
-• Under Falling Skies
+- Calico
+- Cantaloop: Book 1 – Breaking into Prison
+- Clever Cubed
+- Hallertau
+- Imperium: Classics & Imperium: Legends
+- MicroMacro: Crime City
+- Sleeping Gods
+- Under Falling Skies
 
 ที่มา: https://boardgamegeek.com/blogpost/121685/nominees-announced-2021-international-gamers-award
 
@@ -63,36 +63,36 @@ International Gamers Awards นอมินีปี 2021 มาแล้ว
 
 MULTIPLAYER
 
-• Anno 1800
-• Beyond the Sun
-• Dune: Imperium
-• Hallertau
-• Lost Ruins of Arnak
-• Nidavellir
-• Paleo
-• Praga Caput Regni
+- Anno 1800
+- Beyond the Sun
+- Dune: Imperium
+- Hallertau
+- Lost Ruins of Arnak
+- Nidavellir
+- Paleo
+- Praga Caput Regni
 
 TWO-PLAYER
 
-• Botanik
-• Gloomhaven: Jaws of the Lion
-• Imperium: Classics & Imperium: Legends
-• Jekyll vs. Hyde
-• Let's Make a Bus Route: The Dice Game
-• MicroMacro: Crime City
-• My City
-• Undaunted: North Africa
+- Botanik
+- Gloomhaven: Jaws of the Lion
+- Imperium: Classics & Imperium: Legends
+- Jekyll vs. Hyde
+- Let's Make a Bus Route: The Dice Game
+- MicroMacro: Crime City
+- My City
+- Undaunted: North Africa
 
 SOLO
 
-• Calico
-• Cantaloop: Book 1 – Breaking into Prison
-• Clever Cubed
-• Hallertau
-• Imperium: Classics & Imperium: Legends
-• MicroMacro: Crime City
-• Sleeping Gods
-• Under Falling Skies
+- Calico
+- Cantaloop: Book 1 – Breaking into Prison
+- Clever Cubed
+- Hallertau
+- Imperium: Classics & Imperium: Legends
+- MicroMacro: Crime City
+- Sleeping Gods
+- Under Falling Skies
 
 ที่มา: https://boardgamegeek.com/blogpost/121685/nominees-announced-2021-international-gamers-award
 

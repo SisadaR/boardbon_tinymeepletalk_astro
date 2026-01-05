@@ -38,7 +38,7 @@ blog: https://boardnbon.wordpress.com/2021/07/31/mansions-of-madness/
 ▪️ writer's default mindset: นักเล่นเกมยูโรใช้ความคิด
 ▪️ game's mindset: เน้นอินไปกับการเดินเรื่อง 
 
-• Ameritrash เต็มขั้น ธีมมาเต็ม
+- Ameritrash เต็มขั้น ธีมมาเต็ม
 + App ทำมาดีมาก ช่วยในส่วนที่ควร ปล่อย Analog ในส่วนที่ใช่
 + แปลไทยทำมาดี สละสลวย
 = ดวงเยอะจากการทอยเต๋า เหมาะกับ mindset เน้นบรรยากาศ
