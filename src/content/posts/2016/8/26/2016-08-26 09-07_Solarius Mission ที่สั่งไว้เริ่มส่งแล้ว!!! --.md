@@ -51,7 +51,7 @@ Solarius Mission ที่สั่งไว้เริ่มส่งแล้
 
 อีกค่ายที่มาแนวๆนี้อีกเจ้าก็คือ Splotter Spellen (ช่วงก่อนที่จะทำ Food Chain Magnet นี้อินดี้พอตัว)
 
-ส่วนข่าวตัดมาจาก http://www.spielworxx.de/news/
+ส่วนข่าวตัดมาจาก http_://www.spielworxx.de/news/
 
 Solarius Mission ที่สั่งไว้เริ่มส่งแล้ว!!!
 
@@ -96,4 +96,4 @@ Solarius Mission ที่สั่งไว้เริ่มส่งแล้
 
 อีกค่ายที่มาแนวๆนี้อีกเจ้าก็คือ Splotter Spellen (ช่วงก่อนที่จะทำ Food Chain Magnet นี้อินดี้พอตัว)
 
-ส่วนข่าวตัดมาจาก http://www.spielworxx.de/news/
+ส่วนข่าวตัดมาจาก http_://www.spielworxx.de/news/

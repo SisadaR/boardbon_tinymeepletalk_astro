@@ -20,7 +20,7 @@ draft: false
  
  
 4th edition ไม่รู้เมืองไทยมีใครขายปล่าวแต่สั่งตรงจากนักออกแบบได้เลยที่ 
-http://avstudiogames.com นักออกแบบคนนี้ (Alban Viard) ผมแอบเป็นติ่งเล็กๆ เพราะทำ ClinC , Small City , Tramways ที่ผมชอบด้วย
+http_://avstudiogames.com นักออกแบบคนนี้ (Alban Viard) ผมแอบเป็นติ่งเล็กๆ เพราะทำ ClinC , Small City , Tramways ที่ผมชอบด้วย
 
 #thought Town Center (3rd edition) เป็นเกม puzzle สามมิติ ธีมสร้างเมืองที่ผมชอบมากๆเกมนึง ปกติไม่ค่อยได้กางเพราะคนไม่ค่อยเก็ท 5555
 
@@ -32,4 +32,4 @@ http://avstudiogames.com นักออกแบบคนนี้ (Alban Viard
  
  
 4th edition ไม่รู้เมืองไทยมีใครขายปล่าวแต่สั่งตรงจากนักออกแบบได้เลยที่ 
-http://avstudiogames.com นักออกแบบคนนี้ (Alban Viard) ผมแอบเป็นติ่งเล็กๆ เพราะทำ ClinC , Small City , Tramways ที่ผมชอบด้วย
+http_://avstudiogames.com นักออกแบบคนนี้ (Alban Viard) ผมแอบเป็นติ่งเล็กๆ เพราะทำ ClinC , Small City , Tramways ที่ผมชอบด้วย
