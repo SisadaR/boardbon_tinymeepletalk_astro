@@ -1,7 +1,7 @@
 ---
-title: "Fischen (Fisher)"
+title: Fischen (Fisher)
 published: 2025-17-06
-description: ""
+description: ''
 image: ./images/508393878_1318999673567409_7204871727968321652_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Fischen (Fisher) #bite_size 
 
 การ์ดเกมแนว Trick-Tacking จากนักออกแบบหัวเขียวที่ทุกเกมของเค้าต้องขี้นต้นด้วยตัว F และมีสีเขียว! 

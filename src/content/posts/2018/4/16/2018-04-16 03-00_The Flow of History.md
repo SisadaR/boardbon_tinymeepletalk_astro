@@ -1,7 +1,7 @@
 ---
-title: "The Flow of History"
+title: The Flow of History
 published: 2018-16-04
-description: ""
+description: ''
 image: ./images/30697741_1630005970448189_5229222077013164032_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Flow of History #thought #first_impression
 blog link: https://wp.me/p7TSgy-2x6
  

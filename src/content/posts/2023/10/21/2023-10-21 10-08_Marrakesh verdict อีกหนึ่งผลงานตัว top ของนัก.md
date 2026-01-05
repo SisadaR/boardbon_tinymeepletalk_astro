@@ -1,7 +1,7 @@
 ---
-title: "Marrakesh"
+title: Marrakesh
 published: 2023-21-10
-description: ""
+description: ''
 image: ./images/487502616_1252887426845301_762801721010586716_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Marrakesh #bite_size #first_impression 
 
 verdict : อีกหนึ่งผลงานตัว top ของนักออกแบบ Stefan Feld ที่แฟนๆควรจะมาลอง!! แต่ก็ยังคิดว่าน้อยกว่าตัว top อันอื่นของเฮียนะ

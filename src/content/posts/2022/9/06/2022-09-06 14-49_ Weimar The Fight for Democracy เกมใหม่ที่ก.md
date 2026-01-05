@@ -1,7 +1,7 @@
 ---
 title: 'Weimar: The Fight for Democracy เกมใหม่ที่กำลังระดมทุนใน KS ตอนนี้จากผู้สร้าง
   Watergate, Glen More, Rokoko'
-published: '2022-06-09'
+published: 2022-06-09
 description: ''
 image: ./images/484443017_9517752348340139_4913710747855339023_n.jpg
 tags:

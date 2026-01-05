@@ -1,7 +1,8 @@
 ---
-title: "Lorenzo il Magnifico เกม worker placement ระดับกลางธีมว่าด้วยการสร้างอำนาจและความมั่นคั่งของตระกูลในยุคเรเนซองส์ ผลงานจากทีมนักออกแบบเดียวกับ Grand Austria Hotel"
+title: Lorenzo il Magnifico เกม worker placement ระดับกลางธีมว่าด้วยการสร้างอำนาจและความมั่นคั่งของตระกูลในยุคเรเนซองส์
+  ผลงานจากทีมนักออกแบบเดียวกับ Grand Austria Hotel
 published: 2017-31-07
-description: ""
+description: ''
 image: ./images/512011839_24018398351182298_5478523447406055028_n.jpg
 tags:
   - archived
@@ -9,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #thought Lorenzo il Magnifico เกม worker placement ระดับกลางธีมว่าด้วยการสร้างอำนาจและความมั่นคั่งของตระกูลในยุคเรเนซองส์ ผลงานจากทีมนักออกแบบเดียวกับ Grand Austria Hotel 
  
  

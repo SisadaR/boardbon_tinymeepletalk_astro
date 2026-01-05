@@ -1,7 +1,8 @@
 ---
-title: "Tzolk'in: The Mayan Calendar เป็นเกมยูโรระดับกลาง-หนักว่าด้วยการพัฒนาบ้านเมืองของชาวมายัน จุดขายคือระบบฟันเฟืองและ 'เวลา'"
+title: 'Tzolk''in: The Mayan Calendar เป็นเกมยูโรระดับกลาง-หนักว่าด้วยการพัฒนาบ้านเมืองของชาวมายัน
+  จุดขายคือระบบฟันเฟืองและ ''เวลา'''
 published: 2017-21-08
-description: ""
+description: ''
 image: ./images/510975071_24020565037632296_5243301645582203956_n.jpg
 tags:
   - archived
@@ -9,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #thought Tzolk'in: The Mayan Calendar เป็นเกมยูโรระดับกลาง-หนักว่าด้วยการพัฒนาบ้านเมืองของชาวมายัน จุดขายคือระบบฟันเฟืองและ 'เวลา'
  
  

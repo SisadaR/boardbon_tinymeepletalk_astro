@@ -1,14 +1,14 @@
 ---
-title: "HBD : How to be the Best of the Dead ของ Neoyuyu Theory เป็นเกมที่มาเปิดพรีในงาน TIBM - ตลาดนัดบอร์ดเกมอินดี้ ที่ผมไม่อยากผลิตออกมาตอนนี้เลยครับ"
+title: 'HBD : How to be the Best of the Dead ของ Neoyuyu Theory เป็นเกมที่มาเปิดพรีในงาน
+  TIBM - ตลาดนัดบอร์ดเกมอินดี้ ที่ผมไม่อยากผลิตออกมาตอนนี้เลยครับ'
 published: 2023-11-12
-description: ""
+description: ''
 image: ./images/488770977_1256031569864220_71653135584267355_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 HBD : How to be the Best of the Dead ของ Neoyuyu Theory เป็นเกมที่มาเปิดพรีในงาน TIBM - ตลาดนัดบอร์ดเกมอินดี้ ที่ผมไม่อยากผลิตออกมาตอนนี้เลยครับ
 
 ---

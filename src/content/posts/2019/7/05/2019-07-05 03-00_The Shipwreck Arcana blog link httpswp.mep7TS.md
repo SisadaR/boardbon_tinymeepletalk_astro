@@ -1,7 +1,7 @@
 ---
-title: "The Shipwreck Arcana"
+title: The Shipwreck Arcana
 published: 2019-05-07
-description: ""
+description: ''
 image: ./images/65746174_2287240531391393_2832188399480209408_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Shipwreck Arcana #thought
 blog link: https://wp.me/p7TSgy-2G4
 

@@ -1,14 +1,13 @@
 ---
-title: "Federation"
+title: Federation
 published: 2024-21-02
-description: ""
+description: ''
 image: ./images/489899183_1258654489601928_2130396971415759660_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Federation 
 
 เกมแนว Worker Placement + Majority Control ที่จะให้เรามาล็อบบี้สภาแห่งดวงดาวเพื่อทำคะแนนกัน

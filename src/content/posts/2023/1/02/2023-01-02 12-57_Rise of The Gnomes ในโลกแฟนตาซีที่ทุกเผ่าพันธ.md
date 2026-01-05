@@ -1,7 +1,7 @@
 ---
-title: "Rise of The Gnomes"
+title: Rise of The Gnomes
 published: 2023-02-01
-description: ""
+description: ''
 image: ./images/484138918_1232621502205227_1845200927682307408_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Rise of The Gnomes #thought #first_impression 
 
 ในโลกแฟนตาซีที่ทุกเผ่าพันธุ์ล้วนดื่มด่ำกับเบียร์เลิสรสอยู่ทุกเมื่อเชื่อวัน ทว่าวันหนึ่งเหล่าโนมผู้เป็นแรงงานหลักในการผลิตเบียร์นั้นหาได้ทนกับค่าแรงอันต่ำเตี้ยไม่ไหว จึงลุกขึ้นมาปฎิวัติ! 

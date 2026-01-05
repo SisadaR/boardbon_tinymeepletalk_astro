@@ -1,7 +1,7 @@
 ---
-title: "Dune Imperial"
+title: Dune Imperial
 published: 2021-13-06
-description: ""
+description: ''
 image: ./images/199697154_4085541164894645_3850812786975488086_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Dune Imperial #thought #first_impression
 blog : https://boardnbon.wordpress.com/2021/06/13/dune-imperial/
 .

@@ -1,14 +1,13 @@
 ---
-title: "Minos: Dawn of the Bronze Age"
+title: 'Minos: Dawn of the Bronze Age'
 published: 2024-30-11
-description: ""
+description: ''
 image: ./images/492350059_1272181154915928_4356491244799150600_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Minos: Dawn of the Bronze Age
 
 อารยธรรมมิโนอันถือเป็นหนึ่งในอารยธรรมที่เก่าแก่ที่สุดของยุโรป ที่เจริญรุ่งเรืองบนเกาะครีต (Crete) ในทะเลเมดิเตอร์เรเนียน ช่วงประมาณ 2,700-1,450 ปีก่อนคริสตกาล

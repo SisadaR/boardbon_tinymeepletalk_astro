@@ -1,7 +1,7 @@
 ---
-title: "Carnegie"
+title: Carnegie
 published: 2022-01-04
-description: ""
+description: ''
 image: ./images/481166340_9418151391633569_6520905179196450522_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Carnegie  #thought
 blog post: https://tinyurl.com/2p8urvnt
 

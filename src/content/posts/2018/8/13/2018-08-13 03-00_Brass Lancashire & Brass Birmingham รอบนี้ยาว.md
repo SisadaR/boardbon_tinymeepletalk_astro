@@ -1,7 +1,7 @@
 ---
-title: "Brass: Lancashire & Brass: Birmingham"
+title: 'Brass: Lancashire & Brass: Birmingham'
 published: 2018-13-08
-description: ""
+description: ''
 image: ./images/38875088_1787761704672614_1377767367584514048_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Brass: Lancashire & Brass: Birmingham #thought
 รอบนี้ยาวนิดนึง อ่านใน blog จะสะดวกกว่านะ :  https://wp.me/p7TSgy-2zy
  

@@ -1,7 +1,10 @@
 ---
-title: "Cerebria: The Inside World กดแบ๊คไปเรียบร้อย แบบไม่ได้อ่านกฎอะไร (Blind Purchase......ฮาฮา) เกมจากทีมงาน Trickerion: Legends of Illusion และ Anachrony ที่ผมเคยเขียนรีวิวไปแล้ว ค่อนข้างเชื่อมือประมาณนึง เป็นเกมแนว Area Control ที่ให้เราเล่นเป็นจิตวิญญาณแห่งอารมณ์ที่จะต้องแย่งชิงพื้นที่ในจิตใจของเรา เป็นเกมแบบ 2 ทีม เล่นได้ 2-4 คน"
+title: 'Cerebria: The Inside World กดแบ๊คไปเรียบร้อย แบบไม่ได้อ่านกฎอะไร (Blind Purchase......ฮาฮา)
+  เกมจากทีมงาน Trickerion: Legends of Illusion และ Anachrony ที่ผมเคยเขียนรีวิวไปแล้ว
+  ค่อนข้างเชื่อมือประมาณนึง เป็นเกมแนว Area Control ที่ให้เราเล่นเป็นจิตวิญญาณแห่งอารมณ์ที่จะต้องแย่งชิงพื้นที่ในจิตใจของเรา
+  เป็นเกมแบบ 2 ทีม เล่นได้ 2-4 คน'
 published: 2017-12-09
-description: ""
+description: ''
 image: ./images/306134331_493416416125743_924020008056417706_n.png
 tags:
   - archived
@@ -10,7 +13,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #news #ks Cerebria: The Inside World กดแบ๊คไปเรียบร้อย แบบไม่ได้อ่านกฎอะไร (Blind Purchase......ฮาฮา) เกมจากทีมงาน Trickerion: Legends of Illusion และ Anachrony ที่ผมเคยเขียนรีวิวไปแล้ว ค่อนข้างเชื่อมือประมาณนึง เป็นเกมแนว Area Control ที่ให้เราเล่นเป็นจิตวิญญาณแห่งอารมณ์ที่จะต้องแย่งชิงพื้นที่ในจิตใจของเรา เป็นเกมแบบ 2 ทีม เล่นได้ 2-4 คน
  
  

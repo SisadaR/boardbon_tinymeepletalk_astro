@@ -1,14 +1,13 @@
 ---
-title: "Pax Renaissance Spanish Collector's Edition"
+title: Pax Renaissance Spanish Collector's Edition
 published: 2019-07-03
-description: ""
+description: ''
 image: ./images/53728847_2089268291188619_3831556405119156224_n.png
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Pax Renaissance Spanish Collector's Edition
  
 มีกระดานและเปลี่ยนตัวหมากรุกให้สวยขึ้น วางขายราวๆเดือน 5/6 ปีนี้ ราคาประมาณ € 64.95 

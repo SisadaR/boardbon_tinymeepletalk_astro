@@ -1,14 +1,13 @@
 ---
-title: "Break The Code"
+title: Break The Code
 published: 2024-20-04
-description: ""
+description: ''
 image: ./images/490473331_1260074596126584_1205807118769388067_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Break The Code
 
 เข้! นี้มัน Da Vinci Code + The Coding + Turing Machine คิลเลอร์นิหว่า

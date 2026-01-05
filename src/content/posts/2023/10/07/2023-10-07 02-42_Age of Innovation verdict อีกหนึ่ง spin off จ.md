@@ -1,7 +1,7 @@
 ---
-title: "Age of Innovation"
+title: Age of Innovation
 published: 2023-07-10
-description: ""
+description: ''
 image: ./images/488036540_1251851936948850_7093929184199833179_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Age of Innovation #first_impression 
 
 verdict: อีกหนึ่ง spin off จากเกมยูโรระดับท็อปที่ควรได้ลองเล่นซักครั้ง มีกลิ่นและรสเป็นของตัวเอง เสริฟรสชาติหลากหลายที่แฟนๆจะต้องชอบ!

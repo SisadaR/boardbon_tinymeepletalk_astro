@@ -1,7 +1,8 @@
 ---
-title: "ช่วงนี้น่าจะเริ่มมีแฟนของ Sierra Madre Game เพิ่มขึ้นประมาณนึงจากที่เห็นคนเล่น Pax Renaissance กันหลายที่ :)"
+title: ช่วงนี้น่าจะเริ่มมีแฟนของ Sierra Madre Game เพิ่มขึ้นประมาณนึงจากที่เห็นคนเล่น
+  Pax Renaissance กันหลายที่ :)
 published: 2017-19-09
-description: ""
+description: ''
 tags:
   - archived
   - ks
@@ -9,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #news #ks ช่วงนี้น่าจะเริ่มมีแฟนของ Sierra Madre Game เพิ่มขึ้นประมาณนึงจากที่เห็นคนเล่น Pax Renaissance กันหลายที่ :) 
  
  

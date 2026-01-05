@@ -1,7 +1,7 @@
 ---
-title: "It's a Wonderful World"
+title: It's a Wonderful World
 published: 2019-27-11
-description: ""
+description: ''
 image: ./images/77285340_2576213482494095_7294114839645913088_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 It's a Wonderful World #bite_size #first_impression
 blog link: https://wp.me/p7TSgy-2N0
  

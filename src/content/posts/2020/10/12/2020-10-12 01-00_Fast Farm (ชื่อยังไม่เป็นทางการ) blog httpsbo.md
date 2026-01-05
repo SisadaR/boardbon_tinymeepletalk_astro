@@ -1,7 +1,7 @@
 ---
-title: "Fast Farm (ชื่อยังไม่เป็นทางการ)"
+title: Fast Farm (ชื่อยังไม่เป็นทางการ)
 published: 2020-12-10
-description: ""
+description: ''
 image: ./images/121191763_3390670287715073_553171623131977639_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Fast Farm (ชื่อยังไม่เป็นทางการ) #playtesting
 blog: https://boardnbon.wordpress.com/2020/10/11/fast-farm-demo/
 

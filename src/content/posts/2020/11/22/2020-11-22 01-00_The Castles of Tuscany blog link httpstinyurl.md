@@ -1,7 +1,7 @@
 ---
-title: "The Castles of Tuscany"
+title: The Castles of Tuscany
 published: 2020-22-11
-description: ""
+description: ''
 image: ./images/126929887_3506920269423407_46127250979217501_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Castles of Tuscany #bite_size
 blog link: https://tinyurl.com/yywutcqm
 .

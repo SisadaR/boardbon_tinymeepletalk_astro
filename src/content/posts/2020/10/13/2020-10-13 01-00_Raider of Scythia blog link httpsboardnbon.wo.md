@@ -1,7 +1,7 @@
 ---
-title: "Raider of Scythia"
+title: Raider of Scythia
 published: 2020-13-10
-description: ""
+description: ''
 image: ./images/121309698_3394969427285159_8329795333646037646_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Raider of Scythia #thought #bite_size
 blog link: https://boardnbon.wordpress.com/2020/10/13/raiders-of-scythia/
 .

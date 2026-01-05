@@ -1,13 +1,13 @@
 ---
-title: "Weight Training session ต่อไปจะคุยกันวัน ศุกร์ ที่ 1 พ.ค. เวลา สองทุ่มนะครับ :)"
+title: Weight Training session ต่อไปจะคุยกันวัน ศุกร์ ที่ 1 พ.ค. เวลา สองทุ่มนะครับ
+  :)
 published: 2020-29-04
-description: ""
+description: ''
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Weight Training session ต่อไปจะคุยกันวัน ศุกร์ ที่ 1 พ.ค. เวลา สองทุ่มนะครับ :)
 
 

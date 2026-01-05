@@ -1,7 +1,7 @@
 ---
-title: "Empires of the Void II"
+title: Empires of the Void II
 published: 2018-08-03
-description: ""
+description: ''
 image: ./images/28660591_1588202684628518_4066489862079905792_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Empires of the Void II  #thought #first_impression
 blog link: https://wp.me/p7TSgy-2vx
 

@@ -1,7 +1,7 @@
 ---
 title: Speakeasy
 published: 2025-12-05
-description: ""
+description: ''
 image: ./images/PC040064.jpg
 tags:
   - กบโอเค

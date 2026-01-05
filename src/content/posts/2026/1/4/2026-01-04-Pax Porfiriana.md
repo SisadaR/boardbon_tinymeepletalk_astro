@@ -1,7 +1,7 @@
 ---
 title: Pax Porfiriana
 published: 2026-01-04
-description: ""
+description: ''
 image: ./images/NO_FUSION_0104_005.jpg
 tags:
   - เล่าสั้นๆ

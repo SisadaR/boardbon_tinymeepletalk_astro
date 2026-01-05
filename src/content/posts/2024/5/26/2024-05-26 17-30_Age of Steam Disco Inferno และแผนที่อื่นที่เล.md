@@ -1,14 +1,13 @@
 ---
-title: "Age of Steam: Disco Inferno และแผนที่อื่นที่เล่นมาในงาน AoS CON"
+title: 'Age of Steam: Disco Inferno และแผนที่อื่นที่เล่นมาในงาน AoS CON'
 published: 2024-26-05
-description: ""
+description: ''
 image: ./images/490142304_1261135516020492_8226459277196412204_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Age of Steam: Disco Inferno และแผนที่อื่นที่เล่นมาในงาน AoS CON
 
 ---

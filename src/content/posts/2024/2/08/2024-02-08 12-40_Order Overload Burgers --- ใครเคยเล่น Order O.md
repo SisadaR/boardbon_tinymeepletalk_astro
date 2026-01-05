@@ -1,14 +1,13 @@
 ---
-title: "Order Overload: Burgers"
+title: 'Order Overload: Burgers'
 published: 2024-08-02
-description: ""
+description: ''
 image: ./images/488881185_1258092572991453_4506733006971723343_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Order Overload: Burgers 
 
 ---

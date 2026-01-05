@@ -1,7 +1,7 @@
 ---
-title: "Vejen: ค้าขายสองนครา"
+title: 'Vejen: ค้าขายสองนครา'
 published: 2019-10-04
-description: ""
+description: ''
 image: ./images/56842820_2139783872803727_1483949919898173440_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Vejen: ค้าขายสองนครา #thought #first_impression
 blog link: https://wp.me/p7TSgy-2EP
 

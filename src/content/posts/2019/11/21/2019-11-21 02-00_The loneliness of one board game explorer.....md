@@ -1,7 +1,7 @@
 ---
-title: "The loneliness of one board game explorer...."
+title: The loneliness of one board game explorer....
 published: 2019-21-11
-description: ""
+description: ''
 tags:
   - archived
   - บ่นเรื่อยเปื่อย
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The loneliness of one board game explorer.... #บ่นเรื่อยเปื่อย #สาระก็ไม่ค่อยมี
  
  

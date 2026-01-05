@@ -1,7 +1,10 @@
 ---
-title: "John Company เกมแนว Sand box ที่เล่าเรื่องการดำเนินกิจการของบริษัท East India Company (EIC และมีชื่อเล่นว่า John Company) ของอังกฤษที่ดำเนินกิจการยาวนานกว่า 250 ปี ( คศ 1600 - 1874) ผลงานของนักออกแบบ Cole Wehrle (Pax Pamir, An Infamous Traffic, Root)"
+title: John Company เกมแนว Sand box ที่เล่าเรื่องการดำเนินกิจการของบริษัท East India
+  Company (EIC และมีชื่อเล่นว่า John Company) ของอังกฤษที่ดำเนินกิจการยาวนานกว่า 250
+  ปี ( คศ 1600 - 1874) ผลงานของนักออกแบบ Cole Wehrle (Pax Pamir, An Infamous Traffic,
+  Root)
 published: 2018-21-02
-description: ""
+description: ''
 image: ./images/513485406_24032663683089098_4737148311451243122_n.jpg
 tags:
   - archived
@@ -11,7 +14,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #thought #first_impression John Company เกมแนว Sand box ที่เล่าเรื่องการดำเนินกิจการของบริษัท East India Company (EIC และมีชื่อเล่นว่า John Company) ของอังกฤษที่ดำเนินกิจการยาวนานกว่า 250 ปี ( คศ 1600 - 1874) ผลงานของนักออกแบบ Cole Wehrle (Pax Pamir, An Infamous Traffic, Root) 
  
  

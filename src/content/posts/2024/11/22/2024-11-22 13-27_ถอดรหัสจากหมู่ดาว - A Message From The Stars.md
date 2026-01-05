@@ -1,14 +1,13 @@
 ---
-title: "ถอดรหัสจากหมู่ดาว - A Message From The Stars"
+title: ถอดรหัสจากหมู่ดาว - A Message From The Stars
 published: 2024-22-11
-description: ""
+description: ''
 image: ./images/491723015_1272031728264204_2867839913969356816_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 ถอดรหัสจากหมู่ดาว - A Message From The Stars
 
 เกมแนว words game ที่ผู้เล่นจะต้องมาถอดคำใบ้ของแต่ละฝ่าย ฝั่งแรกคือเอเลี่ยนที่มาพร้อมกับข้อความเข้ารหัสที่รอการถอดความและฝ่ายมนุษย์ที่พยายามค้นหาความเป็นไปได้ในการสื่อสาร

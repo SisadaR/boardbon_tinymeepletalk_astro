@@ -1,7 +1,7 @@
 ---
-title: "Merv: The Heart of the Silk Road"
+title: 'Merv: The Heart of the Silk Road'
 published: 2022-18-06
-description: ""
+description: ''
 image: ./images/483487886_9472849242830450_2030734465330718898_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Merv: The Heart of the Silk Road #thought
 
 blog link: https://tinyurl.com/32zvxxna

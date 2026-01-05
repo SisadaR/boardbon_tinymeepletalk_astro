@@ -1,7 +1,7 @@
 ---
-title: ""
+title: ''
 published: 2021-14-09
-description: ""
+description: ''
 image: ./images/maxresdefault.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #บ่นไปเรื่อย
 
 ▪️ เห็นช่อง Before You Play เอา Agricola ฉบับ z-man รุ่นดั่งเดิม (2007) มาทำคลิปก็ชวนให้นึกถึงความหลัง

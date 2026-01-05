@@ -1,7 +1,7 @@
 ---
-title: "Forum Trajanum"
+title: Forum Trajanum
 published: 2019-22-03
-description: ""
+description: ''
 image: ./images/55451687_2110091465772968_5490332431930097664_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Forum Trajanum #thought
 blog link: https://wp.me/p7TSgy-2EC
 

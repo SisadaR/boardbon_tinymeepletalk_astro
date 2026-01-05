@@ -1,7 +1,7 @@
 ---
-title: "Tin Goose: เปิดธุรกิจการบิน"
+title: 'Tin Goose: เปิดธุรกิจการบิน'
 published: 2019-19-08
-description: ""
+description: ''
 image: ./images/68304053_2368332089948903_1837458314275848192_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Tin Goose: เปิดธุรกิจการบิน #thought
 blog link: https://wp.me/p7TSgy-2Ho
 blockdit:  https://tinyurl.com/y4b9usy6

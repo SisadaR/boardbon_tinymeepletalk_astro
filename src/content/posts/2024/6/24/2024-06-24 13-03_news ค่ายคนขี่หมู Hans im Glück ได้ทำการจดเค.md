@@ -1,13 +1,13 @@
 ---
-title: "[news| ค่ายคนขี่หมู Hans im Glück ได้ทำการจดเครื่องหมายการค้าคำว่า 'Meeple' ในทวีปอเมริกาเหนือ"
+title: '[news| ค่ายคนขี่หมู Hans im Glück ได้ทำการจดเครื่องหมายการค้าคำว่า ''Meeple''
+  ในทวีปอเมริกาเหนือ'
 published: 2024-24-06
-description: ""
+description: ''
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 [news| ค่ายคนขี่หมู Hans im Glück ได้ทำการจดเครื่องหมายการค้าคำว่า 'Meeple' ในทวีปอเมริกาเหนือ
 
 ▫️ ก่อนหน้านี้ไปยื่นเอกสารบอกให้เกมชื่อ Meeple Inc เอาเกมลงซะ อ้างว่าตัวเองเป็นเจ้าของชื่อนี้ (ตอนนี้เกมเปลี่ยนชื่อเป็น Tabletop Inc)

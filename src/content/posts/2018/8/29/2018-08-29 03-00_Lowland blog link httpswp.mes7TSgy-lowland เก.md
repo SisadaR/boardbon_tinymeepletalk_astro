@@ -1,7 +1,7 @@
 ---
-title: "Lowland"
+title: Lowland
 published: 2018-29-08
-description: ""
+description: ''
 image: ./images/40239083_1816098895172228_4648617630456872960_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Lowland #thought #first_impression
 blog link: https://wp.me/s7TSgy-lowland
 

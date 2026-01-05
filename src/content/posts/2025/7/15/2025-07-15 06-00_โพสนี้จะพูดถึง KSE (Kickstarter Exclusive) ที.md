@@ -1,14 +1,14 @@
 ---
-title: "โพสนี้จะพูดถึง KSE (Kickstarter Exclusive) ที่จะพูดรวมๆไปถีงของ platform ระดมทุนอื่นด้วย ความหมายโดยรวมคือของพิเศษเฉพาะกาลสำหรับผู้เข้าร่วมระดมทุน"
+title: โพสนี้จะพูดถึง KSE (Kickstarter Exclusive) ที่จะพูดรวมๆไปถีงของ platform ระดมทุนอื่นด้วย
+  ความหมายโดยรวมคือของพิเศษเฉพาะกาลสำหรับผู้เข้าร่วมระดมทุน
 published: 2025-15-07
-description: ""
+description: ''
 image: ./images/518535319_1343400541127322_4894527941505438808_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 โพสนี้จะพูดถึง KSE (Kickstarter Exclusive) ที่จะพูดรวมๆไปถีงของ platform ระดมทุนอื่นด้วย ความหมายโดยรวมคือของพิเศษเฉพาะกาลสำหรับผู้เข้าร่วมระดมทุน
 
 ---

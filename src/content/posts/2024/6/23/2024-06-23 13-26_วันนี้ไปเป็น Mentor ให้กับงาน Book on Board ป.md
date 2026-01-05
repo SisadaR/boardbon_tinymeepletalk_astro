@@ -1,14 +1,14 @@
 ---
-title: "วันนี้ไปเป็น Mentor ให้กับงาน Book on Board ปี 3 จัดโดย TK Park อุทยานการเรียนรู้ กับ สถาบันบอร์ดเกมเพื่อการเรียนรู้ - Institute of Board Game for Learning มาครับ"
+title: วันนี้ไปเป็น Mentor ให้กับงาน Book on Board ปี 3 จัดโดย TK Park อุทยานการเรียนรู้
+  กับ สถาบันบอร์ดเกมเพื่อการเรียนรู้ - Institute of Board Game for Learning มาครับ
 published: 2024-23-06
-description: ""
+description: ''
 image: ./images/490587540_1262171775916866_265281166428159143_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 วันนี้ไปเป็น Mentor ให้กับงาน Book on Board ปี 3 จัดโดย TK Park อุทยานการเรียนรู้ กับ สถาบันบอร์ดเกมเพื่อการเรียนรู้ - Institute of Board Game for Learning มาครับ
 
 ตัวกิจกรรมจะว่าด้วยการออกแบบเกมกระดานจากหนังสือ โดยวันนี้ผู้ที่ผ่านเข้ารอบทั้ง 10 ทีมได้มาทำ workshop กัน ในพาร์ทของผมเองก็จะมาช่วยกับ mentor ท่านอื่นๆในการให้ความเห็นตัวงานต้นแบบที่เรียกได้ว่าร้อนมือพองจัดๆ เพราะของหลายๆทีมนั้นพึ่งทำกันเสร็จหลังอบรมรอบเช้านี้เอง

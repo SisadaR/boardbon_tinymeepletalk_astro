@@ -1,7 +1,7 @@
 ---
-title: "Field of Arle: สุขใจ ไร่สองเรา"
+title: 'Field of Arle: สุขใจ ไร่สองเรา'
 published: 2019-12-10
-description: ""
+description: ''
 image: ./images/71959646_2472559956192782_2467403701610872832_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Field of Arle: สุขใจ ไร่สองเรา #thought
 blog link: https://wp.me/p7TSgy-2JQ
 

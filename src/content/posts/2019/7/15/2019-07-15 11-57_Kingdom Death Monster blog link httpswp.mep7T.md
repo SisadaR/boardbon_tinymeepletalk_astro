@@ -1,7 +1,7 @@
 ---
-title: "Kingdom Death: Monster"
+title: 'Kingdom Death: Monster'
 published: 2019-15-07
-description: ""
+description: ''
 image: ./images/66761551_2306123402836439_867930538818666496_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Kingdom Death: Monster #bitesize_throught 
 blog link: https://wp.me/p7TSgy-2Gt
  

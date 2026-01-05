@@ -1,7 +1,7 @@
 ---
-title: "Dreamscape"
+title: Dreamscape
 published: 2019-13-11
-description: ""
+description: ''
 image: ./images/76644632_2543855832396527_4866984238915780608_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Dreamscape #bite_size
 blog link: https://wp.me/p7TSgy-2Mp
 

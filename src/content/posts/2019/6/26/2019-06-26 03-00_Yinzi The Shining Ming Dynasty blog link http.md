@@ -1,7 +1,7 @@
 ---
-title: "Yinzi: The Shining Ming Dynasty"
+title: 'Yinzi: The Shining Ming Dynasty'
 published: 2019-26-06
-description: ""
+description: ''
 image: ./images/65394819_2271080019674111_7721180192554614784_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Yinzi: The Shining Ming Dynasty #thought
 blog link: https://wp.me/p7TSgy-2FT
 

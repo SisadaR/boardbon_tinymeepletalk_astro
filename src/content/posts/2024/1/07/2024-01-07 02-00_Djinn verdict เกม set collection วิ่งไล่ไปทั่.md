@@ -1,14 +1,13 @@
 ---
-title: "Djinn"
+title: Djinn
 published: 2024-07-01
-description: ""
+description: ''
 image: ./images/488597032_1256916449775732_3530634519892536855_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Djinn 
 
 verdict: เกม set collection วิ่งไล่ไปทั่วเมืองเพื่อจับญินใส่ขวด สนุกแบบเพลินๆ

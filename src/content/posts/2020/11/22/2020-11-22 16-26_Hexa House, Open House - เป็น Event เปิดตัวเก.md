@@ -1,14 +1,13 @@
 ---
-title: "Hexa House, Open House - เป็น Event เปิดตัวเกม Victim เกม KS ของไทยที่ถือได้ว่าประสบความสำเร็จในการระดมทุนจากตลาดโลกอย่างงดงาม"
+title: Hexa House, Open House - เป็น Event เปิดตัวเกม Victim เกม KS ของไทยที่ถือได้ว่าประสบความสำเร็จในการระดมทุนจากตลาดโลกอย่างงดงาม
 published: 2020-22-11
-description: ""
+description: ''
 image: ./images/126277737_3508648092583958_1706777926820884769_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Hexa House, Open House - เป็น Event เปิดตัวเกม Victim เกม KS ของไทยที่ถือได้ว่าประสบความสำเร็จในการระดมทุนจากตลาดโลกอย่างงดงาม
 .
 .

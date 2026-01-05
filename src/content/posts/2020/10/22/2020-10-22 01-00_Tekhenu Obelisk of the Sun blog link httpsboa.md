@@ -1,7 +1,7 @@
 ---
-title: "Tekhenu: Obelisk of the Sun"
+title: 'Tekhenu: Obelisk of the Sun'
 published: 2020-22-10
-description: ""
+description: ''
 image: ./images/122157956_3419540154828086_871606457627645523_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Tekhenu: Obelisk of the Sun #thought
 blog link: https://boardnbon.wordpress.com/2020/10/22/tekhenu-obelisk-of-the-sun/
 .

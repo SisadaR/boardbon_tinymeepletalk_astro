@@ -1,14 +1,13 @@
 ---
-title: "Age of Automaton"
+title: Age of Automaton
 published: 2025-01-02
-description: ""
+description: ''
 image: ./images/492478198_1273462714787772_6850278950906887028_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Age of Automaton
 
 ---

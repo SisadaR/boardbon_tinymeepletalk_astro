@@ -1,7 +1,7 @@
 ---
-title: "คนสอนเกม : พิธีกรรมก่อนเริ่มเกม"
+title: 'คนสอนเกม : พิธีกรรมก่อนเริ่มเกม'
 published: 2018-11-06
-description: ""
+description: ''
 image: ./images/34794197_1687829797999139_2773481702691962880_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 คนสอนเกม : พิธีกรรมก่อนเริ่มเกม #บ่นไปเรื่อย #เล่าสู่กันฟัง #สาระไม่่มี
 blog link:  https://wp.me/p7TSgy-2y3
  

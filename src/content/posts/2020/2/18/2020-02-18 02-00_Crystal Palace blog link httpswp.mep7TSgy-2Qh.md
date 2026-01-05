@@ -1,7 +1,7 @@
 ---
-title: "Crystal Palace"
+title: Crystal Palace
 published: 2020-18-02
-description: ""
+description: ''
 image: ./images/86363729_2762628610519247_7529843445377007616_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Crystal Palace #thought
 blog link: https://wp.me/p7TSgy-2Qh
 

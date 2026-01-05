@@ -1,14 +1,13 @@
 ---
-title: "Heat: Pedal to the Metal"
+title: 'Heat: Pedal to the Metal'
 published: 2024-21-01
-description: ""
+description: ''
 image: ./images/489624274_1257207829746594_6207315787602118472_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Heat: Pedal to the Metal
 
 verdict: เกมรถซิ่งระดับครอบครัวเหยียบคันเร่งแล้วลุยไปเลยโซนิค!!

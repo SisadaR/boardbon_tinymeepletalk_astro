@@ -1,7 +1,7 @@
 ---
-title: "Cross Talk"
+title: Cross Talk
 published: 2018-04-06
-description: ""
+description: ''
 image: ./images/34165028_1679174428864676_6839232538339180544_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Cross Talk #thought
 blog link: https://wp.me/p7TSgy-2xZ
 

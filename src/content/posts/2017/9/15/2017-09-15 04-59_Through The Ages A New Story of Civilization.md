@@ -1,7 +1,7 @@
 ---
-title: "Through The Ages: A New Story of Civilization เล่นบน Android กับ AI hard ไปสามรอบ"
+title: 'Through The Ages: A New Story of Civilization เล่นบน Android กับ AI hard ไปสามรอบ'
 published: 2017-15-09
-description: ""
+description: ''
 image: ./images/512703527_24021983870823746_4290116625742964097_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #short_comment #mobile #อวยสัดๆ Through The Ages: A New Story of Civilization เล่นบน Android กับ AI hard ไปสามรอบ
  
  

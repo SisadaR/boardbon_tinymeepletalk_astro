@@ -1,7 +1,7 @@
 ---
-title: "Gugong"
+title: Gugong
 published: 2019-15-01
-description: ""
+description: ''
 image: ./images/49836913_2010235699091879_1217672233992847360_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Gugong #thought
 blog link: https://wp.me/s7TSgy-gugong
 

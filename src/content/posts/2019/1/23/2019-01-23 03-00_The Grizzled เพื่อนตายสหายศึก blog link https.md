@@ -1,7 +1,7 @@
 ---
-title: "The Grizzled: เพื่อนตายสหายศึก"
+title: 'The Grizzled: เพื่อนตายสหายศึก'
 published: 2019-23-01
-description: ""
+description: ''
 image: ./images/50107941_2014735828641866_5023188110662434816_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Grizzled: เพื่อนตายสหายศึก #thought
 blog link: https://wp.me/p7TSgy-2Dl
 

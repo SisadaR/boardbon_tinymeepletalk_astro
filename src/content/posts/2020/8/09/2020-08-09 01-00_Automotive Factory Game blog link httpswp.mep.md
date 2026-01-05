@@ -1,7 +1,7 @@
 ---
-title: "Automotive Factory Game"
+title: Automotive Factory Game
 published: 2020-09-08
-description: ""
+description: ''
 image: ./images/117098842_3193845987397505_7144998109108039823_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Automotive Factory Game #thought
 blog link: https://wp.me/p7TSgy-2UE
 .

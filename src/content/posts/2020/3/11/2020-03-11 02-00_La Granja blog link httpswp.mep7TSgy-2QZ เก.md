@@ -1,7 +1,7 @@
 ---
-title: "La Granja"
+title: La Granja
 published: 2020-11-03
-description: ""
+description: ''
 image: ./images/88997958_2809537359161705_7067901278692573184_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 La Granja #thought
 blog link: https://wp.me/p7TSgy-2QZ
 

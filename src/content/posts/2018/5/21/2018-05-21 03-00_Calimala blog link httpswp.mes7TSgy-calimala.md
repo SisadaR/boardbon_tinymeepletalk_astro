@@ -1,7 +1,7 @@
 ---
-title: "Calimala"
+title: Calimala
 published: 2018-21-05
-description: ""
+description: ''
 image: ./images/33131697_1667241763391276_315213237605892096_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Calimala #thought
 blog link: https://wp.me/s7TSgy-calimala
 

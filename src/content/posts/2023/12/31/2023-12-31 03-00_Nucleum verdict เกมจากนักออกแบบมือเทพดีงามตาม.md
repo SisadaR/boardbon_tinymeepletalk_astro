@@ -1,14 +1,13 @@
 ---
-title: "Nucleum"
+title: Nucleum
 published: 2023-31-12
-description: ""
+description: ''
 image: ./images/488712784_1256740989793278_6160920850950648389_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Nucleum
 
 :

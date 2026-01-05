@@ -1,7 +1,7 @@
 ---
-title: "Black Rose Wars"
+title: Black Rose Wars
 published: 2020-21-01
-description: ""
+description: ''
 image: ./images/83374056_2700871193361656_5305792474793377792_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Black Rose Wars #bite_size
 blog link: https://wp.me/p7TSgy-2PY
   

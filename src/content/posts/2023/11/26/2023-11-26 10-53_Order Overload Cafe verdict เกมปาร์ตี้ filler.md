@@ -1,7 +1,7 @@
 ---
-title: "Order Overload: Cafe"
+title: 'Order Overload: Cafe'
 published: 2023-26-11
-description: ""
+description: ''
 image: ./images/488657164_1255657683234942_419102550062735726_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Order Overload: Cafe #thought 
 
 verdict: เกมปาร์ตี้ filler ติดกระเป๋าที่จะทำให้คุณเข้าใจว่าเหล่าพนักงานที่รับออร์เดอร์ยาวๆคือยอดมนุษย์!! "Grande no-whip white chocolate mocha with five pumps and an extra shot, made with soy." โอ้ว!! สั่งเหี้ยไรกันเยอะแยะใจเย็นๆโว๊ยยยยย

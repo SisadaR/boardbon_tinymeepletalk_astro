@@ -1,14 +1,13 @@
 ---
-title: "Vegetable Stock"
+title: Vegetable Stock
 published: 2024-06-04
-description: ""
+description: ''
 image: ./images/489952979_1259906342810076_5717345098653563651_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Vegetable Stock
 
 เกมคั่นเวลาเล่นแค่ 5 นาทีว่าด้วยการกำหนดราคาของผักผลไม้ 

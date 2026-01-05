@@ -1,7 +1,7 @@
 ---
-title: "Mansions of Madness : คฤหาสน์วิปลาส"
+title: 'Mansions of Madness : คฤหาสน์วิปลาส'
 published: 2021-31-07
-description: ""
+description: ''
 image: ./images/469619287_8921385421310171_7173765242338868771_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Mansions of Madness : คฤหาสน์วิปลาส #bite_size
 blog: https://boardnbon.wordpress.com/2021/07/31/mansions-of-madness/
 

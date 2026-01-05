@@ -1,14 +1,13 @@
 ---
-title: "Board and Bon --==New To Me 2017==--"
+title: Board and Bon --==New To Me 2017==--
 published: 2017-25-12
-description: ""
+description: ''
 image: ./images/512417073_24028915020130631_3661270506382553672_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Board and Bon --==New To Me 2017==-- 
  
  

@@ -1,14 +1,13 @@
 ---
-title: "Inheritors"
+title: Inheritors
 published: 2024-12-01
-description: ""
+description: ''
 image: ./images/488876721_1257011926432851_8523106315655273172_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Inheritors 
 
 verdict: การ์ดเกมคั่นเวลาที่เราจะมาแข่งสะสมเลขให้มากกว่าคนอื่น แต่ช้าก่อนขั้นบันไดแห่งอำนาจน่ะมันมีพื้นที่จำกัดนะเฟ้ย

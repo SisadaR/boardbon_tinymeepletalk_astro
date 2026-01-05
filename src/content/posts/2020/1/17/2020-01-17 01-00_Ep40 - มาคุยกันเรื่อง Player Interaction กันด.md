@@ -1,14 +1,13 @@
 ---
-title: "Ep40 - มาคุยกันเรื่อง Player Interaction กันดีกว่า"
+title: Ep40 - มาคุยกันเรื่อง Player Interaction กันดีกว่า
 published: 2020-17-01
-description: ""
+description: ''
 image: ./images/hqdefault.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Ep40 - มาคุยกันเรื่อง Player Interaction กันดีกว่า
 
 ตอนนี้เราวกมาคุยกับคุณแบงค์จากเพจ "งงเหลือหลายเล่นอะไรก็สนุก" อีกรอบ กับหัวข้อที่เราอยากจะ 'สำรวจ' ความเป็นไปได้ของ player interaction หรือ ปฏิสัมพันธ์ของผู้เล่น ในวงเล่นเกม ว่าทำไมบางเกมที่คนบอกเงียบฉิบหายนึกว่าเล่นอยู่คนเดียวแต่อีกคนดันบอกตัดกันหน้าสั่น?

@@ -1,7 +1,7 @@
 ---
-title: "Flat Earth Theory (Prototype)"
+title: Flat Earth Theory (Prototype)
 published: 2022-20-02
-description: ""
+description: ''
 image: ./images/481453257_9390606807721361_6015448742139788723_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Flat Earth Theory (Prototype) #bite_size
 
 * เป็นเกมระหว่างกำลังพัฒนาทุกสิ่งทุกอย่างสามารถเปลี่ยนแปลงได้เสมอ 

@@ -1,14 +1,13 @@
 ---
-title: "Solarius Mission ที่สั่งไว้เริ่มส่งแล้ว!!!"
+title: Solarius Mission ที่สั่งไว้เริ่มส่งแล้ว!!!
 published: 2016-26-08
-description: ""
+description: ''
 image: ./images/464521552_8665102746938441_5469569866147869247_n.png
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Solarius Mission ที่สั่งไว้เริ่มส่งแล้ว!!!
 
 -------------------------------------------------------- 1

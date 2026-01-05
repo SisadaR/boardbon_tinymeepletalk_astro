@@ -1,7 +1,7 @@
 ---
-title: "Battle Con กับ Exceed: เกมไฟท์ติ้งสู่การ์ดเกม"
+title: 'Battle Con กับ Exceed: เกมไฟท์ติ้งสู่การ์ดเกม'
 published: 2018-25-06
-description: ""
+description: ''
 image: ./images/35923713_1709958889119563_7417114899047776256_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Battle Con กับ Exceed: เกมไฟท์ติ้งสู่การ์ดเกม #thought #firest_impression
 blog link: https://wp.me/p7TSgy-2ym
  

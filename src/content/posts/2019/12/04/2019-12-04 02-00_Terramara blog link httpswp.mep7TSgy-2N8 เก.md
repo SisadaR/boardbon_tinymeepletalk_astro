@@ -1,7 +1,7 @@
 ---
-title: "Terramara"
+title: Terramara
 published: 2019-04-12
-description: ""
+description: ''
 image: ./images/78374359_2592912660824177_3267631472646815744_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Terramara #thought
 blog link: https://wp.me/p7TSgy-2N8
 

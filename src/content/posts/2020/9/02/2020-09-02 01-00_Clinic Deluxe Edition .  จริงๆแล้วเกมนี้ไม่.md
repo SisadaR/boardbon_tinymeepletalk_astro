@@ -1,7 +1,7 @@
 ---
-title: "Clinic: Deluxe Edition"
+title: 'Clinic: Deluxe Edition'
 published: 2020-02-09
-description: ""
+description: ''
 image: ./images/118536657_3264782020303901_2408324826853329077_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Clinic: Deluxe Edition #bite_size #rerun_reprint
 .
 ▪️ จริงๆแล้วเกมนี้ไม่ใช่เกมใหม่ แต่เป็นฉบับ Mass Production ของเกมฉบับทำมือที่ทำมาตอนปี 2014  (ตอนนั้นทำมาแค่ 3 รอบ รวม 750 ชุด) โดยระบบเกมแล้วไม่มีอะไรต่างจากเดิมแต่ว่าปรับปรุงอุปกรณ์ใหม่ให้สมกับเป็นเกมระดับระดมทุน

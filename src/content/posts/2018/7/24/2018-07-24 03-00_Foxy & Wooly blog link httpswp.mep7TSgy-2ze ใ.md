@@ -1,7 +1,7 @@
 ---
-title: "Foxy & Wooly"
+title: Foxy & Wooly
 published: 2018-24-07
-description: ""
+description: ''
 image: ./images/37712169_1755630264552425_8491687026125438976_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Foxy & Wooly #playtest
 blog link: https://wp.me/p7TSgy-2ze
  

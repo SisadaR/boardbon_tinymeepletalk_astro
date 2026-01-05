@@ -1,7 +1,7 @@
 ---
-title: "Rome and Roll"
+title: Rome and Roll
 published: 2022-15-10
-description: ""
+description: ''
 image: ./images/480590960_1217952370338807_9057781701197672942_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Rome and Roll #bite_size
 blog link: https://sisadar.github.io/rome-and-roll/
 

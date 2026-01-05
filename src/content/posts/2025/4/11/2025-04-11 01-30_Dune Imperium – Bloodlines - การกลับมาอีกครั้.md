@@ -1,14 +1,13 @@
 ---
-title: "Dune: Imperium – Bloodlines - การกลับมาอีกครั้งของอีซาน อัลไกอีบ"
+title: 'Dune: Imperium – Bloodlines - การกลับมาอีกครั้งของอีซาน อัลไกอีบ'
 published: 2025-11-04
-description: ""
+description: ''
 image: ./images/495374959_1286986266768750_6792107780109203820_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Dune: Imperium – Bloodlines - การกลับมาอีกครั้งของอีซาน อัลไกอีบ
 
 ตัวเสริม _แรก_ ของ Dune : Uprising มีของเล่นใหม่เป็นกองทหารประจำตัวของฝ่ายจักรพรรดิที่ชื่อซาดูคาร์ แล้วก็มี choam ไทล์ให้ซื้อเอาไว้เป็นลีลาออกท่าเพิ่ม 

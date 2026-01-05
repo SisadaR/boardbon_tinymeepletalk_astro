@@ -1,7 +1,7 @@
 ---
-title: "Tapestry: ถักทอสร้างชนชาติ"
+title: 'Tapestry: ถักทอสร้างชนชาติ'
 published: 2019-05-11
-description: ""
+description: ''
 image: ./images/74395419_2525589497556494_141023601896718336_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Tapestry: ถักทอสร้างชนชาติ #thought 
 blog link: https://wp.me/p7TSgy-2LK
 

@@ -1,14 +1,13 @@
 ---
-title: "พูดถึงงานแนว Board Game Con (vention)"
+title: พูดถึงงานแนว Board Game Con (vention)
 published: 2023-07-03
-description: ""
+description: ''
 image: ./images/484986119_1238994541567923_4709738274062274131_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 พูดถึงงานแนว Board Game Con (vention) 
 
 .

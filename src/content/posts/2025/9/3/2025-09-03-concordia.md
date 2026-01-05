@@ -1,7 +1,7 @@
 ---
 title: Concordia
 published: 2025-09-03
-description: ""
+description: ''
 image: ./images/P9020014.jpg
 tags:
   - review

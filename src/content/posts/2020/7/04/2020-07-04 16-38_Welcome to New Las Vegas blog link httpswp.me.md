@@ -1,7 +1,7 @@
 ---
-title: "Welcome to New Las Vegas"
+title: Welcome to New Las Vegas
 published: 2020-04-07
-description: ""
+description: ''
 image: ./images/83598674_3093405637441541_3316283131887936475_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Welcome to New Las Vegas #bite_size
 blog link: https://wp.me/p7TSgy-2Tp
 

@@ -1,14 +1,13 @@
 ---
-title: "[Short Rule Overview + Bon]"
+title: '[Short Rule Overview + Bon]'
 published: 2016-25-08
-description: ""
+description: ''
 image: ./images/pic2896407.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 [Short Rule Overview + Bon]
 เขียนตอนพึ่งอ่านรูลจบ ยังไม่ได้เล่นและเกมยังไม่ออกนะครับ :)
 

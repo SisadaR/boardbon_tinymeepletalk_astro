@@ -1,7 +1,7 @@
 ---
-title: "Trismegistus: The Ultimate Formula"
+title: 'Trismegistus: The Ultimate Formula'
 published: 2019-17-11
-description: ""
+description: ''
 image: ./images/75450069_2553367184778725_4934160946219188224_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Trismegistus: The Ultimate Formula #thought #first_impression 
 blog link: https://wp.me/p7TSgy-2ME
 

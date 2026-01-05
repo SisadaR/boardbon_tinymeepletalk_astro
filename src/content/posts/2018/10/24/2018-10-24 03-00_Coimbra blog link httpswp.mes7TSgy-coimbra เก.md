@@ -1,7 +1,7 @@
 ---
-title: "Coimbra"
+title: Coimbra
 published: 2018-24-10
-description: ""
+description: ''
 image: ./images/44658272_1887336251381825_1597541144768544768_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Coimbra #thought #first_impression
 blog link : https://wp.me/s7TSgy-coimbra
  

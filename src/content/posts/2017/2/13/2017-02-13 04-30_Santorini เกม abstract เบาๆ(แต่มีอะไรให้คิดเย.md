@@ -1,7 +1,8 @@
 ---
-title: "Santorini เกม abstract เบาๆ(แต่มีอะไรให้คิดเยอะ) ที่เล่นแล้วสนุกกว่าที่คาดไว้เยอะมาก ค่อนข้างประทับใจ"
+title: Santorini เกม abstract เบาๆ(แต่มีอะไรให้คิดเยอะ) ที่เล่นแล้วสนุกกว่าที่คาดไว้เยอะมาก
+  ค่อนข้างประทับใจ
 published: 2017-13-02
-description: ""
+description: ''
 image: ./images/512740726_24005992219089578_3844753964875244273_n.jpg
 tags:
   - archived
@@ -9,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #thought Santorini เกม abstract เบาๆ(แต่มีอะไรให้คิดเยอะ) ที่เล่นแล้วสนุกกว่าที่คาดไว้เยอะมาก ค่อนข้างประทับใจ 
  
  

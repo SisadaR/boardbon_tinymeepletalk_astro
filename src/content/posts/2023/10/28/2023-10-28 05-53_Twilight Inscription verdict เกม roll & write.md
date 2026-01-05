@@ -1,7 +1,7 @@
 ---
-title: "Twilight Inscription"
+title: Twilight Inscription
 published: 2023-28-10
-description: ""
+description: ''
 image: ./images/488644856_1253193810147996_5857702273601412977_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Twilight Inscription #first_impression #bite_size 
 
 verdict : เกม roll & write ที่เล่นแล้ว epic ดั่งคำโปรย แถมฟีล 4X มาหนักกว่าบางเกมที่โปรโมตตัวเองว่า 4X อี๊กกกกกก 

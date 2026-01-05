@@ -1,7 +1,7 @@
 ---
-title: "Black Angel"
+title: Black Angel
 published: 2019-10-10
-description: ""
+description: ''
 image: ./images/72077376_2467962523319192_703343105658585088_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Black Angel #thought
 blog link: https://wp.me/p7TSgy-2Jy
 

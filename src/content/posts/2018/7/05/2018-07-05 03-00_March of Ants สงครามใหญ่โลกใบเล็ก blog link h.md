@@ -1,7 +1,7 @@
 ---
-title: "March of Ants: สงครามใหญ่โลกใบเล็ก"
+title: 'March of Ants: สงครามใหญ่โลกใบเล็ก'
 published: 2018-05-07
-description: ""
+description: ''
 image: ./images/36654613_1725393307576121_5598812632833327104_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 March of Ants: สงครามใหญ่โลกใบเล็ก #thought #first_impression
 blog link: https://wp.me/p7TSgy-2yY
  

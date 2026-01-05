@@ -1,14 +1,13 @@
 ---
-title: "หอคอยแมววววววววววว - Cat and the Tower"
+title: หอคอยแมววววววววววว - Cat and the Tower
 published: 2024-20-10
-description: ""
+description: ''
 image: ./images/491114032_1266246662176044_4311368740024619427_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 หอคอยแมววววววววววว - Cat and the Tower
 
 เกมแนวช่วยกันเล่นที่เราจะต้องมาช่วยกันต่อหอคอยให้สูงขึ้นไปพร้อมๆกับช่วยให้บรรดาน้องแมวของเราได้อยู่ตามเงื่อนไขที่กำหนดเพื่อทำคะแนน

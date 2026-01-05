@@ -1,14 +1,13 @@
 ---
-title: "Game of the Year (Jogo do Ano) Spiel Portugal 2017 - Nominees"
+title: Game of the Year (Jogo do Ano) Spiel Portugal 2017 - Nominees
 published: 2017-22-06
-description: ""
+description: ''
 image: ./images/512442643_24015687484786718_1708869388358524637_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Game of the Year (Jogo do Ano) Spiel Portugal 2017 - Nominees
 
 Spiel Portugal : เป็นรางวัลที่เน้นเกมสำหรับผู้เล่นสาย 'เกมเมอร์' เป็นหลัก ไม่เหมือนกับ Spiel des Jahres ที่เน้นหาเกมสำหรับ 'ครอบครัว' หรือ Kennerspiel des Jahres ที่แม้เกมจะซับซ้อนขึ้นแต่ก็มักจะยังไม่ 'หนัก' พอสำหรับผู้เล่นที่ชอบใช้ความคิดเยอะๆ

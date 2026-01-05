@@ -1,7 +1,8 @@
 ---
-title: "มีสองข่าวอันแรกคือ Dilluvia Project จะออกตัว second edition ในปี 2018 โดยค่าย TMG ส่วนอันที่สองคือ Dominant Species 5th print ก็จะออกในช่วงต้นปี 2018"
+title: มีสองข่าวอันแรกคือ Dilluvia Project จะออกตัว second edition ในปี 2018 โดยค่าย
+  TMG ส่วนอันที่สองคือ Dominant Species 5th print ก็จะออกในช่วงต้นปี 2018
 published: 2017-03-10
-description: ""
+description: ''
 image: ./images/510544168_24022870284068438_6419506572280117367_n.jpg
 tags:
   - archived
@@ -9,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #news มีสองข่าวอันแรกคือ Dilluvia Project จะออกตัว second edition ในปี 2018 โดยค่าย TMG ส่วนอันที่สองคือ Dominant Species 5th print ก็จะออกในช่วงต้นปี 2018 
  
  

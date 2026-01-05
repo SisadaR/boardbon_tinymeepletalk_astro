@@ -1,13 +1,12 @@
 ---
-title: "เมื่อวานไปเล่นเกมที่ Rabbit Hole Board Games Party มาครับ"
+title: เมื่อวานไปเล่นเกมที่ Rabbit Hole Board Games Party มาครับ
 published: 2016-13-11
-description: ""
+description: ''
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 เมื่อวานไปเล่นเกมที่ Rabbit Hole Board Games Party มาครับ
 
 ออกตัวก่อนว่า ปกติผมไม่ได้ไปเล่นตามร้านบอร์ดเกมมานานล่ะเพราะมีกลุ่มเล่นประจำกันตามบ้านอยู่แล้ว แต่พอดีอยากลองซักหน่อย (จริงๆจะบอกว่าไม่ได้เล่นร้านเกมก็ไม่ถูกซะทีเดียว เพราะในกลุ่มก็ใช้วิธีเช่าเหมาชั้นร้านอื่นทุกวันศุกร์ด้วย)

@@ -1,7 +1,7 @@
 ---
-title: "The Golden Age"
+title: The Golden Age
 published: 2019-26-03
-description: ""
+description: ''
 image: ./images/54523820_2116199138495534_2710945870760640512_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Golden Age #thought
 blog link: https://wp.me/p7TSgy-2EK
 

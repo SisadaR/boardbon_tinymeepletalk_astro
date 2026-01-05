@@ -1,7 +1,7 @@
 ---
 title: Arkwright Anniversary Edition
 published: 2025-11-16
-description: ""
+description: ''
 image: ./images/PB150138.jpg
 tags:
   - review

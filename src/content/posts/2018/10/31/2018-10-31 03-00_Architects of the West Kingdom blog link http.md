@@ -1,7 +1,7 @@
 ---
-title: "Architects of the West Kingdom"
+title: Architects of the West Kingdom
 published: 2018-31-10
-description: ""
+description: ''
 image: ./images/45013157_1898557346926382_5761799129818726400_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Architects of the West Kingdom #thought
 blog link: https://wp.me/p7TSgy-2B6
  

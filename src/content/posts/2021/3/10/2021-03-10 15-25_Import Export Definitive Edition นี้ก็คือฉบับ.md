@@ -1,14 +1,15 @@
 ---
-title: "Import / Export: Definitive Edition นี้ก็คือฉบับ deluxe ของเกม Import/Export ที่เคยเขียนไว้นานล่ะ อันใหม่ทำมาดูพรีเมี่ยมแบบใส่ใจดี กระดาษหนา การ์ดมีพิมพ์นูนดิ้นลาย เรือนี้ก็มาเป็นแผ่นเหล็กเลย"
+title: 'Import / Export: Definitive Edition นี้ก็คือฉบับ deluxe ของเกม Import/Export
+  ที่เคยเขียนไว้นานล่ะ อันใหม่ทำมาดูพรีเมี่ยมแบบใส่ใจดี กระดาษหนา การ์ดมีพิมพ์นูนดิ้นลาย
+  เรือนี้ก็มาเป็นแผ่นเหล็กเลย'
 published: 2021-10-03
-description: ""
+description: ''
 image: ./images/157717009_3800661376715960_3155734573215965114_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Import / Export: Definitive Edition นี้ก็คือฉบับ deluxe ของเกม Import/Export ที่เคยเขียนไว้นานล่ะ อันใหม่ทำมาดูพรีเมี่ยมแบบใส่ใจดี กระดาษหนา การ์ดมีพิมพ์นูนดิ้นลาย เรือนี้ก็มาเป็นแผ่นเหล็กเลย
 
 เป็นเกมสไตล์ Thinky filler (ที่ดันเล่นนานหน่อย) หลายคนถ้าไม่คุ้นกับระบบ Lead / Follow แบบทำ engine ของ Glory To Rome / Food Truck Champion มาก่อนรับประกันความงง แต่ถ้าเก็ทแล้วก็จะสนุกดีนะ

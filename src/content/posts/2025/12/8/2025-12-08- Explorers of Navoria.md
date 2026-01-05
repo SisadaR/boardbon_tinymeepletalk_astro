@@ -1,7 +1,7 @@
 ---
 title: Explorers of Navoria
 published: 2025-12-08
-description: ""
+description: ''
 image: ./images/PC070161.jpg
 tags:
   - กบเฉย

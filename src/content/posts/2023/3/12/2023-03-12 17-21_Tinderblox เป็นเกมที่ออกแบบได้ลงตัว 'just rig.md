@@ -1,14 +1,13 @@
 ---
-title: "Tinderblox เป็นเกมที่ออกแบบได้ลงตัว 'just right' มากๆ ที่ไม่ได้เจอมาซักพักแล้ว"
+title: Tinderblox เป็นเกมที่ออกแบบได้ลงตัว 'just right' มากๆ ที่ไม่ได้เจอมาซักพักแล้ว
 published: 2023-12-03
-description: ""
+description: ''
 image: ./images/485405655_1239208938213150_2469216480439115847_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Tinderblox เป็นเกมที่ออกแบบได้ลงตัว 'just right' มากๆ ที่ไม่ได้เจอมาซักพักแล้ว
 
 .

@@ -1,7 +1,7 @@
 ---
-title: "Tokkuri Taking"
+title: Tokkuri Taking
 published: 2025-17-06
-description: ""
+description: ''
 image: ./images/508282534_1318971723570204_2257216764165630102_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Tokkuri Taking #bite_size 
 
 การ์ดเกมง่ายๆ ที่อย่าพึ่งหันหน้าหนีเพราะเล่นสนุกธีมกาวๆจากญี่ปุ่นที่เหล่าไดโนเสาร์บอกเดี๋ยวโลกจะแตกแล้วเรามีเมาหัวราน้ำกันก่อนละกัน

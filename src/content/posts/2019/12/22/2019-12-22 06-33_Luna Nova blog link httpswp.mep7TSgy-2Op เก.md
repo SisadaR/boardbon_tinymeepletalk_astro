@@ -1,7 +1,7 @@
 ---
-title: "Luna Nova"
+title: Luna Nova
 published: 2019-22-12
-description: ""
+description: ''
 image: ./images/80030975_2635251189923657_5641920137251520512_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Luna Nova #bite_size
 blog link: https://wp.me/p7TSgy-2Op
  

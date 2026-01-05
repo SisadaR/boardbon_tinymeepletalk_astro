@@ -1,14 +1,13 @@
 ---
-title: "เห้ยของดีย์! The Map of Board Games"
+title: เห้ยของดีย์! The Map of Board Games
 published: 2024-15-11
-description: ""
+description: ''
 image: ./images/491983403_1267293058738071_5466012703147511474_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 เห้ยของดีย์! The Map of Board Games 
 
 ช่อง YouTube - Domain of Science เป็นช่องที่พยายามทำ 'แผนที่' องก์ความรู้หรือจัดแบ่งหมวดหมู่ของต่างๆในรูปแบบที่ย่อยง่าย รอบนี้เค้ามาแบ่งกลุ่มให้กับ 'เกมกระดาน' 

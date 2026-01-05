@@ -1,7 +1,7 @@
 ---
-title: "Magnete: The First City"
+title: 'Magnete: The First City'
 published: 2021-08-12
-description: ""
+description: ''
 image: ./images/476781854_9293062870809089_5659763210621968570_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Magnete: The First City  #bite_size #first_impression
 
 ▪️ เกมยูโรระดับกลางที่จะให้เรามาพัฒนาที่ดิน สร้างสิ่งปลูกสร้าง หาคนมาเช่าซื้อแล้วก็ขายทำกำไรงามๆ แล้ววนลูป ผลงานแรกของ James Naylor

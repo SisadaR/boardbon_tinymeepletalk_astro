@@ -1,14 +1,13 @@
 ---
-title: "Flower Shop"
+title: Flower Shop
 published: 2022-18-12
-description: ""
+description: ''
 image: ./images/482873316_1231620415638669_8124982788425885662_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Flower Shop
 
 เป็นอีกเกมที่ได้ลองในงาน TIBM - ตลาดนัดบอร์ดเกมอินดี้ แต่จริงๆผมเคยได้เล่นตอนเป็นกรรมการรับเชิญในงานกล่องน้อยอร่อยมากมาก่อนทีนึงละ

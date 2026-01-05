@@ -1,14 +1,13 @@
 ---
-title: "Cyberpunk 2077: The Board Game (prototype copy, first impression)"
+title: 'Cyberpunk 2077: The Board Game (prototype copy, first impression)'
 published: 2025-19-04
-description: ""
+description: ''
 image: ./images/498988020_1293915359409174_233467579184893369_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Cyberpunk 2077: The Board Game (prototype copy, first impression)
 
 ผมเล่น Cyberpunk 2077: The Board Game ที่คนนำเข้าบอกว่ามีแค่กล่องเดียวใน Southeast Asia ( ณ ตอนที่เขียน ส่วนโม้ไหมม่ายรู้นะ ฮา ) เลยจะมาเล่าให้ฟังละว่าลองไปแตะๆดูแล้วเป็นยังไง

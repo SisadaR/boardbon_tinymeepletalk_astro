@@ -1,7 +1,7 @@
 ---
-title: "Azul: Summer Pavilion"
+title: 'Azul: Summer Pavilion'
 published: 2020-08-07
-description: ""
+description: ''
 image: ./images/107912978_3101626419952796_5255052046883086154_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Azul: Summer Pavilion  #bite_size
 
 ▪️ เกมในตระกูล Azul ลำดับที่สาม ที่กลับมาปูกระเบื้องเหมือนเดิมหลังจากไปทำกระจกสีในภาคสองมา ซึ่งถ้าเทียบกับตัวแรกแล้วผมคิดว่าเป็นการปรับรสใหม่ที่ละมุนขึ้น 

@@ -1,7 +1,7 @@
 ---
-title: "Inside Job"
+title: Inside Job
 published: 2023-02-10
-description: ""
+description: ''
 image: ./images/488476081_1251736796960364_8085600213051322094_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Inside Job #first_impression 
 
 เกมจั่วหัวไว้ว่าเป็น The Mostly Cooperative Trick-Taking เพราะว่าในบรรดาสายลับที่มาร่วมทำภาระกิจนั้นจะมีอยู่หนึ่งคนที่ไม่อยากให้ทุกคนประสบความสำเร็จ!

@@ -1,7 +1,7 @@
 ---
-title: "Imperial Struggle"
+title: Imperial Struggle
 published: 2020-16-07
-description: ""
+description: ''
 image: ./images/108185812_3124509867664451_6604620025048279519_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Imperial Struggle #thought #first_impression
 blog: https://wp.me/p7TSgy-2TR
 

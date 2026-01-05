@@ -1,14 +1,13 @@
 ---
-title: "Cyberpunk 2077: Gangs of Night City"
+title: 'Cyberpunk 2077: Gangs of Night City'
 published: 2024-22-05
-description: ""
+description: ''
 image: ./images/489830561_1261038682696842_4349011144609609032_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Cyberpunk 2077: Gangs of Night City
 
 เกมจาก IP ดังที่จะนำเราเข้าสู่การต่อสู้แย่งชิงพื้นที่ระหว่างแก๊งอาชญากรในโลกยุค Cyberpunk

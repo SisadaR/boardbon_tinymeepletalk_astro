@@ -1,7 +1,7 @@
 ---
-title: "Eclipse กำลังจะออก Second Edition ในปีหน้า (2018)"
+title: Eclipse กำลังจะออก Second Edition ในปีหน้า (2018)
 published: 2017-24-10
-description: ""
+description: ''
 image: ./images/511952810_24024276487261151_712712668192202651_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #news Eclipse กำลังจะออก Second Edition ในปีหน้า (2018)
  
  

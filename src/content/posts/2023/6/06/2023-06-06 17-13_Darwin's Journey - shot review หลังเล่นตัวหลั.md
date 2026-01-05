@@ -1,14 +1,13 @@
 ---
-title: "Darwin's Journey - shot review หลังเล่นตัวหลักไปรอบเดียว : เอา GOTY ฉันไปเลยละกัน"
+title: 'Darwin''s Journey - shot review หลังเล่นตัวหลักไปรอบเดียว : เอา GOTY ฉันไปเลยละกัน'
 published: 2023-06-06
-description: ""
+description: ''
 image: ./images/486960677_1245669387567105_34017284365503488_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Darwin's Journey - shot review หลังเล่นตัวหลักไปรอบเดียว : เอา GOTY ฉันไปเลยละกัน
 
 .

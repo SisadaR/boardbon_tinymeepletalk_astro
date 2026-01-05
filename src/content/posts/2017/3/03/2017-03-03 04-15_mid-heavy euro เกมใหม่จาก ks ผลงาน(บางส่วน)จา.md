@@ -1,7 +1,8 @@
 ---
-title: "mid-heavy euro เกมใหม่จาก ks ผลงาน(บางส่วน)จากทีมสร้าง Trickerion เกมนี้เป็น worker placement เรียบง่ายแต่ลีลาเยอะใช้ได้"
+title: mid-heavy euro เกมใหม่จาก ks ผลงาน(บางส่วน)จากทีมสร้าง Trickerion เกมนี้เป็น
+  worker placement เรียบง่ายแต่ลีลาเยอะใช้ได้
 published: 2017-03-03
-description: ""
+description: ''
 image: ./images/dsc03401.jpg
 tags:
   - archived
@@ -10,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #friday_review mid-heavy euro เกมใหม่จาก ks ผลงาน(บางส่วน)จากทีมสร้าง Trickerion เกมนี้เป็น worker placement เรียบง่ายแต่ลีลาเยอะใช้ได้
 
 เทียบกับบาง #thought แล้วเกมนี้เขียนสั้นกว่าอีก แต่เกมสนุกนะ :)

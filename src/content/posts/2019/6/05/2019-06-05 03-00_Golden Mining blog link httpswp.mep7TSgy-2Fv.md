@@ -1,7 +1,7 @@
 ---
-title: "Golden Mining"
+title: Golden Mining
 published: 2019-05-06
-description: ""
+description: ''
 image: ./images/61839556_2233219053460208_604198565929025536_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Golden Mining #thought #first_impression #prototype
 blog link: https://wp.me/p7TSgy-2Fv
  

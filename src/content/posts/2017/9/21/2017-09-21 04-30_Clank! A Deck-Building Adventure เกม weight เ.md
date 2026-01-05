@@ -1,7 +1,8 @@
 ---
-title: "Clank!: A Deck-Building Adventure เกม weight เบาที่เอาระบบเกมแบบ deck building มาใส่ลูกเล่นการเดินทางบนกระดานเข้าไป ธีมคือเราต้องไปบุกถ้ำมังกรเพื่อขนสมบัติออกมา"
+title: 'Clank!: A Deck-Building Adventure เกม weight เบาที่เอาระบบเกมแบบ deck building
+  มาใส่ลูกเล่นการเดินทางบนกระดานเข้าไป ธีมคือเราต้องไปบุกถ้ำมังกรเพื่อขนสมบัติออกมา'
 published: 2017-21-09
-description: ""
+description: ''
 image: ./images/510971648_24017493667939433_8833761034209972350_n.jpg
 tags:
   - archived
@@ -10,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #thought #first_impression Clank!: A Deck-Building Adventure  เกม weight เบาที่เอาระบบเกมแบบ deck building มาใส่ลูกเล่นการเดินทางบนกระดานเข้าไป ธีมคือเราต้องไปบุกถ้ำมังกรเพื่อขนสมบัติออกมา
  
  

@@ -1,7 +1,7 @@
 ---
-title: "BGG World’s jargon is so f…….g [read FROG] weird Pt.2"
+title: BGG World’s jargon is so f…….g [read FROG] weird Pt.2
 published: 2020-30-05
-description: ""
+description: ''
 image: ./images/100694737_2997619907020115_2614887690235019264_n.png
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 BGG World’s jargon is so f…….g [read FROG] weird Pt.2
 
 ▪️ คุณเคยคิดไหมว่านิยามเกมสำหรับครอบครัว (Family) เกมมันน่าจะเป็นอย่างไร พูดกันหลวมหน่อยก็คือเกมที่มี 'ภาพ' ของพ่อแม่ลูกนั่งล้อมวงเล่นเกมบนโต๊ะอาหารหลังกินข้าว

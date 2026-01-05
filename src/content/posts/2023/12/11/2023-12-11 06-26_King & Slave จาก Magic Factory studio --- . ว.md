@@ -1,7 +1,7 @@
 ---
-title: "King & Slave จาก Magic Factory studio"
+title: King & Slave จาก Magic Factory studio
 published: 2023-11-12
-description: ""
+description: ''
 image: ./images/488871541_1256028339864543_8361184169415209820_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 King & Slave จาก Magic Factory studio  #bite_size 
 
 ---

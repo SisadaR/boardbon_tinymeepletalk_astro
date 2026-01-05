@@ -1,14 +1,15 @@
 ---
-title: "เกม WIP (Work In Progress) เข้าเรดาร์กบๆรอบนี้คือเกม Pax Luminous ซึ่งไม่ได้เกี่ยวกับเกม Pax Series ของค่าย Sierra Madre Games แต่ว่ามีความตั้งใจที่จะทำเกมสไตล์เดียวกันออกมา (เรียกว่า Pax Genre ก็ได้มั้ง อยากได้อีกเย๊อเยอะะะ)"
+title: เกม WIP (Work In Progress) เข้าเรดาร์กบๆรอบนี้คือเกม Pax Luminous ซึ่งไม่ได้เกี่ยวกับเกม
+  Pax Series ของค่าย Sierra Madre Games แต่ว่ามีความตั้งใจที่จะทำเกมสไตล์เดียวกันออกมา
+  (เรียกว่า Pax Genre ก็ได้มั้ง อยากได้อีกเย๊อเยอะะะ)
 published: 2021-03-09
-description: ""
+description: ''
 image: ./images/bgg_opengraph.png
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 เกม WIP (Work In Progress) เข้าเรดาร์กบๆรอบนี้คือเกม Pax Luminous ซึ่งไม่ได้เกี่ยวกับเกม Pax Series ของค่าย Sierra Madre Games แต่ว่ามีความตั้งใจที่จะทำเกมสไตล์เดียวกันออกมา (เรียกว่า Pax Genre ก็ได้มั้ง อยากได้อีกเย๊อเยอะะะ)
 
 เกมนี้เดิมชื่อ Emissary (อยู่บนดาวอังคารโน้นเลย กระชากธีมมาก) setting จะอยู่ในยุคเรืองปัญญา (Age of Enlightenment) โดย setting อยู่ในประเทศบาวาเรียที่ตอนนั้นยังถูกปกครองโดยจักรวรรดิโรมันอันศักดิ์สิทธิ์ (Holy Roman Empire) ที่เราต้องมาต่อสู้ว่าจะอยู่ในฝั่ง HRE หรือสนับสนุนแนวคิดเรืองปัญญาแยกตัวออกมา

@@ -1,14 +1,13 @@
 ---
-title: "Kutná Hora: The City of Silver"
+title: 'Kutná Hora: The City of Silver'
 published: 2024-30-05
-description: ""
+description: ''
 image: ./images/490111311_1261149992685711_6408935702247229266_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Kutná Hora: The City of Silver 
 
 เกมเล่าเรื่องของเหมืองเงินที่เป็นแหล่งแร่เงินสำคัญของยุโรป ที่ศตวรรษที่ 14 แร่เงินของยุโรปกว่าหนี่งในสามมาจากเหมืองแห่งนี้

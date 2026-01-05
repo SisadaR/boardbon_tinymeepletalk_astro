@@ -1,7 +1,7 @@
 ---
-title: "Pax Pamir: 2nd Edition"
+title: 'Pax Pamir: 2nd Edition'
 published: 2019-23-07
-description: ""
+description: ''
 image: ./images/67056798_2319678931480886_2386243212151881728_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Pax Pamir: 2nd Edition #thought
 blog link: https://wp.me/p7TSgy-2Gx
 

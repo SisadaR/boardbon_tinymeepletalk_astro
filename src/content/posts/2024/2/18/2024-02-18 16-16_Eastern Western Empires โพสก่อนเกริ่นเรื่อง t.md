@@ -1,14 +1,13 @@
 ---
-title: "Eastern / Western Empires"
+title: Eastern / Western Empires
 published: 2024-18-02
-description: ""
+description: ''
 image: ./images/428719730_1637273950139660_3814342238663743495_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Eastern / Western Empires
 
 โพสก่อนเกริ่นเรื่อง timeline ของเกมที่เรียกได้วาร์ปมาจาก 44 ปีโน้นนนนไปแล้ว ในโพสนี้ก็จะมาเล่าถึงตัวเกมนะ 

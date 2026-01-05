@@ -1,7 +1,7 @@
 ---
-title: "[Short Rule Overview]"
+title: '[Short Rule Overview]'
 published: 2016-22-08
-description: ""
+description: ''
 image: ./images/pic3145313.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 [Short Rule Overview]
 พึ่งอ่านรูลจบ....... Key To The City - London เป็นเกมที่ประกาศตัวชัดว่าเป็น streamlined (ตัด/ปรับกฎ ให้กระชับขึ้น) version ของ Keyflower
 

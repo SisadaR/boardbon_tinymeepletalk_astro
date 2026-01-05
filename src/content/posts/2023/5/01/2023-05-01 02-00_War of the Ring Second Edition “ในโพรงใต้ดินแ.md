@@ -1,7 +1,7 @@
 ---
-title: "War of the Ring: Second Edition"
+title: 'War of the Ring: Second Edition'
 published: 2023-01-05
-description: ""
+description: ''
 image: ./images/485984989_1242056471261730_4358428573583285480_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 War of the Ring: Second Edition
 
 “ในโพรงใต้ดินแห่งหนึ่ง มีฮอบบิทอาศัยอยู่”

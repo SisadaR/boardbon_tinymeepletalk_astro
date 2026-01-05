@@ -1,14 +1,13 @@
 ---
-title: "Bus & Stop - การ์ดเกม set collection เล่นง่ายๆเบาๆจาก Saashi & Saashi"
+title: Bus & Stop - การ์ดเกม set collection เล่นง่ายๆเบาๆจาก Saashi & Saashi
 published: 2024-02-07
-description: ""
+description: ''
 image: ./images/489834485_1262234969243880_886512467480457975_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Bus & Stop - การ์ดเกม set collection เล่นง่ายๆเบาๆจาก Saashi & Saashi
 
 ---

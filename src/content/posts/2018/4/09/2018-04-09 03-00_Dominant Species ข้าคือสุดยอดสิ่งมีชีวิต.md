@@ -1,7 +1,7 @@
 ---
-title: "Dominant Species: ข้าคือสุดยอดสิ่งมีชีวิต"
+title: 'Dominant Species: ข้าคือสุดยอดสิ่งมีชีวิต'
 published: 2018-09-04
-description: ""
+description: ''
 image: ./images/513039657_24035016379520495_5205345246052050979_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Dominant Species: ข้าคือสุดยอดสิ่งมีชีวิต #thought
 blog link: https://wp.me/p7TSgy-2x3
  

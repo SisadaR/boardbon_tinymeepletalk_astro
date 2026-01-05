@@ -1,14 +1,13 @@
 ---
-title: "Moody Bear Kingdom"
+title: Moody Bear Kingdom
 published: 2023-12-02
-description: ""
+description: ''
 image: ./images/480766992_1235797211887656_8325871296479615345_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Moody Bear Kingdom
 
 .

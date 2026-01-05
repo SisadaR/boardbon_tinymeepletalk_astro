@@ -1,7 +1,7 @@
 ---
-title: "City of the Big Shoulders: บริหารหุ้น ฟื้นเศรษฐกิจ"
+title: 'City of the Big Shoulders: บริหารหุ้น ฟื้นเศรษฐกิจ'
 published: 2019-02-09
-description: ""
+description: ''
 image: ./images/70171352_2394971227284989_4865630147396501504_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 City of the Big Shoulders: บริหารหุ้น ฟื้นเศรษฐกิจ #thought
 blog link: https://wp.me/p7TSgy-2HV
 

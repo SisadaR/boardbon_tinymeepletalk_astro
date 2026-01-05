@@ -1,7 +1,8 @@
 ---
-title: "เกม resource conversion + engine building ใหม่ถอดด้ามส่งตรงจาก Essen 16 ถ้าพูดให้สั้นๆผมคิดว่ามันคล้าย mesh up ของ Agricola + Ora et Labora + Istanbul นะ"
+title: เกม resource conversion + engine building ใหม่ถอดด้ามส่งตรงจาก Essen 16 ถ้าพูดให้สั้นๆผมคิดว่ามันคล้าย
+  mesh up ของ Agricola + Ora et Labora + Istanbul นะ
 published: 2016-18-11
-description: ""
+description: ''
 image: ./images/dsc022561.jpg
 tags:
   - archived
@@ -9,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #friday_review เกม resource conversion + engine building ใหม่ถอดด้ามส่งตรงจาก Essen 16 ถ้าพูดให้สั้นๆผมคิดว่ามันคล้าย mesh up ของ Agricola + Ora et Labora + Istanbul นะ
 
 ถ้าเขียนแล้วอ่านไม่รู้เรื่อง หรืออยากติชมอย่างไรฝากบอกกันบ้างนะครับ >__<

@@ -1,14 +1,13 @@
 ---
-title: "Arcs: ว่าที่ Game of The Year......... เหรอ?"
+title: 'Arcs: ว่าที่ Game of The Year......... เหรอ?'
 published: 2024-31-08
-description: ""
+description: ''
 image: ./images/490565907_1264809712319739_8585629375694462851_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Arcs: ว่าที่ Game of The Year......... เหรอ? 
 
 link - https://www.youtube.com/watch?v=uSCcncrAECQ

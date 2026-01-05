@@ -1,7 +1,9 @@
 ---
-title: "ยังอยู่กับ GameTek: The Math and Science of Gaming เช่นเคย เป็นหนังสือเกี่ยวกับการออกแบบเกมกระดานที่เกิดจากการรวมเอาส่วนที่น่าสนใจที่ Geoff Engelstein (คนเขียน) เคยพูดไว้ในโชว์ของ Dice Tower รอบนี้ผมขอยกบทที่พูดถึง 'เลขสามเหลี่ยม' (Triangular Numbers)"
+title: 'ยังอยู่กับ GameTek: The Math and Science of Gaming เช่นเคย เป็นหนังสือเกี่ยวกับการออกแบบเกมกระดานที่เกิดจากการรวมเอาส่วนที่น่าสนใจที่
+  Geoff Engelstein (คนเขียน) เคยพูดไว้ในโชว์ของ Dice Tower รอบนี้ผมขอยกบทที่พูดถึง
+  ''เลขสามเหลี่ยม'' (Triangular Numbers)'
 published: 2017-27-11
-description: ""
+description: ''
 image: ./images/512327340_24025666597122140_317999738753134419_n.jpg
 tags:
   - archived
@@ -9,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #talk ยังอยู่กับ GameTek: The Math and Science of Gaming เช่นเคย เป็นหนังสือเกี่ยวกับการออกแบบเกมกระดานที่เกิดจากการรวมเอาส่วนที่น่าสนใจที่ Geoff Engelstein (คนเขียน) เคยพูดไว้ในโชว์ของ Dice Tower รอบนี้ผมขอยกบทที่พูดถึง 'เลขสามเหลี่ยม' (Triangular Numbers)
  
  

@@ -1,7 +1,7 @@
 ---
-title: "Peak Oil"
+title: Peak Oil
 published: 2018-17-10
-description: ""
+description: ''
 image: ./images/44093842_1878074192308031_5959180210241798144_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Peak Oil #though #first_impression
 blog link: https://wp.me/p7TSgy-2AS
  

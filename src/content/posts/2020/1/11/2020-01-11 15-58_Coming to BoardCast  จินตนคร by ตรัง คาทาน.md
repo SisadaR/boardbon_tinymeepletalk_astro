@@ -1,14 +1,13 @@
 ---
-title: "Coming to BoardCast"
+title: Coming to BoardCast
 published: 2020-11-01
-description: ""
+description: ''
 image: ./images/81732320_3093540630675425_6646570866765201408_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Coming to BoardCast
 
 ▪️ จินตนคร by ตรัง คาทาน บียอร์ดบอร์ดเกม Beyond Board by Trang Catan

@@ -1,7 +1,7 @@
 ---
-title: "Sky Team"
+title: Sky Team
 published: 2023-23-10
-description: ""
+description: ''
 image: ./images/489025604_1252899723510738_1609202061367014435_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Sky Team #bite_size #first_impression 
 
 verdict : เกมร่วมมือกันสำหรับ 2 คนเล่นไวจัด 15-20 นาที มีเอกลักษณ์ดี ใครมองหาเกมทรงแบบนี้ก็น่าลองมาก

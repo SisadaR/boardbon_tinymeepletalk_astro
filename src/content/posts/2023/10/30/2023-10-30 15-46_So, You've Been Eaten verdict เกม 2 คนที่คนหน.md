@@ -1,7 +1,7 @@
 ---
-title: "So, You've Been Eaten"
+title: So, You've Been Eaten
 published: 2023-30-10
-description: ""
+description: ''
 image: ./images/488362201_1253205816813462_4908330044270410248_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 So, You've Been Eaten #bite_size #first_impression 
 
 verdict : เกม 2 คนที่คนหนึ่งเป็นสัตว์ประหลาดยักษ์และอีกคนหนึ่งเป็นนักขุดที่จะมาทะลวงลำไส้ฝ่าเชื้อโรคเพื่อหาของมีค่าออกไปทำคะแนน เป็น asymmetric game ที่สนุกกว่าที่คิด

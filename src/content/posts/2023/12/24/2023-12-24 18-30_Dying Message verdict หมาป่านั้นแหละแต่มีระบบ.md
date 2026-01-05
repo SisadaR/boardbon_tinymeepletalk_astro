@@ -1,7 +1,7 @@
 ---
-title: "Dying Message"
+title: Dying Message
 published: 2023-24-12
-description: ""
+description: ''
 image: ./images/489012981_1256660293134681_7780796647414106926_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Dying Message #bite_size 
 
 verdict: หมาป่านั้นแหละแต่มีระบบลดการมโนกับตายแล้วเหงาด้วยกลไกบอกใบ้หลักฐานชี้ตัวคนร้าย 

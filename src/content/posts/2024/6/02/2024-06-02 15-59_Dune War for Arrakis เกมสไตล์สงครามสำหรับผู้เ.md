@@ -1,14 +1,13 @@
 ---
-title: "Dune: War for Arrakis"
+title: 'Dune: War for Arrakis'
 published: 2024-02-06
-description: ""
+description: ''
 image: ./images/490026247_1261260762674634_6423932279882755723_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Dune: War for Arrakis
 
 เกมสไตล์สงครามสำหรับผู้เล่น 2 คนยกพลมาตบตีกันเพื่อแย่งชิงความเป็นหนึ่งในดินแดนแห่งดูน โดยได้นักออกแบบ Francesco Nepitello ที่ทำ War of The Rings เกมที่ทำจาก Lord of The Rings ที่แฟนๆยกให้เป็นหนึ่งในเกมที่เล่าเรื่องราวของหนังสือ/นิยายได้ดีสุดๆ

@@ -1,7 +1,7 @@
 ---
-title: "Patch History: ปะชุนประวัติศาสตร์"
+title: 'Patch History: ปะชุนประวัติศาสตร์'
 published: 2019-17-04
-description: ""
+description: ''
 image: ./images/57039886_2151525824962865_4803879448371789824_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Patch History: ปะชุนประวัติศาสตร์ #thought
 blog link: https://boardnbon.wordpress.com/2019/04/17/patch-history-ปะชุนประวัติศาสตร์/ 
 

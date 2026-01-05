@@ -1,14 +1,13 @@
 ---
-title: "mini review: Tendays' Wood Coin"
+title: 'mini review: Tendays'' Wood Coin'
 published: 2022-10-12
-description: ""
+description: ''
 image: ./images/482808989_1230393769094667_6573543292327536793_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 mini review: Tendays' Wood Coin
 
 เป็นคำถามที่ผมอาจจะอยากรู้คนเดียวเพราะงั้นเลยซื้อมาให้หายคาใจ แต่เผื่อคนอื่นอยากรู้ด้วย อันนี้เทียบเหรียญ meeple sources เป็นหลักนะครับ

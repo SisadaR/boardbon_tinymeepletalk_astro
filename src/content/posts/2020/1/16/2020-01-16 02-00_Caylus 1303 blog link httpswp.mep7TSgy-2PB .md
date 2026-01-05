@@ -1,7 +1,7 @@
 ---
-title: "Caylus 1303"
+title: Caylus 1303
 published: 2020-16-01
-description: ""
+description: ''
 image: ./images/82602471_2690290247753084_5741326910504304640_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Caylus 1303 #thought
 blog link: https://wp.me/p7TSgy-2PB
  

@@ -1,7 +1,7 @@
 ---
-title: "Weather Machine"
+title: Weather Machine
 published: 2022-04-12
-description: ""
+description: ''
 image: ./images/481983210_1229809925819718_6704306900882621797_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Weather Machine #first_impression #bite_size
 
 เข้! งงเหลือหลายตอนแรกนึกว่าจะเผา....เสือกสนุกเฉย

@@ -1,7 +1,7 @@
 ---
-title: "Die Macher: Limited Edition ครั้งใหม่กับเกมกลคนเลือกตั้ง"
+title: 'Die Macher: Limited Edition ครั้งใหม่กับเกมกลคนเลือกตั้ง'
 published: 2020-03-06
-description: ""
+description: ''
 image: ./images/102406769_3008066339308805_6798630997014347776_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Die Macher: Limited Edition ครั้งใหม่กับเกมกลคนเลือกตั้ง #thought
 blog link: https://wp.me/p7TSgy-2Sk
 .

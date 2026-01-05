@@ -1,14 +1,13 @@
 ---
-title: "Long Shot: The Dice Game"
+title: 'Long Shot: The Dice Game'
 published: 2024-27-03
-description: ""
+description: ''
 image: ./images/490357870_1259497699517607_5412351744031374974_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Long Shot: The Dice Game
 
 เกมแนว roll & write ที่ให้เรามาร่วมลุ้นไปกับเหล่าม้าแข่งพร้อมกับบริหารความเป็นไปได้ในการเข้าชิงชัยของม้าแต่ละตัว 

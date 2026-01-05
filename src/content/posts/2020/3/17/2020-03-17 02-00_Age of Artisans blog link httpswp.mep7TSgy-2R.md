@@ -1,7 +1,7 @@
 ---
-title: "Age of Artisans"
+title: Age of Artisans
 published: 2020-17-03
-description: ""
+description: ''
 image: ./images/90442624_2823124334469674_1676049831224672256_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Age of Artisans #bite_size
 blog link: https://wp.me/p7TSgy-2Ri  
 .

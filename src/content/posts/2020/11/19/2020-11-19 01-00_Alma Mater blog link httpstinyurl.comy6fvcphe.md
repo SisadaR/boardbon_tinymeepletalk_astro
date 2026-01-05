@@ -1,7 +1,7 @@
 ---
-title: "Alma Mater"
+title: Alma Mater
 published: 2020-19-11
-description: ""
+description: ''
 image: ./images/125467444_3498705166911584_5672404590687438777_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Alma Mater #thought 
 blog link: https://tinyurl.com/y6fvcphe
 .

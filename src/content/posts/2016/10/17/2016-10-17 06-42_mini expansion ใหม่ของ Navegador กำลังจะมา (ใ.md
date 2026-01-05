@@ -1,14 +1,14 @@
 ---
-title: "mini expansion ใหม่ของ Navegador กำลังจะมา (ใน package มาพร้อมกับ mini expansion ของ Concordia ด้วย)"
+title: mini expansion ใหม่ของ Navegador กำลังจะมา (ใน package มาพร้อมกับ mini expansion
+  ของ Concordia ด้วย)
 published: 2016-17-10
-description: ""
+description: ''
 image: ./images/fb.png
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 mini expansion ใหม่ของ Navegador กำลังจะมา (ใน package มาพร้อมกับ mini expansion  ของ Concordia ด้วย)
 
 • ผมพึ่งรู้ว่าเกมนี้มัน OOP ขนาดที่คนต้องบินไปจัดจาก essen กันแล้ว(เข้าใจตอนนี้จะกำลังมี reprint ล่ะมั้ง)

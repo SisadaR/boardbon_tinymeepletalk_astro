@@ -1,7 +1,7 @@
 ---
-title: "Princess Jing"
+title: Princess Jing
 published: 2019-24-09
-description: ""
+description: ''
 image: ./images/70672481_2438456046269840_7284994729995927552_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Princess Jing #bite_size
 blog link: https://wp.me/p7TSgy-2IQ
  

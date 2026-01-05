@@ -1,7 +1,8 @@
 ---
-title: "Pax Transhumanity เกมใหม่ในซี่รี่ย์ Pax จากค่าย Sierra Madre Games รอบนี้เป็นผลงานของ Matt Eklund ( ลูกชาย Phil Eklund และเป็นนักออกแบบร่วมใน Pax Renaissance )"
+title: Pax Transhumanity เกมใหม่ในซี่รี่ย์ Pax จากค่าย Sierra Madre Games รอบนี้เป็นผลงานของ
+  Matt Eklund ( ลูกชาย Phil Eklund และเป็นนักออกแบบร่วมใน Pax Renaissance )
 published: 2018-08-08
-description: ""
+description: ''
 image: ./images/pic4250726.jpg
 tags:
   - archived
@@ -9,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #news Pax Transhumanity เกมใหม่ในซี่รี่ย์ Pax จากค่าย Sierra Madre Games รอบนี้เป็นผลงานของ Matt Eklund ( ลูกชาย Phil Eklund และเป็นนักออกแบบร่วมใน Pax Renaissance )
  
  

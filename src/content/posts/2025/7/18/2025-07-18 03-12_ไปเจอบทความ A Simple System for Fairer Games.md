@@ -1,14 +1,13 @@
 ---
-title: "ไปเจอบทความ A Simple System for Fairer Games Between Kids & Adults ใน bgg มาแล้วคิดว่าน่าสนใจดีก็เลยอยากจะเอามาเล่าให้ฟังต่อ"
+title: ไปเจอบทความ A Simple System for Fairer Games Between Kids & Adults ใน bgg มาแล้วคิดว่าน่าสนใจดีก็เลยอยากจะเอามาเล่าให้ฟังต่อ
 published: 2025-18-07
-description: ""
+description: ''
 image: ./images/520288241_1346008214199888_7099437065798690022_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 ไปเจอบทความ A Simple System for Fairer Games Between Kids & Adults ใน bgg มาแล้วคิดว่าน่าสนใจดีก็เลยอยากจะเอามาเล่าให้ฟังต่อ
 
 ซึ่งสารตั้งต้นจริงๆก็น่าจะเป็น "เราควรจะยอมให้เด็กชนะไหม?" ผมเองก็ไม่ได้เป็นผู้เชียวชาญอะไรก็เอาเป็นว่าแล้วแต่ว่าแต่ละคนจะเชื่อในแนวคิดไหนละกัน แต่แนวทางของข้อเขียนต้นทางจะใช้ทริคแบบนี้

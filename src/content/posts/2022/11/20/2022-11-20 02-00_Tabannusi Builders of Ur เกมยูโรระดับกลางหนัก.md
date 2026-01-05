@@ -1,7 +1,7 @@
 ---
-title: "Tabannusi: Builders of Ur"
+title: 'Tabannusi: Builders of Ur'
 published: 2022-20-11
-description: ""
+description: ''
 image: ./images/481944752_1228667219267322_8848341322271660894_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Tabannusi: Builders of Ur #thought
 
 เกมยูโรระดับกลางหนักที่เราจะมาร่วมกันสร้างเมือง Ur (อูร์) เมืองโบราณของชาวสุเมเรียน ที่เรียกได้ว่าเป็นแหล่งอารายธรรมยุคแรกอยู่ในเมโสโปรเตเมียตั้งแต่ยุค 4,000 BC (หรือ 6 พันปีก่อนโน้นนน ) ผลงานใน T-Series จาก David Spada และ Daniele Tascini (Tzolk'in, Teotihuacan)

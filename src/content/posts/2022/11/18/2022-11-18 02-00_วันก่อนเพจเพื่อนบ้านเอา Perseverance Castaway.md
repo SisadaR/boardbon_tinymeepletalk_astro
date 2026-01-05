@@ -1,14 +1,14 @@
 ---
-title: "วันก่อนเพจเพื่อนบ้านเอา Perseverance: Castaway Chronicles มาให้ลองเล่นก็เลยได้โอกาสเล่นตอน 2 แบบ 2p ดูก็เลยคิดว่าจะเอามาเล่าถึงแบบคร่าวๆไว้หน่อย"
+title: 'วันก่อนเพจเพื่อนบ้านเอา Perseverance: Castaway Chronicles มาให้ลองเล่นก็เลยได้โอกาสเล่นตอน
+  2 แบบ 2p ดูก็เลยคิดว่าจะเอามาเล่าถึงแบบคร่าวๆไว้หน่อย'
 published: 2022-18-11
-description: ""
+description: ''
 image: ./images/482001739_1228337695966941_6252721492330501122_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 วันก่อนเพจเพื่อนบ้านเอา Perseverance: Castaway Chronicles มาให้ลองเล่นก็เลยได้โอกาสเล่นตอน 2 แบบ 2p ดูก็เลยคิดว่าจะเอามาเล่าถึงแบบคร่าวๆไว้หน่อย
 
 .

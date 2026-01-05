@@ -1,7 +1,7 @@
 ---
-title: "Consumption: Food and Choices"
+title: 'Consumption: Food and Choices'
 published: 2024-22-05
-description: ""
+description: ''
 image: ./images/490152834_1261055509361826_690380964652198325_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #หยิบมาเล่า Consumption: Food and Choices 
 
 ปกติผมค่อนข้างดูแคลนเกมประเภทพยายามสอนอะไรซักอย่างในเชิงที่ค่อนข้างน่าเบื่อๆ แล้วมาบอกว่าตัวเองสนุกและได้ความรู้ไรงี้ แต่จะชอบเป็นพิเศษถ้ามันเป็นเกมที่เอาเรื่องจริงมาเล่าแบบสนุกๆ ซึ่งเกมที่ออกแบบนักโภชนาการคนนี้เป็นอย่างหลัง

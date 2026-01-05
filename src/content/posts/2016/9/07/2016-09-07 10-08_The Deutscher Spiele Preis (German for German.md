@@ -1,7 +1,8 @@
 ---
-title: "The Deutscher Spiele Preis (German for German Game Prize) (DSP) พึ่งประกาศเกมที่ได้รางวัล Mombasa เอาไปกินอีกแล้ว"
+title: The Deutscher Spiele Preis (German for German Game Prize) (DSP) พึ่งประกาศเกมที่ได้รางวัล
+  Mombasa เอาไปกินอีกแล้ว
 published: 2016-07-09
-description: ""
+description: ''
 image: ./images/fb.png
 tags:
   - archived
@@ -11,7 +12,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Deutscher Spiele Preis (German for German Game Prize) (DSP) พึ่งประกาศเกมที่ได้รางวัล Mombasa เอาไปกินอีกแล้ว
 
 1. MOMBASA 

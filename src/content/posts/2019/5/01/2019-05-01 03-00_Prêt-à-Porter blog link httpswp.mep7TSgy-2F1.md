@@ -1,7 +1,7 @@
 ---
-title: "Prêt-à-Porter"
+title: Prêt-à-Porter
 published: 2019-01-05
-description: ""
+description: ''
 image: ./images/57441751_2174000982715349_197641467110359040_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Prêt-à-Porter #thought
 blog link: https://wp.me/p7TSgy-2F1
 

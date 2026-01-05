@@ -1,7 +1,7 @@
 ---
-title: "SpaceCorp: 2025-2300 AD"
+title: 'SpaceCorp: 2025-2300 AD'
 published: 2019-18-06
-description: ""
+description: ''
 image: ./images/64764254_2256061051176008_6069880874877321216_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 SpaceCorp: 2025-2300 AD #thought
 blog link: https://wp.me/p7TSgy-2FM
 

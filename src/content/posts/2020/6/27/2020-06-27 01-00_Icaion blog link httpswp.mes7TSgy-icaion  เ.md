@@ -1,7 +1,7 @@
 ---
-title: "Icaion"
+title: Icaion
 published: 2020-27-06
-description: ""
+description: ''
 image: ./images/73228398_3071599036288868_2625550016617686207_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Icaion #thought
 blog link: https://wp.me/s7TSgy-icaion
 

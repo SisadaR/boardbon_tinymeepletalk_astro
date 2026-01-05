@@ -1,7 +1,7 @@
 ---
-title: "1775: Rebellion"
+title: '1775: Rebellion'
 published: 2018-10-05
-description: ""
+description: ''
 image: ./images/32116487_1655254407923345_6210793791171854336_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 1775: Rebellion #thought #first_impression
 blog link: https://wp.me/p7TSgy-2xu
 

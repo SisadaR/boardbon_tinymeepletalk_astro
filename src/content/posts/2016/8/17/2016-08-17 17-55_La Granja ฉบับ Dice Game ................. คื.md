@@ -1,7 +1,7 @@
 ---
-title: "La Granja ฉบับ Dice Game ................. คือก็เข้าใจอ่ะนะ"
+title: La Granja ฉบับ Dice Game ................. คือก็เข้าใจอ่ะนะ
 published: 2016-17-08
-description: ""
+description: ''
 image: ./images/pic3051552.png
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 La Granja ฉบับ Dice Game ................. คือก็เข้าใจอ่ะนะ
 แต่ก็นะ.................................................................. #บ่น
 

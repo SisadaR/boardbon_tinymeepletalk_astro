@@ -1,7 +1,7 @@
 ---
-title: "A new chapter of my life."
+title: A new chapter of my life.
 published: 2020-02-03
-description: ""
+description: ''
 image: ./images/87803678_2789544374494337_2356243243546443776_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 A new chapter of my life. #บ่นไปเรื่อย #มีคนทักว่าช่วงนี้ลงรัวๆต้องขออภัย
 
 ▪️มีเรื่องที่ค่อนข้างส่วนตัวมากๆอยู่สองเรื่องในชีวิตผมที่อยากจะเอามาเล่าให้ฟัง เป็นข่าวเศร้าหนึ่งและดีมากหนึ่ง 

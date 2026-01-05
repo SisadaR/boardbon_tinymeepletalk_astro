@@ -1,7 +1,7 @@
 ---
-title: "Turing Machine"
+title: Turing Machine
 published: 2023-04-01
-description: ""
+description: ''
 image: ./images/484049654_1232630575537653_3970353671907917492_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Turing Machine #bite_size 
 
 เกมแนว deduction หาคำตอบที่นำเสนอผ่านการทำงานของ 'เครื่องจักรคำนวน' ในยุคสมัยที่ยังไม่ใช้ไฟฟ้า แต่ทำงานผ่านบัตรเจาะคำ

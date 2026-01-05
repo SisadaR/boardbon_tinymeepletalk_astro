@@ -1,7 +1,7 @@
 ---
-title: "Call to Adventure"
+title: Call to Adventure
 published: 2020-29-06
-description: ""
+description: ''
 image: ./images/75196323_3077378929044212_8323285019294236173_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Call to Adventure #bite_size #first_impression
 blog link:  https://wp.me/p7TSgy-2SZ
 

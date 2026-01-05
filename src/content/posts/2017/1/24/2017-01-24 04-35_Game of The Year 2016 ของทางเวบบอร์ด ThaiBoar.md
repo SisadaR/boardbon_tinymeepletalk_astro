@@ -1,13 +1,13 @@
 ---
-title: "Game of The Year 2016 ของทางเวบบอร์ด ThaiBoardGame.Net มาถึงโค้งสุดท้ายล่ะฮะ อย่าลืมไปช่วยกัน vote นะครับ"
+title: Game of The Year 2016 ของทางเวบบอร์ด ThaiBoardGame.Net มาถึงโค้งสุดท้ายล่ะฮะ
+  อย่าลืมไปช่วยกัน vote นะครับ
 published: 2017-24-01
-description: ""
+description: ''
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Game of The Year 2016 ของทางเวบบอร์ด ThaiBoardGame.Net มาถึงโค้งสุดท้ายล่ะฮะ อย่าลืมไปช่วยกัน vote นะครับ
 
 ตอนนี้ฝั่งยูโร Scythe กำลัวคู่คี่อยู่กับ Dead of Winter ฝั่งอเม แล้วก็ Splendor จากฝั่งเกมครอบครัว 

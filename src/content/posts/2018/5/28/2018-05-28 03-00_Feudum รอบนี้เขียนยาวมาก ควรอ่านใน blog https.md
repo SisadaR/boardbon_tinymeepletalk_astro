@@ -1,7 +1,7 @@
 ---
-title: "Feudum"
+title: Feudum
 published: 2018-28-05
-description: ""
+description: ''
 image: ./images/33676887_1675142319267887_6040185234769575936_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Feudum #thought
 รอบนี้เขียนยาวมาก ควรอ่านใน blog: https://wp.me/s7TSgy-feudum   
 

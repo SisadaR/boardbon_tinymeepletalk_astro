@@ -1,7 +1,7 @@
 ---
-title: "Clash of Cultures: Monumental Edition"
+title: 'Clash of Cultures: Monumental Edition'
 published: 2022-10-08
-description: ""
+description: ''
 image: ./images/484918839_9504181179697256_5176317820340327503_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Clash of Cultures: Monumental Edition
 blog link : https://tinyurl.com/45ud8cyf
 

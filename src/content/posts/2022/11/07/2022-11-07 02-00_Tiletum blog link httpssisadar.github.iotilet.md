@@ -1,7 +1,7 @@
 ---
-title: "Tiletum"
+title: Tiletum
 published: 2022-07-11
-description: ""
+description: ''
 image: ./images/481296122_1225815382885839_6492029125100769354_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Tiletum #thought
 blog link: https://sisadar.github.io/tiletum/
 

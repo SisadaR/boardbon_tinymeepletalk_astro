@@ -1,7 +1,7 @@
 ---
 title: เพราะการเล่นเกมคือการเชื่อมคน 3 ยุคเข้าด้วยกัน
 published: 2025-08-31
-description: ""
+description: ''
 image: ./images/P8300169.jpg
 tags:
   - article

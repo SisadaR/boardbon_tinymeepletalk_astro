@@ -1,7 +1,7 @@
 ---
-title: "Last Hand Standing"
+title: Last Hand Standing
 published: 2020-12-07
-description: ""
+description: ''
 image: ./images/107668505_3114868521961919_3970271765817973919_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Last Hand Standing #bite_size
 blog link: https://wp.me/p7TSgy-2Tv
 .

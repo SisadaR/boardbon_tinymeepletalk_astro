@@ -1,7 +1,7 @@
 ---
-title: "Pax Transhumanity: บทใหม่แห่งมนุษยชาติ"
+title: 'Pax Transhumanity: บทใหม่แห่งมนุษยชาติ'
 published: 2020-06-01
-description: ""
+description: ''
 image: ./images/81936548_2668414089940700_559417600518389760_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Pax Transhumanity: บทใหม่แห่งมนุษยชาติ #thought
 blog link: https://wp.me/p7TSgy-2Pf
 

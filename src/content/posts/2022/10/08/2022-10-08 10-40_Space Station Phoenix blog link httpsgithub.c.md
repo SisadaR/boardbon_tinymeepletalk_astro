@@ -1,7 +1,7 @@
 ---
-title: "Space Station Phoenix"
+title: Space Station Phoenix
 published: 2022-08-10
-description: ""
+description: ''
 image: ./images/481142804_1217106607090050_715216048251602830_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Space Station Phoenix #thought 
 
 blog link: https://github.com/SisadaR/BoardNBon/blob/main/contents/space_station_phoenix.md

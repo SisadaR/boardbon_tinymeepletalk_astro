@@ -1,7 +1,7 @@
 ---
-title: "Beta Colony"
+title: Beta Colony
 published: 2019-08-05
-description: ""
+description: ''
 image: ./images/59630927_2185322941583153_8460105233949786112_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Beta Colony #thought #first_impression
 blog link: https://wp.me/p7TSgy-2F7
 

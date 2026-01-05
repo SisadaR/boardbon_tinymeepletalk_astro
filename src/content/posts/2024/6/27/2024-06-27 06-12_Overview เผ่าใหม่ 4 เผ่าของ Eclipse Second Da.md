@@ -1,14 +1,13 @@
 ---
-title: "Overview เผ่าใหม่ 4 เผ่าของ Eclipse: Second Dawn for the Galaxy"
+title: 'Overview เผ่าใหม่ 4 เผ่าของ Eclipse: Second Dawn for the Galaxy'
 published: 2024-27-06
-description: ""
+description: ''
 image: ./images/490381137_1262212389246138_2661508582395403934_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Overview เผ่าใหม่ 4 เผ่าของ Eclipse: Second Dawn for the Galaxy
 
 tldr; ถ้าเล่น Eclipse ถึง 6 รอบแล้วยังชอบก็จัดไปให้หมดนั้นแหละ..แต่ถ้าไม่ได้เล่นบ่อยก็ไม่ได้ขาดอะไรไป

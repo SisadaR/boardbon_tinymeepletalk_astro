@@ -1,7 +1,7 @@
 ---
-title: "Clash of Cultures"
+title: Clash of Cultures
 published: 2018-02-04
-description: ""
+description: ''
 image: ./images/513087953_24034260756262724_7606865021206824393_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Clash of Cultures #thought
 blog link: https://wp.me/p7TSgy-2wK
 

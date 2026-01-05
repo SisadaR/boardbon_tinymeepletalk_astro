@@ -1,14 +1,13 @@
 ---
-title: "Nekojima"
+title: Nekojima
 published: 2024-31-01
-description: ""
+description: ''
 image: ./images/489021625_1257877749679602_1940447232239882056_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Nekojima 
 
 เกมแนวปาร์ตี้+dexterity ที่มาวัดความนิ่งของมือผ่านการห้อยโหนไต่เชือกของน้อนๆแมวดำ

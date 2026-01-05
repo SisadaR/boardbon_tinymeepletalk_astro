@@ -1,7 +1,7 @@
 ---
-title: "Flotsam Fight"
+title: Flotsam Fight
 published: 2020-09-01
-description: ""
+description: ''
 image: ./images/82564340_2674648185983957_7826621897369452544_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Flotsam Fight #bite_size
 blog link: https://wp.me/p7TSgy-2Pw
  

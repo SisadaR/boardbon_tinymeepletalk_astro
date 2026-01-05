@@ -1,7 +1,7 @@
 ---
 title: Mindbug x King of Tokyo
 published: 2025-10-22
-description: ""
+description: ''
 image: ./images/PA220172.jpg
 tags:
   - กบโอเค

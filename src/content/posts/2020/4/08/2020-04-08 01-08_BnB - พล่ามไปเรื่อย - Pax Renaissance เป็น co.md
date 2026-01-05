@@ -1,14 +1,13 @@
 ---
-title: "BnB - พล่ามไปเรื่อย - Pax Renaissance"
+title: BnB - พล่ามไปเรื่อย - Pax Renaissance
 published: 2020-08-04
-description: ""
+description: ''
 image: ./images/maxresdefault.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 BnB - พล่ามไปเรื่อย - Pax Renaissance
 
 เป็น content ที่แหวกแนวปกตินิดหน่อยคืออยากจะพูดถึงเกมแบบสั้นสิบนาทีพอ กึ่งเล่าให้ฟัง กึ่งอธิบายคร่าวๆ กึ่งรีวิว ดูแล้วคิดเห็นอย่างไรก็มาบอกกันบ้างนะครับ :)

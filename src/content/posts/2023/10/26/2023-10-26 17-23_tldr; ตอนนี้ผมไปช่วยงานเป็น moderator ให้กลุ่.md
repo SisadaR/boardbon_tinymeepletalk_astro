@@ -1,14 +1,14 @@
 ---
-title: "tldr; ตอนนี้ผมไปช่วยงานเป็น moderator ให้กลุ่ม 'ซื้อ - ขาย Board Game Thailand' เลยอยากมาเขียนอะไรนิดหน่อย any feedback are welcome."
+title: tldr; ตอนนี้ผมไปช่วยงานเป็น moderator ให้กลุ่ม 'ซื้อ - ขาย Board Game Thailand'
+  เลยอยากมาเขียนอะไรนิดหน่อย any feedback are welcome.
 published: 2023-26-10
-description: ""
+description: ''
 image: ./images/488708627_1253184146815629_4004894476786417883_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 tldr; ตอนนี้ผมไปช่วยงานเป็น moderator ให้กลุ่ม 'ซื้อ - ขาย Board Game Thailand'  เลยอยากมาเขียนอะไรนิดหน่อย any feedback are welcome.
 
 .

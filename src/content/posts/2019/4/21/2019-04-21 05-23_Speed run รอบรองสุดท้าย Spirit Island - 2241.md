@@ -1,14 +1,13 @@
 ---
-title: "Speed run รอบรองสุดท้าย"
+title: Speed run รอบรองสุดท้าย
 published: 2019-21-04
-description: ""
+description: ''
 image: ./images/hqdefault.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Speed run รอบรองสุดท้าย
 
 Spirit Island - 22:41

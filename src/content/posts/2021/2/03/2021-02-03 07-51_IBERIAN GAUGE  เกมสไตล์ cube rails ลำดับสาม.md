@@ -1,7 +1,7 @@
 ---
-title: "IBERIAN GAUGE"
+title: IBERIAN GAUGE
 published: 2021-03-02
-description: ""
+description: ''
 image: ./images/Web-Shop.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 IBERIAN GAUGE #เกมใหม่  #บ่นไปเรื่อยเรื่องเกมที่เปย์บ้างไม่เปย์บ้างช่วงนี้
 
 ▪️ เกมสไตล์ cube rails ลำดับสามในซีรี่ย์ของ capestone มาล่ะ ราคาพรีก็ถือว่าน่าสนใจ 

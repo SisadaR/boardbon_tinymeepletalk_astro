@@ -1,14 +1,13 @@
 ---
-title: "Dune: Imperium Uprising"
+title: 'Dune: Imperium Uprising'
 published: 2024-21-01
-description: ""
+description: ''
 image: ./images/488889119_1257203806413663_6877772420835265302_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Dune: Imperium Uprising 
 
 verdict: ร่างทองของเกมระดับกลางเบอร์ต้น!! นี้คือ Dune: Imperium กล่องเดียวที่คุณต้องการ มีตัวเก่าครบก็เล่นไปเถอะเกมดีอยู่แล้ว แต่ขอโทษจริงๆถ้าซื้อใหม่ตอนนี้เอาแค่กล่องนี้กล่องเดียวพอละ

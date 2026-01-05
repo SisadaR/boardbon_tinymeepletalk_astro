@@ -1,7 +1,7 @@
 ---
-title: "Terracotta Army"
+title: Terracotta Army
 published: 2023-05-02
-description: ""
+description: ''
 image: ./images/482985252_1235510085249702_1348207841616778340_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Terracotta Army #thought
 
 จิ๋นซีฮ่องเต้คือนามของบุรุษผู้รวมแผ่นดินจีนเป็นหนึ่งตั้งแต่สมัย 200 ปีก่อนคริสตกาล ในยามที่ทรงสิ้นพระชน พระศพนั้นก็ได้ประดิษฐานไว้ที่สุสานหลวงอันยิ่งใหญ่ที่มีตุ๊กตาทหารเท่าตัวจริงนับพันคอยรับใช้ในโลกหน้า และเราจะได้เป็นหนึ่งในช่างฝีมือที่จะมาทำงานสร้างสุสานนี้ให้ลุล่วงไป ผลงานของ  Adam Kwapiński  (Nemesis, Lords of Hellas, Frontpunk) และ Przemysław Fornal  (Blossoms)

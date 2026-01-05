@@ -1,14 +1,13 @@
 ---
-title: "ATLAS LOST - RISE of the NEW SOVEREIGNS -"
+title: ATLAS LOST - RISE of the NEW SOVEREIGNS -
 published: 2022-07-09
-description: ""
+description: ''
 image: ./images/484073779_9517758305006210_4127676610638338146_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 ATLAS LOST - RISE of the NEW SOVEREIGNS -
 
 เกมกำลังระดมทุน แนว Sci-fi ที่ใช้กลไก Tech Tree เป็นแกนหลัก ได้รับแรงบันดาลใจมาจาก Terraforming Mars, Beyond The Sun และ Sid Meier's Civilization: The Board Game

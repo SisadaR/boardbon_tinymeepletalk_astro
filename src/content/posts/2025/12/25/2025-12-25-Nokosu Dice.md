@@ -1,7 +1,7 @@
 ---
 title: Nokosu Dice
 published: 2025-12-25
-description: ""
+description: ''
 image: ./images/NO_FUSION_1225_001-EDIT.jpg
 tags:
   - กบโอเค

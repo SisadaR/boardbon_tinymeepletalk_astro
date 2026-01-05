@@ -1,14 +1,13 @@
 ---
-title: "Rumble Nation (Deluxe Edition)"
+title: Rumble Nation (Deluxe Edition)
 published: 2024-20-06
-description: ""
+description: ''
 image: ./images/490315125_1261845955949448_1735066781807579772_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Rumble Nation (Deluxe Edition)
 
 เกม Majority Control ธีมว่าด้วยการชิงอำนาจของเหล่าขุนศึกญี่ปุ่น

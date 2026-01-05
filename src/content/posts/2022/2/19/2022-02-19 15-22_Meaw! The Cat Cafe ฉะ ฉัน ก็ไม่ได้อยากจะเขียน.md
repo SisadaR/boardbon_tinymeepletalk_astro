@@ -1,7 +1,7 @@
 ---
-title: "Meaw! The Cat Cafe"
+title: Meaw! The Cat Cafe
 published: 2022-19-02
-description: ""
+description: ''
 image: ./images/481261087_9390605027721539_5702608445296513033_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Meaw! The Cat Cafe #bite_size
 
 ฉะ ฉัน ก็ไม่ได้อยากจะเขียนถึงเกมนี้เท่าไรหรอกนะ!!

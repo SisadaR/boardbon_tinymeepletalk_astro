@@ -1,7 +1,7 @@
 ---
-title: "On Mars"
+title: On Mars
 published: 2020-29-02
-description: ""
+description: ''
 image: ./images/87730881_2787037104745064_8763465134912831488_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 On Mars #บ่นไปเรื่อย #โปรดอย่าเรียกว่ารีวิว
 blog link: https://wp.me/p7TSgy-2QN
  

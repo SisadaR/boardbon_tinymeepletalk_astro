@@ -1,14 +1,13 @@
 ---
-title: "Scholars of the South Tigris"
+title: Scholars of the South Tigris
 published: 2024-13-01
-description: ""
+description: ''
 image: ./images/489446320_1257016863099024_5859731273010788926_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Scholars of the South Tigris
 
 verdict: ยูโรเบอร์ต้นของปีแบบไม่ต้องคิดมาก แอคชั่นน้อยแต่ออกท่าเยอะเกมบริหารทรัพยากรเต๋าที่แค่เลขยังไม่พอต้องผสมสีอีก

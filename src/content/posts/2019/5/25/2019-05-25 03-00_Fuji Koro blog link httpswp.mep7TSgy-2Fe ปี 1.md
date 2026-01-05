@@ -1,7 +1,7 @@
 ---
-title: "Fuji Koro"
+title: Fuji Koro
 published: 2019-25-05
-description: ""
+description: ''
 image: ./images/61034056_2214547875327326_6925545785962528768_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Fuji Koro #thought #first_impression #review_copy 
 blog link: https://wp.me/p7TSgy-2Fe
 

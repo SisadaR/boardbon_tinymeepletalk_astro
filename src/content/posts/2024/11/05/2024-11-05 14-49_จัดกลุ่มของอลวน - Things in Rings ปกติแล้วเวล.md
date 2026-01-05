@@ -1,14 +1,13 @@
 ---
-title: "จัดกลุ่มของอลวน - Things in Rings"
+title: จัดกลุ่มของอลวน - Things in Rings
 published: 2024-05-11
-description: ""
+description: ''
 image: ./images/491923977_1266922822108428_6597566295523230990_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 จัดกลุ่มของอลวน - Things in Rings 
 
 ปกติแล้วเวลาเล่นเกมใบ้คำเราจะมาหาว่าของที่ว่าคืออะไร แต่เกมนี้จะกลับกันเพราะมันเป็นเกมที่ต้องแข่งกันหาคำตอบว่าสิ่งของในมือเรานั้นถูกจัดกลุ่มในเงื่อนไขแบบไหนแทน

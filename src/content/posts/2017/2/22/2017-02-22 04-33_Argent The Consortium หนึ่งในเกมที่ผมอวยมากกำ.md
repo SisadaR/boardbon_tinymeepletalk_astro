@@ -1,7 +1,7 @@
 ---
-title: "Argent : The Consortium หนึ่งในเกมที่ผมอวยมากกำลังจะ Out-of-Print"
+title: 'Argent : The Consortium หนึ่งในเกมที่ผมอวยมากกำลังจะ Out-of-Print'
 published: 2017-22-02
-description: ""
+description: ''
 image: ./images/fb.png
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #news Argent : The Consortium หนึ่งในเกมที่ผมอวยมากกำลังจะ Out-of-Print 
 .
 ตามข่าวต้นทางจาก Designer คือของหมดจากสต๊อกผู้จัดจำหน่ายไปเรียบร้อย

@@ -1,7 +1,7 @@
 ---
-title: "The Search for Planet X"
+title: The Search for Planet X
 published: 2022-28-07
-description: ""
+description: ''
 image: ./images/482243317_9498976850217689_6456265856957776481_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Search for Planet X #bite_size
 
 🔹 เกมแนวตัดตัวเลือกเพื่อตามหาดาว X ที่ซ่อนอยู่ท่ามกลางอวกาศอันกว้างใหญ่ผลงานของ Ben Rosset และ Matthew O'Malley โดยเกมนี้ได้เป็นผู้ท้าชิงในหมวด Innovative, Medium Game และ Zoomable ของ Golden Geek award 2020 ด้วย

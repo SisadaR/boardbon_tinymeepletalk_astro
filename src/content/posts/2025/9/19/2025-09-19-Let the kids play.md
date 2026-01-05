@@ -1,7 +1,7 @@
 ---
 title: let the kids playet let the kids playThe Kid Plays
 published: 2025-09-19
-description: ""
+description: ''
 image: ./images/Gemini_Generated_Image_8wmbpk8wmbpk8wmb.png
 tags:
   - review

@@ -1,7 +1,7 @@
 ---
-title: "Founders of Gloomheaven"
+title: Founders of Gloomheaven
 published: 2018-09-07
-description: ""
+description: ''
 image: ./images/36776611_1732105250238260_2737077418157146112_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Founders of Gloomheaven #thought #first_impression
 blog link: https://wp.me/p7TSgy-2z6
 

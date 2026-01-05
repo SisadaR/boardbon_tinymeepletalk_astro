@@ -1,13 +1,12 @@
 ---
-title: "คือพวก content creator บอร์ดเกมเนี่ยจะมีกลุ่ม line chat อยู่ห้องหนึ่ง"
+title: คือพวก content creator บอร์ดเกมเนี่ยจะมีกลุ่ม line chat อยู่ห้องหนึ่ง
 published: 2023-26-05
-description: ""
+description: ''
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 คือพวก content creator บอร์ดเกมเนี่ยจะมีกลุ่ม line chat อยู่ห้องหนึ่ง
 .
 ❌ เอาไว้พูดคุยแลกเปลี่ยนความคิดเห็นและข่าวสาร

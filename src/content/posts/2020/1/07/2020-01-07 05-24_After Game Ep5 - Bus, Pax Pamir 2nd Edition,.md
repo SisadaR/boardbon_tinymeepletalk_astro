@@ -1,14 +1,13 @@
 ---
-title: "After Game Ep5 - Bus, Pax Pamir 2nd Edition, Black Rose War, Luna Nova"
+title: After Game Ep5 - Bus, Pax Pamir 2nd Edition, Black Rose War, Luna Nova
 published: 2020-07-01
-description: ""
+description: ''
 image: ./images/maxresdefault.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 After Game Ep5 - Bus, Pax Pamir 2nd Edition, Black Rose War, Luna Nova
 
 คลิปแนวพูดคุยถึงเกมที่พึ่งเล่นไปไม่นานครับ ใครเล่นเกมไหนแล้วคิดยังไงก็มาคุยกันนะ :)

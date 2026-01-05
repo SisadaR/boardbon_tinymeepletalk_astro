@@ -1,7 +1,7 @@
 ---
-title: "Blackout: Hong Kong"
+title: 'Blackout: Hong Kong'
 published: 2019-19-02
-description: ""
+description: ''
 image: ./images/52715556_2062264080555707_3689328936774270976_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Blackout: Hong Kong #thought
 blog link: https://wp.me/p7TSgy-2DW
  

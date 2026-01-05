@@ -1,14 +1,13 @@
 ---
-title: "CoNNNect (มี N 3 ตัว)"
+title: CoNNNect (มี N 3 ตัว)
 published: 2024-16-06
-description: ""
+description: ''
 image: ./images/490692630_1261531412647569_5767873845300014348_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 CoNNNect (มี N 3 ตัว)
 
 เกม Roll & Write เกมแรก (แต่เปิดตัวอันดับสอง) จากค่ายน้องใหม่ Four Comma Game (ของแท้ไม่เติม s) ค่ายเกมไทยที่เป้าหมายคือระดับโลกตั้งแต่แรก เกมนี้ออกแบบโดยคุณ Sarawut Jirawaree คนเดียวกับที่ทำ Defuse เกม R&W ที่เรียกได้ว่าได้รับความสนใจเป็นอย่างมากในงานตลาดนัดบอร์ดเกมอินดี้ครั้งที่หนึ่ง

@@ -1,14 +1,14 @@
 ---
-title: "Defuse เกมแนว roll & write จากคุณ Sarawut Jirawaree เป็นเกมที่เอามาเปิดตัวในงานตลาดนัดเกมอินดี้ ที่มีไอเดียมาจากเกมคอมชื่อดังในตำนานที่ชื่อ minesweeper"
+title: Defuse เกมแนว roll & write จากคุณ Sarawut Jirawaree เป็นเกมที่เอามาเปิดตัวในงานตลาดนัดเกมอินดี้
+  ที่มีไอเดียมาจากเกมคอมชื่อดังในตำนานที่ชื่อ minesweeper
 published: 2022-14-12
-description: ""
+description: ''
 image: ./images/482245375_1231209725679738_8508943551765933422_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Defuse เกมแนว roll & write จากคุณ Sarawut Jirawaree เป็นเกมที่เอามาเปิดตัวในงานตลาดนัดเกมอินดี้ ที่มีไอเดียมาจากเกมคอมชื่อดังในตำนานที่ชื่อ minesweeper
 
 .

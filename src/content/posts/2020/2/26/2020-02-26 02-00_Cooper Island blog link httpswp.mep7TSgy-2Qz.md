@@ -1,7 +1,7 @@
 ---
-title: "Cooper Island"
+title: Cooper Island
 published: 2020-26-02
-description: ""
+description: ''
 image: ./images/87868925_2779653122150129_8755049412784291840_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Cooper Island #thought
 blog link: https://wp.me/p7TSgy-2Qz
  

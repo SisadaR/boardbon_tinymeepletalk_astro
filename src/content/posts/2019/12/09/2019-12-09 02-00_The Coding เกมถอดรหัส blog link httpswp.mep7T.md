@@ -1,7 +1,7 @@
 ---
-title: "The Coding เกมถอดรหัส"
+title: The Coding เกมถอดรหัส
 published: 2019-09-12
-description: ""
+description: ''
 image: ./images/78491900_2604521536329956_1022998396010496000_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Coding เกมถอดรหัส #thought #first_impression
 blog link: https://wp.me/p7TSgy-2Nn
 

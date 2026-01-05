@@ -1,7 +1,8 @@
 ---
-title: "Yamatai เกม mid-light เกมใหม่จากนักออกแบบ Five Tribes ตัวหมากสีสวย กระดานสีสดใสตามแบบฉบับของค่าย Day of wonders"
+title: Yamatai เกม mid-light เกมใหม่จากนักออกแบบ Five Tribes ตัวหมากสีสวย กระดานสีสดใสตามแบบฉบับของค่าย
+  Day of wonders
 published: 2017-27-03
-description: ""
+description: ''
 image: ./images/511127558_24008002112221922_4578289308274519969_n.jpg
 tags:
   - archived
@@ -10,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #thought #first_impression Yamatai เกม mid-light เกมใหม่จากนักออกแบบ Five Tribes ตัวหมากสีสวย กระดานสีสดใสตามแบบฉบับของค่าย Day of wonders 
  
  

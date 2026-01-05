@@ -1,7 +1,7 @@
 ---
-title: "Barbaric: บาบาริค (Testing Prototype)"
+title: 'Barbaric: บาบาริค (Testing Prototype)'
 published: 2021-07-11
-description: ""
+description: ''
 image: ./images/476358273_9260062214109155_8199799605268667196_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Barbaric: บาบาริค (Testing Prototype) #bite_size #first_impression
 
 *ทุกสิ่งที่คุณ เห็น/อ่าน ทั้งหมดกำลังอยู่ระหว่างการพัฒนา และเกมยังไม่เข้าสู่ช่วงระดมทุนแต่มีการเริ่มโปรโมทบ้างแล้ว

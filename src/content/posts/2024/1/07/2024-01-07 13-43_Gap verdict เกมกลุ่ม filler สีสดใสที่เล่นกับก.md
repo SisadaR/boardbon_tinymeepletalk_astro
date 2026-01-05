@@ -1,14 +1,13 @@
 ---
-title: "Gap"
+title: Gap
 published: 2024-07-01
-description: ""
+description: ''
 image: ./images/488873369_1256917923108918_3754562946212757910_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Gap
 
 verdict: เกมกลุ่ม filler สีสดใสที่เล่นกับการเก็บสะสมการ์ด แต่ว่าอันที่เป็นแต้มบวกกับลบน่ะจะเป็นอันที่มากที่สุดและน้อยที่สุดเท่านั้น

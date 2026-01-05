@@ -1,7 +1,7 @@
 ---
-title: "Streets เป็นเกมแนววางไทล์เบาๆจาก Haakon Gaarder ที่ออกแบบเกม Villagers"
+title: Streets เป็นเกมแนววางไทล์เบาๆจาก Haakon Gaarder ที่ออกแบบเกม Villagers
 published: 2021-09-10
-description: ""
+description: ''
 image: ./images/472789619_9108642759251102_7182523504888762877_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Streets เป็นเกมแนววางไทล์เบาๆจาก Haakon Gaarder ที่ออกแบบเกม Villagers #bite_size #first_impression
 
 ไอเดียคือเราจะมาวางสร้างตึกแลนด์มาร์คให้กับเมือง แต่เราสามารถวางถนนให้หักเลี้ยวเปิดบล๊อกตึกเพื่อสร้างถนนเส้นใหม่ได้ โดยที่ถ้าถนนเส้นเดิมโดนปิดหัวปิดท้ายเมื่อไรก็จะคิดแต้มเมื่อนั้น ไอเดียแต้มมันก็จะแนวๆ ได้ x แต้มต่อสีโน้นสีนี้ในถนนเส้นนั้นๆ

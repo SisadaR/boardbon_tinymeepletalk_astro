@@ -1,7 +1,7 @@
 ---
-title: "Wayfarers of the South Tigris"
+title: Wayfarers of the South Tigris
 published: 2023-26-04
-description: ""
+description: ''
 image: ./images/485737881_1241964481270929_7767588202567988267_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Wayfarers of the South Tigris #thought
 . 
 เคาะลีฟะฮ์อับบาซียะฮ์ (Abbasid Caliphate) ราชวงค์อันดับที่สามของรัฐอิสลามแห่งเมืองแบกแดดที่ในยุครุ่งเรืองนั้นแผ่ขยายอำนาจไปทั่วเปอร์เซีย เกมจะให้เราเป็นนักสำรวจที่คอยเดินทางออกสำรวจดินแดนอันกว้างใหญ่ทั้งทางบกและทะเลรวมไปถึงบันทึกเหตุการณ์ของหมู่ดาวเพื่อสร้างความประทับใจแก่ราชสำนัก

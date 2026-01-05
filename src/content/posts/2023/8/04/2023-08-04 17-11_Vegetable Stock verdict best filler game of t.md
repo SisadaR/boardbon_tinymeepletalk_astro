@@ -1,7 +1,7 @@
 ---
-title: "Vegetable Stock"
+title: Vegetable Stock
 published: 2023-04-08
-description: ""
+description: ''
 image: ./images/487499677_1249324890534888_1531309004116706516_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Vegetable Stock #bite_size #first_impression 
 
 verdict: best filler game of the year.

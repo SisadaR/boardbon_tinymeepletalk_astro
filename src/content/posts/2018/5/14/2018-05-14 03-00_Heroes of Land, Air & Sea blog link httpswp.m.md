@@ -1,7 +1,7 @@
 ---
-title: "Heroes of Land, Air & Sea"
+title: Heroes of Land, Air & Sea
 published: 2018-14-05
-description: ""
+description: ''
 image: ./images/32332421_1660319954083457_8758823623885586432_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Heroes of Land, Air & Sea #thought #first_impression
 blog link: https://wp.me/p7TSgy-2xw
 

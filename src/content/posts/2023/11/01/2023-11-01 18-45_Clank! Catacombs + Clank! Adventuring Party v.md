@@ -1,7 +1,7 @@
 ---
-title: "Clank!: Catacombs + Clank!: Adventuring Party"
+title: 'Clank!: Catacombs + Clank!: Adventuring Party'
 published: 2023-01-11
-description: ""
+description: ''
 image: ./images/488460045_1253859643414746_6776459447123564192_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Clank!: Catacombs + Clank!: Adventuring Party #bite_size #first_impression 
 
 verdict: ก็ Clank! นั้นแหละ แต่ดีกว่าเยอะเพราะแผนที่สุ่ม เหมาะสำหรับวงที่อยากได้เกม deck building ที่มีกลิ่นของการผจญภัย พ่วงความเฮฮาของการลุ้นว่าจะโดนมังกรเหยียบตายไหม

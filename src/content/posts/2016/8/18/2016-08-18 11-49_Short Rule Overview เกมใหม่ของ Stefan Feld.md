@@ -1,14 +1,13 @@
 ---
-title: "[Short Rule Overview]"
+title: '[Short Rule Overview]'
 published: 2016-18-08
-description: ""
+description: ''
 image: ./images/pic3012910.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 [Short Rule Overview]
 เกมใหม่ของ Stefan Feld ออก Essen 2016
 รูลออกเมื่อวาน พึ่งอ่านจบตะกี้

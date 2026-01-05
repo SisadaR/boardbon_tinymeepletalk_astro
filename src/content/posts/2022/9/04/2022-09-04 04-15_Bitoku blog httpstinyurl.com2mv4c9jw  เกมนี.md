@@ -1,7 +1,7 @@
 ---
-title: "Bitoku"
+title: Bitoku
 published: 2022-04-09
-description: ""
+description: ''
 image: ./images/484476164_9517735951675112_4686589281225202636_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Bitoku #bite_size
 
 blog: https://tinyurl.com/2mv4c9jw

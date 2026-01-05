@@ -1,14 +1,14 @@
 ---
-title: "[News] Martin Wallace ผู้สร้าง Brass และ Age of Steam สองในสามสุดยอดเกมส่วนตัวของผมกำลังจะออกเกมรถไฟใหม่อย่างนั้นหรือ? ลง GameFound ตอนเดือน 2 ปี 2024 ครับ"
+title: '[News] Martin Wallace ผู้สร้าง Brass และ Age of Steam สองในสามสุดยอดเกมส่วนตัวของผมกำลังจะออกเกมรถไฟใหม่อย่างนั้นหรือ?
+  ลง GameFound ตอนเดือน 2 ปี 2024 ครับ'
 published: 2023-28-12
-description: ""
+description: ''
 image: ./images/489835494_1256731476460896_6273003567655138870_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 [News] Martin Wallace ผู้สร้าง Brass และ Age of Steam สองในสามสุดยอดเกมส่วนตัวของผมกำลังจะออกเกมรถไฟใหม่อย่างนั้นหรือ? ลง GameFound ตอนเดือน 2 ปี 2024 ครับ
 
 :

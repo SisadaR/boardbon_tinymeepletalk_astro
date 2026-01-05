@@ -1,14 +1,13 @@
 ---
-title: "แมวจรท่องเจริญกรุง: Cat on the Roof - Lost in Charoenkrung"
+title: 'แมวจรท่องเจริญกรุง: Cat on the Roof - Lost in Charoenkrung'
 published: 2025-28-01
-description: ""
+description: ''
 image: ./images/492400948_1273386974795346_5729735057597057589_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 แมวจรท่องเจริญกรุง: Cat on the Roof - Lost in Charoenkrung 
 
 เกมอันดับหนึ่งจากงานประกวดบอร์ดเกม 4 ย่าน โดยทีม Miscellaneous (tag ไม่ติดง่ะ  -_- ) ที่จะให้เรามานำทางน้องแมวของเราเดินไต่ไปตามตึกแถวย่านเจริญกรุง

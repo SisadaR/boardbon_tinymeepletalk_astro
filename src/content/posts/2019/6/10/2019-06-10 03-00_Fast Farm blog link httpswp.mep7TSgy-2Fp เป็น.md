@@ -1,7 +1,7 @@
 ---
-title: "Fast Farm"
+title: Fast Farm
 published: 2019-10-06
-description: ""
+description: ''
 image: ./images/62118542_2241975459251234_6590467444144340992_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Fast Farm #thought #first_impression #prototype
 blog link: https://wp.me/p7TSgy-2Fp
  

@@ -1,14 +1,14 @@
 ---
-title: "Asian Board Game Festival Thailand 2023 จัดที่ TK Park, CTW จัด 3 วันคือวันที่ 4-6 สิงหาคม คนเยอะมว๊ากกกกกกกกกกกกกก ครึกครื้นจัดๆ"
+title: Asian Board Game Festival Thailand 2023 จัดที่ TK Park, CTW จัด 3 วันคือวันที่
+  4-6 สิงหาคม คนเยอะมว๊ากกกกกกกกกกกกกก ครึกครื้นจัดๆ
 published: 2023-10-08
-description: ""
+description: ''
 image: ./images/487394280_1249433357190708_2392567335732652088_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Asian Board Game Festival Thailand 2023 จัดที่ TK Park, CTW จัด 3 วันคือวันที่ 4-6 สิงหาคม คนเยอะมว๊ากกกกกกกกกกกกกก ครึกครื้นจัดๆ
 
 .

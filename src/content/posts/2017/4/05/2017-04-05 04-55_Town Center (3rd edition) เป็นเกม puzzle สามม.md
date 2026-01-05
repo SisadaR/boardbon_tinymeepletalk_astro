@@ -1,7 +1,8 @@
 ---
-title: "Town Center (3rd edition) เป็นเกม puzzle สามมิติ ธีมสร้างเมืองที่ผมชอบมากๆเกมนึง ปกติไม่ค่อยได้กางเพราะคนไม่ค่อยเก็ท 5555"
+title: Town Center (3rd edition) เป็นเกม puzzle สามมิติ ธีมสร้างเมืองที่ผมชอบมากๆเกมนึง
+  ปกติไม่ค่อยได้กางเพราะคนไม่ค่อยเก็ท 5555
 published: 2017-05-04
-description: ""
+description: ''
 image: ./images/511055574_24008511068837693_7605897882696245173_n.jpg
 tags:
   - archived
@@ -9,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #thought Town Center (3rd edition) เป็นเกม puzzle สามมิติ ธีมสร้างเมืองที่ผมชอบมากๆเกมนึง ปกติไม่ค่อยได้กางเพราะคนไม่ค่อยเก็ท 5555
 
  

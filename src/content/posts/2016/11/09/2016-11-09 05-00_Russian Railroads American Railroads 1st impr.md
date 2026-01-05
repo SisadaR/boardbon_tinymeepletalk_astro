@@ -1,7 +1,7 @@
 ---
-title: "Russian Railroads: American Railroads 1st impression"
+title: 'Russian Railroads: American Railroads 1st impression'
 published: 2016-09-11
-description: ""
+description: ''
 image: ./images/510255378_23999418256413641_4318192264965853957_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #micro_review Russian Railroads: American Railroads 1st impression
 
 Verdict : สนุก!!! เหตุผลเดียวที่คุณจะไม่ซื้อคือไม่มี Russian Railroads!!

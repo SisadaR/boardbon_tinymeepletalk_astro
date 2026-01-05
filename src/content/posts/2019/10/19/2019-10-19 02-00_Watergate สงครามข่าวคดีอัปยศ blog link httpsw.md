@@ -1,7 +1,7 @@
 ---
-title: "Watergate: สงครามข่าวคดีอัปยศ"
+title: 'Watergate: สงครามข่าวคดีอัปยศ'
 published: 2019-19-10
-description: ""
+description: ''
 image: ./images/72653933_2487673148014796_8972705534868193280_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Watergate: สงครามข่าวคดีอัปยศ #thought #first_impression
 blog link: https://wp.me/p7TSgy-2Ku
 

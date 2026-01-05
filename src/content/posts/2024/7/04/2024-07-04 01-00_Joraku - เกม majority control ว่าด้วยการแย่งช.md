@@ -1,14 +1,14 @@
 ---
-title: "Joraku - เกม majority control ว่าด้วยการแย่งชิงดินแดนของขุนศึกญี่ปุ่นไอเดียที่เกมขายเราคือระบบการลงทหารไปยึดพื้นผ่านระบบ Trick-Taking"
+title: Joraku - เกม majority control ว่าด้วยการแย่งชิงดินแดนของขุนศึกญี่ปุ่นไอเดียที่เกมขายเราคือระบบการลงทหารไปยึดพื้นผ่านระบบ
+  Trick-Taking
 published: 2024-04-07
-description: ""
+description: ''
 image: ./images/490102976_1262266149240762_7568340513230183806_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Joraku - เกม majority control ว่าด้วยการแย่งชิงดินแดนของขุนศึกญี่ปุ่นไอเดียที่เกมขายเราคือระบบการลงทหารไปยึดพื้นผ่านระบบ Trick-Taking
 
 ---

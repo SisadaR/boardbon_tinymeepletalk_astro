@@ -1,14 +1,13 @@
 ---
-title: "Table Battles (2nd Edition)"
+title: Table Battles (2nd Edition)
 published: 2024-06-01
-description: ""
+description: ''
 image: ./images/489405021_1256914383109272_1045942063704627759_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Table Battles (2nd Edition)
 
 verdict: การตีความเกมสงครามแบบดั่งเดิม มาย่นย่อเจาะการศึกมาเน้นๆ เหมาะสำหรับคนที่อยากได้เกมสองคนประจัญหน้าแบบเบาๆ

@@ -1,14 +1,13 @@
 ---
-title: "Rats of Wistar"
+title: Rats of Wistar
 published: 2024-04-02
-description: ""
+description: ''
 image: ./images/489630824_1257979259669451_235240857826360200_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Rats of Wistar
 
 ---

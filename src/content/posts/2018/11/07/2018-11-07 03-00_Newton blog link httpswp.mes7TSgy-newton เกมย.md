@@ -1,7 +1,7 @@
 ---
-title: "Newton"
+title: Newton
 published: 2018-07-11
-description: ""
+description: ''
 image: ./images/45490367_1910053402443443_8460657798672285696_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Newton #thought #first_impression
 blog link: https://wp.me/s7TSgy-newton
 

@@ -1,7 +1,7 @@
 ---
-title: "Calico"
+title: Calico
 published: 2020-30-08
-description: ""
+description: ''
 image: ./images/118311955_3255219867926783_1338215120529864013_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Calico #bite_size #first_impression
 blog link: https://boardnbon.wordpress.com/2020/08/29/calico/
 .

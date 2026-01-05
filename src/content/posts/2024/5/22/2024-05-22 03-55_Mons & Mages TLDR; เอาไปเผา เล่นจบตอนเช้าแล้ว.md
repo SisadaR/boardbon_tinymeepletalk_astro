@@ -1,14 +1,13 @@
 ---
-title: "Mons & Mages"
+title: Mons & Mages
 published: 2024-22-05
-description: ""
+description: ''
 image: ./images/489339527_1261037616030282_6693676152949581207_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Mons & Mages
 
 TLDR; เอาไปเผา เล่นจบตอนเช้าแล้วทำอารมณ์อยากเล่นเกมต่อตอนบ่ายเหือดแห้ง เกมไม่ได้ห่วย แต่มันไม่รู้จะจอยกี่โมงแล้วตัดจบไม่ได้นี้ทรมาณฉิบหาย

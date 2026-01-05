@@ -1,7 +1,7 @@
 ---
-title: "Dungeons & Dragons: Builders of Baldur's Gate"
+title: 'Dungeons & Dragons: Builders of Baldur''s Gate'
 published: 2025-12-08
-description: ""
+description: ''
 image: ./images/PC070075.jpg
 tags:
   - กบเฉย

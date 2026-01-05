@@ -1,7 +1,7 @@
 ---
-title: "De Vulgari Eloquentia: เดินทางสร้างภาษา"
+title: 'De Vulgari Eloquentia: เดินทางสร้างภาษา'
 published: 2018-01-08
-description: ""
+description: ''
 image: ./images/38120023_1769206086528176_4719164757511241728_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 De Vulgari Eloquentia: เดินทางสร้างภาษา #thought
 blog link: https://wp.me/p7TSgy-2zr
 

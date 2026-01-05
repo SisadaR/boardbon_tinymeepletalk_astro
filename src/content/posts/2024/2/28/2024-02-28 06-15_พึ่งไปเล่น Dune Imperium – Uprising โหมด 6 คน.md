@@ -1,14 +1,13 @@
 ---
-title: "พึ่งไปเล่น Dune: Imperium – Uprising โหมด 6 คนมา สนุกดีครับ"
+title: 'พึ่งไปเล่น Dune: Imperium – Uprising โหมด 6 คนมา สนุกดีครับ'
 published: 2024-28-02
-description: ""
+description: ''
 image: ./images/489810953_1258738319593545_8743203638872837268_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 พึ่งไปเล่น Dune: Imperium – Uprising โหมด 6 คนมา สนุกดีครับ
 
 - เกมแบ่งออกเป็นทีมละ 3 คนนั่งสลับกัน

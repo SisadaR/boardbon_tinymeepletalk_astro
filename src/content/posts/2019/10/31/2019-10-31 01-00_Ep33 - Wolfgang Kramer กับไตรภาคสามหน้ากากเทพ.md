@@ -1,14 +1,13 @@
 ---
-title: "Ep33 - Wolfgang Kramer กับไตรภาคสามหน้ากากเทพเจ้าแอคชั่นพ้อยท์"
+title: Ep33 - Wolfgang Kramer กับไตรภาคสามหน้ากากเทพเจ้าแอคชั่นพ้อยท์
 published: 2019-31-10
-description: ""
+description: ''
 image: ./images/hqdefault.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Ep33 - Wolfgang Kramer กับไตรภาคสามหน้ากากเทพเจ้าแอคชั่นพ้อยท์
   
  

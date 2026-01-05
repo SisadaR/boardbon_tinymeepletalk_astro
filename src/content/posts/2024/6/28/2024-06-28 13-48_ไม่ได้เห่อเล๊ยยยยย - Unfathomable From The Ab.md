@@ -1,14 +1,13 @@
 ---
-title: "ไม่ได้เห่อเล๊ยยยยย - Unfathomable : From The Abyss"
+title: 'ไม่ได้เห่อเล๊ยยยยย - Unfathomable : From The Abyss'
 published: 2024-28-06
-description: ""
+description: ''
 image: ./images/490384050_1262216749245702_1207451693179182773_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 ไม่ได้เห่อเล๊ยยยยย - Unfathomable : From The Abyss
 
 อันนี้เป็นแนว preview ไว้ก่อนเพราะไม่รู้จะได้กางเล่นเมื่อไร แต่อยากเล่นไวๆแล้วววววววววว

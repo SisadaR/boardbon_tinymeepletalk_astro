@@ -1,7 +1,7 @@
 ---
 title: Last Light
 published: 2025-11-03
-description: ""
+description: ''
 image: ./images/PB020296.jpg
 tags:
   - กบโอเค

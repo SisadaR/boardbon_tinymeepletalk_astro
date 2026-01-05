@@ -1,7 +1,7 @@
 ---
-title: "Take The Galaxy"
+title: Take The Galaxy
 published: 2018-29-03
-description: ""
+description: ''
 image: ./images/513471659_24034227726266027_1696493664405309963_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Take The Galaxy #thought #first_impression
 blog link: https://wp.me/p7TSgy-2wC
 

@@ -1,7 +1,7 @@
 ---
-title: "Coconut Empire"
+title: Coconut Empire
 published: 2019-14-09
-description: ""
+description: ''
 image: ./images/70804504_2418294964952615_5970467272626536448_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Coconut Empire #บ่นเรื่อยเปื่อย #first_impression 
  
 เป็นการเขียนแบบไม่ค่อยมี format เท่าไร เพราะอันที่ใช้ประจำคิดว่าไม่เหมาะกับสิ่งที่จะเขียน เรียนให้ทราบไว้ก่อนว่าอยากให้อ่านในเชิงบันทึกความเห็นส่วนตัวมากกว่าอ่านเป็นบทความวิพากษ์วิจารณ์ (ซึ่งก็เหมือนอันอื่นที่เคยเขียนล่ะนะ)

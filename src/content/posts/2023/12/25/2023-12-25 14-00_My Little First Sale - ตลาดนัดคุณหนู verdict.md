@@ -1,14 +1,13 @@
 ---
-title: "My Little First Sale - ตลาดนัดคุณหนู"
+title: My Little First Sale - ตลาดนัดคุณหนู
 published: 2023-25-12
-description: ""
+description: ''
 image: ./images/489115414_1256661706467873_3438372187377783802_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 My Little First Sale - ตลาดนัดคุณหนู
 
 verdict: เกมแนว double guessing ดักทางสองชั้นว่าจะขายของให้ใครสำหรับผู้เล่นกลุ่มครอบครัว 

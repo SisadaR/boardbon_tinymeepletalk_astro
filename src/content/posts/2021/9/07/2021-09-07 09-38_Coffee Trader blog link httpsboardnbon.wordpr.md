@@ -1,7 +1,7 @@
 ---
-title: "Coffee Trader"
+title: Coffee Trader
 published: 2021-07-09
-description: ""
+description: ''
 image: ./images/471476632_9035749043207141_6626026509937789033_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Coffee Trader #thought #first_impression
 blog link: https://boardnbon.wordpress.com/2021/09/07/coffee-trader/
 

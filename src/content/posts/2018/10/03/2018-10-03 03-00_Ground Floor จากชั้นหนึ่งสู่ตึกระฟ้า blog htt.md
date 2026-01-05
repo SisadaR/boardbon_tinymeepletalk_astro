@@ -1,7 +1,7 @@
 ---
-title: "Ground Floor: จากชั้นหนึ่งสู่ตึกระฟ้า"
+title: 'Ground Floor: จากชั้นหนึ่งสู่ตึกระฟ้า'
 published: 2018-03-10
-description: ""
+description: ''
 image: ./images/43037217_1859241824191268_2957771525228331008_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Ground Floor: จากชั้นหนึ่งสู่ตึกระฟ้า #thought
 blog: https://wp.me/p7TSgy-2Az
 

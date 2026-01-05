@@ -1,7 +1,7 @@
 ---
-title: "Captain's Log"
+title: Captain's Log
 published: 2023-10-07
-description: ""
+description: ''
 image: ./images/486950867_1247566064044104_5298976984194704752_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Captain's Log #bitesize #first_impression 
 
 เกมแนว Sandbox ที่จะให้เราเป็นอะไรก็ได้ในยุคสมัยแห่งโจรสลัด เกมระดมทุนแรกของนักออกแบบ Anastasio Martinez 

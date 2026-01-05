@@ -1,7 +1,7 @@
 ---
-title: "Decrypto"
+title: Decrypto
 published: 2018-21-11
-description: ""
+description: ''
 image: ./images/46520343_1929442097171240_6195334769354473472_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Decrypto #thought #first_impression
 blog link: https://wp.me/s7TSgy-decrypto
 

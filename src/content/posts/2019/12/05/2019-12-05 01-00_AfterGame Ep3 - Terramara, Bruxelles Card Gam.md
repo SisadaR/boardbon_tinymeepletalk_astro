@@ -1,14 +1,13 @@
 ---
-title: "AfterGame Ep3 - Terramara, Bruxelles Card Game, Age of Steam"
+title: AfterGame Ep3 - Terramara, Bruxelles Card Game, Age of Steam
 published: 2019-05-12
-description: ""
+description: ''
 image: ./images/maxresdefault.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 AfterGame Ep3 - Terramara, Bruxelles Card Game, Age of Steam
 
 ▪️รอบนี้เป็นเกมใหม่สอง และเกมเก่า(ที่พึ่งมี reprint มาใหม่) หนึ่ง  ใครฟังแล้วคิดเห็นอย่างไรก็มาคุยกันนะครับ :)

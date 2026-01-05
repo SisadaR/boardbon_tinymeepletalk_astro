@@ -1,7 +1,7 @@
 ---
-title: "Pax Emancipation: ปลดโซ่ตรวนสู่อิสรภาพ"
+title: 'Pax Emancipation: ปลดโซ่ตรวนสู่อิสรภาพ'
 published: 2018-28-11
-description: ""
+description: ''
 image: ./images/46967592_1938869242895192_5576358831572647936_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Pax Emancipation: ปลดโซ่ตรวนสู่อิสรภาพ #thought
 ย่อหน้าค่อนข้างเยอะ แนะนำอ่านใน blog : https://wp.me/p7TSgy-2By
  

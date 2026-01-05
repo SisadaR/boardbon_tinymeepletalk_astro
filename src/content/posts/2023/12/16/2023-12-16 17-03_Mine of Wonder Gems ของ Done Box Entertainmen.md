@@ -1,14 +1,14 @@
 ---
-title: "Mine of Wonder Gems ของ Done Box Entertainment เป็นเกมแนว hand management + take that ที่ผมได้เล่นเป็นเกมแรกในงาน TIBM เลย (แต่มาโพสท้ายๆ... ไม่มีเหตุผลอะไรแค่พอดีในงานถ่ายเยอะแล้วพึ่งหารูปเจอ)"
+title: Mine of Wonder Gems ของ Done Box Entertainment เป็นเกมแนว hand management +
+  take that ที่ผมได้เล่นเป็นเกมแรกในงาน TIBM เลย (แต่มาโพสท้ายๆ... ไม่มีเหตุผลอะไรแค่พอดีในงานถ่ายเยอะแล้วพึ่งหารูปเจอ)
 published: 2023-16-12
-description: ""
+description: ''
 image: ./images/489907314_1256060409861336_4773057562627206219_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Mine of Wonder Gems ของ Done Box Entertainment เป็นเกมแนว hand management + take that ที่ผมได้เล่นเป็นเกมแรกในงาน TIBM เลย (แต่มาโพสท้ายๆ... ไม่มีเหตุผลอะไรแค่พอดีในงานถ่ายเยอะแล้วพึ่งหารูปเจอ)
 
 ---

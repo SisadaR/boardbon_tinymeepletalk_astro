@@ -1,7 +1,7 @@
 ---
-title: "Vaalbara"
+title: Vaalbara
 published: 2023-28-10
-description: ""
+description: ''
 image: ./images/488572685_1253198423480868_3732106906165800870_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Vaalbara #bite_size #first_impression 
 
 verdict: การ์ดเกมเล่นสั้นสไตล์ Citadels คั่นเวลาเพลินๆ รูปสวย

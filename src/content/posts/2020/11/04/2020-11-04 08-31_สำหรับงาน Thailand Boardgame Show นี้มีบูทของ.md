@@ -1,7 +1,8 @@
 ---
-title: "สำหรับงาน Thailand Boardgame Show นี้มีบูทของทีม Reviewer มากหน้าหลายตาด้วยนะครับ!! ทีมสาม ก. เองก็ได้รับเชิญไปด้วย"
+title: สำหรับงาน Thailand Boardgame Show นี้มีบูทของทีม Reviewer มากหน้าหลายตาด้วยนะครับ!!
+  ทีมสาม ก. เองก็ได้รับเชิญไปด้วย
 published: 2020-04-11
-description: ""
+description: ''
 image: ./images/123200724_3457353667713401_5563968372288818424_n.jpg
 tags:
   - archived
@@ -9,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 สำหรับงาน Thailand Boardgame Show นี้มีบูทของทีม Reviewer มากหน้าหลายตาด้วยนะครับ!! ทีมสาม ก. เองก็ได้รับเชิญไปด้วย
 
 บูธA2 นะครับ ใครยังไม่ลงทะเบียน รีบเลย ลงก่อนถูกกว่า งานได้แล้วตรงนี้  https://forms.gle/DXSmAktn1i5VhtX47

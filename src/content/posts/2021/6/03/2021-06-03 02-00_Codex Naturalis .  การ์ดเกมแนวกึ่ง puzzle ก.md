@@ -1,7 +1,7 @@
 ---
-title: "Codex Naturalis"
+title: Codex Naturalis
 published: 2021-03-06
-description: ""
+description: ''
 image: ./images/187960931_4055139404601488_4462867010747179035_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Codex Naturalis #bite_size
 .
 ▪️ การ์ดเกมแนวกึ่ง puzzle กึ่ง set collection ธีมหลวมๆว่าให้เรามาทำตำราเกี่ยวกับพืชและสัตว์ แต่เอาจริงๆก็คือวางการ์ดซ้อนเรียงต่อกันให้เป็นแต้มนั้นแหละ 

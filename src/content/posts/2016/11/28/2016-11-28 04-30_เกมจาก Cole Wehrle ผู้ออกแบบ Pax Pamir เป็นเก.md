@@ -1,7 +1,7 @@
 ---
-title: "เกมจาก Cole Wehrle ผู้ออกแบบ Pax Pamir"
+title: เกมจาก Cole Wehrle ผู้ออกแบบ Pax Pamir
 published: 2016-28-11
-description: ""
+description: ''
 image: ./images/pic3135977.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #short_rule_overview เกมจาก Cole Wehrle ผู้ออกแบบ Pax Pamir
 
 เป็นเกมแนว economic ที่อิงประวัติศาสตร์ในช่วงสงครามฝิ่นของจีน (ที่นำมาสู่การยกเกาะฮ่องกงให้อังกฤษ และการล่มสลายของราชวงศ์ในจีน) 

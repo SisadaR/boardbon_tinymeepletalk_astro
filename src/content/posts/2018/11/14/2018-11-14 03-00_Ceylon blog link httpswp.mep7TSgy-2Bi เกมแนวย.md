@@ -1,7 +1,7 @@
 ---
-title: "Ceylon"
+title: Ceylon
 published: 2018-14-11
-description: ""
+description: ''
 image: ./images/45856131_1919579371490846_7305388819560267776_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Ceylon #thought #first_impression
 blog link: https://wp.me/p7TSgy-2Bi
  

@@ -1,7 +1,7 @@
 ---
-title: "Ave Roma: พอยท์สลัดแห่งโรม"
+title: 'Ave Roma: พอยท์สลัดแห่งโรม'
 published: 2018-16-07
-description: ""
+description: ''
 image: ./images/37036484_1739908902791228_4705559271780122624_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Ave Roma:  พอยท์สลัดแห่งโรม
 blog link: https://wp.me/p7TSgy-2zb
 

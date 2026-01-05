@@ -1,7 +1,7 @@
 ---
-title: "Trade on the Tigris: เร่เข้ามาสู่การค้าแห่งลุ่มน้ำ"
+title: 'Trade on the Tigris: เร่เข้ามาสู่การค้าแห่งลุ่มน้ำ'
 published: 2019-05-03
-description: ""
+description: ''
 image: ./images/53523393_2085309158251199_8248222217926606848_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Trade on the Tigris: เร่เข้ามาสู่การค้าแห่งลุ่มน้ำ #thought
 blog link: https://wp.me/p7TSgy-2Ec
 

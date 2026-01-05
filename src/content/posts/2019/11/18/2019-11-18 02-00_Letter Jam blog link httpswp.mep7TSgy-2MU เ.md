@@ -1,7 +1,7 @@
 ---
-title: "Letter Jam"
+title: Letter Jam
 published: 2019-18-11
-description: ""
+description: ''
 image: ./images/78262538_2555568207891956_5508347942836109312_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Letter Jam #bite_size
 blog link: https://wp.me/p7TSgy-2MU
 

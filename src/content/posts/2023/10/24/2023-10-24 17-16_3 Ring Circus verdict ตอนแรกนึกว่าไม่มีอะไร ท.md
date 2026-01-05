@@ -1,7 +1,7 @@
 ---
-title: "3 Ring Circus"
+title: 3 Ring Circus
 published: 2023-24-10
-description: ""
+description: ''
 image: ./images/487506196_1252907493509961_4357815426923000527_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 3 Ring Circus #bite_size #first_impression 
 
 verdict : ตอนแรกนึกว่าไม่มีอะไร ที่ไหนได้ชิงจังหวะแย่งกันจัดแสดงกันผิดกับความน่ารักของอุปกรณ์จัดๆ

@@ -1,7 +1,7 @@
 ---
-title: "Night of the Ninja"
+title: Night of the Ninja
 published: 2022-20-12
-description: ""
+description: ''
 image: ./images/484020465_1232019212265456_8051771698480438866_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Night of the Ninja #bite_size  
 
 เกมปาร์ตี้แนวหาพวกที่จะให้เราแฝงตัวเป็นหนึ่งในสามตระกูลและจะต้องเลือกระหว่างการรอบเร้นซ่อนตัวหรือจะบุกเข้าสู้ รวมไปถึงการแชร์ข่าวสารหาคนที่เชื่อถือได้เพื่อปกป้องหัวหน้าตระกูลให้พ้นค่ำคืนนี้ รอบหนึ่งใช้เวลาเพียง 5 นาทีเท่านั้นเอง ผลงานของ Jusin Gary

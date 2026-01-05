@@ -1,14 +1,13 @@
 ---
-title: "Dominant Species: Marine"
+title: 'Dominant Species: Marine'
 published: 2021-26-02
-description: ""
+description: ''
 image: ./images/153737622_3763320803783351_2319710134057495477_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Dominant Species: Marine
 .
 blog link: https://boardnbon.wordpress.com/2021/02/25/dominant-species-marine/

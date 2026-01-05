@@ -1,14 +1,13 @@
 ---
-title: "Fit to Print"
+title: Fit to Print
 published: 2024-01-02
-description: ""
+description: ''
 image: ./images/488954380_1257963559671021_4744291816473354725_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Fit to Print
 
 เกมแนว puzzle แบบจับเวลาจริงที่จะให้เราหยิบข่างมาปั่นต้นฉบับเพื่อตีพิมพ์ในหนังสือพิมพ์ท้องถิ่น

@@ -1,7 +1,7 @@
 ---
-title: "Arkwright: The Card Game"
+title: 'Arkwright: The Card Game'
 published: 2021-26-11
-description: ""
+description: ''
 image: ./images/476440320_9271007983014578_3353021340131144162_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Arkwright: The Card Game #thought
 blog link: https://boardnbon.wordpress.com/2021/11/26/arkwright-the-card-game/
 

@@ -1,7 +1,7 @@
 ---
-title: "Marketplace: Business Battle"
+title: 'Marketplace: Business Battle'
 published: 2020-23-03
-description: ""
+description: ''
 image: ./images/90497528_2837009369747837_902214651402518528_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Marketplace: Business Battle #thought #first_impression
 blog link: https://wp.me/p7TSgy-2Rr
 

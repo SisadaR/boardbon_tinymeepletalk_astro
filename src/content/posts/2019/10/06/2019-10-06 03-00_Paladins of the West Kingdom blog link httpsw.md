@@ -1,14 +1,13 @@
 ---
-title: "Paladins of the West Kingdom"
+title: Paladins of the West Kingdom
 published: 2019-06-10
-description: ""
+description: ''
 image: ./images/72273930_2460215887427189_552664803827515392_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Paladins of the West Kingdom
 blog link: https://wp.me/p7TSgy-2Jg
 

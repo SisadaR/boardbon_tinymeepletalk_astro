@@ -1,7 +1,7 @@
 ---
-title: "Ground Floor กำลังจะ reprint!!!"
+title: Ground Floor กำลังจะ reprint!!!
 published: 2017-23-03
-description: ""
+description: ''
 image: ./images/509426899_24007971092225024_1127537726487587017_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #news Ground Floor กำลังจะ reprint!!!
 
 David Short ผู้ออกแบบเกมนี้ได้ประกาศว่า  Spielworxx  ( ค่ายที่ทำ La Granja, Arkwright, Solarius Mission) จะทำตัว second edition ออกมาในปี 2018 พร้อมกับการเปลี่ยนแปลงตามนี้ครับ

@@ -1,14 +1,13 @@
 ---
-title: "คุยเล่น KS ตัวใหม่ Clinic Deluxe Extensions"
+title: คุยเล่น KS ตัวใหม่ Clinic Deluxe Extensions
 published: 2021-02-02
-description: ""
+description: ''
 image: ./images/99c259d030ac573d64eb57040787b099_original.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 คุยเล่น KS ตัวใหม่ Clinic Deluxe Extensions 
 .
 ▪️ อะไรทำให้คุณน่าจะอยากได้? : โมดูลใหม่ๆนับไม่ถ้วน (25 อัน เท่ากับว่าตอนนี้มีเกือบ 50 ) และโหมด solo และถ้าคุณอยากจะสะสมเกมของนักออกแบบคนนี้ 

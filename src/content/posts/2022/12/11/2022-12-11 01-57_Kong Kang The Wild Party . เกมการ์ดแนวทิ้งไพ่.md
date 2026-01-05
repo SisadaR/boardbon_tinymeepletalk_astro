@@ -1,7 +1,7 @@
 ---
-title: "Kong Kang : The Wild Party"
+title: 'Kong Kang : The Wild Party'
 published: 2022-11-12
-description: ""
+description: ''
 image: ./images/482324357_1230393742428003_7028854247735581550_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Kong Kang : The Wild Party #bite_size
 
 .

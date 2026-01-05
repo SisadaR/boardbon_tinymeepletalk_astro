@@ -1,7 +1,7 @@
 ---
-title: "Challengers!"
+title: Challengers!
 published: 2023-08-10
-description: ""
+description: ''
 image: ./images/488643424_1251974106936633_5340805238491407565_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Challengers! #first_impression 
 
 verdict:  เกมปั้นเด็คมาสู้กันแบบออโต้เน้นลุ้นเอาฮา สนุกเพลินๆเล่นพร้อมกันได้ถึง 8 คน

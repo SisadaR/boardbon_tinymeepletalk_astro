@@ -1,7 +1,7 @@
 ---
-title: "Ecos: First Continent"
+title: 'Ecos: First Continent'
 published: 2019-28-12
-description: ""
+description: ''
 image: ./images/80543980_2648872688561507_4356236834133508096_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Ecos: First Continent #bite_size #first_impression
 blog link: https://wp.me/p7TSgy-2OQ
 

@@ -1,7 +1,7 @@
 ---
-title: "Maracaibo"
+title: Maracaibo
 published: 2019-24-12
-description: ""
+description: ''
 image: ./images/81376390_2638786976236745_4274147437737672704_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Maracaibo #thought
 blog link : https://wp.me/p7TSgy-2Ox
 

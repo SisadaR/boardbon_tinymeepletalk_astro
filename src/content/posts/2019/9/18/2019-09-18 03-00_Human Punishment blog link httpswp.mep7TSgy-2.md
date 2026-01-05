@@ -1,7 +1,7 @@
 ---
-title: "Human Punishment"
+title: Human Punishment
 published: 2019-18-09
-description: ""
+description: ''
 image: ./images/70431779_2424844477630997_1193818135954718720_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Human Punishment #thought
 blog link: https://wp.me/p7TSgy-2IC
 

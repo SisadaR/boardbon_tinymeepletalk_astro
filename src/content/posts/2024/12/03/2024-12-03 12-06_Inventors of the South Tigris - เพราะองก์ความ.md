@@ -1,14 +1,13 @@
 ---
-title: "Inventors of the South Tigris - เพราะองก์ความรู้นั้นต้องช่วยกันใช้"
+title: Inventors of the South Tigris - เพราะองก์ความรู้นั้นต้องช่วยกันใช้
 published: 2024-03-12
-description: ""
+description: ''
 image: ./images/492806129_1272254154908628_7930036425073471894_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Inventors of the South Tigris - เพราะองก์ความรู้นั้นต้องช่วยกันใช้
 
 เกมอันดับ 9 ในตระกูล 4 ทิศ และเป็นอันดับสุดท้ายของตัวทิศใต้ (ใต้ยุโรปก็คือแถบอาหรับ) โดยเกมนี้ถือว่าเป็นเกมที่หนักที่สุดของทีมนักออกแบบเลยทีเดียว

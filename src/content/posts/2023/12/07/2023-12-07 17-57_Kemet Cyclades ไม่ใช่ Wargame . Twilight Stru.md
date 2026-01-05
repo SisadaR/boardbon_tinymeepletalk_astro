@@ -1,14 +1,13 @@
 ---
-title: "Kemet / Cyclades ไม่ใช่ Wargame"
+title: Kemet / Cyclades ไม่ใช่ Wargame
 published: 2023-07-12
-description: ""
+description: ''
 image: ./images/maxresdefault.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Kemet / Cyclades ไม่ใช่ Wargame
 
 .

@@ -1,14 +1,13 @@
 ---
-title: "อารยธรรมจำลองจากเจ้าพ่อ point salad - Civolution"
+title: อารยธรรมจำลองจากเจ้าพ่อ point salad - Civolution
 published: 2024-31-10
-description: ""
+description: ''
 image: ./images/491577265_1266662185467825_2867498783475497003_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 อารยธรรมจำลองจากเจ้าพ่อ point salad - Civolution
 
 ในขณะที่ผมนึกว่า Stefan Feld แกจะไปหมกหมุ่นอยู่กับเกมตระกูลชื่อเมืองค่ายที่เกมคุณภาพไม่สมราคาอย่าง Queen ใครจะไปคิดว่าแกดันมีเวลาออกเกมใหม่กับค่ายอื่นด้วย แถมยังเป็นเกมที่เรียกได้ว่า 'หนัก' ที่สุดที่แกออกแบบมา

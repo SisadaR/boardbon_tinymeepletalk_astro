@@ -1,14 +1,15 @@
 ---
-title: "หลายปีก่อนมี content creator เจ้านึงที่ผมติดตามผลงานอยู่ในชื่อช่อง Take Your Chits (Christian Kang) คืองานเค้าสร้างสรรค์แล้วก็มีสไตล์ดีมาก เซ้นส์ตลกก็คันๆดี (ถ้าไม่เคยดูมาก่อนก็อารมณ์ Things Get Dicey)"
+title: หลายปีก่อนมี content creator เจ้านึงที่ผมติดตามผลงานอยู่ในชื่อช่อง Take Your
+  Chits (Christian Kang) คืองานเค้าสร้างสรรค์แล้วก็มีสไตล์ดีมาก เซ้นส์ตลกก็คันๆดี
+  (ถ้าไม่เคยดูมาก่อนก็อารมณ์ Things Get Dicey)
 published: 2022-18-09
-description: ""
+description: ''
 image: ./images/480426036_1214296600704384_3264531858707899654_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 หลายปีก่อนมี content creator เจ้านึงที่ผมติดตามผลงานอยู่ในชื่อช่อง Take Your Chits (Christian Kang) คืองานเค้าสร้างสรรค์แล้วก็มีสไตล์ดีมาก เซ้นส์ตลกก็คันๆดี (ถ้าไม่เคยดูมาก่อนก็อารมณ์ Things Get Dicey)
 
 ระหว่างกำลังไล่หาคลิปซักอย่างแล้วไปสะดุดที่ชื่อพอดีก็เลยกดเข้าไปดูซักหน่อย

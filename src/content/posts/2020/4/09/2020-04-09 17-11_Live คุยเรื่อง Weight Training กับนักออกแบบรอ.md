@@ -1,13 +1,12 @@
 ---
-title: "Live คุยเรื่อง Weight Training กับนักออกแบบรอบสอง วันศุกร์นี้สี่ทุ่มนะครับ"
+title: Live คุยเรื่อง Weight Training กับนักออกแบบรอบสอง วันศุกร์นี้สี่ทุ่มนะครับ
 published: 2020-09-04
-description: ""
+description: ''
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Live คุยเรื่อง Weight Training กับนักออกแบบรอบสอง วันศุกร์นี้สี่ทุ่มนะครับ
 
 เลื่อนเวลาเร็วขึ้นนึดนึง

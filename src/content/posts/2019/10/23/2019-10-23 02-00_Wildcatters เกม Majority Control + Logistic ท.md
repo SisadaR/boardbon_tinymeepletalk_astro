@@ -1,7 +1,7 @@
 ---
-title: "Wildcatters"
+title: Wildcatters
 published: 2019-23-10
-description: ""
+description: ''
 image: ./images/72744459_2496870670428377_5610532370223464448_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Wildcatters #mini_reviews 
 
 เกม Majority Control + Logistic ที่จะให้เรามาร่วมแรงร่วมใจ  (และหาจังหวะแทงข้างหลังโดยการรอเพื่อนเงินหมดก็บังคับให้มันต้องกู้เงินเสียดอกแพงหัวแตก) ส่งน้ำมันไปขายยังทวีปต่างๆ

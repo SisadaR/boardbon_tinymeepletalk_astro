@@ -1,7 +1,7 @@
 ---
-title: "Tibo"
+title: Tibo
 published: 2020-13-07
-description: ""
+description: ''
 image: ./images/107488646_3115889321859839_3302816608621366106_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Tibo #bite_size
 blog link: https://wp.me/p7TSgy-2TN
 .

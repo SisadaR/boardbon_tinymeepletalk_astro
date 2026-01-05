@@ -1,7 +1,7 @@
 ---
-title: "Nine Tiles Panic"
+title: Nine Tiles Panic
 published: 2020-08-01
-description: ""
+description: ''
 image: ./images/82368432_2672426979539411_7454957327611854848_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Nine Tiles Panic #bite_size
 blog link: https://wp.me/p7TSgy-2Pt
  

@@ -1,7 +1,7 @@
 ---
-title: "Nanty Narking"
+title: Nanty Narking
 published: 2019-02-11
-description: ""
+description: ''
 image: ./images/73323460_2518782071570570_5315272451163160576_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Nanty Narking #bitesize #first_impression
 blog link: https://wp.me/p7TSgy-2Lo
  

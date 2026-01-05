@@ -1,14 +1,13 @@
 ---
-title: "Zombicide: Night of the Living Dead [ฉบับแปลไทย]"
+title: 'Zombicide: Night of the Living Dead [ฉบับแปลไทย]'
 published: 2025-03-05
-description: ""
+description: ''
 image: ./images/494676493_1281209737346403_3997405181725519454_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Zombicide: Night of the Living Dead [ฉบับแปลไทย]
 
 ชื่อของ George A. Romero นั้นแทบเป็นไปไม่ได้เลยที่คนที่เคยเข้าโรงหนังจะไม่รู้จัก เพราะเค้าคือเจ้าพ่อหนังซอมบี้ แม้ว่าเค้าจะไม่ใช่คนแรกที่ทำให้โลกรู้จักคำนี้ (หรือเป็นคนแรกที่ทำหนังแนวนี้) แต่เราก็สามารถพูดได้ว่าเค้าคือ trend setter ที่หนังซอมบี้ที่ตามหลังจากหนังเรื่องแรกของเค้าออกฉายจะต้องเดินรอยตาม แฉกเช่นเดียวกับที่ JRR Tolkien สร้างภาพลักษณ์ให้กับเอลฟ์ 

@@ -1,7 +1,7 @@
 ---
-title: "Endless Winter: Paleoamericans"
+title: 'Endless Winter: Paleoamericans'
 published: 2022-07-12
-description: ""
+description: ''
 image: ./images/483433785_1230098012457576_4181554066443038377_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Endless Winter: Paleoamericans #bite_size
 
 เกมยูโรระดับกลางที่ว่าด้วยการเอาตัวรอดและพัฒนาหมู่บ้านในยุคหิน ผลงานของ Stan Kordonskiy (Dice Hospital)

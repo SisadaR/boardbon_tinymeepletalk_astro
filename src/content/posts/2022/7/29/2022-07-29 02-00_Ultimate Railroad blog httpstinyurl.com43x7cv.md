@@ -1,7 +1,7 @@
 ---
-title: "Ultimate Railroad"
+title: Ultimate Railroad
 published: 2022-29-07
-description: ""
+description: ''
 image: ./images/484781535_9498980526883988_5344645314732381774_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Ultimate Railroad #thought
 blog: https://tinyurl.com/43x7cv7u
 

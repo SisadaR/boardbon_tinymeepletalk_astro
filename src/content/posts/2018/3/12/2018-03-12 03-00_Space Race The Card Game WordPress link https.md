@@ -1,7 +1,7 @@
 ---
-title: "Space Race: The Card Game"
+title: 'Space Race: The Card Game'
 published: 2018-12-03
-description: ""
+description: ''
 image: ./images/29063703_1593641680751285_5831008361675489280_n.jpg
 tags:
   - archived
@@ -12,7 +12,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Space Race: The Card Game 
 #thought #first_impression
 WordPress link: https://wp.me/p7TSgy-2vH

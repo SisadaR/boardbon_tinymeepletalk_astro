@@ -1,7 +1,7 @@
 ---
-title: "Key Flow"
+title: Key Flow
 published: 2019-12-02
-description: ""
+description: ''
 image: ./images/51548066_2049722681809847_1680041127152975872_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Key Flow #thought
 blog link: https://wp.me/p7TSgy-2DQ
 

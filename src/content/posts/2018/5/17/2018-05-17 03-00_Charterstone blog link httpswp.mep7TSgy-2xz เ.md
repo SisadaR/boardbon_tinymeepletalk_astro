@@ -1,7 +1,7 @@
 ---
-title: "Charterstone"
+title: Charterstone
 published: 2018-17-05
-description: ""
+description: ''
 image: ./images/32855174_1663317237117062_2202646472783036416_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Charterstone #thought
 blog link: https://wp.me/p7TSgy-2xz
  

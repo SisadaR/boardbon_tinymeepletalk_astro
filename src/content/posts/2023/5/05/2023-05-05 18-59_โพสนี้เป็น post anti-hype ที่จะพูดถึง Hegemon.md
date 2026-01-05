@@ -1,14 +1,14 @@
 ---
-title: "โพสนี้เป็น post anti-hype ที่จะพูดถึง Hegemony: Lead Your Class to Victory ในบางแง่มุม 'ที่ผมไม่ชอบ'"
+title: 'โพสนี้เป็น post anti-hype ที่จะพูดถึง Hegemony: Lead Your Class to Victory
+  ในบางแง่มุม ''ที่ผมไม่ชอบ'''
 published: 2023-05-05
-description: ""
+description: ''
 image: ./images/486663110_1242784174522293_4348717121952474793_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 โพสนี้เป็น post anti-hype ที่จะพูดถึง Hegemony: Lead Your Class to Victory  ในบางแง่มุม 'ที่ผมไม่ชอบ' 
 
 .

@@ -1,14 +1,13 @@
 ---
-title: "Worker Placement เกมแรกของโลกและต้นกำเนิดเกม Food Chain Magnate - Bus"
+title: Worker Placement เกมแรกของโลกและต้นกำเนิดเกม Food Chain Magnate - Bus
 published: 2024-28-06
-description: ""
+description: ''
 image: ./images/489823895_1262216172579093_1282962652791711024_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Worker Placement เกมแรกของโลกและต้นกำเนิดเกม Food Chain Magnate - Bus
 
 เกมนี้ออกมาครั้งแรกในปี 1999 ไอเดียเรียบง่ายว่าด้วยการแข่งขันกันวางสัมปทานรถบัสพร้อมกับรับส่งผู้โดยสาร แต่ในความเป็นจริงแล้วเป็นเกมที่แม่งเปิดพื้นที่ให้คนในวงแสดงความจัญออกมาได้อย่างโหดเหี้ยม

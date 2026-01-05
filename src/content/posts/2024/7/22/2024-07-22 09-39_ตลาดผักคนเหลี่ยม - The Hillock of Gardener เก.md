@@ -1,14 +1,13 @@
 ---
-title: "ตลาดผักคนเหลี่ยม - The Hillock of Gardener"
+title: ตลาดผักคนเหลี่ยม - The Hillock of Gardener
 published: 2024-22-07
-description: ""
+description: ''
 image: ./images/491267099_1262562269211150_7145934927410948723_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 ตลาดผักคนเหลี่ยม - The Hillock of Gardener
 
 เกมระดับ tinker filler ที่จะให้ปลูกผักมาขายที่ตลาดสด แต่ว่าราคานี้จะขายได้กำไรหรือขาดทุนก็แล้วแต่ความจัญของเหล่าเพื่อนพ่อค้านี้แหละ

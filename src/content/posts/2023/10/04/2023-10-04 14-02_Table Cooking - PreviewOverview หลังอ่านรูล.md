@@ -1,13 +1,12 @@
 ---
-title: "Table Cooking - [Preview/Overview] หลังอ่านรูลจบ"
+title: Table Cooking - [Preview/Overview] หลังอ่านรูลจบ
 published: 2023-04-10
-description: ""
+description: ''
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Table Cooking - [Preview/Overview] หลังอ่านรูลจบ 
 
 verdict : ถ้าซื้อเพราะสวยอยากเอาไปสะสมหรือเอาไปแนะนำเด็กใหม่ใสๆนี้คุ้มค่าค่าแน่นอน นี้มันศิลปะที่เล่นได้ชัดๆ งานสวยมาก

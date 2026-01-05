@@ -1,7 +1,7 @@
 ---
-title: "Irish Gauge"
+title: Irish Gauge
 published: 2019-27-10
-description: ""
+description: ''
 image: ./images/74322377_2505753876206723_1401678309514805248_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Irish Gauge #thought
 blog: https://wp.me/p7TSgy-2L2
 

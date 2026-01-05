@@ -1,7 +1,7 @@
 ---
-title: "Vindication"
+title: Vindication
 published: 2019-10-11
-description: ""
+description: ''
 image: ./images/74367914_2536542899794487_4379903731727073280_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Vindication #thought
 blog link: https://wp.me/p7TSgy-2Ma
 

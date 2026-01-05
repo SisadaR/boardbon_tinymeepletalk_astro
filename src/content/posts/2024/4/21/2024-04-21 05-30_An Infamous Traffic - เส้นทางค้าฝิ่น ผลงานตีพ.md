@@ -1,7 +1,7 @@
 ---
-title: "An Infamous Traffic - เส้นทางค้าฝิ่น"
+title: An Infamous Traffic - เส้นทางค้าฝิ่น
 published: 2024-21-04
-description: ""
+description: ''
 image: ./images/489914919_1260078526126191_4584453468269296078_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 An Infamous Traffic - เส้นทางค้าฝิ่น #หยิบมาเล่า 
 
 ผลงานตีพิมพ์ชิ้นที่สองของ Cole Wehrle ที่หลายคนจะรู้จักในฐานะนักออกแบบ Root แต่สำหรับผมแล้วก็ติดตามเค้ามาก่อนหน้านั้นเพราะว่าเค้าเป็นคนที่ออกแบบ 'draft แรกๆ' ของ Pax Renaissance ที่ต่อมาจะแยกกลายเป็น Pax Pamir ที่เป็นเกมกบโปรดชอบมากทั้งคู่ (ไม่อยากเรียกตัวเองว่าติ่งเพราะหลายเกมของเค้าผมก็ไม่ได้อินอะไร)

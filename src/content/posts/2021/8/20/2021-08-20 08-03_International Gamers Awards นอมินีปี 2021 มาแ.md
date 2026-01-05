@@ -1,14 +1,13 @@
 ---
-title: "International Gamers Awards นอมินีปี 2021 มาแล้ว"
+title: International Gamers Awards นอมินีปี 2021 มาแล้ว
 published: 2021-20-08
-description: ""
+description: ''
 image: ./images/470219665_8950554891726557_760021807121995051_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 International Gamers Awards นอมินีปี 2021 มาแล้ว
 
 โดยรางวัลนี้จะเน้นที่กลุ่มเกมเมอร์ที่ชอบเกมซับซ้อนหน่อย (เทียบง่ายๆก็เริ่มประมาณถ้วยดำสมัยนี้) โดยจะมีสามหมวดคือ Multiplayer, Two Player และ Solo

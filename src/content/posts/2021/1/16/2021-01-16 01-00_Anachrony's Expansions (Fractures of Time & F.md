@@ -1,7 +1,7 @@
 ---
-title: "Anachrony's Expansions (Fractures of Time & Future Imperfect)"
+title: Anachrony's Expansions (Fractures of Time & Future Imperfect)
 published: 2021-16-01
-description: ""
+description: ''
 image: ./images/139255780_3651714614943971_8123567027871422908_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Anachrony's Expansions (Fractures of Time & Future Imperfect) #bite_size
 .
 🔹 ผมเคยเขียนเกี่ยวกับเกมตัวหลักไว้ตั้งแต่สี่ปีที่แล้ว อันนี้เอาตัวเสริมใหม่จากมุมมองตัวเองมาเล่าสู่กันฟังครับ ส่วนรีวิวอันเก่าอ่านได้ตรงนี้เลย https://tinyurl.com/yyz7tycx

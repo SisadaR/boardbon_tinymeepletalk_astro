@@ -1,14 +1,13 @@
 ---
-title: "สี่พยัคฆ์แห่งเอเชีย - Asian Tigers: A Story of Prosperity"
+title: 'สี่พยัคฆ์แห่งเอเชีย - Asian Tigers: A Story of Prosperity'
 published: 2024-21-10
-description: ""
+description: ''
 image: ./images/491401256_1266250072175703_891120307443411607_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 สี่พยัคฆ์แห่งเอเชีย - Asian Tigers: A Story of Prosperity 
 
 เกมแนวยูโรระดับกลางหนักจากทีมนักออกแบบที่มีคนรอคอยผลงานกันนานมากอย่าง Nuno Bizarro Sentieiro และ Paulo Soledade เพราะผลงานเก่าของทั้งคู่อย่าง Nippon, Panamax และ Medeira (พูดแล้วเศร้าแป๊บ) นั้นเป็นที่ตราตรึงของแฟนๆยูโรเป็นจำนวนมาก

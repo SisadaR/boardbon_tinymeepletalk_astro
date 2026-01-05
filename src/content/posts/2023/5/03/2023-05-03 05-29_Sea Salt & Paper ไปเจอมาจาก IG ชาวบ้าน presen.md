@@ -1,13 +1,13 @@
 ---
-title: "Sea Salt & Paper ไปเจอมาจาก IG ชาวบ้าน presentation สวยมัก อยากได้เฉย สนุกกับเล่นไงไม่สำคัญล่ะ ใครสั่งขอพ่วงกล่องนึงจิ...."
+title: Sea Salt & Paper ไปเจอมาจาก IG ชาวบ้าน presentation สวยมัก อยากได้เฉย สนุกกับเล่นไงไม่สำคัญล่ะ
+  ใครสั่งขอพ่วงกล่องนึงจิ....
 published: 2023-03-05
-description: ""
+description: ''
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Sea Salt & Paper ไปเจอมาจาก IG ชาวบ้าน presentation สวยมัก อยากได้เฉย สนุกกับเล่นไงไม่สำคัญล่ะ ใครสั่งขอพ่วงกล่องนึงจิ....
 
 .

@@ -1,7 +1,7 @@
 ---
-title: "Puerto Rico ลิขสิทธิ์จีน (มีสองภาษา CN/EN)"
+title: Puerto Rico ลิขสิทธิ์จีน (มีสองภาษา CN/EN)
 published: 2018-21-03
-description: ""
+description: ''
 image: ./images/29425043_1604591716322948_7786659880969961472_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #mini_unbox Puerto Rico ลิขสิทธิ์จีน (มีสองภาษา CN/EN) 
  
  

@@ -1,7 +1,9 @@
 ---
-title: "'In Oath, there are no fancy production tricks, app-assisted mechanisms or production gimmicks. The game can be reset at any time and doesn't require the same play group from one game to the next.'"
+title: '''In Oath, there are no fancy production tricks, app-assisted mechanisms or
+  production gimmicks. The game can be reset at any time and doesn''t require the
+  same play group from one game to the next.'''
 published: 2019-15-10
-description: ""
+description: ''
 image: ./images/pic4997248.png
 tags:
   - archived
@@ -9,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #news "In Oath, there are no fancy production tricks, app-assisted mechanisms or production gimmicks. The game can be reset at any time and doesn't require the same play group from one game to the next."
 
 เกมใหม่จากนักออกแบบ auto buy ของผม Cole Wehrle (Root, Pax Pamir) เท่าที่ตามน่าจะออก KS ต้นปีหน้า เนื่องจากผลงานที่ยังไม่เคยผิดหวัง (โดยเฉพาะเกมแนว Experience) ยังไงผมก็จัดแน่นอน!!

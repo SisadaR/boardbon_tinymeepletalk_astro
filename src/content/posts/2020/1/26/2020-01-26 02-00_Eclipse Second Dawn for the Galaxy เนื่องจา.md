@@ -1,7 +1,7 @@
 ---
-title: "Eclipse: Second Dawn for the Galaxy"
+title: 'Eclipse: Second Dawn for the Galaxy'
 published: 2020-26-01
-description: ""
+description: ''
 image: ./images/84217623_2711630108952431_7965580418860711936_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Eclipse: Second Dawn for the Galaxy #not_a_review
 
 ▪️เนื่องจากผมเคยเขียนเกี่ยวกับฉบับตีพิมพ์ครั้งแรกไว้แล้ว คงไม่เขียนซ้ำ เลยจะขอเขียนสรุปส่วนที่แตกต่างพร้อมข้อเสนอแนะกับคนที่สนใจครับ

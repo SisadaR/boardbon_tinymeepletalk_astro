@@ -1,7 +1,7 @@
 ---
-title: "Voidfall"
+title: Voidfall
 published: 2023-05-10
-description: ""
+description: ''
 image: ./images/487809190_1251777676956276_5734273662061044121_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Voidfall #first_impression 
 
 verdict: เกมยูโรธีมอวกาศระดับหัวแถวของปี!!  แม้จะเป็น 4X ห่วยๆที่ไม่รู้จะยกคำนี้มาโปรโมทตอนระดมทุนทำไม ชื่อนักออกแบบกับคุณภาพเกมก็ขายได้แล้ว 

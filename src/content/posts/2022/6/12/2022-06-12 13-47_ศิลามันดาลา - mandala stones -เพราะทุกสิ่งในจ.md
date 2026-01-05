@@ -1,7 +1,7 @@
 ---
-title: "ศิลามันดาลา - mandala stones"
+title: ศิลามันดาลา - mandala stones
 published: 2022-12-06
-description: ""
+description: ''
 image: ./images/482032424_9471024956346212_3171281067231948956_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 ศิลามันดาลา - mandala stones #bite_size
 
 -เพราะทุกสิ่งในจักรวาลนั้นหมุนวนเป็นวงกลม ไม่มีจุดเริ่มต้นและไม่มีจุดสิ้นสุด-

@@ -1,7 +1,7 @@
 ---
-title: "Belfort"
+title: Belfort
 published: 2018-05-09
-description: ""
+description: ''
 image: ./images/40988418_1824603740988410_4466265319207337984_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Belfort #thought
 blog link: https://wp.me/s7TSgy-belfort
 

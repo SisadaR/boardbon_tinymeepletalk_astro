@@ -1,7 +1,7 @@
 ---
-title: "Rajas of the Ganges"
+title: Rajas of the Ganges
 published: 2018-30-04
-description: ""
+description: ''
 image: ./images/31252783_1642181919230594_7253475313630314496_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Rajas of the Ganges  #thought #first_impression
 blog link: https://wp.me/p7TSgy-2xh
 

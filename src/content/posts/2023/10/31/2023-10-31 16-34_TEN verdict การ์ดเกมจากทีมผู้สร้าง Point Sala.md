@@ -1,7 +1,7 @@
 ---
-title: "TEN"
+title: TEN
 published: 2023-31-10
-description: ""
+description: ''
 image: ./images/488649813_1253850820082295_421332649989919721_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 TEN #bite_size #first_impression 
 
 verdict : การ์ดเกมจากทีมผู้สร้าง Point Salad จัด set เรียงเลขที่ดูงงๆแต่จริงๆก็ใช้ได้เลยนินา

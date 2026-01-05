@@ -1,7 +1,8 @@
 ---
-title: "Through The Ages : A New Story of Civilization เป็นฉบับปรับปรุงใหม่ของสุดยอดเกมแนวสร้างอารยธรรม ตัวนี้เอาเกมเดิมมาทำใหม่ใส่ภาพให้สวยงามกับปรับกติกาให้สมดุลและคลีนมากขึ้น"
+title: 'Through The Ages : A New Story of Civilization เป็นฉบับปรับปรุงใหม่ของสุดยอดเกมแนวสร้างอารยธรรม
+  ตัวนี้เอาเกมเดิมมาทำใหม่ใส่ภาพให้สวยงามกับปรับกติกาให้สมดุลและคลีนมากขึ้น'
 published: 2017-22-05
-description: ""
+description: ''
 image: ./images/510955104_24013513161670817_8640680430371456118_n.jpg
 tags:
   - archived
@@ -9,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #thought Through The Ages : A New Story of Civilization เป็นฉบับปรับปรุงใหม่ของสุดยอดเกมแนวสร้างอารยธรรม ตัวนี้เอาเกมเดิมมาทำใหม่ใส่ภาพให้สวยงามกับปรับกติกาให้สมดุลและคลีนมากขึ้น
  
  

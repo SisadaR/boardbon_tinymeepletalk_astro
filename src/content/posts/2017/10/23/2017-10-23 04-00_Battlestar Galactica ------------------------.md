@@ -1,7 +1,7 @@
 ---
-title: "Battlestar Galactica"
+title: Battlestar Galactica
 published: 2017-23-10
-description: ""
+description: ''
 image: ./images/513461883_24024051160617017_5793242695094526715_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #thought Battlestar Galactica
 ----------------------------------------------------------
 เราให้กำเนิดพวกมัน 

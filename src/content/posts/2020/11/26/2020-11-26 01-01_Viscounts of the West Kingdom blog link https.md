@@ -1,14 +1,13 @@
 ---
-title: "Viscounts of the West Kingdom"
+title: Viscounts of the West Kingdom
 published: 2020-26-11
-description: ""
+description: ''
 image: ./images/127933280_3517867754995325_2391716390609557694_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Viscounts of the West Kingdom 
 blog link: https://tinyurl.com/y4z6w23n
 

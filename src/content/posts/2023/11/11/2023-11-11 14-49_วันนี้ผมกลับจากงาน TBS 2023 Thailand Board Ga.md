@@ -1,14 +1,13 @@
 ---
-title: "วันนี้ผมกลับจากงาน TBS 2023 Thailand Board Game Show ด้วยความรู้สึกหนักอึ้ง...."
+title: วันนี้ผมกลับจากงาน TBS 2023 Thailand Board Game Show ด้วยความรู้สึกหนักอึ้ง....
 published: 2023-11-11
-description: ""
+description: ''
 image: ./images/488418719_1254074063393304_8332191165221942322_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 วันนี้ผมกลับจากงาน TBS 2023 Thailand Board Game Show ด้วยความรู้สึกหนักอึ้ง....
 
 .

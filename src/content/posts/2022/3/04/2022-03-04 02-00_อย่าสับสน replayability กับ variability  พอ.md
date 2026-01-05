@@ -1,14 +1,13 @@
 ---
-title: "อย่าสับสน replayability กับ variability"
+title: อย่าสับสน replayability กับ variability
 published: 2022-04-03
-description: ""
+description: ''
 tags:
   - archived
   - บ่นไปเรื่อย
 category: archived
 draft: false
 ---
-
 อย่าสับสน replayability กับ variability #บ่นไปเรื่อย 
 
 ▪️ พอดีมีเหตุให้ฉุกคิดขึ้นมา เลยคิดว่าอยากแชร์มุมมองนิดนีง ออกตัวก่อนว่าไม่ได้เป็นข้อเขียนยกมาเพื่อบอกว่าเกมไหนดีไม่ดีนะ

@@ -1,7 +1,7 @@
 ---
-title: "Antiquity reprint มาแน่ปีหน้า!!"
+title: Antiquity reprint มาแน่ปีหน้า!!
 published: 2016-01-11
-description: ""
+description: ''
 image: ./images/493872571_3899905816918327_8564774208613669741_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Antiquity reprint มาแน่ปีหน้า!!
 
 เกมนี้สนุกมาก (แต่ก็ fiddy มาก) map แบ่งเป็นสองส่วนคือส่วนกลางที่เราจะวางไทล์เมือง ตัดไม้ ตกปลา ปลูกข้าว (ใช่ครับ Agricola ยืมระบบเกมนี้มา) มีการไปเปิดเมืองใหม่ด้วย คนยุคกลางแม่มก็บัดซบมากยิ่งเล่นยิ่งมีแต่ token มลพิษเกิดรัวๆ ถ้ามีเยอะไปคนในเมืองก็ตายนะฮะ

@@ -1,7 +1,7 @@
 ---
-title: "Nine Tiles Pokemon Dokoda"
+title: Nine Tiles Pokemon Dokoda
 published: 2023-27-11
-description: ""
+description: ''
 image: ./images/488588023_1255663126567731_1874511661492835923_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Nine Tiles Pokemon Dokoda #bite_size 
 
 verdict: เกมสำหรับสายสปีดที่คุณกำลังคิดว่ามันเป็นเกมเด็กเล่นง่ายๆโง่ๆอยู่ใช่ป่ะ? โอเคมันเล่นง่ายและโง่จริง แต่จะทำให้ชนะเพราะไวสุดน่ะ ก็มีกำหมัดกันบ้างแน่

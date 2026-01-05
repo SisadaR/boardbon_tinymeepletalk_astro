@@ -1,7 +1,7 @@
 ---
-title: ""
+title: ''
 published: 2022-19-05
-description: ""
+description: ''
 image: ./images/482346211_9435222773259764_1309728638996684356_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #Hallertau #thought
 
 blog link: https://tinyurl.com/2p8b87kt

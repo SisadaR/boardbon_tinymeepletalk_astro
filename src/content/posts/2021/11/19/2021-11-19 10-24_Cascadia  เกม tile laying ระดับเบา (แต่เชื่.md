@@ -1,7 +1,7 @@
 ---
-title: "Cascadia"
+title: Cascadia
 published: 2021-19-11
-description: ""
+description: ''
 image: ./images/476805823_9264545633660813_8049802258679079509_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Cascadia #bite_size #first_impression
 
 ▪️ เกม tile laying ระดับเบา (แต่เชื่อได้ว่าเล่นแล้วหัวอุ่นกว่าที่คุณคิด) ที่จะมาให้เราสรรสร้างพื้นที่ธรรมชาติและจัดสรรเอาสัตว์มาอาศัยอยู่ให้เกิดแต้ม ผลงานของ Randy Flynn

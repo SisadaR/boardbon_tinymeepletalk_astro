@@ -1,7 +1,7 @@
 ---
-title: "Wildcatters: Capstone Games Reprint Edition"
+title: 'Wildcatters: Capstone Games Reprint Edition'
 published: 2019-22-10
-description: ""
+description: ''
 image: ./images/72964561_2494019637380147_6078653805140901888_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Wildcatters: Capstone Games Reprint Edition #bite_size
 
 ▪️เกมว่าด้วยการขุดเจาะน้ำมันเพื่อลำเลียงไปขายยังพื้นที่ทั่วโลก เราจะต้องสร้างแท่นขุดเจาะ สร้างเส้นทางลำเลียงผ่านรถไฟและเรือ รวมไปถึงโรงกลั่นเพื่อแปรรูปน้ำมันอีกที ความสนุกของเกมนี้คือทำเองหมดไม่ได้เพราะเงินไม่พอ แถมกิจกรรมในเกมนี้ใช้เงินแทบทุกจุดทำให้ต้องอาศัยผู้เล่นคนอื่นด้วย 

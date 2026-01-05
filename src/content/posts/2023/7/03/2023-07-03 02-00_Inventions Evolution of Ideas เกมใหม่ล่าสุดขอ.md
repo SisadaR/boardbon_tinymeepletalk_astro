@@ -1,7 +1,7 @@
 ---
-title: "Inventions: Evolution of Ideas"
+title: 'Inventions: Evolution of Ideas'
 published: 2023-03-07
-description: ""
+description: ''
 image: ./images/487376325_1246872274113483_4540055971136069383_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Inventions: Evolution of Ideas #first_impression #bite_size #บ่นงงๆ 
 
 เกมใหม่ล่าสุดของ Vital Lacerda ธีมว่าด้วยการส่งต่อความรู้และเทคโนโลยี อันนี้เป็นตัว PnP ที่ทางผู้นำเข้า (และแปลคู่มือไทย) ทำตัวทดสอบมาให้ลองเล่น

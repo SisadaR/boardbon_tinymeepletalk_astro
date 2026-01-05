@@ -1,14 +1,13 @@
 ---
-title: "Ep28: Dominion มารดาแห่ง Deck Building และบรรดาลูกหลาน"
+title: 'Ep28: Dominion มารดาแห่ง Deck Building และบรรดาลูกหลาน'
 published: 2019-04-09
-description: ""
+description: ''
 image: ./images/hqdefault.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Ep28: Dominion มารดาแห่ง Deck Building และบรรดาลูกหลาน
 
 หนึ่งในระบบการเล่นที่เรียกได้ว่าเป็นตัวฮิตสุดๆของหลายคน รอบนี้เลยมาคุยที่มาที่ไปของมันกันหน่อย ถ้าใครฟังแล้วรู้สึกคุ้นๆก็คือจริงๆเราพูดเรื่องนี้แบบแทรกๆไปกันหลายตอนแล้วแหละ แต่รอบนี้ยกมาเป็นหัวข้อเฉพาะบ้าง

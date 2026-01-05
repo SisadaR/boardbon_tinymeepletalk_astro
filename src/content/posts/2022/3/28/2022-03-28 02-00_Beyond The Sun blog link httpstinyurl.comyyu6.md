@@ -1,7 +1,7 @@
 ---
-title: "Beyond The Sun"
+title: Beyond The Sun
 published: 2022-28-03
-description: ""
+description: ''
 image: ./images/481093873_9417431258372249_4473604025789516528_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Beyond The Sun #thought
 blog link: https://tinyurl.com/yyu63wnt
 

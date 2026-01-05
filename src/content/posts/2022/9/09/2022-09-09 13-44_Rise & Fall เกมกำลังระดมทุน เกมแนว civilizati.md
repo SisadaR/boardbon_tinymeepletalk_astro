@@ -1,14 +1,13 @@
 ---
-title: "Rise & Fall เกมกำลังระดมทุน เกมแนว civilization ขยายบ้านเมือง"
+title: Rise & Fall เกมกำลังระดมทุน เกมแนว civilization ขยายบ้านเมือง
 published: 2022-09-09
-description: ""
+description: ''
 image: ./images/484831597_9518921521556555_4605494679421586493_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Rise & Fall เกมกำลังระดมทุน เกมแนว civilization ขยายบ้านเมือง
 
 + สวย สวยเหี้ยๆ มีเปิ้ลไม้ลงสีลงลายแบบไม่จืดชืด ไม่สีโดดเป็นการ์ตูน ไทล์แผนที่มีมิติ

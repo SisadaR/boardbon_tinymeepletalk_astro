@@ -1,7 +1,7 @@
 ---
-title: "Pipeline: ต่อท่อกลั่นน้ำมัน"
+title: 'Pipeline: ต่อท่อกลั่นน้ำมัน'
 published: 2019-06-08
-description: ""
+description: ''
 image: ./images/67778904_2345529938895785_6744673022226989056_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Pipeline: ต่อท่อกลั่นน้ำมัน #thought #first_impression
 blog link: https://wp.me/p7TSgy-2Hb
 blockdit: https://tinyurl.com/y3fydzep

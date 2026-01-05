@@ -1,7 +1,7 @@
 ---
-title: "เป็นเกม PnP ระดับ hardcore weight 3.9 เล่น 4hr ตัวเกมมีแต่การ์ด"
+title: เป็นเกม PnP ระดับ hardcore weight 3.9 เล่น 4hr ตัวเกมมีแต่การ์ด
 published: 2016-31-10
-description: ""
+description: ''
 image: ./images/pic1898221.png
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 เป็นเกม PnP ระดับ hardcore weight 3.9 เล่น 4hr ตัวเกมมีแต่การ์ด 
 
 เป็นเกม Economic ที่ว่าด้วยการลงทุนซื้อขายหุ้น ตัวเกมน่าสนใจมากเพราะอิงแนวคิดมาจาก 18XX Series

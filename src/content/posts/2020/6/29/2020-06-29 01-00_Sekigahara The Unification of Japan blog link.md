@@ -1,7 +1,7 @@
 ---
-title: "Sekigahara: The Unification of Japan"
+title: 'Sekigahara: The Unification of Japan'
 published: 2020-29-06
-description: ""
+description: ''
 image: ./images/105564654_3077047959077309_7077000307982657196_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Sekigahara: The Unification of Japan #bite_size #first_impression
 blog link: https://wp.me/p7TSgy-2SV
 

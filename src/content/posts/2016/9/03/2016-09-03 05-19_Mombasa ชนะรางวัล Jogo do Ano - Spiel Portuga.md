@@ -1,7 +1,7 @@
 ---
-title: "Mombasa ชนะรางวัล Jogo do Ano - Spiel Portugal"
+title: Mombasa ชนะรางวัล Jogo do Ano - Spiel Portugal
 published: 2016-03-09
-description: ""
+description: ''
 image: ./images/fb.png
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Mombasa ชนะรางวัล Jogo do Ano - Spiel Portugal 
 (Game of the Year ของโปรตุเกส)
 

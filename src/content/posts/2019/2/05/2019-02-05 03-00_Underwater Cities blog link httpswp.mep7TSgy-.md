@@ -1,7 +1,7 @@
 ---
-title: "Underwater Cities"
+title: Underwater Cities
 published: 2019-05-02
-description: ""
+description: ''
 image: ./images/51165104_2041318642650251_5594802185645850624_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Underwater Cities #thought
 blog link: https://wp.me/p7TSgy-2DG
 

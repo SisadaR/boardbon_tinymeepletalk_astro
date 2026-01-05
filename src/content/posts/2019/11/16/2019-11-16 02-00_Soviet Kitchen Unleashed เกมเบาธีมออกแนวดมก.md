@@ -1,7 +1,7 @@
 ---
-title: "Soviet Kitchen Unleashed"
+title: Soviet Kitchen Unleashed
 published: 2019-16-11
-description: ""
+description: ''
 image: ./images/75031013_2551041945011249_2150087308714442752_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Soviet Kitchen Unleashed #bite_size
 
 ▪️เกมเบาธีมออกแนวดมกาวเล็กๆว่าด้วยสงครามได้ปะทุขึ้นและเราคือกลุ่มพ่อครัวกลางสนามรบที่ต้องช่วยกันเอาของรอบตัวที่ดูแล้วไม่น่าจะกินเข้าไปได้อย่างร้องเท้า,ไม้กระดาน,หัวตะปู เอามาผสมปนเปกับของกินได้มาเสริฟเป็นไส้กรอกพร้อมเครื่องเคียงแสนอร่อย(?) ให้เหล่าเพื่อนร่วมรบได้อิ่มท้อง

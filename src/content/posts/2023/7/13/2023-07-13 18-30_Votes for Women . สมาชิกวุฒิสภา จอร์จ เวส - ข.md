@@ -1,7 +1,7 @@
 ---
-title: "Votes for Women"
+title: Votes for Women
 published: 2023-13-07
-description: ""
+description: ''
 image: ./images/486722050_1247873914013319_2420678913800362901_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Votes for Women #bite_size #first_impression 
 
 .

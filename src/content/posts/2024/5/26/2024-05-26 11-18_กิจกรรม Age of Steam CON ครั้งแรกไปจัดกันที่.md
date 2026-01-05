@@ -1,14 +1,13 @@
 ---
-title: "กิจกรรม Age of Steam CON ครั้งแรกไปจัดกันที่ KLOUD by KBank ครับ"
+title: กิจกรรม Age of Steam CON ครั้งแรกไปจัดกันที่ KLOUD by KBank ครับ
 published: 2024-26-05
-description: ""
+description: ''
 image: ./images/490160737_1261135402687170_2575683518104870211_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 กิจกรรม Age of Steam CON ครั้งแรกไปจัดกันที่ KLOUD by KBank ครับ
 
 งานเอาจริงก็ไม่ได้มีอะไร แค่คนจำนวนหนึ่งมานั่งเล่นเกม AoS กัน 3 กระดานติดต่อกันแบบสลับๆกันไป แต่ผมคิดว่ามันเจ๋งมากตรงเป็น event แบบ players to players มาร่วมเล่นพบปะกันอย่างสนุกสนาน

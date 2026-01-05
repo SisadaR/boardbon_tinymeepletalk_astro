@@ -1,7 +1,7 @@
 ---
-title: "Excavation Earth"
+title: Excavation Earth
 published: 2022-03-12
-description: ""
+description: ''
 image: ./images/482023640_1229803985820312_6856972124808130652_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Excavation Earth #thought
 
 เกมยูโรระดับกลางหนัก ที่จะเล่าถึงโลกที่มนุษย์ได้ล้มหายตายจากไปหมดแล้ว แต่ว่าบรรดาข้าวของเครื่องใช้ล้าหลังที่เราทิ้งไว้นั้นต้องตาต้องใจเหล่านักสะสมจากดาวอื่นมากๆ เป็นที่มาของอาชีพซาเล้งอวกาศที่เอเลี่ยนหลากเผ่าพันธ์จะต้องมาตะลุยขุดค้นหา 'สมบัติ' ก่อนที่จะนำไปขายแก่เหล่านักสะสมจากทั่วทุกมุมกาแลคซี่ ผลงานของ Gordon Calleja, Dávid Turczi, Wai Yee

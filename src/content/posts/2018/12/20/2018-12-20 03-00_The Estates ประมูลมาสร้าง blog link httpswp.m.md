@@ -1,7 +1,7 @@
 ---
-title: "The Estates: ประมูลมาสร้าง"
+title: 'The Estates: ประมูลมาสร้าง'
 published: 2018-20-12
-description: ""
+description: ''
 image: ./images/48380929_1972001809581935_2680718466457010176_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Estates: ประมูลมาสร้าง #thought
 blog link: https://wp.me/p7TSgy-2Ca
 

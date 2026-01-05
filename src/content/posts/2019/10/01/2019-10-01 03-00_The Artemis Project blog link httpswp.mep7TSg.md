@@ -1,7 +1,7 @@
 ---
-title: "The Artemis Project"
+title: The Artemis Project
 published: 2019-01-10
-description: ""
+description: ''
 image: ./images/71231462_2449921595123285_5857581504724467712_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Artemis Project #thought #bite_size
 blog link: https://wp.me/p7TSgy-2J6
  

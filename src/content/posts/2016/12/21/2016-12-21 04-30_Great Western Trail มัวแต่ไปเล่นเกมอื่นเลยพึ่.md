@@ -1,7 +1,7 @@
 ---
-title: ""
+title: ''
 published: 2016-21-12
-description: ""
+description: ''
 image: ./images/510027736_24001493616206105_6632252441983514473_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #short_comment #ยังคิดไม่ตก #ขอลองอีกสองสามที
  
 Great Western Trail มัวแต่ไปเล่นเกมอื่นเลยพึ่งได้เล่นรอบสองไม่นานนี้ ค้นพบว่าเป็นเกมที่เฉยๆกว่าที่คิด

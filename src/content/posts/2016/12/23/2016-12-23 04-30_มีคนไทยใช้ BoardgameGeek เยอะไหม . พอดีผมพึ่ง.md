@@ -1,7 +1,7 @@
 ---
-title: "มีคนไทยใช้ BoardgameGeek เยอะไหม?"
+title: มีคนไทยใช้ BoardgameGeek เยอะไหม?
 published: 2016-23-12
-description: ""
+description: ''
 image: ./images/510460400_24002555312766602_1547723728184761581_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #useless_fact มีคนไทยใช้ BoardgameGeek เยอะไหม?
 .
 พอดีผมพึ่งไปกด support bgg ประจำปีมา แล้วอยู่ๆเกิดนึกอะไรขึ้นมาซักอย่างเลยไปกดที่รูปธงชาติไทยใน profile ตัวเอง

@@ -1,14 +1,13 @@
 ---
-title: "Circadians: First Light"
+title: 'Circadians: First Light'
 published: 2019-16-10
-description: ""
+description: ''
 image: ./images/72207206_2480900062025438_3932536747015012352_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Circadians: First Light
 blog link: https://wp.me/p7TSgy-2Ka
 

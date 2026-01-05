@@ -1,14 +1,13 @@
 ---
-title: "Tibm quick quick"
+title: Tibm quick quick
 published: 2024-14-12
-description: ""
+description: ''
 image: ./images/492481761_1272520728215304_3267510351931793493_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Tibm quick quick #1
 
 Project New Hope - เกมแนวสร้างเมือง engine building ผ่านระบบ double guess เลือกการ์ดเก็บทรัพยากรถ้ามีคนเลือกเหมือนกันจะได้ของน้อยลง จุดเด่นคือการ์ดที่ซื้อไปจะเพิ่ม passive bonus เวลาทำแอคชั่นชนิดเดิมซ้ำ , pre order 1450

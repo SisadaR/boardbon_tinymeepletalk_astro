@@ -1,7 +1,7 @@
 ---
-title: "Smartphone Inc."
+title: Smartphone Inc.
 published: 2020-03-07
-description: ""
+description: ''
 image: ./images/106275804_3088154411299997_8815579522209037836_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Smartphone Inc. #thought
 blog link: https://wp.me/p7TSgy-2T6
 .

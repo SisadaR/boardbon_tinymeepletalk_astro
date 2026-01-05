@@ -1,14 +1,13 @@
 ---
-title: "Battalion: War of the Ancients"
+title: 'Battalion: War of the Ancients'
 published: 2025-28-06
-description: ""
+description: ''
 image: ./images/513342126_1328698009264242_5616171746945206180_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Battalion: War of the Ancients
 
 เกมที่ย่นย่อเอาเกมสงครามตามขนบ (wargame) ให้ออกมาในรูปแบบที่เรียบง่ายเล่นไวของสวยจากนักออกแบบ Paolo Mori (Dogs of War, Ethnos) และ Francesco Sirocchi (Pocket Battles)

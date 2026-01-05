@@ -1,7 +1,7 @@
 ---
-title: "War of the Ring: The Card Game"
+title: 'War of the Ring: The Card Game'
 published: 2023-17-06
-description: ""
+description: ''
 image: ./images/486758423_1246207080846669_83470600916334147_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 War of the Ring: The Card Game #thought
 
 การ์ดเกมแนวทีมเพลย์ที่ว่าด้วยมหากาพย์แห่งแหวน ผลงานของ Ian Brody (Quartermaster) ซี่งโดยไอเดียแล้วมันก็เป็นการออกแบบที่อิงมาจากเกมระดับรางวัลนั้นคือ War of the Ring ฉบับเกมกระดานมาอีกที แต่คราวนี้มันกลายเป็นการ์ดเกมสำหรับ 4 คนที่ใช้เวลาและยุ่งยากน้อยกว่า

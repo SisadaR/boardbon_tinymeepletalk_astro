@@ -1,14 +1,13 @@
 ---
-title: "My T Series Ranking so far:"
+title: 'My T Series Ranking so far:'
 published: 2022-07-11
-description: ""
+description: ''
 image: ./images/482028193_1227657406034970_7459368743904243149_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 My T Series Ranking so far:
 
 😘 Tzolk'in / Teotihuacan

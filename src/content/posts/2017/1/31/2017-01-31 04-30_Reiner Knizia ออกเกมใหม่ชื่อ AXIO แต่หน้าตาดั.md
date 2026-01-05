@@ -1,7 +1,7 @@
 ---
-title: "Reiner Knizia ออกเกมใหม่ชื่อ AXIO แต่หน้าตาดันแทบจะเหมือน Ingenious ยังกับลอกมา"
+title: Reiner Knizia ออกเกมใหม่ชื่อ AXIO แต่หน้าตาดันแทบจะเหมือน Ingenious ยังกับลอกมา
 published: 2017-31-01
-description: ""
+description: ''
 image: ./images/510410095_24005578642464269_291262118856647399_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #news Reiner Knizia ออกเกมใหม่ชื่อ AXIO แต่หน้าตาดันแทบจะเหมือน Ingenious ยังกับลอกมา
 .
 .

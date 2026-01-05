@@ -1,14 +1,13 @@
 ---
-title: "Vijayanagara: The Deccan Empires of Medieval India, 1290-1398"
+title: 'Vijayanagara: The Deccan Empires of Medieval India, 1290-1398'
 published: 2024-29-05
-description: ""
+description: ''
 image: ./images/489819437_1261145772686133_1158614865686846637_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Vijayanagara: The Deccan Empires of Medieval India, 1290-1398 
 
 เกมชื่อย๊าวยาวนี้เป็นเกมกลุ่ม Wargame ที่จับเอาประวัติศาสตร์ของอินเดียยุคกลางก่อนที่นครรัฐสุลต่านจะล่มสลายจากการบุกรุกของชาวมองโกล

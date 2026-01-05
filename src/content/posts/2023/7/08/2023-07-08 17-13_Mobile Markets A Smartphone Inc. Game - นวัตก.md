@@ -1,7 +1,7 @@
 ---
-title: "Mobile Markets: A Smartphone Inc. Game - นวัตกรรมไร้พรมแดน"
+title: 'Mobile Markets: A Smartphone Inc. Game - นวัตกรรมไร้พรมแดน'
 published: 2023-08-07
-description: ""
+description: ''
 image: ./images/486475994_1247414794059231_8718111031545918962_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Mobile Markets: A Smartphone Inc. Game - นวัตกรรมไร้พรมแดน #thought 
 
 เกมแนว Economic ที่จะให้เรามารับบท CEO บริษัทผลิตมือถือที่จะต้องพัฒนาฟีเจอร์ให้ตรงกับความต้องการของตลาด โดยที่ต้องไม่ลืมที่จะควบคุมราคาและต้นทุนพร้อมการพัฒนาเทคโนโลยีการผลิตให้ล้ำสมัยและการตลาดสุดดึงดูด ผลงานของ Ivan Lashin (Smartphone Inc. , Furnace, Skytopia)

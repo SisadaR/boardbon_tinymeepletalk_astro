@@ -1,7 +1,7 @@
 ---
-title: "Dune: Imperium – Rise of Ix"
+title: 'Dune: Imperium – Rise of Ix'
 published: 2022-03-05
-description: ""
+description: ''
 image: ./images/481235456_9429251700523538_7585292087569257327_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Dune: Imperium – Rise of Ix #bite_size
 
 ▪️ ผมเคยพูดถึง Dune: Imperium ตัวหลักเอาไว้ว่าเป็นเกมยูโรระดับกลางที่ 'พอดี' มากเกมหนึ่งออกแบบลงตัวหลายอย่าง จนน่าจะเรียกได้ว่าเป็นเกมระดับกลางที่ผมชอบอันดับต้นๆเมื่อปีที่แล้ว (ทำเอาผมที่เกลียด Deck Building ชอบได้เลยนะ) เมื่อไม่นานมานี้ก็พึ่งได้ลองเล่นตัวเสริมชื่อ Dune: Imperium – Rise of Ix พ่วงกับ กล่องอัพเกรดอุปกรณ์เป็นตัว mini

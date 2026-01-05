@@ -1,7 +1,7 @@
 ---
-title: "The Field of the Cloth of Gold"
+title: The Field of the Cloth of Gold
 published: 2023-03-11
-description: ""
+description: ''
 image: ./images/488192072_1253871390080238_8688115730514343949_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Field of the Cloth of Gold #bite_size #first_impression 
 
 สุดยอดเหตุการณ์ 'อวดรวย' ที่จารึกในประวัติศาสตร์ยุโรปหรือ "Camp du Drap d’Or" นั้นก็คือเมื่อครั้งที่เฮนรี่ที่แปดของอังกฤษ กับฟรานซิสที่หนึ่งของฝรั่งเศสมาตั้งแคมป์จัดงานเฉลิมฉลองยาวนานถึงสองสัปดาห์ และในช่วงเวลาแห่งนี้สิ่งที่กษัตริย์ทั้งสองทำก็คือการแสดงให้อีกฝ่ายเห็นถึงความมั่งมีโดยการผลัดมอบของขวัญให้กับอีกฝ่าย

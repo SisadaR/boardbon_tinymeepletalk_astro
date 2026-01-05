@@ -1,14 +1,14 @@
 ---
-title: "Border Bills เกมจาก Pradchaya Nadee (ไว้เดี๋ยวหาที่ติดต่อได้จะเอามาลงอีกทีนะ) เป็นเกมสไตล์ set collection ที่จะให้เราผลิตสินค้าไปขายทั่วประเทศ"
+title: Border Bills เกมจาก Pradchaya Nadee (ไว้เดี๋ยวหาที่ติดต่อได้จะเอามาลงอีกทีนะ)
+  เป็นเกมสไตล์ set collection ที่จะให้เราผลิตสินค้าไปขายทั่วประเทศ
 published: 2023-11-12
-description: ""
+description: ''
 image: ./images/488871538_1256029763197734_8838304627190521847_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Border Bills เกมจาก Pradchaya Nadee (ไว้เดี๋ยวหาที่ติดต่อได้จะเอามาลงอีกทีนะ) เป็นเกมสไตล์ set collection ที่จะให้เราผลิตสินค้าไปขายทั่วประเทศ
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Wildcatters
 published: 2025-11-09
-description: ""
+description: ''
 image: ./images/PB080032.jpg
 tags:
   - review

@@ -1,7 +1,7 @@
 ---
-title: "The Magnificent"
+title: The Magnificent
 published: 2019-18-12
-description: ""
+description: ''
 image: ./images/80194697_2626349574147152_6287051433728540672_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Magnificent #thought
 blog link: https://wp.me/p7TSgy-2O7
 

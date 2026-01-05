@@ -1,7 +1,7 @@
 ---
-title: "Pax Viking"
+title: Pax Viking
 published: 2021-16-04
-description: ""
+description: ''
 image: ./images/173932398_3911984432250320_8131802554400635621_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Pax Viking #thought
 blog link: https://boardnbon.wordpress.com/2021/04/16/pax-viking/
 .

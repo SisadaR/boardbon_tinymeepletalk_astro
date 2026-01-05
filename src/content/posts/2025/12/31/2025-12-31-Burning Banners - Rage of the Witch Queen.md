@@ -1,7 +1,7 @@
 ---
-title: "Burning Banners : Rage of the Witch Queen"
+title: 'Burning Banners : Rage of the Witch Queen'
 published: 2025-12-31
-description: ""
+description: ''
 image: ./images/PC300053.jpg
 tags:
   - review

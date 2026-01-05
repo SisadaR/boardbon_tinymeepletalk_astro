@@ -1,7 +1,7 @@
 ---
-title: "The Grimm Forest"
+title: The Grimm Forest
 published: 2021-05-07
-description: ""
+description: ''
 image: ./images/469184848_8906191002829613_6854900243883285993_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Grimm Forest #bite_size
 .
 ▪️ เกมเบาของสวยสร้างจาก เทพนิยายกริมม์  (Grimm's Fairy tales) ที่จะให้เราเป็นพี่น้องหมูน้อยไปเก็บทรัพยากรมาสร้างกระท่อม แต่สิ่งที่เราต้องกลัวนั้นไม่ได้มีแค่หมาป่า หากแต่เป็นเหล่าสัตว์ในเทพนิยายและพี่น้องลูกหมูที่จะมาแย่งของเรา!

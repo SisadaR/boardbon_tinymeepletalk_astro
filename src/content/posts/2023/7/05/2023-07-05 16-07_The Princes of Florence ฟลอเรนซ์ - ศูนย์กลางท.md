@@ -1,7 +1,7 @@
 ---
-title: "The Princes of Florence"
+title: The Princes of Florence
 published: 2023-05-07
-description: ""
+description: ''
 image: ./images/487503199_1247397607394283_381927365094957905_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 The Princes of Florence #thought 
 
 ฟลอเรนซ์ - ศูนย์กลางทางการเงินในยุคเรืองปัญญา เป็นช่วงที่งานศิลปะจากศิลปินโลกต้องจารึกไว้ถือกำเนิดขี้นมามากมาย มีเกลันเจโล หรือเลโอนาร์โด  ดา วินชี เองก็อยู่ในยุคสมัยนี้เช่นกัน

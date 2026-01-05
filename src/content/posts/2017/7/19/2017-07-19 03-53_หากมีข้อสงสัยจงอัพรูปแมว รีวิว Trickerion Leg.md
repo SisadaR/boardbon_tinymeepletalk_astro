@@ -1,7 +1,7 @@
 ---
-title: "'หากมีข้อสงสัยจงอัพรูปแมว'"
+title: '''หากมีข้อสงสัยจงอัพรูปแมว'''
 published: 2017-19-07
-description: ""
+description: ''
 image: ./images/510720546_24017270277961772_3706189696872539006_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 "หากมีข้อสงสัยจงอัพรูปแมว" #อบเชย
 
 รีวิว Trickerion: Legends of Illusion มาศุกร์นี้ครับ

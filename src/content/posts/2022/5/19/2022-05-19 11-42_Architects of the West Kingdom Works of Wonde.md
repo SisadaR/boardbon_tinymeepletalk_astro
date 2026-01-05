@@ -1,7 +1,7 @@
 ---
-title: "Architects of the West Kingdom: Works of Wonder"
+title: 'Architects of the West Kingdom: Works of Wonder'
 published: 2022-19-05
-description: ""
+description: ''
 image: ./images/481704135_9435221536593221_8569916332954750945_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Architects of the West Kingdom: Works of Wonder #bite_size
 
 tldr; ของดีย์! มันต้องมี!

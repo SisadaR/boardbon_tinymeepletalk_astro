@@ -1,7 +1,9 @@
 ---
-title: "Key to the City – London เป็นเกมที่เอา Keyflower มาปรับกติกาใหม่ให้เรียบร้อยกับสะอาดขึ้น แต่ไม่ได้ทำให้เกมง่ายลง ตัวอย่างใกล้เคียงคือ Agricola -> Caverna , Brass -> Age of Industry , Age of Steam -> Steam"
+title: Key to the City – London เป็นเกมที่เอา Keyflower มาปรับกติกาใหม่ให้เรียบร้อยกับสะอาดขึ้น
+  แต่ไม่ได้ทำให้เกมง่ายลง ตัวอย่างใกล้เคียงคือ Agricola -> Caverna , Brass -> Age
+  of Industry , Age of Steam -> Steam
 published: 2017-02-01
-description: ""
+description: ''
 image: ./images/510655522_24004125632609570_8174955554817706868_n.jpg
 tags:
   - archived
@@ -9,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 #thought Key to the City – London เป็นเกมที่เอา Keyflower มาปรับกติกาใหม่ให้เรียบร้อยกับสะอาดขึ้น แต่ไม่ได้ทำให้เกมง่ายลง ตัวอย่างใกล้เคียงคือ Agricola -> Caverna , Brass -> Age of Industry , Age of Steam -> Steam
  
  

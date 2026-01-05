@@ -1,14 +1,13 @@
 ---
-title: "Tibm quick"
+title: Tibm quick
 published: 2024-14-12
-description: ""
+description: ''
 image: ./images/492350299_1272520804881963_2059522498907032107_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Tibm quick #3 
 
 LLama Splash - เกมแนวซ่อนเป้าหมายที่เราจะผลัดกันทอยเต๋าและเล่นการ์ดผลักหรือแกล้งตัวลามะให้เข้าหาฝั่ง คะแนนจะแตกต่างกันขึ้นอยู่กับว่าป้ายในมือเราที่แตกต่างกัน

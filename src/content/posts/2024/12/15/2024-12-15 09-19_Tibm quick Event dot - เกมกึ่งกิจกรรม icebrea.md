@@ -1,14 +1,13 @@
 ---
-title: "Tibm quick"
+title: Tibm quick
 published: 2024-15-12
-description: ""
+description: ''
 image: ./images/491967826_1272525711548139_4899530986557173407_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Tibm quick #7 
 
 Event dot - เกมกึ่งกิจกรรม icebreaking ที่เราจะมาช่วยกันเขียนร้อยเรียงเรื่องราวความเห็นเหตุและผลจากเหตุการณ์ต่างๆในเวลาที่จำกัด ไอเดียตลกและเฮฮากว่าที่คิดนะ, พร้อมจำหน่าย 950

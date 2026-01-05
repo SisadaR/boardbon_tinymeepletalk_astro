@@ -1,14 +1,14 @@
 ---
-title: "เล่น Railway of the Lost Atlas แบบ 2 คน + Micro Game + Hostile Merger แล้วเห้ย! ผิดคาดเยอะเลย เพราะสนุก อยากให้มีคนทำแผนที่เฉพาะมาเยอะๆเลย"
+title: เล่น Railway of the Lost Atlas แบบ 2 คน + Micro Game + Hostile Merger แล้วเห้ย!
+  ผิดคาดเยอะเลย เพราะสนุก อยากให้มีคนทำแผนที่เฉพาะมาเยอะๆเลย
 published: 2025-15-02
-description: ""
+description: ''
 image: ./images/492925785_1273860528081324_3167508910476994230_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 เล่น Railway of the Lost Atlas แบบ 2 คน + Micro Game + Hostile Merger แล้วเห้ย! ผิดคาดเยอะเลย เพราะสนุก อยากให้มีคนทำแผนที่เฉพาะมาเยอะๆเลย
 
 - เล่น 2 คนกับเวลา 1 ชั่วโมงแต่ได้อารมณ์ 18XX ที่สบายท้องกำลังดี มีเรื่องต้องคิดกำลังสวย

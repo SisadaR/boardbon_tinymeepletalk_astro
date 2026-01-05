@@ -1,7 +1,7 @@
 ---
 title: Clans of Caledonia
 published: 2025-11-12
-description: ""
+description: ''
 image: ./images/PB110175.jpg
 tags:
   - review

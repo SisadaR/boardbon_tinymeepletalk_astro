@@ -1,7 +1,7 @@
 ---
 title: De Vulgari Eloquentia
 published: 2025-12-26
-description: ""
+description: ''
 image: ./images/602380172_1494236496043725_9054096313857979363_n.jpg
 tags:
   - review

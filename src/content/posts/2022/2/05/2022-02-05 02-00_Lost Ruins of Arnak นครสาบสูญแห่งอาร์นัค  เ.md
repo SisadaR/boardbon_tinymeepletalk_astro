@@ -1,7 +1,7 @@
 ---
-title: "Lost Ruins of Arnak: นครสาบสูญแห่งอาร์นัค"
+title: 'Lost Ruins of Arnak: นครสาบสูญแห่งอาร์นัค'
 published: 2022-05-02
-description: ""
+description: ''
 image: ./images/480930420_9379994968782545_2043164687170361548_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Lost Ruins of Arnak: นครสาบสูญแห่งอาร์นัค #first_impression #thought
 
 ▪️ เกมแห่งการผจญภัยที่จะนำเราไปยังผืนป่าและหุบเขาที่ไม่มีนักสำรวจอื่นใดเหยียบย่าง ตระเตรียมอุปกรณ์ แล้วออกไปแผ้วถางหนทางพลางต่อกรกับสัตว์ร้ายเพื่อนำไปสู่โบราณสถานอันลึกลับแห่งอาร์นัค ผลงานออกแบบของคู่สามีภรรยา Michal "Elwen" Štach และ Michaela “Mín” Štachová

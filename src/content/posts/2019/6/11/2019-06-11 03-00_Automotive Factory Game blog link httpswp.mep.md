@@ -1,7 +1,7 @@
 ---
-title: "Automotive Factory Game"
+title: Automotive Factory Game
 published: 2019-11-06
-description: ""
+description: ''
 image: ./images/62246656_2243350002447113_5319700085703966720_n.jpg
 tags:
   - archived
@@ -12,7 +12,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Automotive Factory Game #thought #first_impression #thaidev #t3con
 blog link: https://wp.me/p7TSgy-2FA
  

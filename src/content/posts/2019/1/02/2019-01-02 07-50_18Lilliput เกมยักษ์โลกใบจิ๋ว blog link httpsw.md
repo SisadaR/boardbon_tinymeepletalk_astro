@@ -1,7 +1,7 @@
 ---
-title: "18Lilliput: เกมยักษ์โลกใบจิ๋ว"
+title: '18Lilliput: เกมยักษ์โลกใบจิ๋ว'
 published: 2019-02-01
-description: ""
+description: ''
 image: ./images/49650793_1992216434227139_788954976532561920_n.jpg
 tags:
   - archived
@@ -11,7 +11,6 @@ tags:
 category: archived
 draft: false
 ---
-
 18Lilliput: เกมยักษ์โลกใบจิ๋ว #thought #first_impression
 blog link: https://wp.me/p7TSgy-2CS
  

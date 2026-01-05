@@ -1,14 +1,13 @@
 ---
-title: "ไม่ได้ทำขาย ไม่ได้มา IC (interest check) แค่มาเล่าให้ฟังกับขอคำแนะนำเฉยๆ"
+title: ไม่ได้ทำขาย ไม่ได้มา IC (interest check) แค่มาเล่าให้ฟังกับขอคำแนะนำเฉยๆ
 published: 2023-27-06
-description: ""
+description: ''
 image: ./images/487081855_1246685140798863_655316588370593560_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 ไม่ได้ทำขาย ไม่ได้มา IC (interest check) แค่มาเล่าให้ฟังกับขอคำแนะนำเฉยๆ 
 
 .

@@ -1,14 +1,13 @@
 ---
-title: "Barrage: จากน้ำสู่พลังงาน"
+title: 'Barrage: จากน้ำสู่พลังงาน'
 published: 2019-31-07
-description: ""
+description: ''
 image: ./images/67438795_2334256953356417_1999700759716823040_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Barrage: จากน้ำสู่พลังงาน
 blog link: https://wp.me/p7TSgy-2GQ
 blockdit: https://tinyurl.com/y2qubu8e

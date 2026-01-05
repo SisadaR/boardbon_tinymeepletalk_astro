@@ -1,7 +1,7 @@
 ---
-title: "Overbooked"
+title: Overbooked
 published: 2020-25-08
-description: ""
+description: ''
 image: ./images/118149888_3239888666126570_1074438370331309039_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Overbooked #first_imparession #bite_size
 
 ▪️ เกมยูโรระดับเบาสไตล์ puzzle ที่จะให้เรามาจัดวางที่นั่งผู้โดยสารบนเครื่องบิน ผลงานของนักออกแบบชาวสิงคโปร์  Daryl Chow ( Mooncake Master, The Artemis Project) โดยฉบับที่ถ่ายมาลงนี้เป็นฉบับที่ Meanbook X Board Game Academy เอามาทำงานศิลป์ใหม่พร้อมแปลกติกาภาษาไทย

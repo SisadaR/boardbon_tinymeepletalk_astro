@@ -1,7 +1,7 @@
 ---
-title: "Cerebria: The Inside World - สมดุลย์แห่งอารมณ์สู่ตัวตนของเรา"
+title: 'Cerebria: The Inside World - สมดุลย์แห่งอารมณ์สู่ตัวตนของเรา'
 published: 2018-05-12
-description: ""
+description: ''
 image: ./images/47339997_1949437685171681_7975097765740937216_n.jpg
 tags:
   - archived
@@ -10,7 +10,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Cerebria: The Inside World - สมดุลย์แห่งอารมณ์สู่ตัวตนของเรา #thought
 blog link: https://wp.me/p7TSgy-2BQ
 

@@ -1,7 +1,7 @@
 ---
-title: "RA: Deluxe Pharaoh Edition"
+title: 'RA: Deluxe Pharaoh Edition'
 published: 2023-15-03
-description: ""
+description: ''
 image: ./images/485799119_1239405884860122_32288586998062958_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 RA: Deluxe Pharaoh Edition #bite_sisze 
 
 .

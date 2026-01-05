@@ -1,14 +1,13 @@
 ---
-title: "Suriya - (pre-crowdfunding opinion)"
+title: Suriya - (pre-crowdfunding opinion)
 published: 2024-25-11
-description: ""
+description: ''
 image: ./images/492536138_1272039814930062_9131893925328505251_n.jpg
 tags:
   - archived
 category: archived
 draft: false
 ---
-
 Suriya - (pre-crowdfunding opinion)
 
 อีกหนึ่งเกมใหม่ที่กำลังจะระดมทุนจากค่ายที่ทำเกมอลังการมากที่สุดในเซ้าท์อีสเอเชีย (มีใครให้มากว่านี้ก็บอกละกัน) Hexa House กับผลงานออกแบบจาก เก่ง Zemaki คนคุ้นตาเรานี้เอง

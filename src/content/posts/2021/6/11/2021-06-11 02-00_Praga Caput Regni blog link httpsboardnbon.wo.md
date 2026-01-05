@@ -1,7 +1,7 @@
 ---
-title: "Praga Caput Regni"
+title: Praga Caput Regni
 published: 2021-11-06
-description: ""
+description: ''
 image: ./images/199630530_4079333022182126_9045264934975419023_n.jpg
 tags:
   - archived
@@ -9,7 +9,6 @@ tags:
 category: archived
 draft: false
 ---
-
 Praga Caput Regni #thought
 blog link: https://boardnbon.wordpress.com/2021/06/11/praga-caput-regni/
 .

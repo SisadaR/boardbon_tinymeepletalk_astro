@@ -1,7 +1,7 @@
 ---
 title: The Lord of the Rings Duel for Middle-earth
 published: 2025-12-01
-description: ""
+description: ''
 image: ./images/PB300091.jpg
 tags:
   - กบชอบ
