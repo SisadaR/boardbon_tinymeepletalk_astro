@@ -1,6 +1,6 @@
 ---
 title: 'Pax Transhumanity: บทใหม่แห่งมนุษยชาติ'
-published: 2020-06-01
+published: 2020-01-06
 description: ''
 image: ./images/81936548_2668414089940700_559417600518389760_n.jpg
 tags:

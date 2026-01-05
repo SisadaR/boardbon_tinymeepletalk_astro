@@ -1,6 +1,6 @@
 ---
 title: 'Ep28: Dominion มารดาแห่ง Deck Building และบรรดาลูกหลาน'
-published: 2019-04-09
+published: 2019-09-04
 description: ''
 image: ./images/hqdefault.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Architects of the West Kingdom: Works of Wonder'
-published: 2022-19-05
+published: 2022-05-19
 description: ''
 image: ./images/481704135_9435221536593221_8569916332954750945_n.jpg
 tags:

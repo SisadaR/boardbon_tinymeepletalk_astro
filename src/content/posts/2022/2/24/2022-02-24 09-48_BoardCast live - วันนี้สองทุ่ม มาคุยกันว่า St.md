@@ -1,6 +1,6 @@
 ---
 title: BoardCast live - วันนี้สองทุ่ม
-published: 2022-24-02
+published: 2022-02-24
 description: ''
 tags:
   - archived

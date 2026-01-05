@@ -1,7 +1,7 @@
 ---
 title: กบเป็นติ่ง Cole Wehrle (Root, Pax Pamir, John Company, An Infamous Traffic)
   ไม่อ่านเยอะ ซื้อ!!
-published: 2020-14-01
+published: 2020-01-14
 description: ''
 image: ./images/c645a4634e9cda66cc4b0b3507fcfba4_original.png
 tags:

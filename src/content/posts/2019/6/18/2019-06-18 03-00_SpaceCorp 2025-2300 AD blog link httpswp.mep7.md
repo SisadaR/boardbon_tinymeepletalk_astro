@@ -1,6 +1,6 @@
 ---
 title: 'SpaceCorp: 2025-2300 AD'
-published: 2019-18-06
+published: 2019-06-18
 description: ''
 image: ./images/64764254_2256061051176008_6069880874877321216_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Bitoku
-published: 2022-04-09
+published: 2022-09-04
 description: ''
 image: ./images/484476164_9517735951675112_4686589281225202636_n.jpg
 tags:

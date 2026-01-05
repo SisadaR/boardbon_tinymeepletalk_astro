@@ -1,6 +1,6 @@
 ---
 title: 'Kingdom Death: Monster'
-published: 2019-15-07
+published: 2019-07-15
 description: ''
 image: ./images/66761551_2306123402836439_867930538818666496_n.jpg
 tags:

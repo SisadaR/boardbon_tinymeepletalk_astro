@@ -1,6 +1,6 @@
 ---
 title: 'แมวจรท่องเจริญกรุง: Cat on the Roof - Lost in Charoenkrung'
-published: 2025-28-01
+published: 2025-01-28
 description: ''
 image: ./images/492400948_1273386974795346_5729735057597057589_n.jpg
 tags:

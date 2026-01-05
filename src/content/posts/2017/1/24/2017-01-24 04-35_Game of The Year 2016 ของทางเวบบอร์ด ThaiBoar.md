@@ -1,7 +1,7 @@
 ---
 title: Game of The Year 2016 ของทางเวบบอร์ด ThaiBoardGame.Net มาถึงโค้งสุดท้ายล่ะฮะ
   อย่าลืมไปช่วยกัน vote นะครับ
-published: 2017-24-01
+published: 2017-01-24
 description: ''
 tags:
   - archived

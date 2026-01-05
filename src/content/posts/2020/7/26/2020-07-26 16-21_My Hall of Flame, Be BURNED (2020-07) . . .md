@@ -1,6 +1,6 @@
 ---
 title: My Hall of Flame, Be BURNED (2020-07)
-published: 2020-26-07
+published: 2020-07-26
 description: ''
 image: ./images/109449528_3155271454588292_7037909156152470379_n.jpg
 tags:

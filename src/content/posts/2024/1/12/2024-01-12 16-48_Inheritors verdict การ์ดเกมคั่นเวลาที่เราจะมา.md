@@ -1,6 +1,6 @@
 ---
 title: Inheritors
-published: 2024-12-01
+published: 2024-01-12
 description: ''
 image: ./images/488876721_1257011926432851_8523106315655273172_n.jpg
 tags:

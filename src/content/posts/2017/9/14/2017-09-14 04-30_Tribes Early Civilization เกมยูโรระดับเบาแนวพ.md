@@ -2,7 +2,7 @@
 title: 'Tribes : Early Civilization เกมยูโรระดับเบาแนวพัฒนาอารยธรรมในยุคหินจาก Rustan
   Håkansson นักออกแบบ Nations (เป็นเกมแนว Civ ที่ผมชอบอีกเกม แต่ก็ยังห่างชั้นจาก Through
   the Ages เยอะอยู่)'
-published: 2017-14-09
+published: 2017-09-14
 description: ''
 image: ./images/510757998_24021758867512913_4482407804176709440_n.jpg
 tags:

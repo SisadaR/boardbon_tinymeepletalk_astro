@@ -1,6 +1,6 @@
 ---
 title: Votes for Women อีกหนึ่งเกมที่เล่าประวัติศาสตร์ออกมาได้อย่างสนุก! อยากเห็นอะไรแบบนี้อีกเยอะๆเลย
-published: 2023-20-08
+published: 2023-08-20
 description: ''
 image: ./images/maxresdefault.jpg
 tags:

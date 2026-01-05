@@ -1,7 +1,7 @@
 ---
 title: ต่อจาก Rising Sun ทาง CMON ก็ประกาศจะออก Miniature Game ในจักรวาลของ A Song
   of Ice & Fire (หรือที่คนไทยรู้จักในชื่อ A Game of Throne)
-published: 2017-15-03
+published: 2017-03-15
 description: ''
 image: ./images/17861068_6070849171502_5050546408092860416_n.png
 tags:

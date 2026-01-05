@@ -1,6 +1,6 @@
 ---
 title: International Gamers Awards นอมินีปี 2021 มาแล้ว
-published: 2021-20-08
+published: 2021-08-20
 description: ''
 image: ./images/470219665_8950554891726557_760021807121995051_n.jpg
 tags:

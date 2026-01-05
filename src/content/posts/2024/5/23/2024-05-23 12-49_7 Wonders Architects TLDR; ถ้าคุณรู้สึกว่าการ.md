@@ -1,6 +1,6 @@
 ---
 title: '7 Wonders: Architects'
-published: 2024-23-05
+published: 2024-05-23
 description: ''
 image: ./images/490068327_1261060996027944_9149623462960302972_n.jpg
 tags:

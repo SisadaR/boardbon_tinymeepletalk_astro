@@ -1,6 +1,6 @@
 ---
 title: Black Rose Wars
-published: 2020-21-01
+published: 2020-01-21
 description: ''
 image: ./images/83374056_2700871193361656_5305792474793377792_n.jpg
 tags:

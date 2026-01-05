@@ -1,6 +1,6 @@
 ---
 title: 'Long Shot: The Dice Game'
-published: 2024-27-03
+published: 2024-03-27
 description: ''
 image: ./images/490357870_1259497699517607_5412351744031374974_n.jpg
 tags:

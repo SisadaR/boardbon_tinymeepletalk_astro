@@ -1,6 +1,6 @@
 ---
 title: ผีถ้วยแก้ว - The Haunted Glass - เพราะการจากลาหาใช่ด้านตรงข้ามของชีวิต
-published: 2025-26-02
+published: 2025-02-26
 description: ''
 image: ./images/493322957_1274155688051808_1849217083129481671_n.jpg
 tags:

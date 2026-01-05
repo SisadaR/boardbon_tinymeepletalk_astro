@@ -1,6 +1,6 @@
 ---
 title: เกมน่าจะไม่หนักอะไร แต่ว่า Civ + Worker Placement + Rondel กับสีสดใส อาจจะเป็นเกมฆ่าเวลาที่น่าสนใจก็ได้
-published: 2016-10-09
+published: 2016-09-10
 description: ''
 image: ./images/pic3084684.jpg
 tags:

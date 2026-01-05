@@ -1,6 +1,6 @@
 ---
 title: 'The Grizzled: เพื่อนตายสหายศึก'
-published: 2019-23-01
+published: 2019-01-23
 description: ''
 image: ./images/50107941_2014735828641866_5023188110662434816_n.jpg
 tags:

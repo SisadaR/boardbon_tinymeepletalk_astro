@@ -1,7 +1,7 @@
 ---
 title: '--- ''If you''re not prepared to lose every friend you have over a board game,
   you''re not playing hard enough.'''
-published: 2023-09-06
+published: 2023-06-09
 description: ''
 image: ./images/487216445_1245960504204660_4042250621670982632_n.jpg
 tags:

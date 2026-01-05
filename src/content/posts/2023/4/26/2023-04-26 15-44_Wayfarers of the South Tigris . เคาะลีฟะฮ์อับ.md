@@ -1,6 +1,6 @@
 ---
 title: Wayfarers of the South Tigris
-published: 2023-26-04
+published: 2023-04-26
 description: ''
 image: ./images/485737881_1241964481270929_7767588202567988267_n.jpg
 tags:

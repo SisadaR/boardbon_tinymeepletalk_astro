@@ -1,6 +1,6 @@
 ---
 title: ทำตัวเลียนแบบ คุณตรัง Beyond Board by Trang Catan หน่อย อยากเอาหนังสือที่อ่านแล้วก็คิดว่าเพลินแบบแปลกนิดๆมาแนะนำ
-published: 2020-13-04
+published: 2020-04-13
 description: ''
 image: ./images/91880336_2884213611694079_6862441931721408512_n.jpg
 tags:

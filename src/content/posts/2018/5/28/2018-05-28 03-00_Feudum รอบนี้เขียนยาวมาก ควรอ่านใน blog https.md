@@ -1,6 +1,6 @@
 ---
 title: Feudum
-published: 2018-28-05
+published: 2018-05-28
 description: ''
 image: ./images/33676887_1675142319267887_6040185234769575936_n.jpg
 tags:

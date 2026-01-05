@@ -1,6 +1,6 @@
 ---
 title: Mons & Mages
-published: 2024-22-05
+published: 2024-05-22
 description: ''
 image: ./images/489339527_1261037616030282_6693676152949581207_n.jpg
 tags:

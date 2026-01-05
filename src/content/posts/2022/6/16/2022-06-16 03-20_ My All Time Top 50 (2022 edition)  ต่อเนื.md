@@ -1,6 +1,6 @@
 ---
 title: My All Time Top 50 (2022 edition)
-published: 2022-16-06
+published: 2022-06-16
 description: ''
 tags:
   - archived

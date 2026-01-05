@@ -1,6 +1,6 @@
 ---
 title: 'Mobile Markets: A Smartphone Inc. Game - นวัตกรรมไร้พรมแดน'
-published: 2023-08-07
+published: 2023-07-08
 description: ''
 image: ./images/486475994_1247414794059231_8718111031545918962_n.jpg
 tags:

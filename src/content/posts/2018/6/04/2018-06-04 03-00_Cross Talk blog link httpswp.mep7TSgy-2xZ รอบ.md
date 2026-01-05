@@ -1,6 +1,6 @@
 ---
 title: Cross Talk
-published: 2018-04-06
+published: 2018-06-04
 description: ''
 image: ./images/34165028_1679174428864676_6839232538339180544_n.jpg
 tags:

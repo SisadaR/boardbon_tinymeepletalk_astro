@@ -1,7 +1,7 @@
 ---
 title: รายชื่อเกมเข้าชิงของ Game of the year จากโปรตุเกส ซึ่ง aim คือเกมสำหรับคนที่เล่นเกมที่ต้องคิดเยอะกว่าระดับเกมถ้วยดำของ
   Game of the year ของเยอรมัน
-published: 2020-25-08
+published: 2020-08-25
 description: ''
 tags:
   - archived

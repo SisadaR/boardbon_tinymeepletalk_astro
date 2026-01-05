@@ -1,6 +1,6 @@
 ---
 title: Any board game snobbery here? :D
-published: 2021-30-07
+published: 2021-07-30
 description: ''
 image: ./images/469624897_8921377787977601_6141130075866383711_n.jpg
 tags:

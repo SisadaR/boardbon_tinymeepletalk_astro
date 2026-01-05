@@ -3,7 +3,7 @@ title: 'Cerebria: The Inside World กดแบ๊คไปเรียบร้
   เกมจากทีมงาน Trickerion: Legends of Illusion และ Anachrony ที่ผมเคยเขียนรีวิวไปแล้ว
   ค่อนข้างเชื่อมือประมาณนึง เป็นเกมแนว Area Control ที่ให้เราเล่นเป็นจิตวิญญาณแห่งอารมณ์ที่จะต้องแย่งชิงพื้นที่ในจิตใจของเรา
   เป็นเกมแบบ 2 ทีม เล่นได้ 2-4 คน'
-published: 2017-12-09
+published: 2017-09-12
 description: ''
 image: ./images/306134331_493416416125743_924020008056417706_n.png
 tags:

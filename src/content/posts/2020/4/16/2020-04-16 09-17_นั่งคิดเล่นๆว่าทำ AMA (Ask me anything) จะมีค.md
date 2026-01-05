@@ -1,6 +1,6 @@
 ---
 title: นั่งคิดเล่นๆว่าทำ AMA (Ask me anything) จะมีคนสนมะ? (เปิดแล้วแป๊กกลัวจะเหงาใจ)
-published: 2020-16-04
+published: 2020-04-16
 description: ''
 tags:
   - archived

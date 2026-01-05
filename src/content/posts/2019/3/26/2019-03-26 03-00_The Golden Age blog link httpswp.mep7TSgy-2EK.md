@@ -1,6 +1,6 @@
 ---
 title: The Golden Age
-published: 2019-26-03
+published: 2019-03-26
 description: ''
 image: ./images/54523820_2116199138495534_2710945870760640512_n.jpg
 tags:

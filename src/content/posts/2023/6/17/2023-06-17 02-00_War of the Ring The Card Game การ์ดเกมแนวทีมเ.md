@@ -1,6 +1,6 @@
 ---
 title: 'War of the Ring: The Card Game'
-published: 2023-17-06
+published: 2023-06-17
 description: ''
 image: ./images/486758423_1246207080846669_83470600916334147_n.jpg
 tags:

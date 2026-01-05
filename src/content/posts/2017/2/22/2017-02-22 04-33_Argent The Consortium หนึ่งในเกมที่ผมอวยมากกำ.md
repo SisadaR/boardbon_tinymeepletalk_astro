@@ -1,6 +1,6 @@
 ---
 title: 'Argent : The Consortium หนึ่งในเกมที่ผมอวยมากกำลังจะ Out-of-Print'
-published: 2017-22-02
+published: 2017-02-22
 description: ''
 image: ./images/fb.png
 tags:

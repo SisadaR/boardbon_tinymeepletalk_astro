@@ -1,7 +1,7 @@
 ---
 title: BoardCast ตอนที่ 53 แบบ offline ที่ห่างจากตอนล่าสุด 1 ปี 7 เดือน..... กับคุณเล็กจาก
   Lanlalen ลานละเล่น ที่พึ่งแพ้พ่ายให้กับทีมหมู่บ้านรีวิวเวอร์ไปอย่างราบคาบในศีกรถไฟอัลติเมท
-published: 2022-18-07
+published: 2022-07-18
 description: ''
 image: ./images/maxresdefault.jpg
 tags:

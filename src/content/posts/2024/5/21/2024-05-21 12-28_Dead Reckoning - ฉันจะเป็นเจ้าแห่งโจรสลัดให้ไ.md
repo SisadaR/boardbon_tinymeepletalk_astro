@@ -1,6 +1,6 @@
 ---
 title: Dead Reckoning - ฉันจะเป็นเจ้าแห่งโจรสลัดให้ได้เลย!!
-published: 2024-21-05
+published: 2024-05-21
 description: ''
 image: ./images/490014913_1261032652697445_5590848039494697628_n.jpg
 tags:

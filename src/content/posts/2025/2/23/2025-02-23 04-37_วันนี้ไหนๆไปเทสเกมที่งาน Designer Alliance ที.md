@@ -1,6 +1,6 @@
 ---
 title: วันนี้ไหนๆไปเทสเกมที่งาน Designer Alliance ที่จัดทุกเดือนมา 18 ครั้งแล้วก็เลยลากตัวหัวตี้มาคุยกันหน่อย
-published: 2025-23-02
+published: 2025-02-23
 description: ''
 image: ./images/maxresdefault.jpg
 tags:

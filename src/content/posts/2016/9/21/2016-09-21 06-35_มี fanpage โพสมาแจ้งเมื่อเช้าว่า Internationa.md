@@ -1,7 +1,7 @@
 ---
 title: มี fanpage โพสมาแจ้งเมื่อเช้าว่า International Gamers Awards (IGA) ประกาศผลแล้ว
   ขอบคุณที่มาช่วยแจ้งข่าวครับผม :D
-published: 2016-21-09
+published: 2016-09-21
 description: ''
 image: ./images/mombasa.jpg
 tags:

@@ -2,7 +2,7 @@
 title: วันก่อนพึ่งได้เล่น Stuggle of Empires ของเฮีย Martin Wallace (ทีเด็ดของเฮียสำหรับผมคือ
   Age of Steam / Steam / Brass / Age of Industry ) เกมออกมาตั้งแต่ปี 2004 จริงๆเกือบจะได้เล่นเกมนี้ทีนึงเมื่อสองสามปีก่อน
   แต่ว่าพึ่งได้มาเล่นจริงๆก็ไม่นานมานี้นี้เอง
-published: 2016-14-08
+published: 2016-08-14
 description: ''
 image: ./images/509914133_23992839243738209_863481757060101701_n.jpg
 tags:

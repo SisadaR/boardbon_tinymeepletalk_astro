@@ -1,6 +1,6 @@
 ---
 title: Flat Earth Theory (Prototype)
-published: 2022-20-02
+published: 2022-02-20
 description: ''
 image: ./images/481453257_9390606807721361_6015448742139788723_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Empires of the Void II
-published: 2018-08-03
+published: 2018-03-08
 description: ''
 image: ./images/28660591_1588202684628518_4066489862079905792_n.jpg
 tags:

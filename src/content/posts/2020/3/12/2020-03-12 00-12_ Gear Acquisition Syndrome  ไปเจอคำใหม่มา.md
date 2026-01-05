@@ -1,6 +1,6 @@
 ---
 title: Gear Acquisition Syndrome
-published: 2020-12-03
+published: 2020-03-12
 description: ''
 image: ./images/90065879_2812543135527794_8955858980916166656_n.png
 tags:

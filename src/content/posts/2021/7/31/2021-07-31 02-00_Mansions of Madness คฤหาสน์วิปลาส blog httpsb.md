@@ -1,6 +1,6 @@
 ---
 title: 'Mansions of Madness : คฤหาสน์วิปลาส'
-published: 2021-31-07
+published: 2021-07-31
 description: ''
 image: ./images/469619287_8921385421310171_7173765242338868771_n.jpg
 tags:

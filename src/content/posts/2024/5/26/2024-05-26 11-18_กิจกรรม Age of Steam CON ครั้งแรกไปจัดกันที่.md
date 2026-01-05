@@ -1,6 +1,6 @@
 ---
 title: กิจกรรม Age of Steam CON ครั้งแรกไปจัดกันที่ KLOUD by KBank ครับ
-published: 2024-26-05
+published: 2024-05-26
 description: ''
 image: ./images/490160737_1261135402687170_2575683518104870211_n.jpg
 tags:

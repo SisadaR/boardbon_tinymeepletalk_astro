@@ -1,6 +1,6 @@
 ---
 title: 'Zombicide: Night of the Living Dead [ฉบับแปลไทย]'
-published: 2025-03-05
+published: 2025-05-03
 description: ''
 image: ./images/494676493_1281209737346403_3997405181725519454_n.jpg
 tags:

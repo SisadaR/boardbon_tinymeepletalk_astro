@@ -1,6 +1,6 @@
 ---
 title: Anachrony's Expansions (Fractures of Time & Future Imperfect)
-published: 2021-16-01
+published: 2021-01-16
 description: ''
 image: ./images/139255780_3651714614943971_8123567027871422908_n.jpg
 tags:

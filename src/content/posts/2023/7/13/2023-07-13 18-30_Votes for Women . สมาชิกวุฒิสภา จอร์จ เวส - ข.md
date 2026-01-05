@@ -1,6 +1,6 @@
 ---
 title: Votes for Women
-published: 2023-13-07
+published: 2023-07-13
 description: ''
 image: ./images/486722050_1247873914013319_2420678913800362901_n.jpg
 tags:

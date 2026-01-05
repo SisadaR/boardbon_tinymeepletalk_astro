@@ -1,6 +1,6 @@
 ---
 title: Stroganov
-published: 2021-16-05
+published: 2021-05-16
 description: ''
 image: ./images/185421973_4000352296746866_1135613896011368116_n.jpg
 tags:

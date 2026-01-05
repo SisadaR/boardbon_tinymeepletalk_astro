@@ -1,6 +1,6 @@
 ---
 title: An Infamous Traffic - เส้นทางค้าฝิ่น
-published: 2024-21-04
+published: 2024-04-21
 description: ''
 image: ./images/489914919_1260078526126191_4584453468269296078_n.jpg
 tags:

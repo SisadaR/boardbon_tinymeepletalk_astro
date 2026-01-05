@@ -1,6 +1,6 @@
 ---
 title: BGG Weight ไม่ใช่ specsheet อย่าเอามาใช้เทียบเกมสิโว๊ยยยยยย
-published: 2023-02-04
+published: 2023-04-02
 description: ''
 image: ./images/485833330_1240166454784065_1656961623806647996_n.jpg
 tags:

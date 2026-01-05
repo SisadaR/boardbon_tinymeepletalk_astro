@@ -1,6 +1,6 @@
 ---
 title: รูลมาล่ะ A Feast for Odin
-published: 2016-25-08
+published: 2016-08-25
 description: ''
 tags:
   - archived

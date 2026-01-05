@@ -1,6 +1,6 @@
 ---
 title: BGG World’s jargon is so f…….g [read FROG] weird Pt.2
-published: 2020-30-05
+published: 2020-05-30
 description: ''
 image: ./images/100694737_2997619907020115_2614887690235019264_n.png
 tags:

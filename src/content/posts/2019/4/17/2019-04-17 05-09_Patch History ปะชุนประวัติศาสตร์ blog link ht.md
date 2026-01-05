@@ -1,6 +1,6 @@
 ---
 title: 'Patch History: ปะชุนประวัติศาสตร์'
-published: 2019-17-04
+published: 2019-04-17
 description: ''
 image: ./images/57039886_2151525824962865_4803879448371789824_n.jpg
 tags:

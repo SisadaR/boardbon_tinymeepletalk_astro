@@ -1,6 +1,6 @@
 ---
 title: Ground Floor กำลังจะ reprint!!!
-published: 2017-23-03
+published: 2017-03-23
 description: ''
 image: ./images/509426899_24007971092225024_1127537726487587017_n.jpg
 tags:

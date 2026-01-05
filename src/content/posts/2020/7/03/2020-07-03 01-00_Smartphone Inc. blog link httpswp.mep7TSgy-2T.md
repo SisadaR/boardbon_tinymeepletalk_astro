@@ -1,6 +1,6 @@
 ---
 title: Smartphone Inc.
-published: 2020-03-07
+published: 2020-07-03
 description: ''
 image: ./images/106275804_3088154411299997_8815579522209037836_n.jpg
 tags:

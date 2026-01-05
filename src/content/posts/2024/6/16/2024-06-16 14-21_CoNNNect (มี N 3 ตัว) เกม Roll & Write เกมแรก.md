@@ -1,6 +1,6 @@
 ---
 title: CoNNNect (มี N 3 ตัว)
-published: 2024-16-06
+published: 2024-06-16
 description: ''
 image: ./images/490692630_1261531412647569_5767873845300014348_n.jpg
 tags:

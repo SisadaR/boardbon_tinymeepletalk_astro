@@ -1,6 +1,6 @@
 ---
 title: Pax Renaissance
-published: 2025-09-03
+published: 2025-09-02
 description: ''
 image: ./images/P9010006.jpg
 tags:

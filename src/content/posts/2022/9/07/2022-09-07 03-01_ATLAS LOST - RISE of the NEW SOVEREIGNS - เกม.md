@@ -1,6 +1,6 @@
 ---
 title: ATLAS LOST - RISE of the NEW SOVEREIGNS -
-published: 2022-07-09
+published: 2022-09-07
 description: ''
 image: ./images/484073779_9517758305006210_4127676610638338146_n.jpg
 tags:

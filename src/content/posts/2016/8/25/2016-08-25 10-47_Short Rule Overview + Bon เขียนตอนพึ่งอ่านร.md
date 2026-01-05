@@ -1,6 +1,6 @@
 ---
 title: '[Short Rule Overview + Bon]'
-published: 2016-25-08
+published: 2016-08-25
 description: ''
 image: ./images/pic2896407.jpg
 tags:

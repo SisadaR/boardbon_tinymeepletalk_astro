@@ -3,7 +3,7 @@ title: เกมของคู่นักออกแบบ Michael Kiesling, 
   majority control แบบที่เปิดโอกาสให้เราแย่งพื้นที่ทำคะแนนที่คนอื่นสร้างมาได้อย่างหน้าตาเฉย
   (เกมในชุดนี้ได้แก่ Tikal, Maxica, Cuzco และ Torres แต่แน่นอนว่าเทพแห่งเกม majority
   control คือ El Grande)
-published: 2025-14-01
+published: 2025-01-14
 description: ''
 image: ./images/492232640_1273243018143075_1576040346457487738_n.jpg
 tags:

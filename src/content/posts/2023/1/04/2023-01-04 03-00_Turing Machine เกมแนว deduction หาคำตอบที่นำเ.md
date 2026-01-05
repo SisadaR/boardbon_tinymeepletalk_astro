@@ -1,6 +1,6 @@
 ---
 title: Turing Machine
-published: 2023-04-01
+published: 2023-01-04
 description: ''
 image: ./images/484049654_1232630575537653_3970353671907917492_n.jpg
 tags:

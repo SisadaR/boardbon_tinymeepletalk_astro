@@ -1,6 +1,6 @@
 ---
 title: 'Yinzi: The Shining Ming Dynasty'
-published: 2019-26-06
+published: 2019-06-26
 description: ''
 image: ./images/65394819_2271080019674111_7721180192554614784_n.jpg
 tags:

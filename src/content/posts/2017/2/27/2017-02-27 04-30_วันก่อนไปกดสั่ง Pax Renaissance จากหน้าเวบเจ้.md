@@ -2,7 +2,7 @@
 title: วันก่อนไปกดสั่ง Pax Renaissance จากหน้าเวบเจ้าของเกม (www.sierra-madre-games.eu)
   พอให้เลือกประเทศดันไม่มี Thailand มีแต่ประเทศเพื่อนบ้านใกล้ๆอย่างไต้หวัน มาเลย์
   เวียดนาม ไรงี้แทน
-published: 2017-27-02
+published: 2017-02-27
 description: ''
 image: ./images/510974120_24006853482336785_110087958966988560_n.jpg
 tags:

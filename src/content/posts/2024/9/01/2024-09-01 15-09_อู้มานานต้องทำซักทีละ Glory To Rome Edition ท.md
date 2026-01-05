@@ -1,6 +1,6 @@
 ---
 title: อู้มานานต้องทำซักทีละ Glory To Rome Edition ทำเถื่อน
-published: 2024-01-09
+published: 2024-09-01
 description: ''
 image: ./images/491912511_1264810552319655_783294936836470900_n.jpg
 tags:

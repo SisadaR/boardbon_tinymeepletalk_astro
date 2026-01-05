@@ -1,6 +1,6 @@
 ---
 title: Table Battles (2nd Edition)
-published: 2024-06-01
+published: 2024-01-06
 description: ''
 image: ./images/489405021_1256914383109272_1045942063704627759_n.jpg
 tags:

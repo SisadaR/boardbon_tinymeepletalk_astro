@@ -1,7 +1,7 @@
 ---
 title: Ground Floor 2nd Edition หนึ่งในเกม Economic [กบโปรด] ที่ถูกเอาตีพิมพ์ใหม่พร้อมกับปรับรูปแบบเกมให้กระชับขึ้นโดยค่าย
   Spielworxx ผลิตจำกัดแค่ 1000 กล่อง
-published: 2018-29-06
+published: 2018-06-29
 description: ''
 image: ./images/36490115_1716908598424592_7840782035177177088_n.jpg
 tags:

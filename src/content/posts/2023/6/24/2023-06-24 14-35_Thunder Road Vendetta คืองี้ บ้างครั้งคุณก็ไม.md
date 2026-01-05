@@ -1,6 +1,6 @@
 ---
 title: 'Thunder Road: Vendetta'
-published: 2023-24-06
+published: 2023-06-24
 description: ''
 image: ./images/487056974_1246669657467078_5186573370994213092_n.jpg
 tags:

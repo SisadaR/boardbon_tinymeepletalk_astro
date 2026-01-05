@@ -1,6 +1,6 @@
 ---
 title: 'เกมที่เล่นแล้วหิว - Table Cooking: Enjoy Your Meal'
-published: 2024-26-08
+published: 2024-08-26
 description: ''
 image: ./images/491511923_1264353405698703_3968944800213694859_n.jpg
 tags:

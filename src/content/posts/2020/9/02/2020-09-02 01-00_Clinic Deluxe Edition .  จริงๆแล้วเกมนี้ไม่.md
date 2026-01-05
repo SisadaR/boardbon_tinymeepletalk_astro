@@ -1,6 +1,6 @@
 ---
 title: 'Clinic: Deluxe Edition'
-published: 2020-02-09
+published: 2020-09-02
 description: ''
 image: ./images/118536657_3264782020303901_2408324826853329077_n.jpg
 tags:

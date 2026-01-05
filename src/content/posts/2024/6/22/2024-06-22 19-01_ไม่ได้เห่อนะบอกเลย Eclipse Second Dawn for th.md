@@ -1,6 +1,6 @@
 ---
 title: ไม่ได้เห่อนะบอกเลย
-published: 2024-22-06
+published: 2024-06-22
 description: ''
 image: ./images/446022014_1055157106184083_8313163507969134_n.jpg
 tags:

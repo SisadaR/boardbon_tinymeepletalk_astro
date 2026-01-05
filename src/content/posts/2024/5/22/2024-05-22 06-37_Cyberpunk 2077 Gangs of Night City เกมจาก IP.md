@@ -1,6 +1,6 @@
 ---
 title: 'Cyberpunk 2077: Gangs of Night City'
-published: 2024-22-05
+published: 2024-05-22
 description: ''
 image: ./images/489830561_1261038682696842_4349011144609609032_n.jpg
 tags:

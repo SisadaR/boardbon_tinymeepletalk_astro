@@ -1,6 +1,6 @@
 ---
 title: 'Barrage: จากน้ำสู่พลังงาน'
-published: 2019-31-07
+published: 2019-07-31
 description: ''
 image: ./images/67438795_2334256953356417_1999700759716823040_n.jpg
 tags:

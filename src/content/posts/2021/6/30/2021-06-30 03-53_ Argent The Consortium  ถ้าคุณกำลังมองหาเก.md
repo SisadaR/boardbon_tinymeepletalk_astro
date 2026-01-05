@@ -1,6 +1,6 @@
 ---
 title: 'Argent: The Consortium'
-published: 2021-30-06
+published: 2021-06-30
 description: ''
 image: ./images/469384072_8901881829927197_8723454176069655207_n.jpg
 tags:

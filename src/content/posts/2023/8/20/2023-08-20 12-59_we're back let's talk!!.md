@@ -1,6 +1,6 @@
 ---
 title: we're back let's talk!!
-published: 2023-20-08
+published: 2023-08-20
 description: ''
 image: ./images/maxresdefault_live.jpg
 tags:

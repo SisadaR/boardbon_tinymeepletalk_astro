@@ -1,6 +1,6 @@
 ---
 title: 'Clash of Cultures: Monumental Edition'
-published: 2022-10-08
+published: 2022-08-10
 description: ''
 image: ./images/484918839_9504181179697256_5176317820340327503_n.jpg
 tags:

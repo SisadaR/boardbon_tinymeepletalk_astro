@@ -1,6 +1,6 @@
 ---
 title: Codex Naturalis
-published: 2021-03-06
+published: 2021-06-03
 description: ''
 image: ./images/187960931_4055139404601488_4462867010747179035_n.jpg
 tags:

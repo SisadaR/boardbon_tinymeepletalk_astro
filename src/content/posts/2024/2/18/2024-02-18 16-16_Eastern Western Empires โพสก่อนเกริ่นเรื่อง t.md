@@ -1,6 +1,6 @@
 ---
 title: Eastern / Western Empires
-published: 2024-18-02
+published: 2024-02-18
 description: ''
 image: ./images/428719730_1637273950139660_3814342238663743495_n.jpg
 tags:

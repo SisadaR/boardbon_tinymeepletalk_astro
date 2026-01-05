@@ -1,6 +1,6 @@
 ---
 title: Beta Colony
-published: 2019-08-05
+published: 2019-05-08
 description: ''
 image: ./images/59630927_2185322941583153_8460105233949786112_n.jpg
 tags:

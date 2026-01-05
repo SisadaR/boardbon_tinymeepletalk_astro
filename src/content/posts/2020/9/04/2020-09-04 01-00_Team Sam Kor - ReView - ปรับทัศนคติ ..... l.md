@@ -1,7 +1,7 @@
 ---
 title: Team Sam Kor - [Re]View - ปรับทัศนคติ ..... live คุยกันไร้สาระไปเรื่อย คืนนี้สามทุ่มครับ
   :)
-published: 2020-04-09
+published: 2020-09-04
 description: ''
 image: ./images/118707352_3271477852967651_5893586047157895940_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Battalion: War of the Ancients'
-published: 2025-28-06
+published: 2025-06-28
 description: ''
 image: ./images/513342126_1328698009264242_5616171746945206180_n.jpg
 tags:

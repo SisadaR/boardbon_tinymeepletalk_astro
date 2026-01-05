@@ -1,6 +1,6 @@
 ---
 title: Age of Automaton
-published: 2025-01-02
+published: 2025-02-01
 description: ''
 image: ./images/492478198_1273462714787772_6850278950906887028_n.jpg
 tags:

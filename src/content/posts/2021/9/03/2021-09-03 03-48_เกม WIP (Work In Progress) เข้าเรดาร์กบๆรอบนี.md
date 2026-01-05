@@ -2,7 +2,7 @@
 title: เกม WIP (Work In Progress) เข้าเรดาร์กบๆรอบนี้คือเกม Pax Luminous ซึ่งไม่ได้เกี่ยวกับเกม
   Pax Series ของค่าย Sierra Madre Games แต่ว่ามีความตั้งใจที่จะทำเกมสไตล์เดียวกันออกมา
   (เรียกว่า Pax Genre ก็ได้มั้ง อยากได้อีกเย๊อเยอะะะ)
-published: 2021-03-09
+published: 2021-09-03
 description: ''
 image: ./images/bgg_opengraph.png
 tags:

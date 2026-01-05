@@ -1,6 +1,6 @@
 ---
 title: ฉบับคลีนอัพลง PodCast แล้วครับ https_://anchor.fm/sisada-ransibrahmanakul/episodes/BnB-Live----weight-eci5p8
-published: 2020-08-04
+published: 2020-04-08
 description: ''
 image: ./images/maxresdefault_live.jpg
 tags:

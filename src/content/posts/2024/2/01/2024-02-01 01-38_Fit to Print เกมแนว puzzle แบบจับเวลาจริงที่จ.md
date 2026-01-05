@@ -1,6 +1,6 @@
 ---
 title: Fit to Print
-published: 2024-01-02
+published: 2024-02-01
 description: ''
 image: ./images/488954380_1257963559671021_4744291816473354725_n.jpg
 tags:

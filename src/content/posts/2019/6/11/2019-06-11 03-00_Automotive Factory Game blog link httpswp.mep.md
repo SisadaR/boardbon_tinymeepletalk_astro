@@ -1,6 +1,6 @@
 ---
 title: Automotive Factory Game
-published: 2019-11-06
+published: 2019-06-11
 description: ''
 image: ./images/62246656_2243350002447113_5319700085703966720_n.jpg
 tags:

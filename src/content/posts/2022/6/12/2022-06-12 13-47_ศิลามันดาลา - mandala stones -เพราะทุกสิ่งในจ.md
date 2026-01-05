@@ -1,6 +1,6 @@
 ---
 title: ศิลามันดาลา - mandala stones
-published: 2022-12-06
+published: 2022-06-12
 description: ''
 image: ./images/482032424_9471024956346212_3171281067231948956_n.jpg
 tags:

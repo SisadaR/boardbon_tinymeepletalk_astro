@@ -1,6 +1,6 @@
 ---
 title: Fuji Koro
-published: 2019-25-05
+published: 2019-05-25
 description: ''
 image: ./images/61034056_2214547875327326_6925545785962528768_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: พูดถึงงานแนว Board Game Con (vention)
-published: 2023-07-03
+published: 2023-03-07
 description: ''
 image: ./images/484986119_1238994541567923_4709738274062274131_n.jpg
 tags:

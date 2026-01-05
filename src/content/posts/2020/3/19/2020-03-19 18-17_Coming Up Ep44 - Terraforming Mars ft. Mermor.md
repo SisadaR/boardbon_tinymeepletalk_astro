@@ -1,6 +1,6 @@
 ---
 title: Coming Up Ep44 - Terraforming Mars ft. Mermora Malipan
-published: 2020-19-03
+published: 2020-03-19
 description: ''
 image: ./images/AAqMW82PqGg.gif.jpg
 tags:

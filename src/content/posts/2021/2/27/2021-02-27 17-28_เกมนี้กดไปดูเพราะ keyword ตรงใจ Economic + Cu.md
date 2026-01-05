@@ -1,7 +1,7 @@
 ---
 title: เกมนี้กดไปดูเพราะ keyword ตรงใจ Economic + Cut-Throat รูปสวยดี แต่เท่าที่ดูธีมตอนเล่นแห้งจัด
   ระยะเวลาเล่นแค่ 60 นาทียิ่งทำให้ดูว่าเกมไม่น่าจะหนัก (กลัวจะมีแต่ chaotic งี้ )
-published: 2021-27-02
+published: 2021-02-27
 description: ''
 image: ./images/eff2adf634e32f91478d6433044ef81d_original.png
 tags:

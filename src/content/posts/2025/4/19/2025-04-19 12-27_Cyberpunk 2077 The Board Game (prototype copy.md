@@ -1,6 +1,6 @@
 ---
 title: 'Cyberpunk 2077: The Board Game (prototype copy, first impression)'
-published: 2025-19-04
+published: 2025-04-19
 description: ''
 image: ./images/498988020_1293915359409174_233467579184893369_n.jpg
 tags:

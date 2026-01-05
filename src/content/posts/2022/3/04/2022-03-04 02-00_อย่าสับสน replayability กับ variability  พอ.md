@@ -1,6 +1,6 @@
 ---
 title: อย่าสับสน replayability กับ variability
-published: 2022-04-03
+published: 2022-03-04
 description: ''
 tags:
   - archived

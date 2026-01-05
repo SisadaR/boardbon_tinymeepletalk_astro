@@ -1,6 +1,6 @@
 ---
 title: The Princes of Florence
-published: 2023-05-07
+published: 2023-07-05
 description: ''
 image: ./images/487503199_1247397607394283_381927365094957905_n.jpg
 tags:

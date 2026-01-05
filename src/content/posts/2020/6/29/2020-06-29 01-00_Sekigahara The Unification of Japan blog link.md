@@ -1,6 +1,6 @@
 ---
 title: 'Sekigahara: The Unification of Japan'
-published: 2020-29-06
+published: 2020-06-29
 description: ''
 image: ./images/105564654_3077047959077309_7077000307982657196_n.jpg
 tags:

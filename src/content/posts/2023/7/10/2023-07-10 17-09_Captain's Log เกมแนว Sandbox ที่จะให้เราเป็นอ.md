@@ -1,6 +1,6 @@
 ---
 title: Captain's Log
-published: 2023-10-07
+published: 2023-07-10
 description: ''
 image: ./images/486950867_1247566064044104_5298976984194704752_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Princess Jing
-published: 2019-24-09
+published: 2019-09-24
 description: ''
 image: ./images/70672481_2438456046269840_7284994729995927552_n.jpg
 tags:

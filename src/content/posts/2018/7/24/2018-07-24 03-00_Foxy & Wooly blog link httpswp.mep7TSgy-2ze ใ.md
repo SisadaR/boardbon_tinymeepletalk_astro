@@ -1,6 +1,6 @@
 ---
 title: Foxy & Wooly
-published: 2018-24-07
+published: 2018-07-24
 description: ''
 image: ./images/37712169_1755630264552425_8491687026125438976_n.jpg
 tags:

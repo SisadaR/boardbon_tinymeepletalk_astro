@@ -1,6 +1,6 @@
 ---
 title: Rulebook writing best practice (imho)
-published: 2022-10-09
+published: 2022-09-10
 description: ''
 image: ./images/480961553_1214222607378450_384376913598736913_n.jpg
 tags:

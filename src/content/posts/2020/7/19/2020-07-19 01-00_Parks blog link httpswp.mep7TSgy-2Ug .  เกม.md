@@ -1,6 +1,6 @@
 ---
 title: Parks
-published: 2020-19-07
+published: 2020-07-19
 description: ''
 image: ./images/108591717_3132770883505016_567530153606365652_n.jpg
 tags:

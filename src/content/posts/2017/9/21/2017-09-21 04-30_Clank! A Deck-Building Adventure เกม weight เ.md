@@ -1,7 +1,7 @@
 ---
 title: 'Clank!: A Deck-Building Adventure เกม weight เบาที่เอาระบบเกมแบบ deck building
   มาใส่ลูกเล่นการเดินทางบนกระดานเข้าไป ธีมคือเราต้องไปบุกถ้ำมังกรเพื่อขนสมบัติออกมา'
-published: 2017-21-09
+published: 2017-09-21
 description: ''
 image: ./images/510971648_24017493667939433_8833761034209972350_n.jpg
 tags:

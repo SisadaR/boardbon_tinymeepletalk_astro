@@ -1,6 +1,6 @@
 ---
 title: Team Outing with Board Game - แชร์ประสบการณ์นำบอร์ดเกมไปเล่นกับทริปบริษัท
-published: 2022-04-09
+published: 2022-09-04
 description: ''
 image: ./images/484781611_9517737505008290_7200887376956670071_n.jpg
 tags:

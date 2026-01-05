@@ -1,6 +1,6 @@
 ---
 title: Founders of Gloomheaven
-published: 2018-09-07
+published: 2018-07-09
 description: ''
 image: ./images/36776611_1732105250238260_2737077418157146112_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Game Nite Magazine เล่มใหม่ออกแล้ว
-published: 2016-13-09
+published: 2016-09-13
 description: ''
 image: ./images/Game+Nite+Banner+Blog2.tif.jpg
 tags:

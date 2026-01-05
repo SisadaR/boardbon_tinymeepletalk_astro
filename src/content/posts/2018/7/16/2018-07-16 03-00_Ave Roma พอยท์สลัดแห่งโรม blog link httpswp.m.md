@@ -1,6 +1,6 @@
 ---
 title: 'Ave Roma: พอยท์สลัดแห่งโรม'
-published: 2018-16-07
+published: 2018-07-16
 description: ''
 image: ./images/37036484_1739908902791228_4705559271780122624_n.jpg
 tags:

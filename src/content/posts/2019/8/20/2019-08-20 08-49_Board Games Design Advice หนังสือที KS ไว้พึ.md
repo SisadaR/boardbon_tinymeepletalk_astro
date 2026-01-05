@@ -1,6 +1,6 @@
 ---
 title: Board Games Design Advice
-published: 2019-20-08
+published: 2019-08-20
 description: ''
 image: ./images/68448527_2372008456247933_7807266833408458752_n.jpg
 tags:

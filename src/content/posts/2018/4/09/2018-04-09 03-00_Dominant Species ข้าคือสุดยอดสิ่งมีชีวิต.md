@@ -1,6 +1,6 @@
 ---
 title: 'Dominant Species: ข้าคือสุดยอดสิ่งมีชีวิต'
-published: 2018-09-04
+published: 2018-04-09
 description: ''
 image: ./images/513039657_24035016379520495_5205345246052050979_n.jpg
 tags:

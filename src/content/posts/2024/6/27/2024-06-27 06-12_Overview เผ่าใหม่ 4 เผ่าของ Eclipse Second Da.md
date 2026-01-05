@@ -1,6 +1,6 @@
 ---
 title: 'Overview เผ่าใหม่ 4 เผ่าของ Eclipse: Second Dawn for the Galaxy'
-published: 2024-27-06
+published: 2024-06-27
 description: ''
 image: ./images/490381137_1262212389246138_2661508582395403934_n.jpg
 tags:

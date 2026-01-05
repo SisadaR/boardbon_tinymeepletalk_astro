@@ -1,7 +1,7 @@
 ---
 title: 'เกม flip+roll & write ที่เปลี่ยนแผนที่ทีก็กลายเป็นอีกเกมไปเลย - Dawn : Rise
   of Humanic'
-published: 2024-06-08
+published: 2024-08-06
 description: ''
 image: ./images/490800522_1263207979146579_7696739426659882779_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'War of the Ring: Second Edition'
-published: 2023-01-05
+published: 2023-05-01
 description: ''
 image: ./images/485984989_1242056471261730_4358428573583285480_n.jpg
 tags:

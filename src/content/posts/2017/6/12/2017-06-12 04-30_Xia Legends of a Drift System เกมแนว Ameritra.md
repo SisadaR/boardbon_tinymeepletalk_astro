@@ -1,6 +1,6 @@
 ---
 title: 'Xia: Legends of a Drift System เกมแนว Ameritrash แบบ weight กลาง ที่ให้เราผจญภัยท่องไปในอวกาศอันกว้างใหญ่เพื่อสร้างชื่อเสียงให้เลื่องลือ'
-published: 2017-12-06
+published: 2017-06-12
 description: ''
 image: ./images/510536446_24014747781547355_4364567364432653808_n.jpg
 tags:

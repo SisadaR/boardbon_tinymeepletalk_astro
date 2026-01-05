@@ -1,7 +1,7 @@
 ---
 title: '[news| ค่ายคนขี่หมู Hans im Glück ได้ทำการจดเครื่องหมายการค้าคำว่า ''Meeple''
   ในทวีปอเมริกาเหนือ'
-published: 2024-24-06
+published: 2024-06-24
 description: ''
 tags:
   - archived

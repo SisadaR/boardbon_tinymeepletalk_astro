@@ -1,6 +1,6 @@
 ---
 title: Golden Mining
-published: 2019-05-06
+published: 2019-06-05
 description: ''
 image: ./images/61839556_2233219053460208_604198565929025536_n.jpg
 tags:

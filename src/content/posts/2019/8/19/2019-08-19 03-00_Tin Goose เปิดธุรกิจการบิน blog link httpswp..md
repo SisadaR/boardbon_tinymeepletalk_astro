@@ -1,6 +1,6 @@
 ---
 title: 'Tin Goose: เปิดธุรกิจการบิน'
-published: 2019-19-08
+published: 2019-08-19
 description: ''
 image: ./images/68304053_2368332089948903_1837458314275848192_n.jpg
 tags:

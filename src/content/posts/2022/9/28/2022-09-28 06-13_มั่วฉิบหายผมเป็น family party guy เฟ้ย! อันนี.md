@@ -1,6 +1,6 @@
 ---
 title: มั่วฉิบหายผมเป็น family party guy เฟ้ย!
-published: 2022-28-09
+published: 2022-09-28
 description: ''
 image: ./images/480334195_1215467907253920_4944975448519250808_n.jpg
 tags:

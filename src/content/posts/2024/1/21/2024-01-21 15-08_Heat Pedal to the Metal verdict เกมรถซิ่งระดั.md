@@ -1,6 +1,6 @@
 ---
 title: 'Heat: Pedal to the Metal'
-published: 2024-21-01
+published: 2024-01-21
 description: ''
 image: ./images/489624274_1257207829746594_6207315787602118472_n.jpg
 tags:

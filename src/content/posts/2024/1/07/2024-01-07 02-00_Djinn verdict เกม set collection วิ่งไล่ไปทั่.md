@@ -1,6 +1,6 @@
 ---
 title: Djinn
-published: 2024-07-01
+published: 2024-01-07
 description: ''
 image: ./images/488597032_1256916449775732_3530634519892536855_n.jpg
 tags:

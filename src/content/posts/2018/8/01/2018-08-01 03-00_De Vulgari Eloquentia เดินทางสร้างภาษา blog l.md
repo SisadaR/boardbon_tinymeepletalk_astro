@@ -1,6 +1,6 @@
 ---
 title: 'De Vulgari Eloquentia: เดินทางสร้างภาษา'
-published: 2018-01-08
+published: 2018-08-01
 description: ''
 image: ./images/38120023_1769206086528176_4719164757511241728_n.jpg
 tags:

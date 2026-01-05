@@ -1,6 +1,6 @@
 ---
 title: Gugong
-published: 2019-15-01
+published: 2019-01-15
 description: ''
 image: ./images/49836913_2010235699091879_1217672233992847360_n.jpg
 tags:

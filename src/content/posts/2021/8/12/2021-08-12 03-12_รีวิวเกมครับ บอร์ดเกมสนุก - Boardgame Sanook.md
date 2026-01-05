@@ -1,6 +1,6 @@
 ---
 title: รีวิวเกมครับ บอร์ดเกมสนุก - Boardgame Sanook
-published: 2021-12-08
+published: 2021-08-12
 description: ''
 image: ./images/hqdefault.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Railways of the Lost Atlas
-published: 2025-09-02
+published: 2025-02-09
 description: ''
 image: ./images/492720588_1273696761431034_3071672713634713816_n.jpg
 tags:

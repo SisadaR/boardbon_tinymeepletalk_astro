@@ -1,6 +1,6 @@
 ---
 title: ช่วงนี้ก็ต้องแบบนี้สินะ
-published: 2025-29-04
+published: 2025-04-29
 description: ''
 image: ./images/494303504_1278284067638970_1178939719697263464_n.jpg
 tags:

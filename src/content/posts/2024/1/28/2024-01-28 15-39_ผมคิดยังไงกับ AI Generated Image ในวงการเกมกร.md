@@ -1,6 +1,6 @@
 ---
 title: ผมคิดยังไงกับ AI Generated Image ในวงการเกมกระดาน?
-published: 2024-28-01
+published: 2024-01-28
 description: ''
 image: ./images/489500087_1257859149681462_2915258515408301836_n.jpg
 tags:

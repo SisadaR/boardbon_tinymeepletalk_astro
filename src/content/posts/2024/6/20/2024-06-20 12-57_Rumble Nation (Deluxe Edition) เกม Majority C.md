@@ -1,6 +1,6 @@
 ---
 title: Rumble Nation (Deluxe Edition)
-published: 2024-20-06
+published: 2024-06-20
 description: ''
 image: ./images/490315125_1261845955949448_1735066781807579772_n.jpg
 tags:

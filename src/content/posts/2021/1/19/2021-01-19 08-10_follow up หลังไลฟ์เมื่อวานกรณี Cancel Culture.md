@@ -1,6 +1,6 @@
 ---
 title: follow up หลังไลฟ์เมื่อวานกรณี Cancel Culture ในวงการ
-published: 2021-19-01
+published: 2021-01-19
 description: ''
 tags:
   - archived

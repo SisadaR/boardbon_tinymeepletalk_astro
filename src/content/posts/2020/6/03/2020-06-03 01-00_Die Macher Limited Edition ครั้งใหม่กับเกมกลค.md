@@ -1,6 +1,6 @@
 ---
 title: 'Die Macher: Limited Edition ครั้งใหม่กับเกมกลคนเลือกตั้ง'
-published: 2020-03-06
+published: 2020-06-03
 description: ''
 image: ./images/102406769_3008066339308805_6798630997014347776_n.jpg
 tags:

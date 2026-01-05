@@ -1,7 +1,7 @@
 ---
 title: ไปเจอกระทู้ใน BGG มีชื่อว่า Most Board Games are not “Analog” - หรือเกมกระดานมันไม่ใช่อนาล็อกโว้ยยยยยยยยย
   [https_://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1]
-published: 2022-15-05
+published: 2022-05-15
 description: ''
 image: ./images/482203356_9434279016687473_7748859287148145874_n.jpg
 tags:
@@ -9,6 +9,8 @@ tags:
 category: archived
 draft: false
 ---
+
+(link)[https://boardgamegeek.com/thread/2864914/most-board-games]
 ไปเจอกระทู้ใน BGG มีชื่อว่า Most Board Games are not “Analog” - หรือเกมกระดานมันไม่ใช่อนาล็อกโว้ยยยยยยยยย [https_://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1]
 
 โดยที่จริงๆแล้วก็ไม่ได้เกี่ยวกับบอร์ดเกมขนาดนั้นแต่เป็นเรื่องของการใช้ภาษาในการนิยามที่น่าสนใจดีเพราะมันเป็นกรอบความคิดที่คนส่วนใหญ่ไม่คุ้นเคยนัก (ออกแนว Academic Nerd พอดู)

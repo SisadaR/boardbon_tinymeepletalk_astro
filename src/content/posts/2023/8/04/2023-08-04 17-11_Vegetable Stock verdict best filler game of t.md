@@ -1,6 +1,6 @@
 ---
 title: Vegetable Stock
-published: 2023-04-08
+published: 2023-08-04
 description: ''
 image: ./images/487499677_1249324890534888_1531309004116706516_n.jpg
 tags:

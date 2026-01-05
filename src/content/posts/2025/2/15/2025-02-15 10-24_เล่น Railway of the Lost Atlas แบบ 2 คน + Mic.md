@@ -1,7 +1,7 @@
 ---
 title: เล่น Railway of the Lost Atlas แบบ 2 คน + Micro Game + Hostile Merger แล้วเห้ย!
   ผิดคาดเยอะเลย เพราะสนุก อยากให้มีคนทำแผนที่เฉพาะมาเยอะๆเลย
-published: 2025-15-02
+published: 2025-02-15
 description: ''
 image: ./images/492925785_1273860528081324_3167508910476994230_n.jpg
 tags:

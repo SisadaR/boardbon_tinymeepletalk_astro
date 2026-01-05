@@ -1,6 +1,6 @@
 ---
 title: Call to Adventure
-published: 2020-29-06
+published: 2020-06-29
 description: ''
 image: ./images/75196323_3077378929044212_8323285019294236173_n.jpg
 tags:

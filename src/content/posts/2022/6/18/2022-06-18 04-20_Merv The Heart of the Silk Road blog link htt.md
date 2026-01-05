@@ -1,6 +1,6 @@
 ---
 title: 'Merv: The Heart of the Silk Road'
-published: 2022-18-06
+published: 2022-06-18
 description: ''
 image: ./images/483487886_9472849242830450_2030734465330718898_n.jpg
 tags:

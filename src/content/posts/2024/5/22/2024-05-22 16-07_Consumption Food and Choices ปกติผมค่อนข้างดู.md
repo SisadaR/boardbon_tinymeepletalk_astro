@@ -1,6 +1,6 @@
 ---
 title: 'Consumption: Food and Choices'
-published: 2024-22-05
+published: 2024-05-22
 description: ''
 image: ./images/490152834_1261055509361826_690380964652198325_n.jpg
 tags:

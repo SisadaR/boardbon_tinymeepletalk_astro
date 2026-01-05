@@ -1,6 +1,6 @@
 ---
 title: Scholars of the South Tigris
-published: 2024-13-01
+published: 2024-01-13
 description: ''
 image: ./images/489446320_1257016863099024_5859731273010788926_n.jpg
 tags:

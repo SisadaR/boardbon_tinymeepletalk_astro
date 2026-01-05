@@ -1,6 +1,6 @@
 ---
 title: เผื่อใครอยากเอา Board Game มา Match ว่ารสนิยมบนโต๊ะไปด้วยกันได้ไหมก่อนลองคบหากันนะครับ
-published: 2022-11-02
+published: 2022-02-11
 description: ''
 tags:
   - archived

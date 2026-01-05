@@ -1,6 +1,6 @@
 ---
 title: 'Eclipse: Second Dawn for the Galaxy'
-published: 2020-26-01
+published: 2020-01-26
 description: ''
 image: ./images/84217623_2711630108952431_7965580418860711936_n.jpg
 tags:

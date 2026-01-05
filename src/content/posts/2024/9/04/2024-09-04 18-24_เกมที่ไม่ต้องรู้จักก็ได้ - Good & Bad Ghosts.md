@@ -1,6 +1,6 @@
 ---
 title: เกมที่ไม่ต้องรู้จักก็ได้ - Good & Bad Ghosts หรือ Phantoms vs Phantoms
-published: 2024-04-09
+published: 2024-09-04
 description: ''
 image: ./images/491439882_1264851732315537_2809721564862030067_n.jpg
 tags:

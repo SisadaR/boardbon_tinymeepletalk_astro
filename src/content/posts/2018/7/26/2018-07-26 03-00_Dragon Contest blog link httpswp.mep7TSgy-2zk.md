@@ -1,6 +1,6 @@
 ---
 title: Dragon Contest
-published: 2018-26-07
+published: 2018-07-26
 description: ''
 image: ./images/37788744_1758954057553379_4538109586514640896_n.jpg
 tags:

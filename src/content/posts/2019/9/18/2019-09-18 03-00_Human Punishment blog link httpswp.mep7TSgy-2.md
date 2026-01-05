@@ -1,6 +1,6 @@
 ---
 title: Human Punishment
-published: 2019-18-09
+published: 2019-09-18
 description: ''
 image: ./images/70431779_2424844477630997_1193818135954718720_n.jpg
 tags:

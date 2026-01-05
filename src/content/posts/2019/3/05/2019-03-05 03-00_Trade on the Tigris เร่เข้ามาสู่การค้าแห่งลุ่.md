@@ -1,6 +1,6 @@
 ---
 title: 'Trade on the Tigris: เร่เข้ามาสู่การค้าแห่งลุ่มน้ำ'
-published: 2019-05-03
+published: 2019-03-05
 description: ''
 image: ./images/53523393_2085309158251199_8248222217926606848_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Game of the Year (Jogo do Ano) Spiel Portugal 2017 - Nominees
-published: 2017-22-06
+published: 2017-06-22
 description: ''
 image: ./images/512442643_24015687484786718_1708869388358524637_n.jpg
 tags:

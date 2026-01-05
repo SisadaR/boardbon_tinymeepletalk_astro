@@ -2,7 +2,7 @@
 title: Pax Renaissance หนึ่งในเกมโปรดของผมจะทำตัวการ reprint พร้อมออก Collecter Edition
   ที่มีแผนที่, ตัวหมากรุกดีขึ้น, กล่องใหญ่ขึ้น (แบบ Pax Porifiana) ออกปี 2020 (ผมเข้าใจว่าคง
   KS ต้นปีออกเกมปลายปีมั้งนะ แต่ก็ไม่แน่อาจจะพร้อมส่งตั้งแต่ต้นปีหน้าก็ได้)
-published: 2019-07-05
+published: 2019-05-07
 description: ''
 image: ./images/pic3009233.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Rats of Wistar
-published: 2024-04-02
+published: 2024-02-04
 description: ''
 image: ./images/489630824_1257979259669451_235240857826360200_n.jpg
 tags:

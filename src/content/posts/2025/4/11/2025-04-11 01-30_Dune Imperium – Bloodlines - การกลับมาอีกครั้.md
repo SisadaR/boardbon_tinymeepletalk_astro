@@ -1,6 +1,6 @@
 ---
 title: 'Dune: Imperium – Bloodlines - การกลับมาอีกครั้งของอีซาน อัลไกอีบ'
-published: 2025-11-04
+published: 2025-04-11
 description: ''
 image: ./images/495374959_1286986266768750_6792107780109203820_n.jpg
 tags:

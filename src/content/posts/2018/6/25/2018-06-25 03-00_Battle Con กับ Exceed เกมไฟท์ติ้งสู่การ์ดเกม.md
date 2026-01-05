@@ -1,6 +1,6 @@
 ---
 title: 'Battle Con กับ Exceed: เกมไฟท์ติ้งสู่การ์ดเกม'
-published: 2018-25-06
+published: 2018-06-25
 description: ''
 image: ./images/35923713_1709958889119563_7417114899047776256_n.jpg
 tags:

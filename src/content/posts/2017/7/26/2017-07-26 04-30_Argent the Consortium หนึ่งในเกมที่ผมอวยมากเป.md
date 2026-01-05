@@ -2,7 +2,7 @@
 title: 'Argent: the Consortium หนึ่งในเกมที่ผมอวยมากเป็นพิเศษ (ทั้งๆที่มีหลายส่วนที่ไม่ใช่แนว)
   กำลังทำตัวพิมพ์ใหม่ออกมา (2nd edition) พร้อมชุด upgrade สำหรับคนที่ซื้อ 1st edition
   ไปแล้ว'
-published: 2017-26-07
+published: 2017-07-26
 description: ''
 image: ./images/img_4721_fotor.jpg
 tags:

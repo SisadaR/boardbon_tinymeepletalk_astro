@@ -1,6 +1,6 @@
 ---
 title: 'Vijayanagara: The Deccan Empires of Medieval India, 1290-1398'
-published: 2024-29-05
+published: 2024-05-29
 description: ''
 image: ./images/489819437_1261145772686133_1158614865686846637_n.jpg
 tags:

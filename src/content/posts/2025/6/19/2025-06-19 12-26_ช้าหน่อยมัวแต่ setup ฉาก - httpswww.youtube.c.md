@@ -1,6 +1,6 @@
 ---
 title: ช้าหน่อยมัวแต่ setup ฉาก - https_://www.youtube.com/watch?v=VH8q25rjgtg -
-published: 2025-19-06
+published: 2025-06-19
 description: ''
 tags:
   - archived

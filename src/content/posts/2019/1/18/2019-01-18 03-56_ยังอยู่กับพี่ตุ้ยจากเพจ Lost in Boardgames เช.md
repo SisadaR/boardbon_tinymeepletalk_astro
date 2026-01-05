@@ -1,6 +1,6 @@
 ---
 title: ยังอยู่กับพี่ตุ้ยจากเพจ Lost in Boardgames เช่นเคย (ถ้าชอบก็บอกกันเข้ามานะครับจะได้ชวนพี่เค้ามาบ่อยๆ)
-published: 2019-18-01
+published: 2019-01-18
 description: ''
 image: ./images/maxresdefault.jpg
 tags:

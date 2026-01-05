@@ -1,6 +1,6 @@
 ---
 title: 'Tawantinsuyu: The Inca Empire'
-published: 2021-07-06
+published: 2021-06-07
 description: ''
 image: ./images/191815283_4066141463501282_6974574558053256198_n.jpg
 tags:

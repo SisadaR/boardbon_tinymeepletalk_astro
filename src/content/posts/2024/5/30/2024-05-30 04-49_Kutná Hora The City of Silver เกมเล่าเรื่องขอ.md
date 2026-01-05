@@ -1,6 +1,6 @@
 ---
 title: 'Kutná Hora: The City of Silver'
-published: 2024-30-05
+published: 2024-05-30
 description: ''
 image: ./images/490111311_1261149992685711_6408935702247229266_n.jpg
 tags:

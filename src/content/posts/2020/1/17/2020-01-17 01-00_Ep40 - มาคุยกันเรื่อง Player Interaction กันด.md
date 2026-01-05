@@ -1,6 +1,6 @@
 ---
 title: Ep40 - มาคุยกันเรื่อง Player Interaction กันดีกว่า
-published: 2020-17-01
+published: 2020-01-17
 description: ''
 image: ./images/hqdefault.jpg
 tags:

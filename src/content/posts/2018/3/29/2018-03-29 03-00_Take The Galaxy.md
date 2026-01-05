@@ -1,6 +1,6 @@
 ---
 title: Take The Galaxy
-published: 2018-29-03
+published: 2018-03-29
 description: ''
 image: ./images/513471659_24034227726266027_1696493664405309963_n.jpg
 tags:

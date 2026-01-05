@@ -1,6 +1,6 @@
 ---
 title: Tibo
-published: 2020-13-07
+published: 2020-07-13
 description: ''
 image: ./images/107488646_3115889321859839_3302816608621366106_n.jpg
 tags:

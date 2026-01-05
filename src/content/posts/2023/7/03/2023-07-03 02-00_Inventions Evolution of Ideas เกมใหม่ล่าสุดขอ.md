@@ -1,6 +1,6 @@
 ---
 title: 'Inventions: Evolution of Ideas'
-published: 2023-03-07
+published: 2023-07-03
 description: ''
 image: ./images/487376325_1246872274113483_4540055971136069383_n.jpg
 tags:

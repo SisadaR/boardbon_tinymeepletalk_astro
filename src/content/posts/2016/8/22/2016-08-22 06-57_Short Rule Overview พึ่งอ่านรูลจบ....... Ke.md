@@ -1,6 +1,6 @@
 ---
 title: '[Short Rule Overview]'
-published: 2016-22-08
+published: 2016-08-22
 description: ''
 image: ./images/pic3145313.jpg
 tags:

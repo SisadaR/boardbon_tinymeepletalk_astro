@@ -2,7 +2,7 @@
 title: 'Martians: A Story of Civilization เกม mid-heavy อีกเกมหนึ่งที่ออกมาในช่วงดาวอังคารฟีเว่อร์
   (คนล่ะเกมกับ First Martians: Adventures on the Red Planet ที่พัฒนามาจาก Robinson
   Crusoe นะ)'
-published: 2017-29-03
+published: 2017-03-29
 description: ''
 image: ./images/511150839_24008252625530204_6693651654589300437_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Overbooked
-published: 2020-25-08
+published: 2020-08-25
 description: ''
 image: ./images/118149888_3239888666126570_1074438370331309039_n.jpg
 tags:

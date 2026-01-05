@@ -1,7 +1,7 @@
 ---
 title: มีผู้ชายชวนมาเป็นเด็กเอนงาน Bewitched Exclusive Meeting ครับ คือเป็นกิจกรรมที่
   Bewitched เค้าจัดลูกค้าพิเศษของทางร้านให้มาเล่นเกมกัน
-published: 2024-22-06
+published: 2024-06-22
 description: ''
 image: ./images/490422833_1261854305948613_1985051975316758738_n.jpg
 tags:

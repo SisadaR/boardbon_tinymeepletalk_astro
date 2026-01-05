@@ -1,6 +1,6 @@
 ---
 title: 'Dune: Imperium Uprising'
-published: 2024-21-01
+published: 2024-01-21
 description: ''
 image: ./images/488889119_1257203806413663_6877772420835265302_n.jpg
 tags:

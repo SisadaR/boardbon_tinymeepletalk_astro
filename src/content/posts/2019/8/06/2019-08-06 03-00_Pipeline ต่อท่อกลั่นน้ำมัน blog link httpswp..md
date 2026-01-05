@@ -1,6 +1,6 @@
 ---
 title: 'Pipeline: ต่อท่อกลั่นน้ำมัน'
-published: 2019-06-08
+published: 2019-08-06
 description: ''
 image: ./images/67778904_2345529938895785_6744673022226989056_n.jpg
 tags:

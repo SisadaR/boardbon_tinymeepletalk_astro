@@ -2,7 +2,7 @@
 title: 'ไถไปดู KS ของเกม March of the Ants: The Ultimate Ant Civilization Game ที่เป็นการ
   rework ปัดฝุ่นของเกม March of Ants ที่ออกมาแล้ว 10 ปีมา ก็ถือว่า Quote มาได้โหดอยู่
   ในหลายๆแง่มุมผมก็คิดว่ามันจริงอยู่นะ'
-published: 2024-11-09
+published: 2024-09-11
 description: ''
 image: ./images/490986612_1264999402300770_8728880003859737282_n.jpg
 tags:

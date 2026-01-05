@@ -1,7 +1,7 @@
 ---
 title: Jump Drive ถ้าพูดให้เข้าใจง่ายๆมันก็คือ Race for the Galaxy ฉบับย่อส่วนเนี่ยล่ะ
   ตัดระบบ role selection กับหลายๆ phase ออกไปให้เหลือแค่สร้างกับจั่ว
-published: 2017-02-08
+published: 2017-08-02
 description: ''
 image: ./images/510796016_24017511417937658_8154398052610796429_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: เล่นไปบ่นไป - BnB play-through - Taluva - ตั้งรกรากเกาะสวรรค์
-published: 2020-30-01
+published: 2020-01-30
 description: ''
 image: ./images/hqdefault.jpg
 tags:

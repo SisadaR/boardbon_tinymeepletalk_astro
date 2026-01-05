@@ -1,6 +1,6 @@
 ---
 title: 'Brass: Lancashire & Brass: Birmingham'
-published: 2018-13-08
+published: 2018-08-13
 description: ''
 image: ./images/38875088_1787761704672614_1377767367584514048_n.jpg
 tags:

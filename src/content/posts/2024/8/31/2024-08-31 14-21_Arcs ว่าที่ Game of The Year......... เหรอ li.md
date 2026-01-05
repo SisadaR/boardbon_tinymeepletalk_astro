@@ -1,6 +1,6 @@
 ---
 title: 'Arcs: ว่าที่ Game of The Year......... เหรอ?'
-published: 2024-31-08
+published: 2024-08-31
 description: ''
 image: ./images/490565907_1264809712319739_8585629375694462851_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Nekojima
-published: 2024-31-01
+published: 2024-01-31
 description: ''
 image: ./images/489021625_1257877749679602_1940447232239882056_n.jpg
 tags:

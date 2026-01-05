@@ -1,7 +1,7 @@
 ---
 title: Gentes เกมใหม่จาก Stefan Risthaus ที่ออกแบบ Arkwright เปิดให้จองแล้ว ส่งของเดือนหน้า
   ทำกับค่ายเดิมคือ Spielworxx ผลิตแค่ 1000 กล่องเท่านั้น
-published: 2017-26-06
+published: 2017-06-26
 description: ''
 image: ./images/512536324_24015907284764738_7737637269190799634_n.jpg
 tags:

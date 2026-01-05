@@ -1,6 +1,6 @@
 ---
 title: Rajas of the Ganges
-published: 2018-30-04
+published: 2018-04-30
 description: ''
 image: ./images/31252783_1642181919230594_7253475313630314496_n.jpg
 tags:

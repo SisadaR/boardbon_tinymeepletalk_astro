@@ -1,7 +1,7 @@
 ---
 title: ทางเพจ Board Game Smart Camp กำลังจัดกิจกรรมเกมส่งเสริมการเรียนรู้ให้ ทอยได้
   20 Thinking ฮะ สนใจก็ไปร่วมกิจกรรมได้ แจกเกมดีๆทั้งนั้น
-published: 2022-01-04
+published: 2022-04-01
 description: ''
 tags:
   - archived

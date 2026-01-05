@@ -2,7 +2,7 @@
 title: 'Import / Export: Definitive Edition นี้ก็คือฉบับ deluxe ของเกม Import/Export
   ที่เคยเขียนไว้นานล่ะ อันใหม่ทำมาดูพรีเมี่ยมแบบใส่ใจดี กระดาษหนา การ์ดมีพิมพ์นูนดิ้นลาย
   เรือนี้ก็มาเป็นแผ่นเหล็กเลย'
-published: 2021-10-03
+published: 2021-03-10
 description: ''
 image: ./images/157717009_3800661376715960_3155734573215965114_n.jpg
 tags:

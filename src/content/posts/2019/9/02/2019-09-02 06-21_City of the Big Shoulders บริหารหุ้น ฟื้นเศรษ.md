@@ -1,6 +1,6 @@
 ---
 title: 'City of the Big Shoulders: บริหารหุ้น ฟื้นเศรษฐกิจ'
-published: 2019-02-09
+published: 2019-09-02
 description: ''
 image: ./images/70171352_2394971227284989_4865630147396501504_n.jpg
 tags:

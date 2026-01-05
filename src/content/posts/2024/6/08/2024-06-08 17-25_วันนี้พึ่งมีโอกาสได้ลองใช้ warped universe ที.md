@@ -1,7 +1,7 @@
 ---
 title: 'วันนี้พึ่งมีโอกาสได้ลองใช้ warped universe ที่เป็นอุปกรณ์ช่วยของ Eclipse:
   Second Dawn for the Galaxy ก็เลยจะเอามาเล่าให้ฟังนิดนึง'
-published: 2024-08-06
+published: 2024-06-08
 description: ''
 image: ./images/490296506_1261478339319543_1028018818947968393_n.jpg
 tags:

@@ -2,7 +2,7 @@
 title: ในยุคที่เกมเก่าดีๆพากัน reprint ออก edition ใหม่มา อีกเกมที่อยากให้กลับมามากๆก็คือ
   Panamax เนี่ยแหละ สำหรับงานของ Nuno Bizarro Sentieiro + Paulo Soledade แล้วผมชอบกว่า
   Nippon แล้วก็ Madeira อีก
-published: 2025-06-05
+published: 2025-05-06
 description: ''
 image: ./images/495837074_1284066133727430_1633352452778682278_n.jpg
 tags:

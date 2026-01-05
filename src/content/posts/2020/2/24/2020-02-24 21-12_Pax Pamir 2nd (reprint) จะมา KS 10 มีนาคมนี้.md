@@ -1,7 +1,7 @@
 ---
 title: Pax Pamir 2nd (reprint) จะมา KS 10 มีนาคมนี้ ใครอยากได้เหรียญเหล็กก็จะมาให้สั่งเหมือนกัน
   กับ John Company 2nd ก็น่าจะมาตามหลังในอีกไม่นาน
-published: 2020-24-02
+published: 2020-02-24
 description: ''
 image: ./images/20180217_165455_fotor.jpg
 tags:

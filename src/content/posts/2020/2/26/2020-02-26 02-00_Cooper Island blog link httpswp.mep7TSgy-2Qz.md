@@ -1,6 +1,6 @@
 ---
 title: Cooper Island
-published: 2020-26-02
+published: 2020-02-26
 description: ''
 image: ./images/87868925_2779653122150129_8755049412784291840_n.jpg
 tags:

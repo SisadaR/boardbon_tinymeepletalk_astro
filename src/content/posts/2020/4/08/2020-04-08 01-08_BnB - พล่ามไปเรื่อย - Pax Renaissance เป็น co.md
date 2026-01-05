@@ -1,6 +1,6 @@
 ---
 title: BnB - พล่ามไปเรื่อย - Pax Renaissance
-published: 2020-08-04
+published: 2020-04-08
 description: ''
 image: ./images/maxresdefault.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Fischen (Fisher)
-published: 2025-17-06
+published: 2025-06-17
 description: ''
 image: ./images/508393878_1318999673567409_7204871727968321652_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Azul: Summer Pavilion'
-published: 2020-08-07
+published: 2020-07-08
 description: ''
 image: ./images/107912978_3101626419952796_5255052046883086154_n.jpg
 tags:

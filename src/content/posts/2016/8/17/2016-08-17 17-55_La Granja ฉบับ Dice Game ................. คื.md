@@ -1,6 +1,6 @@
 ---
 title: La Granja ฉบับ Dice Game ................. คือก็เข้าใจอ่ะนะ
-published: 2016-17-08
+published: 2016-08-17
 description: ''
 image: ./images/pic3051552.png
 tags:

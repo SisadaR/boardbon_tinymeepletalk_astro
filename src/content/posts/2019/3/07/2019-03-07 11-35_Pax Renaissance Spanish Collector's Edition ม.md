@@ -1,6 +1,6 @@
 ---
 title: Pax Renaissance Spanish Collector's Edition
-published: 2019-07-03
+published: 2019-03-07
 description: ''
 image: ./images/53728847_2089268291188619_3831556405119156224_n.png
 tags:

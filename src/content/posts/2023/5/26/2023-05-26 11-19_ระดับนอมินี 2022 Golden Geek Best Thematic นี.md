@@ -1,6 +1,6 @@
 ---
 title: ระดับนอมินี 2022 Golden Geek Best Thematic นี้ต้องขอลองหน่อยล่ะ เดี๋ยวจะเอามาเล่าให้ฟังนะครับ
-published: 2023-26-05
+published: 2023-05-26
 description: ''
 image: ./images/486603635_1244897227644321_483584144921194351_n.jpg
 tags:
