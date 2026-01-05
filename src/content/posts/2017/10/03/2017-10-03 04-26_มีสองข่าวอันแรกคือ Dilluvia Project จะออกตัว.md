@@ -4,7 +4,6 @@ published: 2017-03-10
 description: ""
 image: ./images/510544168_24022870284068438_6419506572280117367_n.jpg
 tags:
-  - 27066487
   - archived
   - news
 category: archived
