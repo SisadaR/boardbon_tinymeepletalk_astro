@@ -1,10 +1,10 @@
 ---
 title: 'จาก Red (Tayler''s Version) สู่ Brass: Lancashire'
-published: '2021-22-11'
+published: 2021-22-11
 description: ''
 tags:
   - archived
-- บ่นไปเรื่อย
+  - บ่นไปเรื่อย
 category: archived
 draft: false
 ---

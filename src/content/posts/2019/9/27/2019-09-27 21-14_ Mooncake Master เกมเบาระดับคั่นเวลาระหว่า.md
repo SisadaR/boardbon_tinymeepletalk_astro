@@ -1,11 +1,11 @@
 ---
 title: Mooncake Master
-published: '2019-27-09'
+published: 2019-27-09
 description: ''
 image: ./images/70865885_2444513575664087_5442679911514898432_n.jpg
 tags:
   - archived
-- bite_size
+  - bite_size
 category: archived
 draft: false
 ---

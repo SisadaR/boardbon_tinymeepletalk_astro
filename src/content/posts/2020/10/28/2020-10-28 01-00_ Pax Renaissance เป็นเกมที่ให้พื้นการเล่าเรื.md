@@ -1,13 +1,13 @@
 ---
 title: Pax Renaissance เป็นเกมที่ให้พื้นการเล่าเรื่องผ่านการปฎิวัตินับครั้งไม่ถ้วนของรัฐยุโรปในช่วงสองร้อยปีของศตวรรษที่
   14-16
-published: '2020-28-10'
+published: 2020-28-10
 description: ''
 image: ./images/122470871_3436339213148180_2609619384582032128_n.jpg
 tags:
   - archived
-- bite_size
-- หยิบบางมุมมาเล่า
+  - bite_size
+  - หยิบบางมุมมาเล่า
 category: archived
 draft: false
 ---

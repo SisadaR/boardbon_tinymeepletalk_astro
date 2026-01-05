@@ -1,11 +1,11 @@
 ---
 title: Pax Renaissance 2nd edition
-published: '2021-27-12'
+published: 2021-27-12
 description: ''
 image: ./images/481020337_9346904915424884_6659611112432157052_n.jpg
 tags:
   - archived
-- bite_size
+  - bite_size
 category: archived
 draft: false
 ---

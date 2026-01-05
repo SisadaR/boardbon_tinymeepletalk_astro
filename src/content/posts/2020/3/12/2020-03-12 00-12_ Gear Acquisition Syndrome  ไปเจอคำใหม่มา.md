@@ -1,12 +1,12 @@
 ---
 title: Gear Acquisition Syndrome
-published: '2020-12-03'
+published: 2020-12-03
 description: ''
 image: ./images/90065879_2812543135527794_8955858980916166656_n.png
 tags:
   - archived
-- บ่นไปเรื่อย
-- ไม่เกี่ยวกับบอร์ดเกมมั้ง
+  - บ่นไปเรื่อย
+  - ไม่เกี่ยวกับบอร์ดเกมมั้ง
 category: archived
 draft: false
 ---

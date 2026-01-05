@@ -2,13 +2,13 @@
 title: 'Dune: A Game of Conquest and Diplomacy (2021) เป็นเกมที่ย่นย่อเอาสุดยอดเกมขึ้นหิ้งอย่าง
   Dune (1979 มี reprint อีกรอบตอน 2019) มาทำให้สั้นและเล็กลงสามเท่าจนสามารถเล่นจบได้ในเวลาเพียง
   1 ชั่วโมง'
-published: '2022-11-05'
+published: 2022-11-05
 description: ''
 image: ./images/481666231_9434118236703551_900270090903773959_n.jpg
 tags:
   - archived
-- bite_size
-- อินเนอร์เยอะ
+  - bite_size
+  - อินเนอร์เยอะ
 category: archived
 draft: false
 ---

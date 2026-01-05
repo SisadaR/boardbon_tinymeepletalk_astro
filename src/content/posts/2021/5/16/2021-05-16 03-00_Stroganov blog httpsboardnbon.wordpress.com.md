@@ -1,12 +1,12 @@
 ---
 title: Stroganov
-published: '2021-16-05'
+published: 2021-16-05
 description: ''
 image: ./images/185421973_4000352296746866_1135613896011368116_n.jpg
 tags:
   - archived
-- first_impression
-- thought
+  - first_impression
+  - thought
 category: archived
 draft: false
 ---
