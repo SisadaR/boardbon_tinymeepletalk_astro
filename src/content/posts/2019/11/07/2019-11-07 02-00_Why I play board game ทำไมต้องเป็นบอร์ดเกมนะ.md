@@ -1,6 +1,6 @@
 ---
 title: 'Why I play board game?: ทำไมต้องเป็นบอร์ดเกมนะ?'
-published: 2019-07-11
+published: 2019-11-07
 description: ''
 image: ./images/75392652_2525060944276016_424818646926229504_n.jpg
 tags:

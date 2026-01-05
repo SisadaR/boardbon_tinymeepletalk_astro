@@ -1,6 +1,6 @@
 ---
 title: Good article, Great list, Wonderful insight.
-published: 2023-02-12
+published: 2023-12-02
 description: ''
 tags:
   - archived

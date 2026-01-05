@@ -1,6 +1,6 @@
 ---
 title: ผมจำเป็นต้องเขียน Battlestar Galactica VS Unfathomable จริงๆหรือ?
-published: 2021-09-11
+published: 2021-11-09
 description: ''
 image: ./images/476137775_9260079907440719_4776622037891597352_n.jpg
 tags:

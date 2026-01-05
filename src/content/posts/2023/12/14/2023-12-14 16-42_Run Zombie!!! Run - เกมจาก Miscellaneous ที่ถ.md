@@ -1,7 +1,7 @@
 ---
 title: Run Zombie!!! Run - เกมจาก Miscellaneous ที่ถือได้ว่ามี table present ที่โดดเด่นมากเกมหนึ่งในงาน
   TIBM ธีมว่าด้วยการที่เราจะมาวิ่งหนีซอมบี้ในวันสิ้นโลกกัน
-published: 2023-14-12
+published: 2023-12-14
 description: ''
 image: ./images/489299020_1256046326529411_3727512369738519231_n.jpg
 tags:

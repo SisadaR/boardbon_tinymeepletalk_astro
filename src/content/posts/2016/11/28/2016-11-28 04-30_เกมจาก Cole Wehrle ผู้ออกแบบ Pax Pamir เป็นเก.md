@@ -1,6 +1,6 @@
 ---
 title: เกมจาก Cole Wehrle ผู้ออกแบบ Pax Pamir
-published: 2016-28-11
+published: 2016-11-28
 description: ''
 image: ./images/pic3135977.jpg
 tags:

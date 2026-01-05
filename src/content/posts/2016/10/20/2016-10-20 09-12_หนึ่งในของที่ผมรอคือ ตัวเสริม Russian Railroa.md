@@ -1,7 +1,7 @@
 ---
 title: 'หนึ่งในของที่ผมรอคือ ตัวเสริม Russian Railroads : American นี้แหละมีคนเอามา
   overview ล่ะ'
-published: 2016-20-10
+published: 2016-10-20
 description: ''
 image: ./images/fb.png
 tags:

@@ -1,6 +1,6 @@
 ---
 title: The loneliness of one board game explorer....
-published: 2019-21-11
+published: 2019-11-21
 description: ''
 tags:
   - archived

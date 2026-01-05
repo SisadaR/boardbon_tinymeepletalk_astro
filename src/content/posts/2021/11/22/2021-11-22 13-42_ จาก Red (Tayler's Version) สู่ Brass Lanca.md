@@ -1,6 +1,6 @@
 ---
 title: 'จาก Red (Tayler''s Version) สู่ Brass: Lancashire'
-published: 2021-22-11
+published: 2021-11-22
 description: ''
 tags:
   - archived

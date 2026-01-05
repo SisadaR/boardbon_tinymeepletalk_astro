@@ -1,7 +1,7 @@
 ---
 title: รูลของ Lisboa เกมใหม่จาก designer ที่ผมไม่เคยชอบเลยซักเกม (Vinhos / Co2 / Kanban
   / ยกเว้น The Gallerist ที่อยู่ระดับโอเคเพลินๆ)
-published: 2016-01-11
+published: 2016-11-01
 description: ''
 image: ./images/fb.png
 tags:

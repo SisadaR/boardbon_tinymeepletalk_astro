@@ -1,6 +1,6 @@
 ---
 title: 'Endless Winter: Paleoamericans'
-published: 2022-07-12
+published: 2022-12-07
 description: ''
 image: ./images/483433785_1230098012457576_4181554066443038377_n.jpg
 tags:

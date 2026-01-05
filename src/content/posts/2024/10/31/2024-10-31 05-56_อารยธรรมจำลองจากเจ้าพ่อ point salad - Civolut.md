@@ -1,6 +1,6 @@
 ---
 title: อารยธรรมจำลองจากเจ้าพ่อ point salad - Civolution
-published: 2024-31-10
+published: 2024-10-31
 description: ''
 image: ./images/491577265_1266662185467825_2867498783475497003_n.jpg
 tags:

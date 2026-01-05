@@ -2,7 +2,7 @@
 title: '''In Oath, there are no fancy production tricks, app-assisted mechanisms or
   production gimmicks. The game can be reset at any time and doesn''t require the
   same play group from one game to the next.'''
-published: 2019-15-10
+published: 2019-10-15
 description: ''
 image: ./images/pic4997248.png
 tags:

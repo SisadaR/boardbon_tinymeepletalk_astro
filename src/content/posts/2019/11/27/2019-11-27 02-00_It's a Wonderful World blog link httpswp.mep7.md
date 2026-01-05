@@ -1,6 +1,6 @@
 ---
 title: It's a Wonderful World
-published: 2019-27-11
+published: 2019-11-27
 description: ''
 image: ./images/77285340_2576213482494095_7294114839645913088_n.jpg
 tags:

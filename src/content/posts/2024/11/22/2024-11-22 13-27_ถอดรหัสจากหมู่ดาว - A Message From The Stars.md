@@ -1,6 +1,6 @@
 ---
 title: ถอดรหัสจากหมู่ดาว - A Message From The Stars
-published: 2024-22-11
+published: 2024-11-22
 description: ''
 image: ./images/491723015_1272031728264204_2867839913969356816_n.jpg
 tags:

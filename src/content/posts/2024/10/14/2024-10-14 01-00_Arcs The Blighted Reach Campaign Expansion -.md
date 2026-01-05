@@ -1,7 +1,7 @@
 ---
 title: 'Arcs: The Blighted Reach Campaign Expansion - ผมพึ่งได้ลองเล่นตัวเตงเกมแห่งปีของผมอย่าง
   Arcs ในแบบ Campaign ยาวเป็นครั้งแรกดู แต่ก็พบว่าเยอะนั้นก็ไม่ได้แปลว่าจะถูกใจกว่า....'
-published: 2024-14-10
+published: 2024-10-14
 description: ''
 image: ./images/491262663_1266144462186264_6882001704804025724_n.jpg
 tags:

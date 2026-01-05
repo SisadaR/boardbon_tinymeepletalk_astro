@@ -1,6 +1,6 @@
 ---
 title: นั้นมันรูปคนออกแบบ!! โว๊ะ!
-published: 2021-16-11
+published: 2021-11-16
 description: ''
 image: ./images/476141319_9264520380330005_4851192508751877130_n.jpg
 tags:

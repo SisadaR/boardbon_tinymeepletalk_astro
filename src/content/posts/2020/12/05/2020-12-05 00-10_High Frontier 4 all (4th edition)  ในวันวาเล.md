@@ -1,6 +1,6 @@
 ---
 title: High Frontier 4 all (4th edition)
-published: 2020-05-12
+published: 2020-12-05
 description: ''
 image: ./images/128176021_3542829645832469_3796819421396430821_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Cerebria: The Inside World - สมดุลย์แห่งอารมณ์สู่ตัวตนของเรา'
-published: 2018-05-12
+published: 2018-12-05
 description: ''
 image: ./images/47339997_1949437685171681_7975097765740937216_n.jpg
 tags:

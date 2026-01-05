@@ -1,6 +1,6 @@
 ---
 title: Inside Job
-published: 2023-02-10
+published: 2023-10-02
 description: ''
 image: ./images/488476081_1251736796960364_8085600213051322094_n.jpg
 tags:

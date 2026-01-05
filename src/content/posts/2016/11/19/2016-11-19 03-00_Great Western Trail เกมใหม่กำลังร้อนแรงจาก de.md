@@ -1,7 +1,7 @@
 ---
 title: Great Western Trail เกมใหม่กำลังร้อนแรงจาก designer Mombasa เราเล่นเป็นคาวบอยส่งวัวไปขายที่แคนซัส
   แนว tile placement ผสม deck building ส่วนตัวโดน hype เกมนี้มาเยอะเหมือนกัน
-published: 2016-19-11
+published: 2016-11-19
 description: ''
 image: ./images/509960270_23999939719694828_5991687295254860235_n.jpg
 tags:

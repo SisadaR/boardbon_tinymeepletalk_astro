@@ -1,6 +1,6 @@
 ---
 title: 'Doubt is our product - ยาสูบ: ธุรกิจที่การฆ่าลูกค้าผู้ภักดีคือกำไร'
-published: 2023-28-12
+published: 2023-12-28
 description: ''
 image: ./images/489311454_1256678796466164_2095979978962000005_n.jpg
 tags:

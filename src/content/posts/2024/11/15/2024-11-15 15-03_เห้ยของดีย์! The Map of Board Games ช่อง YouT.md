@@ -1,6 +1,6 @@
 ---
 title: เห้ยของดีย์! The Map of Board Games
-published: 2024-15-11
+published: 2024-11-15
 description: ''
 image: ./images/491983403_1267293058738071_5466012703147511474_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Table Cooking - [Preview/Overview] หลังอ่านรูลจบ
-published: 2023-04-10
+published: 2023-10-04
 description: ''
 tags:
   - archived

@@ -2,7 +2,7 @@
 title: เก็บตกวันหยุดมี บอร์ดเกมไนท์ Board Game Night Hexa House Wizards of Learning
   และ Words Wonder Publishing แวะมาเล่นเกมด้วยกันครับ Pax renaissance, Pax Pamir,
   El Grande, Victim, Pizza Master revise.
-published: 2020-19-10
+published: 2020-10-19
 description: ''
 image: ./images/121654979_3413316828783752_7056556407026027058_n.jpg
 tags:

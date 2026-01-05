@@ -2,7 +2,7 @@
 title: Area เกมแนว roll & write ที่อยู่ในช่วงพัฒนาจาก DESK DECK Studio เจ้าเดียวกับที่ทำ
   Defuse และ Connnect (มีตัว n 3 ตัว ออกกับค่ายสี่คอมม่าไม่เติมเอส) โดยทั้งสามเกมจะเป็นแนว
   roll & write ทั้งหมด
-published: 2023-16-11
+published: 2023-11-16
 description: ''
 image: ./images/488653813_1254905909976786_307591758069851387_n.jpg
 tags:

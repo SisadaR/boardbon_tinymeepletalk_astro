@@ -1,6 +1,6 @@
 ---
 title: 'Wildcatters: Capstone Games Reprint Edition'
-published: 2019-22-10
+published: 2019-10-22
 description: ''
 image: ./images/72964561_2494019637380147_6078653805140901888_n.jpg
 tags:

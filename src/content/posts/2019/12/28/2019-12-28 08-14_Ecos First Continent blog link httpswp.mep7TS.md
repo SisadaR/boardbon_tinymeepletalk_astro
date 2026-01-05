@@ -1,6 +1,6 @@
 ---
 title: 'Ecos: First Continent'
-published: 2019-28-12
+published: 2019-12-28
 description: ''
 image: ./images/80543980_2648872688561507_4356236834133508096_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Tekhenu: Obelisk of the Sun'
-published: 2020-22-10
+published: 2020-10-22
 description: ''
 image: ./images/122157956_3419540154828086_871606457627645523_n.jpg
 tags:

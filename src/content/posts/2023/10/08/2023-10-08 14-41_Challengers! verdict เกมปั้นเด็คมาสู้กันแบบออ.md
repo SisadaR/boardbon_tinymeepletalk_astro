@@ -1,6 +1,6 @@
 ---
 title: Challengers!
-published: 2023-08-10
+published: 2023-10-08
 description: ''
 image: ./images/488643424_1251974106936633_5340805238491407565_n.jpg
 tags:

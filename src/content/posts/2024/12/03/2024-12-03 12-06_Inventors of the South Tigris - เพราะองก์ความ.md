@@ -1,6 +1,6 @@
 ---
 title: Inventors of the South Tigris - เพราะองก์ความรู้นั้นต้องช่วยกันใช้
-published: 2024-03-12
+published: 2024-12-03
 description: ''
 image: ./images/492806129_1272254154908628_7930036425073471894_n.jpg
 tags:

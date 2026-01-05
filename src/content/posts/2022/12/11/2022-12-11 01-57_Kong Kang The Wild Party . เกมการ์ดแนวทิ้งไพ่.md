@@ -1,6 +1,6 @@
 ---
 title: 'Kong Kang : The Wild Party'
-published: 2022-11-12
+published: 2022-12-11
 description: ''
 image: ./images/482324357_1230393742428003_7028854247735581550_n.jpg
 tags:

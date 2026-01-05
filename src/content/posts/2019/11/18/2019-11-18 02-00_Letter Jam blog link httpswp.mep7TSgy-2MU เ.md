@@ -1,6 +1,6 @@
 ---
 title: Letter Jam
-published: 2019-18-11
+published: 2019-11-18
 description: ''
 image: ./images/78262538_2555568207891956_5508347942836109312_n.jpg
 tags:

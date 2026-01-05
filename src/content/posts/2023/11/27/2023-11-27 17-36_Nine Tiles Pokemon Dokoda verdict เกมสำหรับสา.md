@@ -1,6 +1,6 @@
 ---
 title: Nine Tiles Pokemon Dokoda
-published: 2023-27-11
+published: 2023-11-27
 description: ''
 image: ./images/488588023_1255663126567731_1874511661492835923_n.jpg
 tags:

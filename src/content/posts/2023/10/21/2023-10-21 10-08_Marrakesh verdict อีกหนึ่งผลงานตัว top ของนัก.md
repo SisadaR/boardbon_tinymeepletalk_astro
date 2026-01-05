@@ -1,6 +1,6 @@
 ---
 title: Marrakesh
-published: 2023-21-10
+published: 2023-10-21
 description: ''
 image: ./images/487502616_1252887426845301_762801721010586716_n.jpg
 tags:

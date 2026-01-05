@@ -1,6 +1,6 @@
 ---
 title: Kemet / Cyclades ไม่ใช่ Wargame
-published: 2023-07-12
+published: 2023-12-07
 description: ''
 image: ./images/maxresdefault.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: CMON Expo Thailand 2023 @Samyan Mitrtown Hall 5th Fl.
-published: 2023-04-11
+published: 2023-11-04
 description: ''
 image: ./images/488545846_1253877436746300_157989412484478812_n.jpg
 tags:

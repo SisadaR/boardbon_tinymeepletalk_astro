@@ -1,6 +1,6 @@
 ---
 title: Alma Mater
-published: 2020-19-11
+published: 2020-11-19
 description: ''
 image: ./images/125467444_3498705166911584_5672404590687438777_n.jpg
 tags:

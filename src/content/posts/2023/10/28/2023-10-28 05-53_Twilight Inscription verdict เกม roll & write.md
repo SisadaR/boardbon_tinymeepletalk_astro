@@ -1,6 +1,6 @@
 ---
 title: Twilight Inscription
-published: 2023-28-10
+published: 2023-10-28
 description: ''
 image: ./images/488644856_1253193810147996_5857702273601412977_n.jpg
 tags:

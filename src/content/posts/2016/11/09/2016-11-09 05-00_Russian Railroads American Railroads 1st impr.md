@@ -1,6 +1,6 @@
 ---
 title: 'Russian Railroads: American Railroads 1st impression'
-published: 2016-09-11
+published: 2016-11-09
 description: ''
 image: ./images/510255378_23999418256413641_4318192264965853957_n.jpg
 tags:

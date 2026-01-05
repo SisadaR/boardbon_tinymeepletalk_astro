@@ -1,6 +1,6 @@
 ---
 title: Suriya - (pre-crowdfunding opinion)
-published: 2024-25-11
+published: 2024-11-25
 description: ''
 image: ./images/492536138_1272039814930062_9131893925328505251_n.jpg
 tags:

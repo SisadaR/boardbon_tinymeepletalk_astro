@@ -1,7 +1,7 @@
 ---
 title: เวบไซต์ BoardgameGeek สุดยอดแหล่งข้อมูลเกมกระดานที่ ถ้าล่มที่อาจจะมีวางมวยกับเพื่อนเพราะหา
   FAQ กติกาเกมไม่เจอ เริ่มเปิดสมทบทุนปิดท้ายปี ประจำปี 2017 แล้วนะครับ
-published: 2017-02-12
+published: 2017-12-02
 description: ''
 image: ./images/geekfacebook.png
 tags:

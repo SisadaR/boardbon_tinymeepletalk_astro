@@ -1,6 +1,6 @@
 ---
 title: So, You've Been Eaten
-published: 2023-30-10
+published: 2023-10-30
 description: ''
 image: ./images/488362201_1253205816813462_4908330044270410248_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Magnete: The First City'
-published: 2021-08-12
+published: 2021-12-08
 description: ''
 image: ./images/476781854_9293062870809089_5659763210621968570_n.jpg
 tags:

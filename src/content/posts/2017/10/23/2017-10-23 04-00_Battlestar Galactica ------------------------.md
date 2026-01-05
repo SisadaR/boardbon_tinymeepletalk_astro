@@ -1,6 +1,6 @@
 ---
 title: Battlestar Galactica
-published: 2017-23-10
+published: 2017-10-23
 description: ''
 image: ./images/513461883_24024051160617017_5793242695094526715_n.jpg
 tags:

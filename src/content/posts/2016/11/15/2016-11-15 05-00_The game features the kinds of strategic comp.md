@@ -1,7 +1,7 @@
 ---
 title: '''The game features the kinds of strategic complexities found in deeper games
   such as Terra Mystica, Brass, Caylus and Dominant Species'''
-published: 2016-15-11
+published: 2016-11-15
 description: ''
 image: ./images/5718a878de9b7b939862b906655d17ff_original.jpg
 tags:

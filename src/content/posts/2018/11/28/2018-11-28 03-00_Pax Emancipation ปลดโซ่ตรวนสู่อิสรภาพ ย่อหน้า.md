@@ -1,6 +1,6 @@
 ---
 title: 'Pax Emancipation: ปลดโซ่ตรวนสู่อิสรภาพ'
-published: 2018-28-11
+published: 2018-11-28
 description: ''
 image: ./images/46967592_1938869242895192_5576358831572647936_n.jpg
 tags:

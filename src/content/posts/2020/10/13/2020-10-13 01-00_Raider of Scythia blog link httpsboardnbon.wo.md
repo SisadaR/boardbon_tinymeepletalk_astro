@@ -1,6 +1,6 @@
 ---
 title: Raider of Scythia
-published: 2020-13-10
+published: 2020-10-13
 description: ''
 image: ./images/121309698_3394969427285159_8329795333646037646_n.jpg
 tags:

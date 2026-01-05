@@ -1,6 +1,6 @@
 ---
 title: Dying Message
-published: 2023-24-12
+published: 2023-12-24
 description: ''
 image: ./images/489012981_1256660293134681_7780796647414106926_n.jpg
 tags:

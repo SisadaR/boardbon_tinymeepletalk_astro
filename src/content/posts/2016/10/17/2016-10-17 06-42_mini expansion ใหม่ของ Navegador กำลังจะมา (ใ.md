@@ -1,7 +1,7 @@
 ---
 title: mini expansion ใหม่ของ Navegador กำลังจะมา (ใน package มาพร้อมกับ mini expansion
   ของ Concordia ด้วย)
-published: 2016-17-10
+published: 2016-10-17
 description: ''
 image: ./images/fb.png
 tags:

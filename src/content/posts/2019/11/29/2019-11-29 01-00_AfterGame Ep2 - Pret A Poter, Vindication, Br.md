@@ -1,6 +1,6 @@
 ---
 title: AfterGame Ep2 - Pret A Poter, Vindication, Bruxelles, Masters of Renaissance
-published: 2019-29-11
+published: 2019-11-29
 description: ''
 image: ./images/maxresdefault.jpg
 tags:

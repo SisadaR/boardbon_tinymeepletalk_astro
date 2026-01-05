@@ -2,7 +2,7 @@
 title: 'ยังอยู่กับ GameTek: The Math and Science of Gaming เช่นเคย เป็นหนังสือเกี่ยวกับการออกแบบเกมกระดานที่เกิดจากการรวมเอาส่วนที่น่าสนใจที่
   Geoff Engelstein (คนเขียน) เคยพูดไว้ในโชว์ของ Dice Tower คราวนี้ขอยกเรื่องเกี่ยวกับ
   The Innovation Limit หรือ ''ของใหม่มาทีละอย่างก็พอแล้ว'''
-published: 2017-09-11
+published: 2017-11-09
 description: ''
 image: ./images/510981520_24024862090535924_6091333960247309894_n.jpg
 tags:

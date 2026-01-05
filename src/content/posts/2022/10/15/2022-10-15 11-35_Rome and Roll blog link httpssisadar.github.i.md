@@ -1,6 +1,6 @@
 ---
 title: Rome and Roll
-published: 2022-15-10
+published: 2022-10-15
 description: ''
 image: ./images/480590960_1217952370338807_9057781701197672942_n.jpg
 tags:

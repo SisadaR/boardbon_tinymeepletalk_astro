@@ -1,6 +1,6 @@
 ---
 title: 'Trismegistus: The Ultimate Formula'
-published: 2019-17-11
+published: 2019-11-17
 description: ''
 image: ./images/75450069_2553367184778725_4934160946219188224_n.jpg
 tags:

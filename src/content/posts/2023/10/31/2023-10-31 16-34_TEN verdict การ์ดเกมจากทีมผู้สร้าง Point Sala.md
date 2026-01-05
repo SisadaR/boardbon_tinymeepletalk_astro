@@ -1,6 +1,6 @@
 ---
 title: TEN
-published: 2023-31-10
+published: 2023-10-31
 description: ''
 image: ./images/488649813_1253850820082295_421332649989919721_n.jpg
 tags:

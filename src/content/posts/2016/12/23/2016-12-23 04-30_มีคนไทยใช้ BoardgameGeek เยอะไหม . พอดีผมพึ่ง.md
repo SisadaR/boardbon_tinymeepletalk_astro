@@ -1,6 +1,6 @@
 ---
 title: มีคนไทยใช้ BoardgameGeek เยอะไหม?
-published: 2016-23-12
+published: 2016-12-23
 description: ''
 image: ./images/510460400_24002555312766602_1547723728184761581_n.jpg
 tags:

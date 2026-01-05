@@ -1,6 +1,6 @@
 ---
 title: 'Barbaric: บาบาริค (Testing Prototype)'
-published: 2021-07-11
+published: 2021-11-07
 description: ''
 image: ./images/476358273_9260062214109155_8199799605268667196_n.jpg
 tags:

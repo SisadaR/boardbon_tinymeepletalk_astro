@@ -2,7 +2,7 @@
 title: 'Ibyron: Island of Discovery ที่เคยพล่ามไว้ก่อนหน้านี้ตอนนี้เปิด promotion
   ลดราคาแล้ว concept ประมาณยิ่งมีคนซื้อเยอะราคาก็ยิ่งถูกลง (เงินตัดตอนสิ้นสุดระยะ
   promotion)'
-published: 2016-19-10
+published: 2016-10-19
 description: ''
 image: ./images/9cb5da5c899cf68024e22e3f4529016bb5b80e7c.jpg
 tags:

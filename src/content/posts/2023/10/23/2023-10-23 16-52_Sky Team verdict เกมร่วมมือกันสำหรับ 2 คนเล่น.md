@@ -1,6 +1,6 @@
 ---
 title: Sky Team
-published: 2023-23-10
+published: 2023-10-23
 description: ''
 image: ./images/489025604_1252899723510738_1609202061367014435_n.jpg
 tags:

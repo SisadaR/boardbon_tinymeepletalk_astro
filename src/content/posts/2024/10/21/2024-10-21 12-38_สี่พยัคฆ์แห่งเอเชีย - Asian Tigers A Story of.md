@@ -1,6 +1,6 @@
 ---
 title: 'สี่พยัคฆ์แห่งเอเชีย - Asian Tigers: A Story of Prosperity'
-published: 2024-21-10
+published: 2024-10-21
 description: ''
 image: ./images/491401256_1266250072175703_891120307443411607_n.jpg
 tags:

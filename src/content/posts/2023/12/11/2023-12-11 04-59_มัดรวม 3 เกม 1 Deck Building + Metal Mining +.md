@@ -1,7 +1,7 @@
 ---
 title: 'มัดรวม 3 เกม: 1 Deck Building + Metal Mining + Ion Alchemy จาก เคมีboardgame
   ผู้นำยาขมอย่างเคมีมานำเสนอในมุมมองสนุกสนานได้อย่างน่าสนใจ'
-published: 2023-11-12
+published: 2023-12-11
 description: ''
 image: ./images/489203560_1256028313197879_3890491500208637118_n.jpg
 tags:

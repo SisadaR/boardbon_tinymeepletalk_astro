@@ -1,6 +1,6 @@
 ---
 title: Newton
-published: 2018-07-11
+published: 2018-11-07
 description: ''
 image: ./images/45490367_1910053402443443_8460657798672285696_n.jpg
 tags:

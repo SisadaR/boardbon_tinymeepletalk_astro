@@ -1,6 +1,6 @@
 ---
 title: 'My T Series Ranking so far:'
-published: 2022-07-11
+published: 2022-11-07
 description: ''
 image: ./images/482028193_1227657406034970_7459368743904243149_n.jpg
 tags:

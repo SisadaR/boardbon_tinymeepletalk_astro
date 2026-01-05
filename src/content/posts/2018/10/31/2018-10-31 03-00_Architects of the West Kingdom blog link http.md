@@ -1,6 +1,6 @@
 ---
 title: Architects of the West Kingdom
-published: 2018-31-10
+published: 2018-10-31
 description: ''
 image: ./images/45013157_1898557346926382_5761799129818726400_n.jpg
 tags:

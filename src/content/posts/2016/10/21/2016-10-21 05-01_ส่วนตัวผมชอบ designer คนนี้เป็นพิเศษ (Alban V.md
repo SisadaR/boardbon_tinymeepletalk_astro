@@ -1,7 +1,7 @@
 ---
 title: ส่วนตัวผมชอบ designer คนนี้เป็นพิเศษ (Alban Viard) เกมนี้เอาแกนของ Age of Steam
   มาตีความใหม่ พร้อมอัดกิมมิคเข้าไปเยอะมาก
-published: 2016-21-10
+published: 2016-10-21
 description: ''
 image: ./images/14750919_6057951643902_3071393429050097664_n.png
 tags:

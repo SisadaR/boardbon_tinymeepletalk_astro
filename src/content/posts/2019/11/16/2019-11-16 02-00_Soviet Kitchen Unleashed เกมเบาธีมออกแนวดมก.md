@@ -1,6 +1,6 @@
 ---
 title: Soviet Kitchen Unleashed
-published: 2019-16-11
+published: 2019-11-16
 description: ''
 image: ./images/75031013_2551041945011249_2150087308714442752_n.jpg
 tags:

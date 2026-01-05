@@ -1,6 +1,6 @@
 ---
 title: 'Arkwright: The Card Game'
-published: 2021-26-11
+published: 2021-11-26
 description: ''
 image: ./images/476440320_9271007983014578_3353021340131144162_n.jpg
 tags:

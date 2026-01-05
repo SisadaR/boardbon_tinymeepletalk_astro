@@ -1,6 +1,6 @@
 ---
 title: 'Watergate: สงครามข่าวคดีอัปยศ'
-published: 2019-19-10
+published: 2019-10-19
 description: ''
 image: ./images/72653933_2487673148014796_8972705534868193280_n.jpg
 tags:

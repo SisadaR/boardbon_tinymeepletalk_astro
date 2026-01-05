@@ -1,6 +1,6 @@
 ---
 title: Paranormal Detectives บอกเค้าทีว่ากูตายยังไง
-published: 2020-05-10
+published: 2020-10-05
 description: ''
 image: ./images/120827428_3369888786459890_2267594864975454527_n.jpg
 tags:

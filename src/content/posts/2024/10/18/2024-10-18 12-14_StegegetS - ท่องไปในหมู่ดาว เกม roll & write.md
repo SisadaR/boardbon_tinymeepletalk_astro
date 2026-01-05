@@ -1,6 +1,6 @@
 ---
 title: StegegetS - ท่องไปในหมู่ดาว
-published: 2024-18-10
+published: 2024-10-18
 description: ''
 image: ./images/491420858_1266240488843328_8745943549754016869_n.jpg
 tags:

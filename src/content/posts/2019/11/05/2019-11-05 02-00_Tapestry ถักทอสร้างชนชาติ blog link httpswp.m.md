@@ -1,6 +1,6 @@
 ---
 title: 'Tapestry: ถักทอสร้างชนชาติ'
-published: 2019-05-11
+published: 2019-11-05
 description: ''
 image: ./images/74395419_2525589497556494_141023601896718336_n.jpg
 tags:

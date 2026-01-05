@@ -1,6 +1,6 @@
 ---
 title: Age of Innovation
-published: 2023-07-10
+published: 2023-10-07
 description: ''
 image: ./images/488036540_1251851936948850_7093929184199833179_n.jpg
 tags:

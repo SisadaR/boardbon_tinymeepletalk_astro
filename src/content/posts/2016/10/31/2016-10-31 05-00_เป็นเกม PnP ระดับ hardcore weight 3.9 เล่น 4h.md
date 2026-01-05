@@ -1,6 +1,6 @@
 ---
 title: เป็นเกม PnP ระดับ hardcore weight 3.9 เล่น 4hr ตัวเกมมีแต่การ์ด
-published: 2016-31-10
+published: 2016-10-31
 description: ''
 image: ./images/pic1898221.png
 tags:

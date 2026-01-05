@@ -1,6 +1,6 @@
 ---
 title: Paladins of the West Kingdom
-published: 2019-06-10
+published: 2019-10-06
 description: ''
 image: ./images/72273930_2460215887427189_552664803827515392_n.jpg
 tags:

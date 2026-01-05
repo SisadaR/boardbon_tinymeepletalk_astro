@@ -1,6 +1,6 @@
 ---
 title: Tibm quick quick
-published: 2024-14-12
+published: 2024-12-14
 description: ''
 image: ./images/492481761_1272520728215304_3267510351931793493_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Vindication
-published: 2019-10-11
+published: 2019-11-10
 description: ''
 image: ./images/74367914_2536542899794487_4379903731727073280_n.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: The Magnificent
-published: 2019-18-12
+published: 2019-12-18
 description: ''
 image: ./images/80194697_2626349574147152_6287051433728540672_n.jpg
 tags:

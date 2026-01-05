@@ -1,6 +1,6 @@
 ---
 title: เจ้าหญิงจอมแก่น (Rebel Princess) - ทริคเทคกิ้ง A - Z
-published: 2024-28-12
+published: 2024-12-28
 description: ''
 image: ./images/491363803_1272968254837218_3055423034074224458_n.jpg
 tags:

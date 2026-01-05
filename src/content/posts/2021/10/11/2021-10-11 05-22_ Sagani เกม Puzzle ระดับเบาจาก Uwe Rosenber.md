@@ -2,7 +2,7 @@
 title: Sagani เกม Puzzle ระดับเบาจาก Uwe Rosenberg ที่เชื่อว่าคนเล่นเกมใหม่ๆน่าจะรู้จักเค้าจากเกมแนว
   puzzle น่ารักๆอย่าง Patchwork, Indian Summer, Nova Luna, New York Zoo มากกว่าจะเป็นเกมหนักอย่าง
   Agricola, Le Harve
-published: 2021-11-10
+published: 2021-10-11
 description: ''
 image: ./images/473415496_9108653955916649_2247320251084662507_n.jpg
 tags:

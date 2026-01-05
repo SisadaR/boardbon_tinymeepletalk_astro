@@ -1,6 +1,6 @@
 ---
 title: Night of the Ninja
-published: 2022-20-12
+published: 2022-12-20
 description: ''
 image: ./images/484020465_1232019212265456_8051771698480438866_n.jpg
 tags:

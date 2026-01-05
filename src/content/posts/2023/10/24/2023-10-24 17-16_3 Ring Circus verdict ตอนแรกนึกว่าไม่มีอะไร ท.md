@@ -1,6 +1,6 @@
 ---
 title: 3 Ring Circus
-published: 2023-24-10
+published: 2023-10-24
 description: ''
 image: ./images/487506196_1252907493509961_4357815426923000527_n.jpg
 tags:

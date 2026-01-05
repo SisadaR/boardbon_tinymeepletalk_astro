@@ -1,6 +1,6 @@
 ---
 title: AfterGame Ep3 - Terramara, Bruxelles Card Game, Age of Steam
-published: 2019-05-12
+published: 2019-12-05
 description: ''
 image: ./images/maxresdefault.jpg
 tags:

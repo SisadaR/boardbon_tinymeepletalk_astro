@@ -1,6 +1,6 @@
 ---
 title: จัดกลุ่มของอลวน - Things in Rings
-published: 2024-05-11
+published: 2024-11-05
 description: ''
 image: ./images/491923977_1266922822108428_6597566295523230990_n.jpg
 tags:
