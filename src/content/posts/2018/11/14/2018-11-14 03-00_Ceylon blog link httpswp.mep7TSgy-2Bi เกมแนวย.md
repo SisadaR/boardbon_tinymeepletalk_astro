@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Ceylon #thought #first_impression
-blog link: https://wp.me/p7TSgy-2Bi
+blog link: https_://wp.me/p7TSgy-2Bi
  
 เกมแนวยูโรระดับกลางเบา ภาพสวย ธีมว่าด้วยการเพาะปลูกชาซีลอนในเกาะศรีลังกาโดยมีเป้าหมายเพื่อฟื้นฟูเศรษฐกิจที่กำลังมีปัญหาเพราะว่ากาแฟอันเป็นพืชหลักโดนเชื้อราเล่นงานจนเพาะปลูกไม่ได้ ผลงานของนักออกแบบคู่สามีภรรยา Chris Zinsli และ Suzanne Zinsli (Cobras, Tessen)
  

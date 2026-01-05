@@ -27,5 +27,5 @@ draft: false
 ซึ่งในคลาสของเค้าถึงแม้จะมีสอนทั้ง video game design, pixel art, 3d art แต่ว่าบอร์ดเกมกับ TRPG เนี่ยถือเป็นแกนสำคัญเลยเพราะว่าเด็กๆเรียนรู้กับมันเร็วกว่า ทดลองกับมันมากกว่า แล้วก็มีความรู้สึกเป็นเจ้าของมันมากกว่า
 
 
-- [Let the kids create their own stories, it is magical...](https://boardgamegeek.com/thread/3572690/let-the-kids-create-their-own-stories-it-is-magica)
+- [Let the kids create their own stories, it is magical...](https_://boardgamegeek.com/thread/3572690/let-the-kids-create-their-own-stories-it-is-magica)
 

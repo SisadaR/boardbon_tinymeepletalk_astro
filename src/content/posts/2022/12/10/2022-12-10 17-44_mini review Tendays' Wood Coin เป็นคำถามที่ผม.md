@@ -31,11 +31,11 @@ mini review: Tendays' Wood Coin
 [non-sponsered post] ผมซื้อเหรียญราคาปกติมาจาก MeanBook  คู่มือ Board Game ภาษาไทย นะสนใจไปซื้อกันได้ ส่วนเหรียญพวกนี้จำเป็นไหม ส่วนตัวผมใช้บ่อยกว่าเหรียญเหล็กเยอะเพราะหน้าตามันไปด้วยกันได้กับเกือบทุกเกมและลายพวกนี้มันดูไม่ค่อยบ่อนแบบเหรียญโป๊กเกอร์ทั่วๆไป 
 
 .
-ถ้ามีช่องทางสั่งตรงจากญี่ปุ่นก็ลองติดต่อตรงดูได้ครับที่ https://tendaysgames.shop/?pid=138157733&fbclid=IwAR1DL3aliZlzmLqS3ZUZgxvLjeRrQGZxyWbywkeKtPpu0n3ltC4mTmdsEoM
+ถ้ามีช่องทางสั่งตรงจากญี่ปุ่นก็ลองติดต่อตรงดูได้ครับที่ https_://tendaysgames.shop/?pid=138157733&fbclid=IwAR1DL3aliZlzmLqS3ZUZgxvLjeRrQGZxyWbywkeKtPpu0n3ltC4mTmdsEoM
 
 .
 อันนี้ของ meeple source
-https://www.meeplesource.com/proddetail.php?prod=MoneyDiscs100
+https_://www.meeplesource.com/proddetail.php?prod=MoneyDiscs100
 
 ![](./images/482320378_1230394082427969_3919974148129672774_n.jpg)
 

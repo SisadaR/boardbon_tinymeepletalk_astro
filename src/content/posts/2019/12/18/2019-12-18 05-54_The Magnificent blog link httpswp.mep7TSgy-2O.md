@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 The Magnificent #thought
-blog link: https://wp.me/p7TSgy-2O7
+blog link: https_://wp.me/p7TSgy-2O7
 
 ▪️ เกมยูโรระดับกลางที่จะให้เรามาเป็นเจ้าของละครสัตว์ยามค่ำคืนที่เน้นการแสดงแสงสีดึงดูดผู้ชม ผลงานของ Eilif Svensson, Kristian Amundsen Østby ทีมออกแบบเกม Santa Maria (เป็นเกม Dice Drafting ที่สนุกอีกเกม)
  

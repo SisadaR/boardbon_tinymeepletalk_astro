@@ -22,9 +22,9 @@ draft: false
 
 image : chatGPT
 
-บทความต้นทาง : https://boardgamegeek.com/thread/3543352/a-simple-system-for-fairer-games-between-kids-and A Simple System for Fairer Games Between Kids & Adults | BoardGameGeek
+บทความต้นทาง : https_://boardgamegeek.com/thread/3543352/a-simple-system-for-fairer-games-between-kids-and A Simple System for Fairer Games Between Kids & Adults | BoardGameGeek
 
-อ่านข้อเขียนนี้และอื่นๆได้ที่ : https://forum.tinymeepletalk.com/d/53
+อ่านข้อเขียนนี้และอื่นๆได้ที่ : https_://forum.tinymeepletalk.com/d/53
 
 ไปเจอบทความ A Simple System for Fairer Games Between Kids & Adults ใน bgg มาแล้วคิดว่าน่าสนใจดีก็เลยอยากจะเอามาเล่าให้ฟังต่อ
 
@@ -40,6 +40,6 @@ image : chatGPT
 
 image : chatGPT
 
-บทความต้นทาง : https://boardgamegeek.com/thread/3543352/a-simple-system-for-fairer-games-between-kids-and A Simple System for Fairer Games Between Kids & Adults | BoardGameGeek
+บทความต้นทาง : https_://boardgamegeek.com/thread/3543352/a-simple-system-for-fairer-games-between-kids-and A Simple System for Fairer Games Between Kids & Adults | BoardGameGeek
 
-อ่านข้อเขียนนี้และอื่นๆได้ที่ : https://forum.tinymeepletalk.com/d/53
+อ่านข้อเขียนนี้และอื่นๆได้ที่ : https_://forum.tinymeepletalk.com/d/53

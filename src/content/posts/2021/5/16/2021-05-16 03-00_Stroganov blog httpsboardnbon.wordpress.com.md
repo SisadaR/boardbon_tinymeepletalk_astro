@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 ▪️Stroganov 
-blog: https://boardnbon.wordpress.com/2021/05/16/stroganov/
+blog: https_://boardnbon.wordpress.com/2021/05/16/stroganov/
 
 ▪️ เกมยูโรระดับกลางที่จะให้เราเดินทางไปในพื้นที่อันกว้างใหญ่ในไซบีเรีย ล่าสัตว์น้อยใหญ่ พัฒนาบ้านเมื่อเพื่อเอาใจซาร์ (ตำแหน่งกษัตริย์ของกลุ่มชนชาวสลาฟ - Slavic หรือพื้นที่ในแถบรัสเซียในปัจจุบัน)  ผลงานของ Andreas Steding (Hansa Teutonica,  Gùgōng, The Staufer Dynasty) #thought #first_impression
 .

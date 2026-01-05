@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Terramara #thought
-blog link: https://wp.me/p7TSgy-2N8
+blog link: https_://wp.me/p7TSgy-2N8
 
 ▪️เกมยูโรระดับกลางหนักที่ฉากคือช่วงเวลาหนึ่งพันห้าร้อยปีก่อนคริสต์ศักราช ที่เราต้องทำพาผู้คนของเผ่าพันธ์ที่เคยอาศัยอยู่ในอิตาลีตอนเหนือมาแก่งแย่งทรัพยากร แผ่วถางดินแดนแห่งใหม่เพื่อนำการพัฒนามาสู่บ้านเมือง เพื่อความเป็นหนึ่งในดินแดนแถบนี้ เป็นผลงานร่วมของนักออกแบบถึงห้าคนที่เคยทำเกม Egizia ร่วมกัน (เยอะจังว่ะ) ได้แก่ Acchittocca, Flaminia Brasini (Coimbra, Lorenzo) , Virginio Gigli (Coimbra, Grand Austria Hotel), Stefano Luperto, Antonio Tinto
  

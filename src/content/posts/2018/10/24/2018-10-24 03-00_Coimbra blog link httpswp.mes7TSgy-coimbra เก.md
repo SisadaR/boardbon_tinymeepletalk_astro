@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Coimbra #thought #first_impression
-blog link : https://wp.me/s7TSgy-coimbra
+blog link : https_://wp.me/s7TSgy-coimbra
  
 เกมยูโรระดับกลางหนัก ว่าด้วยเมือง Coimbra ของโปรตุเกส ที่เราจะต้องพยายามผูกมิตรกับสมาคมสำคัญทั้งสี่ เพื่อนำมาเพื่อชื่อเสียงของวงศ์ตระกูล ผลงานของ Flaminia Brasini (Lorenzo il Magnifico) และ Virginio Gigl (Lorenzo il Magnifico, Grand Austria Hotel) 
  

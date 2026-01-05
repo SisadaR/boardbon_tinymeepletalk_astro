@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Imperial Struggle #thought #first_impression
-blog: https://wp.me/p7TSgy-2TR
+blog: https_://wp.me/p7TSgy-2TR
 
 ▪️ ศตวรรษที่ 18; 'โลก' ได้ค้นพบการดำรงอยู่ของแผ่นดินใหม่ ยุคสมัยที่สองผู้เล่นรายใหญ่อย่างฝรั่งเศสและอังกฤษกำลังขับเคี่ยวอย่างดุเดือดทั้งในภาคพื้นทวีปยุโรปและสมรภูมิที่ขยายไปถึง 'โลกใหม่' ชัยชนะนั้นไม่อาจใช้เพียงกำลัง แต่ยังต้องมาจากเสียงเงินเหรียญกระทบและน้ำหมึกแห่งสนธิสัญญา ผลงานของ Ananda Gupta ผู้สร้าง Twilight Struggle เกมที่ยืนหนึ่งใน BGG ถึง 5 ปีติดต่อกัน และ Jason Matthews ล็อบบี้ยิสต์ผู้นำระบบเกม TS ไปต่อยอดเป็นเกมเลือกตั้งอย่าง 1960: The Making of The President, Campaign Manager 2008 และการก่อร่างสร้างรัฐธรรมนูญของอเมริกาใน Founding Fathers
 .

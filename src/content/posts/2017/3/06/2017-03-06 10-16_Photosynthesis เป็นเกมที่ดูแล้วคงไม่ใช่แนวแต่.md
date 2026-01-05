@@ -15,16 +15,16 @@ draft: false
 
 อุปกรณ์ก็สวยดีเป็นต้นไม้หลายขนาด เกมจะให้ผู้เล่นขยายพันธ์ต้นไม้ของตัวเองเพื่อทำแต้ม ต้นไม้สามารถเติบใหญ่ขึ้นได้ ตัวเกมมีพระอาทิตย์ที่เปลี่ยนตำแหน่งไปรอบๆทำให้ความสูงของต้นไม้มีผลให้เกิดเงาไปบังแสงต้นไม้อื่นที่เล็กกว่า
 
-มีคลิปด้วยนะสวยดี : https://www.youtube.com/watch?v=S_Sl5l1Bkso
+มีคลิปด้วยนะสวยดี : https_://www.youtube.com/watch?v=S_Sl5l1Bkso
 
-BGG Link : https://goo.gl/pgTgYx
-Image by : markus.game.ets https://goo.gl/XG69E3
+BGG Link : https_://goo.gl/pgTgYx
+Image by : markus.game.ets https_://goo.gl/XG69E3
 
 #news #Spielwarenmesse2017  Photosynthesis เป็นเกมที่ดูแล้วคงไม่ใช่แนวแต่ว่าชอบไอเดียมากเพราะธีมคือการ 'สังเคราะห์แสง' ของต้นไม้
 
 อุปกรณ์ก็สวยดีเป็นต้นไม้หลายขนาด เกมจะให้ผู้เล่นขยายพันธ์ต้นไม้ของตัวเองเพื่อทำแต้ม ต้นไม้สามารถเติบใหญ่ขึ้นได้ ตัวเกมมีพระอาทิตย์ที่เปลี่ยนตำแหน่งไปรอบๆทำให้ความสูงของต้นไม้มีผลให้เกิดเงาไปบังแสงต้นไม้อื่นที่เล็กกว่า
 
-มีคลิปด้วยนะสวยดี : https://www.youtube.com/watch?v=S_Sl5l1Bkso
+มีคลิปด้วยนะสวยดี : https_://www.youtube.com/watch?v=S_Sl5l1Bkso
 
-BGG Link : https://goo.gl/pgTgYx
-Image by : markus.game.ets https://goo.gl/XG69E3
+BGG Link : https_://goo.gl/pgTgYx
+Image by : markus.game.ets https_://goo.gl/XG69E3

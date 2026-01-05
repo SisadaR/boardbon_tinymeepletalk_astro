@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Belfort #thought
-blog link: https://wp.me/s7TSgy-belfort
+blog link: https_://wp.me/s7TSgy-belfort
 
 เกมยูโรระดับกลางธีมแฟนตาซีหลวมๆ แนว Worker placement + Majority Control ที่จะให้เราเป็นหัวหน้าช่างมาควบคุมเหล่าเอลฟ์, คนแคระ และโนม ที่จะมาพัฒนาเมือง Belfort ให้รุ่งเรือง ผลงานของ Jay Cormier และ Sen-Foong Lim (Akrotiri, Junk Art)
  
@@ -58,7 +58,7 @@ blog link: https://wp.me/s7TSgy-belfort
 -------------------------------------------
 
 Belfort #thought
-blog link: https://wp.me/s7TSgy-belfort
+blog link: https_://wp.me/s7TSgy-belfort
 
 เกมยูโรระดับกลางธีมแฟนตาซีหลวมๆ แนว Worker placement + Majority Control ที่จะให้เราเป็นหัวหน้าช่างมาควบคุมเหล่าเอลฟ์, คนแคระ และโนม ที่จะมาพัฒนาเมือง Belfort ให้รุ่งเรือง ผลงานของ Jay Cormier และ Sen-Foong Lim (Akrotiri, Junk Art)
  

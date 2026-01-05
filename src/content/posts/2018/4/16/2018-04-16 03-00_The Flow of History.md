@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 The Flow of History #thought #first_impression
-blog link: https://wp.me/p7TSgy-2x6
+blog link: https_://wp.me/p7TSgy-2x6
  
 การ์ดเกมระดับกลางเบาที่จะให้เรามานำพาชนชาติตั้งแต่ยุคโบราณไปจนถึงยุคปัจจุบันผลงานจากนักออกแบบ Jesse Li (Gun & Steel, Ponzi Scheme) แต่ถึงจะบอกว่าเป็นเกมแนว Civ แต่ในหลายๆแง่แล้วเกมนี้ก็เป็น 'เกมประมูล' ที่ทำออกมาได้น่าสนใจเกมหนึ่ง
  
@@ -56,7 +56,7 @@ blog link: https://wp.me/p7TSgy-2x6
 -------------------------------------------
 
 The Flow of History #thought #first_impression
-blog link: https://wp.me/p7TSgy-2x6
+blog link: https_://wp.me/p7TSgy-2x6
  
 การ์ดเกมระดับกลางเบาที่จะให้เรามานำพาชนชาติตั้งแต่ยุคโบราณไปจนถึงยุคปัจจุบันผลงานจากนักออกแบบ Jesse Li (Gun & Steel, Ponzi Scheme) แต่ถึงจะบอกว่าเป็นเกมแนว Civ แต่ในหลายๆแง่แล้วเกมนี้ก็เป็น 'เกมประมูล' ที่ทำออกมาได้น่าสนใจเกมหนึ่ง
  

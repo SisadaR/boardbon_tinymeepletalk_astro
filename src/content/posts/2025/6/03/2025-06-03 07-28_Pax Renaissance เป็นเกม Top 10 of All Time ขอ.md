@@ -23,7 +23,7 @@ Pax Renaissance เป็นเกม Top 10 of All Time ของผมเก�
 ---
 เกริ่นมายาวเพื่อบอกว่ามีคนเอาไปแปลไทยสำหรับ 2nd edition แล้วนะ โดยคุณ Pong Puttamasung สามารถโหลดไปใช้ได้จากลิงค์นี้ครับ เกมมันสนุกจริงๆนะ แค่ต้องใช้ mindset เฉพาะทางหน่อย ซึ่ง player aid ดีๆก็ช่วยให้คุณข้ามกติกาหยิบย่อยน่ารำคาญของเกมนี้ได้เยอะอย่างไม่น่าเชื่อเลยล่ะ
 
-https://onedrive.live.com/?id=49426D4CBB3AEC4E%21se7d46eb18ff74b8dad1b881287eafded&cid=49426D4CBB3AEC4E&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy80OTQyNmQ0Y2JiM2FlYzRlL0ViRnUxT2YzajQxTHJSdUlFb2ZxX2UwQlRnR2NacF9RREVCaVozbTc2aUdHbkE%5FZmJjbGlkPUl3WTJ4amF3S3JmVDlsZUhSdUEyRmxiUUl4TUFCaWNtbGtFVEZRVEZFeVdWTXdVV1ZOVldOWWRUSkNBUjZHbURERDhHYzRTRDZlVTlMaXlzQWtXVDV3ZHgzTmMzUTRqQ2xfUU1LSzVEUzBUb3lmbWRQcTZDd0pOd19hZW1fRl9sOWhRdEhEd0QxUFpqbWQ2dGhpUQ
+https_://onedrive.live.com/?id=49426D4CBB3AEC4E%21se7d46eb18ff74b8dad1b881287eafded&cid=49426D4CBB3AEC4E&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy80OTQyNmQ0Y2JiM2FlYzRlL0ViRnUxT2YzajQxTHJSdUlFb2ZxX2UwQlRnR2NacF9RREVCaVozbTc2aUdHbkE%5FZmJjbGlkPUl3WTJ4amF3S3JmVDlsZUhSdUEyRmxiUUl4TUFCaWNtbGtFVEZRVEZFeVdWTXdVV1ZOVldOWWRUSkNBUjZHbURERDhHYzRTRDZlVTlMaXlzQWtXVDV3ZHgzTmMzUTRqQ2xfUU1LSzVEUzBUb3lmbWRQcTZDd0pOd19hZW1fRl9sOWhRdEhEd0QxUFpqbWQ2dGhpUQ
 
 ---
 เกล็ด: 

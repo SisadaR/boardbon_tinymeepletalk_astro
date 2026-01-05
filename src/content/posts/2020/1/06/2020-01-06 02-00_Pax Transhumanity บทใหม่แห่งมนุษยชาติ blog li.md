@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Pax Transhumanity: บทใหม่แห่งมนุษยชาติ #thought
-blog link: https://wp.me/p7TSgy-2Pf
+blog link: https_://wp.me/p7TSgy-2Pf
 
 ▪️เกมในซี่รี่ย์ Pax จากค่าย Sierra Madre Games ที่จะพาเราไปสำรวจโลกแห่งอนาคต ว่าหากวิทยาการที่มีอยู่สามารถก้าวหน้าไปได้อีกมันจะนำพามนุษย์ไปสู่แห่งหนใด และเราคือผู้นำพาบริษัทในเวลาอันใกล้ที่จะมาช่วยพัฒนาชีวิตของมนุษย์ในโลกยุคต่อไป ผลงานของ Matt Eklund (ลูกชายของ Phil Eklund , Pax Porfiriana, Pax Renaissance )
  

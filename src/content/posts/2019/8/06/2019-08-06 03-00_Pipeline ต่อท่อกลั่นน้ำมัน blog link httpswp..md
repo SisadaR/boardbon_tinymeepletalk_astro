@@ -11,8 +11,8 @@ category: archived
 draft: false
 ---
 Pipeline: ต่อท่อกลั่นน้ำมัน #thought #first_impression
-blog link: https://wp.me/p7TSgy-2Hb
-blockdit: https://tinyurl.com/y3fydzep
+blog link: https_://wp.me/p7TSgy-2Hb
+blockdit: https_://tinyurl.com/y3fydzep
 
 ◾️เกมยูโรระดับกลางหนัก ธีมหลวมๆว่าด้วยการสร้างระบบกลั่นน้ำมันไปขายในตลาด เกมนี้เป็นเกมแรกของค่าย Capstone Gamess ที่ผลิตเองขึ้นมาใหม่โดยที่ไม่ได้ไปเอาเกมเก่ามา reprint ผลงานของนักออกแบบ Ryan Courtney
  

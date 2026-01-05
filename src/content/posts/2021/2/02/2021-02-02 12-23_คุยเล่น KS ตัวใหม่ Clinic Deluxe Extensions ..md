@@ -22,6 +22,6 @@ draft: false
 ▪️ เท่าที่ดูผ่านๆอันที่น่าจะได้หยิบมาใส่เป็นตัวหลักจริงๆก็น่าจะเป็นห้องพิเศษใหม่สี่อัน ตัว event ก็อาจจะน่าสนใจดีที่ทำให้ปวดหัวมากขึ้น กับถ้าชอบเกมนี้แล้วอยากได้ solo ก็กดๆไปได้ เนื่องจากโมดูลเยอะเค้าเลยมีแถมเล่มสรุปให้ว่าควรจับอะไรกับอะไรดีถึงจะสนุก แต่ถ้ามีเวลาก็น่าจะเพลินกับการลองผสมโมดูลนั้นนี้เองไปเรื่อย แต่ผมเอามาเองคงไม่ได้กางเลยผ่านๆก่อน รอกด Small City 
 
 ปล่อยแกฟุ้งๆแบบนี้มีถึง 100 โมดูลแน่ๆ.....
-https://www.kickstarter.com/projects/avstudio-ludibooster/clinic-deluxe-extensions
+https_://www.kickstarter.com/projects/avstudio-ludibooster/clinic-deluxe-extensions
 
 TWO new Extension boxes for Clinic Deluxe Edition containing more than 25 expansions for a level of simulation probably never reached i

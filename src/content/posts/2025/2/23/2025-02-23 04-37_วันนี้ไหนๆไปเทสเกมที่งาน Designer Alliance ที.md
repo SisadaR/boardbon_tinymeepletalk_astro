@@ -14,6 +14,6 @@ draft: false
 
 หรือไปออก dji pocket 3 ดีหว่า? บอกที่ทำงานว่าใช้ spending account มาซื้อ webcam ได้ไหม............... ฮา
 
-- https://www.youtube.com/watch?v=kR13RuXaEkE -
+- https_://www.youtube.com/watch?v=kR13RuXaEkE -
 
 วันนี้ไหนๆไปเทสเกมที่งาน Designer Alliance ที่จัดทุกเดือนมา 18 ครั้งแล้วก็เลยลากตัวหัวตี้มาคุยกันหน่อยปุบปับนัดคุยจ....

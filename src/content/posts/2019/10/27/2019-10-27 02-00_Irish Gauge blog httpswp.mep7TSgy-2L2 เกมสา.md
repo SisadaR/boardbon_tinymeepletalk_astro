@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Irish Gauge #thought
-blog: https://wp.me/p7TSgy-2L2
+blog: https_://wp.me/p7TSgy-2L2
 
 ▪️เกมสาย Cube Rail เล่นง่ายใช้เวลาไม่นาน ที่จะให้ผู้เล่นมาลงทุนในกิจการรถไฟ เดิมเป็นเกมทำมือแต่ว่าค่าย Capstone Games ไปซื้อสิทธิ์มาทำใหม่ พัฒนางานผลิตและงานศิลป์ใหม่หมด ออกแบบโดย Tom Russell
 

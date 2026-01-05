@@ -36,7 +36,7 @@ draft: false
  
 ตัวหนังสือมีบทความที่น่าสนใจหลายอย่าง ข้อเขียนไม่ยาวอ่านเพลินๆ อาจจะเอาข้อที่ผมชอบมานำเสนอแบบสรุปเป็นระยะๆ อย่างไรก็ตามอย่าลืมไปซื้อหนังสือสนับสนุนเจ้าของผลงานนะ (ผมซื้อแบบ digital มา 10usd เมล์ไปถามเค้าบอกว่าจะเอาลง amazon ebook กับช่องทางอื่นปีหน้า แต่ตอนนี้ยังไม่มีนะ )
 
-ลิงค์ KS ของ GameTek : https://www.kickstarter.com/projects/1777566431/gametek-the-book
+ลิงค์ KS ของ GameTek : https_://www.kickstarter.com/projects/1777566431/gametek-the-book
 
 #talk ยังอยู่กับ GameTek: The Math and Science of Gaming เช่นเคย เป็นหนังสือเกี่ยวกับการออกแบบเกมกระดานที่เกิดจากการรวมเอาส่วนที่น่าสนใจที่ Geoff Engelstein (คนเขียน) เคยพูดไว้ในโชว์ของ Dice Tower คราวนี้ขอยกเรื่องเกี่ยวกับ The Innovation Limit หรือ "ของใหม่มาทีละอย่างก็พอแล้ว"
  
@@ -63,4 +63,4 @@ draft: false
  
 ตัวหนังสือมีบทความที่น่าสนใจหลายอย่าง ข้อเขียนไม่ยาวอ่านเพลินๆ อาจจะเอาข้อที่ผมชอบมานำเสนอแบบสรุปเป็นระยะๆ อย่างไรก็ตามอย่าลืมไปซื้อหนังสือสนับสนุนเจ้าของผลงานนะ (ผมซื้อแบบ digital มา 10usd เมล์ไปถามเค้าบอกว่าจะเอาลง amazon ebook กับช่องทางอื่นปีหน้า แต่ตอนนี้ยังไม่มีนะ )
 
-ลิงค์ KS ของ GameTek : https://www.kickstarter.com/projects/1777566431/gametek-the-book
+ลิงค์ KS ของ GameTek : https_://www.kickstarter.com/projects/1777566431/gametek-the-book

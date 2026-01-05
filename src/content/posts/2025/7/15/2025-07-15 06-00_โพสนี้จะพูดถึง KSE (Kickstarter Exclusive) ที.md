@@ -72,7 +72,7 @@ draft: false
 > “Kickstarter Exclusive items will not be available in retail stores. We reserve the right to make them available at conventions or on our own website in very limited quantities.”
 
 ---
-อ่านข้อเขียนนี้และข้อเขียนอื่นๆได้ที่ https://forum.tinymeepletalk.com/d/52-kickstarter-exclusive
+อ่านข้อเขียนนี้และข้อเขียนอื่นๆได้ที่ https_://forum.tinymeepletalk.com/d/52-kickstarter-exclusive
 
 โพสนี้จะพูดถึง KSE (Kickstarter Exclusive) ที่จะพูดรวมๆไปถีงของ platform ระดมทุนอื่นด้วย ความหมายโดยรวมคือของพิเศษเฉพาะกาลสำหรับผู้เข้าร่วมระดมทุน
 
@@ -137,4 +137,4 @@ draft: false
 > “Kickstarter Exclusive items will not be available in retail stores. We reserve the right to make them available at conventions or on our own website in very limited quantities.”
 
 ---
-อ่านข้อเขียนนี้และข้อเขียนอื่นๆได้ที่ https://forum.tinymeepletalk.com/d/52-kickstarter-exclusive
+อ่านข้อเขียนนี้และข้อเขียนอื่นๆได้ที่ https_://forum.tinymeepletalk.com/d/52-kickstarter-exclusive

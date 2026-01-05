@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Automotive Factory Game #thought
-blog link: https://wp.me/p7TSgy-2UE
+blog link: https_://wp.me/p7TSgy-2UE
 .
 ▪️ ผมเคยเล่นเกมนี้หนึ่งครั้งราวหนึ่งปีก่อน ตอนที่ยังเป็นตัวทดสอบ แต่รอบนี้กลายเป็นฉบับปรับปรุงที่ส่งขายแล้ว ตัวเกมเป็นสไตล์ยูโรระดับกลางเบาที่จะให้เรามาบริหารจัดการซัพพลายสินค้าเพื่อป้อนแก่ความต้องการของตลาดยานยนต์ พัฒนาโดยทีม Game Lab Thailand
 .

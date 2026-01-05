@@ -32,7 +32,7 @@ Fischen (Fisher) #bite_size
 ไม่รู้ซื้อจากไหนเหมือนกัน แนะนำโดยหมอพีทจาก Heavy Meeple เจ้าเดิม
 
 ---
-อ่านข้อเขียนนี้และอื่นๆได้ที่ https://forum.tinymeepletalk.com/d/44-fischen-fisher
+อ่านข้อเขียนนี้และอื่นๆได้ที่ https_://forum.tinymeepletalk.com/d/44-fischen-fisher
 
 Fischen (Fisher) #bite_size 
 
@@ -57,4 +57,4 @@ Fischen (Fisher) #bite_size
 ไม่รู้ซื้อจากไหนเหมือนกัน แนะนำโดยหมอพีทจาก Heavy Meeple เจ้าเดิม
 
 ---
-อ่านข้อเขียนนี้และอื่นๆได้ที่ https://forum.tinymeepletalk.com/d/44-fischen-fisher
+อ่านข้อเขียนนี้และอื่นๆได้ที่ https_://forum.tinymeepletalk.com/d/44-fischen-fisher

@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Vejen: ค้าขายสองนครา #thought #first_impression
-blog link: https://wp.me/p7TSgy-2EP
+blog link: https_://wp.me/p7TSgy-2EP
 
 เกมยูโรระดับกลางแนว Pick-up and Deliver (หยิบของแล้วเอาไปส่ง) ที่จับเอาการเดินทางค้าขายของระหว่างชาวบ้านในเดนมาร์กตอนใต้และเยอรมันตอนเหนือผ่านเส้นทางวัว (Ochsenweg : Ox Road ) มาทำเป็นเกม ผลงานของนักออกแบบ Thomas Nielsen และ Kai Starck (Scythe: The Wind Gambit)
  

@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Dune Imperial #thought #first_impression
-blog : https://boardnbon.wordpress.com/2021/06/13/dune-imperial/
+blog : https_://boardnbon.wordpress.com/2021/06/13/dune-imperial/
 .
 ▪️ เกมระดับกลางที่สร้างอิงนวนิยายวิทย์ศาสตร์ขึ้นหิ้งอย่าง Dune ที่เราจะรับบทเป็นตระกูลที่มาช่วงชิงพื้นดาวอาราคิส โดย Paul Dennen ( Clank! )
 .

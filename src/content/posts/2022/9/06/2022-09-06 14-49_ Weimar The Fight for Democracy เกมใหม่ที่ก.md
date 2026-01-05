@@ -19,7 +19,7 @@ draft: false
 
 ▪️ แต่.......... แพงฉิบหาย ราคารวมส่งที่ 4500+ ซึ่งคิดว่าคงต้องผ่านไปแหละ -_- จะทำของให้มันเกินเบอร์ทำไมฟระเนี่ย
 
-สนใจก็ลองไปจิ้มดูได้ครับ https://www.kickstarter.com/projects/skellig-games/weimar-the-fight-for-democracy
+สนใจก็ลองไปจิ้มดูได้ครับ https_://www.kickstarter.com/projects/skellig-games/weimar-the-fight-for-democracy
 
 ▪️ Weimar: The Fight for Democracy เกมใหม่ที่กำลังระดมทุนใน KS ตอนนี้จากผู้สร้าง Watergate, Glen More, Rokoko
 
@@ -31,4 +31,4 @@ draft: false
 
 ▪️ แต่.......... แพงฉิบหาย ราคารวมส่งที่ 4500+ ซึ่งคิดว่าคงต้องผ่านไปแหละ -_- จะทำของให้มันเกินเบอร์ทำไมฟระเนี่ย
 
-สนใจก็ลองไปจิ้มดูได้ครับ https://www.kickstarter.com/projects/skellig-games/weimar-the-fight-for-democracy
+สนใจก็ลองไปจิ้มดูได้ครับ https_://www.kickstarter.com/projects/skellig-games/weimar-the-fight-for-democracy

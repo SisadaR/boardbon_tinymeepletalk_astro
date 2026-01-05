@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Black Angel #thought
-blog link: https://wp.me/p7TSgy-2Jy
+blog link: https_://wp.me/p7TSgy-2Jy
 
 "หากแม้นโลกดับสิ้น โปรดให้เทวทูตดำสยายปีกนำทางข้า....." 
  

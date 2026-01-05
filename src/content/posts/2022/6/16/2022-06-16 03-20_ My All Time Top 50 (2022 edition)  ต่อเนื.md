@@ -96,14 +96,14 @@ John Company >> Down To Top 100
 ▪️ จะว่าไป พอย้อนกลับดูคลิปเก่าตัวเอง ก็ได้ระลึกถึงดราม่างงๆอันหนึ่งที่ผมไปพูดในคลิปว่า Terra Mystica นี้มันไม่คลิกเท่าไร (ไม่ได้บอกว่าห่วยนะ ซึ่งตอนนี้ก็ยังไม่ชอบเหมือนเดิม แต่เกมดีไม่เถียง) แล้วมีแฟนคลับมาท้าเล่น คงประมาณว่าเพราะแกยังไม่ได้เจอกับ Terra ที่แท้จริงนะเซ่!! ไรงี้มั้ง ซึ่งเอาจริงๆผู้เล่นสไตล์ 'ลงลึก' ก็เป็น mindset ที่ไม่ค่อยคลิกกับสาย 'ชิมไปเรื่อย' อย่างผมเท่าไร มองย้อนไปก็ยังอิหยั่งว่ะอยู่ดี พวกแฟนคลับไม่ลืมหูลืมตานี้จะเรื่องไหนๆก็ไม่ยุ่งด้วยดีกว่า
 
  [ อันดับที่ 1-10]
-https://www.youtube.com/watch?v=BDV0IaMpj60
+https_://www.youtube.com/watch?v=BDV0IaMpj60
  [ อันดับที่ 11-20]
-https://www.youtube.com/watch?v=nM1MN38RIy4
+https_://www.youtube.com/watch?v=nM1MN38RIy4
  [ อันดับที่ 21-30]
-https://www.youtube.com/watch?v=_p3HBmfP7dk
+https_://www.youtube.com/watch?v=_p3HBmfP7dk
  [ อันดับที่ 31-40]
-https://www.youtube.com/watch?v=3WCullV6JXg
+https_://www.youtube.com/watch?v=3WCullV6JXg
  [ อันดับที่ 41-50]
-https://www.youtube.com/watch?v=s4qxEGBLYNI
+https_://www.youtube.com/watch?v=s4qxEGBLYNI
 
 

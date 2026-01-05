@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Praga Caput Regni #thought
-blog link: https://boardnbon.wordpress.com/2021/06/11/praga-caput-regni/
+blog link: https_://boardnbon.wordpress.com/2021/06/11/praga-caput-regni/
 .
 ◾️ เกมยูโรระดับกลางหนักธีมหลวมๆว่าด้วยการสร้างเมืองปรากในรัชสมัยของพระเจ้าชาลส์ที่สี่ ผลงานของ Vladimír Suchý (Underwater Cities, Pulsar 2849)
 .

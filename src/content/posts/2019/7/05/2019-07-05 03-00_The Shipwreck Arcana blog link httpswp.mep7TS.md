@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 The Shipwreck Arcana #thought
-blog link: https://wp.me/p7TSgy-2G4
+blog link: https_://wp.me/p7TSgy-2G4
 
 เกมคั่นเวลาช่วยกันเล่นระดับเบา สำหรับสายตรรกะ ที่ธีมไม่เกี่ยวอะไรกับเกมแต่มีคอนเซปว่าเราติดอยู่ในโลกที่กำลังจมน้ำ ทางรอดของพวกเราคือต้องมาช่วยกัน 'ทาย' โชคชะตาของผู้เล่นในวง ผลงานของ Kevin Bishop (Norsaga)
  

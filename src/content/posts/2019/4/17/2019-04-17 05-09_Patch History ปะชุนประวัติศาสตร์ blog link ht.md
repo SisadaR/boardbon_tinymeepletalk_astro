@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Patch History: ปะชุนประวัติศาสตร์ #thought
-blog link: https://boardnbon.wordpress.com/2019/04/17/patch-history-ปะชุนประวัติศาสตร์/ 
+blog link: https_://boardnbon.wordpress.com/2019/04/17/patch-history-ปะชุนประวัติศาสตร์/ 
 
 เกมยูโรระดับกลางหนักแนว Civilization ที่จะให้เรามาสร้างชนชาติไร้นามขยายดินแดนพร้อมกับสร้างประวัติศาสตร์ขึ้นใหม่ ผลงานของนักออกแบบชาวเกาหลี Yeon-Min Jung และ Jun-Hyup Kim
  

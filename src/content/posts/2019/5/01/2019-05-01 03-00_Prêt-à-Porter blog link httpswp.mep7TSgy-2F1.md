@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Prêt-à-Porter #thought
-blog link: https://wp.me/p7TSgy-2F1
+blog link: https_://wp.me/p7TSgy-2F1
 
 Prêt-à-Porter เป็นคำภาษาฝรั่งเศสที่มีความหมายว่า Ready-to-wear หรือเสื้อพร้อมใส่ (แบบที่บ้านเราชอบเรียกฟรีไซส์นั้นแหละ) และนี้คือตลาดเสื้อผ้าเค้กชิ้นใหญ่มูลค่ามหาศาลที่เราจะต้องมารับบทเป็นผู้ประกอบการมาแก่งแย่งกันในเกมยูโรระดับกลางหนักแนว economic ผลงานของนักออกแบบ Piotr Haraszczak และ Ignacy Trzewiczek ( Imperial Settlers, Detective: A Modern Crime Board Game)
  

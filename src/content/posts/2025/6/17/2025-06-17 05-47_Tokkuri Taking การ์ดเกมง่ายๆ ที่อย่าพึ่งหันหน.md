@@ -27,7 +27,7 @@ Tokkuri Taking #bite_size
 ไม่รู้เหมือนกันว่าหาซื้อได้จากไหน หมอพีทจาก Heavy Meeple เค้าชวนเล่น ส่วนตัวก็คิดว่าตลกเพลินๆดีเอาไปเล่นได้ทั้ง filler ขำๆของ gamer และ non-gamer
 
 ---
-อ่านข้อเขียนนี้และข้อเขียนอื่นๆได้ที่ https://forum.tinymeepletalk.com/d/43-tokkuri-taking
+อ่านข้อเขียนนี้และข้อเขียนอื่นๆได้ที่ https_://forum.tinymeepletalk.com/d/43-tokkuri-taking
 
 Tokkuri Taking #bite_size 
 
@@ -47,4 +47,4 @@ Tokkuri Taking #bite_size
 ไม่รู้เหมือนกันว่าหาซื้อได้จากไหน หมอพีทจาก Heavy Meeple เค้าชวนเล่น ส่วนตัวก็คิดว่าตลกเพลินๆดีเอาไปเล่นได้ทั้ง filler ขำๆของ gamer และ non-gamer
 
 ---
-อ่านข้อเขียนนี้และข้อเขียนอื่นๆได้ที่ https://forum.tinymeepletalk.com/d/43-tokkuri-taking
+อ่านข้อเขียนนี้และข้อเขียนอื่นๆได้ที่ https_://forum.tinymeepletalk.com/d/43-tokkuri-taking

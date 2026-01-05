@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Cerebria: The Inside World - สมดุลย์แห่งอารมณ์สู่ตัวตนของเรา #thought
-blog link: https://wp.me/p7TSgy-2BQ
+blog link: https_://wp.me/p7TSgy-2BQ
 
 เกมยูโรระดับหนักมาในธีมแฟนตาซีสีสดใสที่จะแบ่งเราออกเป็น 'อารมณ์บวก' (Bliss) และ 'อารมณ์ลบ' (Gloom) ที่จะมายึดครองพื้นที่ในส่วนต่างๆของจิตใจมนุษย์เจ้าของร่างเพื่อสร้าง 'ตัวตน' ของเราขึ้นมา (นึกถึงหนัง Inside Out ไว้) ผลงานร่วมของนักออกแบบถึง 6 คนจากค่าย Mindclash Games (Trickerion, Anachrony)
  

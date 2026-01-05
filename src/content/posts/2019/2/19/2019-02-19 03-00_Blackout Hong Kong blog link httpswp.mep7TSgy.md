@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Blackout: Hong Kong #thought
-blog link: https://wp.me/p7TSgy-2DW
+blog link: https_://wp.me/p7TSgy-2DW
  
 ในคืนธรรมดาคืนหนึ่ง ไฟฟ้าเกิดดับทั่วเกาะฮ่องกง หลังจากผ่านไปซักพักก็ยังไม่มีทีถ้าว่าไฟจะกลับมาปกติ เราคือหัวหน้าทีมที่จะนำพาอาสาสมัครชายหญิงมาร่วมบรรเทาความทุกข์ที่เกิดจากเหตุการณ์ไฟดับครั้งในเกมยูโรระดับกลางหนัก ธีมหลวมๆ ผลงานจากนักออกแบบ Alexander Pfister (Mombasa, Grate Western Trail, Broom Service, Isle of Skye)
  

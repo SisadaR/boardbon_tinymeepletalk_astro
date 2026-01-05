@@ -12,7 +12,7 @@ draft: false
 ---
 Space Station Phoenix #thought 
 
-blog link: https://github.com/SisadaR/BoardNBon/blob/main/contents/space_station_phoenix.md
+blog link: https_://github.com/SisadaR/BoardNBon/blob/main/contents/space_station_phoenix.md
 
 .
 เกมยูโรระดับกลางที่จะไห้เราไปสร้างสถานีอวกาศระดับกาแลคซี่ เพราะเป็นศูนย์รวมของเหล่ามนุษย์จากดาวหลายดวงมาทำงานผลิตทรัพยากรเพื่อความรุ่มรวยของเรา! ผลงานของ Gabriel J. Cohn (Exodus Fleet)

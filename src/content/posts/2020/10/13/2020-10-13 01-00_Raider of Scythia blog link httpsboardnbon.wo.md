@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Raider of Scythia #thought #bite_size
-blog link: https://boardnbon.wordpress.com/2020/10/13/raiders-of-scythia/
+blog link: https_://boardnbon.wordpress.com/2020/10/13/raiders-of-scythia/
 .
 .
 ▪️ เกมยูโรระดับกลางเบาเล่าถึงชาวไซเทียชนเผ่าเร่ร่อนที่มีชื่อเสียงระบือไกลตั้งแต่ทะเลดำจรดเมืองจีน เชี่ยวชาญการรบบนหลังม้าและยิงธนู ผลงานของ Shem Phillips (Raiders of the North Sea, Architects of the West Kingdom, Paladins of The West Kingdom)

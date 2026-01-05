@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Luna Nova #bite_size
-blog link: https://wp.me/p7TSgy-2Op
+blog link: https_://wp.me/p7TSgy-2Op
  
 ▪️เกมเพลินๆเล่นสบายๆคั่นเวลาหยิบไทล์มาต่อเป็นรูปแบบเพื่อทำแต้มจาก Uwe Rosenberg เจ้าพ่อเกมวิถีชาวบ้าน และ Corné van Moorsel (Factory Funner) 
  

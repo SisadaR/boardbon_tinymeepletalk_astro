@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Newton #thought #first_impression
-blog link: https://wp.me/s7TSgy-newton
+blog link: https_://wp.me/s7TSgy-newton
 
 เกมยูโรระดับกลางสไตล์ Point Salad (ทำอะไรก็ได้แต้ม) ว่าด้วยการเดินทางไปศึกษาหาความรู้ของนักวิทยาศาสตร์ในสมัยศตวรรษที่ 17 (แต่อย่าไปสนธีมเลยเพราะหลวมมาก) ผลงานของ Simone Luciani (Barrage, Lorenzo il Magnifico, Grand Austria Hotel, The Voyages of Marco Polo) และ Nestore Mangone ( Expo 1906 )
  

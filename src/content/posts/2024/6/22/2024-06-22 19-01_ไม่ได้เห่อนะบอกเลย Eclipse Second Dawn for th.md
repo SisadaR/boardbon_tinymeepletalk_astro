@@ -13,6 +13,6 @@ draft: false
 Eclipse: Second Dawn for the Galaxy – Outcasts,  
 Eclipse: Second Dawn for the Galaxy – Seekers,  
 
-painted by Bewitched boardgame cafe  https://www.facebook.com/bewitched.bg
+painted by Bewitched boardgame cafe  https_://www.facebook.com/bewitched.bg
 
 

@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Gugong #thought
-blog link: https://wp.me/s7TSgy-gugong
+blog link: https_://wp.me/s7TSgy-gugong
 
 เกมยูโรระดับกลางที่เอาธีมมาจากเรื่องจริงในยุคสมัยที่ฮ่องเต้พระองค์ใหม่ออกโองการห้ามข้าราชการรับเงินทองด้วยหวังจะหยุดการคอรัปชั่น แต่ไหนเลยเหล่าคนโกงจะหยุดอยู่กับที่ เลยเลี่ยงบาลีคิดวิธีการใหม่ด้วยการแลกเปลี่ยน 'ของขวัญ' ที่มูลค่าต่างกันแทน ผลงานของของ Andreas Steding (Hansa Teutonica, Norenberc, The Staufer Dynasty)
  

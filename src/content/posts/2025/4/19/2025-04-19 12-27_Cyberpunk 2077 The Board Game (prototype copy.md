@@ -72,7 +72,7 @@ Cyberpunk 2077: The Board Game (prototype copy, first impression)
 
 > ข้อเขียนจากประสบการณ์และความเห็นส่วนตัว ไม่ได้รับเกม/สิ่งของ/ค่าจ้าง ใดๆจาก _สยามบอร์ดเกม_ ผู้นำเข้าในการทำโพสนี้
 
-> อ่านข้อเขียนนี้และข้อเขียนอื่นๆในเวบได้ที่ https://forum.tinymeepletalk.com/d/30-cyberpunk-2077-the-board-game-prototype-copy-first-impression
+> อ่านข้อเขียนนี้และข้อเขียนอื่นๆในเวบได้ที่ https_://forum.tinymeepletalk.com/d/30-cyberpunk-2077-the-board-game-prototype-copy-first-impression
 
 ![](./images/499197745_1293915032742540_7607551874658402539_n.jpg)
 

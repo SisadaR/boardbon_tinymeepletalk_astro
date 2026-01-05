@@ -19,41 +19,41 @@ Spiel Portugal : เป็นรางวัลที่เน้นเกมส
 ---- Great Western Trail ----
 -  เกมดีแต่ส่วนตัวผมไม่ค่อยถูกจริตกับเกมแนว Deck Building เท่าไร เทียบกับคู่แข่งในลิสแล้วคิดว่ายังสนุกไม่เท่าดูมันจมอยู่กับตัวเองเยอะไปหน่อย ไม่เชียร์ (แต่ถ้าชวนเล่นตามปกติก็ไม่มีปัญหานะ)
 
-: เคยเขียนถึงสั้นๆไว้นานล่ะ https://goo.gl/HDgjzj
+: เคยเขียนถึงสั้นๆไว้นานล่ะ https_://goo.gl/HDgjzj
  
  
 ---- Scythe ----
 -  อีกเกมที่ผมคิดว่าสนุกแบบเพลินๆฆ่าเวลา ถ้าได้กางก็พร้อมเสียบตลอดนะ แต่ถ้าบอกจะมารับรางวัลระดับยูโรเกมเมอร์? คิดว่าไม่ได้อ่ะ เข้ามาเป็นไม้ประดับพอล่ะ เกมเบามากเทียบกับคู่แข่ง ไม่เชียร์เช่นกัน
 
-: ผมเคยเขียนข้อเขียนกึ่งๆรีวิวไว้ตอนเปิดเพจใหม่ๆ https://goo.gl/U7A88P
+: ผมเคยเขียนข้อเขียนกึ่งๆรีวิวไว้ตอนเปิดเพจใหม่ๆ https_://goo.gl/U7A88P
  
  
 ---- Terraforming Mars ----
 -  เป็นเกมที่ฮิตมากในกลุ่มผมเวลานึกอะไรไม่ออกเพราะว่า flow ไม่ซับซ้อนมีอะไรให้ทำเยอะแยะ เพลินๆหยิบการ์ดสร้างไปเรื่อยๆ การเล่นแต่ล่ะตาค่อนข้างหลากหลายแล้วแต่การ์ดจะเข้ามือ 
 
-: รีวิว https://goo.gl/5Pt2iX
+: รีวิว https_://goo.gl/5Pt2iX
  
  
 ---- Tramways ----
 -  เกมแนว pick up & delivery ที่เอาแกนของ Age of Steam มาตีความใหม่ สร้างรางส่งผู้โดยสาร ชอบมากเป็นการส่วนตัว weight หนักที่สุดในกลุ่ม แต่ยังไม่ค่อยมีเวลาบิ้วในกลุ่มเท่าไรเพราะเกมใหม่มารัวๆ แผนที่ไดนามิคเยอะ ด้วยความอคติเกมนี้เป็น deck building เล็กๆแต่ว่าเล่นแล้วผมชอบ 
 
-: รีวิว https://goo.gl/ii3bz5
+: รีวิว https_://goo.gl/ii3bz5
  
  
 ---- Yokohama ----
 -  เกมแนว set collection ที่เราจะส่งคนงานไปทั่วแผนที่แล้วเดินเก็บของ มา complete order เป็นอะไรที่ถ้าให้เทียบว่าเป็น Istanblu ระดับเกมเมอร์น่าจะใกล้เคียงสุด วิธีเล่นเยอะแบบมาก อธิบายง่ายแต่วิธีเล่นมีระดับการตัดสินใจเยอะ 
 
-: รีวิว https://goo.gl/BWHQhT (เป็นตัว JP first edition นะคนล่ะตัวกับที่ KS)
+: รีวิว https_://goo.gl/BWHQhT (เป็นตัว JP first edition นะคนล่ะตัวกับที่ KS)
  
  
 ส่วนตัวคิดว่าตัวเต็งน่าจะเป็น Terraforming Mars นะส่วนอันดับสองร่วมก็น่าจะเป็น Tramways + Yokohama
  
  
-บทความสั้นๆเกี่ยวข้องเผื่ออยากอ่าน , Spiel des Jahres คือเกมที่สนุกที่สุดในปีนั้นจริงๆเหรอ? : https://goo.gl/W7fSFQ
+บทความสั้นๆเกี่ยวข้องเผื่ออยากอ่าน , Spiel des Jahres คือเกมที่สนุกที่สุดในปีนั้นจริงๆเหรอ? : https_://goo.gl/W7fSFQ
 
-ที่มาของข่าว : https://boardgamegeek.com/geeklist/226758/game-year-jogo-do-ano-spiel-portugal-2017-nominees
+ที่มาของข่าว : https_://boardgamegeek.com/geeklist/226758/game-year-jogo-do-ano-spiel-portugal-2017-nominees
  
-image by Nuno Bizarro Sentieiro , source : https://pbs.twimg.com/media/DC3rYwoXsAIdZiW.jpg
+image by Nuno Bizarro Sentieiro , source : https_://pbs.twimg.com/media/DC3rYwoXsAIdZiW.jpg
 
 Game of the Year (Jogo do Ano) Spiel Portugal 2017 - Nominees
 
@@ -66,38 +66,38 @@ Spiel Portugal : เป็นรางวัลที่เน้นเกมส
 ---- Great Western Trail ----
 -  เกมดีแต่ส่วนตัวผมไม่ค่อยถูกจริตกับเกมแนว Deck Building เท่าไร เทียบกับคู่แข่งในลิสแล้วคิดว่ายังสนุกไม่เท่าดูมันจมอยู่กับตัวเองเยอะไปหน่อย ไม่เชียร์ (แต่ถ้าชวนเล่นตามปกติก็ไม่มีปัญหานะ)
 
-: เคยเขียนถึงสั้นๆไว้นานล่ะ https://goo.gl/HDgjzj
+: เคยเขียนถึงสั้นๆไว้นานล่ะ https_://goo.gl/HDgjzj
  
  
 ---- Scythe ----
 -  อีกเกมที่ผมคิดว่าสนุกแบบเพลินๆฆ่าเวลา ถ้าได้กางก็พร้อมเสียบตลอดนะ แต่ถ้าบอกจะมารับรางวัลระดับยูโรเกมเมอร์? คิดว่าไม่ได้อ่ะ เข้ามาเป็นไม้ประดับพอล่ะ เกมเบามากเทียบกับคู่แข่ง ไม่เชียร์เช่นกัน
 
-: ผมเคยเขียนข้อเขียนกึ่งๆรีวิวไว้ตอนเปิดเพจใหม่ๆ https://goo.gl/U7A88P
+: ผมเคยเขียนข้อเขียนกึ่งๆรีวิวไว้ตอนเปิดเพจใหม่ๆ https_://goo.gl/U7A88P
  
  
 ---- Terraforming Mars ----
 -  เป็นเกมที่ฮิตมากในกลุ่มผมเวลานึกอะไรไม่ออกเพราะว่า flow ไม่ซับซ้อนมีอะไรให้ทำเยอะแยะ เพลินๆหยิบการ์ดสร้างไปเรื่อยๆ การเล่นแต่ล่ะตาค่อนข้างหลากหลายแล้วแต่การ์ดจะเข้ามือ 
 
-: รีวิว https://goo.gl/5Pt2iX
+: รีวิว https_://goo.gl/5Pt2iX
  
  
 ---- Tramways ----
 -  เกมแนว pick up & delivery ที่เอาแกนของ Age of Steam มาตีความใหม่ สร้างรางส่งผู้โดยสาร ชอบมากเป็นการส่วนตัว weight หนักที่สุดในกลุ่ม แต่ยังไม่ค่อยมีเวลาบิ้วในกลุ่มเท่าไรเพราะเกมใหม่มารัวๆ แผนที่ไดนามิคเยอะ ด้วยความอคติเกมนี้เป็น deck building เล็กๆแต่ว่าเล่นแล้วผมชอบ 
 
-: รีวิว https://goo.gl/ii3bz5
+: รีวิว https_://goo.gl/ii3bz5
  
  
 ---- Yokohama ----
 -  เกมแนว set collection ที่เราจะส่งคนงานไปทั่วแผนที่แล้วเดินเก็บของ มา complete order เป็นอะไรที่ถ้าให้เทียบว่าเป็น Istanblu ระดับเกมเมอร์น่าจะใกล้เคียงสุด วิธีเล่นเยอะแบบมาก อธิบายง่ายแต่วิธีเล่นมีระดับการตัดสินใจเยอะ 
 
-: รีวิว https://goo.gl/BWHQhT (เป็นตัว JP first edition นะคนล่ะตัวกับที่ KS)
+: รีวิว https_://goo.gl/BWHQhT (เป็นตัว JP first edition นะคนล่ะตัวกับที่ KS)
  
  
 ส่วนตัวคิดว่าตัวเต็งน่าจะเป็น Terraforming Mars นะส่วนอันดับสองร่วมก็น่าจะเป็น Tramways + Yokohama
  
  
-บทความสั้นๆเกี่ยวข้องเผื่ออยากอ่าน , Spiel des Jahres คือเกมที่สนุกที่สุดในปีนั้นจริงๆเหรอ? : https://goo.gl/W7fSFQ
+บทความสั้นๆเกี่ยวข้องเผื่ออยากอ่าน , Spiel des Jahres คือเกมที่สนุกที่สุดในปีนั้นจริงๆเหรอ? : https_://goo.gl/W7fSFQ
 
-ที่มาของข่าว : https://boardgamegeek.com/geeklist/226758/game-year-jogo-do-ano-spiel-portugal-2017-nominees
+ที่มาของข่าว : https_://boardgamegeek.com/geeklist/226758/game-year-jogo-do-ano-spiel-portugal-2017-nominees
  
-image by Nuno Bizarro Sentieiro , source : https://pbs.twimg.com/media/DC3rYwoXsAIdZiW.jpg
+image by Nuno Bizarro Sentieiro , source : https_://pbs.twimg.com/media/DC3rYwoXsAIdZiW.jpg

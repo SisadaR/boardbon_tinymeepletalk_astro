@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Tawantinsuyu: The Inca Empire #thought 
-Blog link: https://boardnbon.wordpress.com/2021/06/06/tawantinsuyu-the-inca-empire/
+Blog link: https_://boardnbon.wordpress.com/2021/06/06/tawantinsuyu-the-inca-empire/
 
 ▪️ เกมยูโรระดับหนัก (แต่มีความซับซ้อนระดับกลาง) ธีมหลวมๆว่าด้วยการพัฒนาอณาจักรของชาวอินคา ผลงานของนักออกแบบ Dávid Turczi (Anachrony, Tekhenu และระบบ solo ให้กับเกมอีกมากมาย)
 .

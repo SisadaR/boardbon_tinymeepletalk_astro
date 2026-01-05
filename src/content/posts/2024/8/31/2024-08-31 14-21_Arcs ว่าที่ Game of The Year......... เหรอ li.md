@@ -10,7 +10,7 @@ draft: false
 ---
 Arcs: ว่าที่ Game of The Year......... เหรอ? 
 
-link - https://www.youtube.com/watch?v=uSCcncrAECQ
+link - https_://www.youtube.com/watch?v=uSCcncrAECQ
 
 แต่อย่างน้อยถ้าชอบความยุ่งเหยิงและชัยชนะเล็กๆท่ามกลางความหดหู่และพร่ำบ่นงึมงำทั้งวงว่ามือห่วยจังโว๊ยยยยยยยย พร้อมดิ้นรนและตบตีชาวบ้านผมว่าก็น่าจะชอบกันนะ..... ไม่ก็เผาทิ้ง ฮาๆ
 

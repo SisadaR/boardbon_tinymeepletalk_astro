@@ -22,13 +22,13 @@ draft: false
 เกมนี้ปกสวยมาก แต่อาร์ทข้างในยังเป็น signature ของค่าย Spielworxx อยู่ อีกเรื่องคือตอน Solarius Mission (เกมของค่ายนี้รอบที่แล้ว) ตัวเกมมีปัญหาเรื่องคุณภาพวัสดุอยู่พอดู ทำให้ความมั่นใจรอบนี้ไม่ค่อยเยอะเท่าไร ถ้ารอบนี้ยังแย่อีกอาจจะตัดสินใจไม่จัด The Sands of Time อีกเกมของค่ายนี้ที่กำลังจะออกปีนี้ 
  
  
-ตัวเกมสั่งจองได้โดยตรงจากผู้ผลิต 55 eur (ถ้าสั่งเดือนหน้าตอนเกมออกจะกลายเป็น 65 eur ) : https://www.spielworxx.de/produkte-shop/
+ตัวเกมสั่งจองได้โดยตรงจากผู้ผลิต 55 eur (ถ้าสั่งเดือนหน้าตอนเกมออกจะกลายเป็น 65 eur ) : https_://www.spielworxx.de/produkte-shop/
  
  
-รีวิว Arkwright ของนักออกแบบคนนี้ : https://goo.gl/axBXwW
+รีวิว Arkwright ของนักออกแบบคนนี้ : https_://goo.gl/axBXwW
  
  
-รีวิว Solarius Mission อีกเกมจากค่ายนี้ : https://goo.gl/MrXsrB
+รีวิว Solarius Mission อีกเกมจากค่ายนี้ : https_://goo.gl/MrXsrB
 
 #news Gentes เกมใหม่จาก Stefan Risthaus ที่ออกแบบ Arkwright เปิดให้จองแล้ว ส่งของเดือนหน้า ทำกับค่ายเดิมคือ Spielworxx ผลิตแค่ 1000 กล่องเท่านั้น
  
@@ -42,10 +42,10 @@ draft: false
 เกมนี้ปกสวยมาก แต่อาร์ทข้างในยังเป็น signature ของค่าย Spielworxx อยู่ อีกเรื่องคือตอน Solarius Mission (เกมของค่ายนี้รอบที่แล้ว) ตัวเกมมีปัญหาเรื่องคุณภาพวัสดุอยู่พอดู ทำให้ความมั่นใจรอบนี้ไม่ค่อยเยอะเท่าไร ถ้ารอบนี้ยังแย่อีกอาจจะตัดสินใจไม่จัด The Sands of Time อีกเกมของค่ายนี้ที่กำลังจะออกปีนี้ 
  
  
-ตัวเกมสั่งจองได้โดยตรงจากผู้ผลิต 55 eur (ถ้าสั่งเดือนหน้าตอนเกมออกจะกลายเป็น 65 eur ) : https://www.spielworxx.de/produkte-shop/
+ตัวเกมสั่งจองได้โดยตรงจากผู้ผลิต 55 eur (ถ้าสั่งเดือนหน้าตอนเกมออกจะกลายเป็น 65 eur ) : https_://www.spielworxx.de/produkte-shop/
  
  
-รีวิว Arkwright ของนักออกแบบคนนี้ : https://goo.gl/axBXwW
+รีวิว Arkwright ของนักออกแบบคนนี้ : https_://goo.gl/axBXwW
  
  
-รีวิว Solarius Mission อีกเกมจากค่ายนี้ : https://goo.gl/MrXsrB
+รีวิว Solarius Mission อีกเกมจากค่ายนี้ : https_://goo.gl/MrXsrB

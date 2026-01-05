@@ -44,7 +44,7 @@ ATLAS LOST - RISE of the NEW SOVEREIGNS -
 
 - ด้วยความที่ดูเหมือนจะเป็น Tech Tree ล้วน ก็กลัวเป็นเกมงึมงำที่ไม่ค่อยตรงสไตล์อยู่เหมือนกันนะ แต่ว่าเกมมันก็ 60-90 นาที
 
-https://www.kickstarter.com/projects/tacticalgames/rise-of-the-new-sovereigns-project-atlaslost/description
+https_://www.kickstarter.com/projects/tacticalgames/rise-of-the-new-sovereigns-project-atlaslost/description
 
 ATLAS LOST - RISE of the NEW SOVEREIGNS -
 
@@ -82,4 +82,4 @@ ATLAS LOST - RISE of the NEW SOVEREIGNS -
 
 - ด้วยความที่ดูเหมือนจะเป็น Tech Tree ล้วน ก็กลัวเป็นเกมงึมงำที่ไม่ค่อยตรงสไตล์อยู่เหมือนกันนะ แต่ว่าเกมมันก็ 60-90 นาที
 
-https://www.kickstarter.com/projects/tacticalgames/rise-of-the-new-sovereigns-project-atlaslost/description
+https_://www.kickstarter.com/projects/tacticalgames/rise-of-the-new-sovereigns-project-atlaslost/description

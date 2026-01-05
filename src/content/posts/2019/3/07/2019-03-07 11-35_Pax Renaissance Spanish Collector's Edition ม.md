@@ -16,13 +16,13 @@ Pax Renaissance Spanish Collector's Edition
 
 จริงๆเกมนี้ผมเคยแอบคุยเล่นๆอยากแปลบ้าง แต่มานึกแล้วบ้านเราพิมพ์เล่นๆซัก 500 กล่องยังไงก็ขายไม่หมด ไม่รู้จะนอนกอดกล่องเกมค้างสต๊อคไว้ทำไม เลยต้องพับโปรเจคไป น่าอิจฉาภาษาที่มีฐานคนพูดเยอะๆจริงๆ
  
-ref: https://boardgamegeek.com/image/4612325/pax-renaissance
+ref: https_://boardgamegeek.com/image/4612325/pax-renaissance
  
-ref: https://paxrenaissancemasqueoca.blogspot.com/
+ref: https_://paxrenaissancemasqueoca.blogspot.com/
 
 ส่วนใครไม่รู้จัก เกมนี้เป็นเกมที่ดีที่สุดที่ออกมาในปี 2017 สำหรับผม (แต่เกมโคตรไม่แมสและต้องมีความติ่งประมาณนึงถึงจะเล่นแล้วสนุกนะ) 
 
-รีวิว Pax Renaissance : เงินตราขับเคลื่อนโลก : https://wp.me/p7TSgy-1Ja
+รีวิว Pax Renaissance : เงินตราขับเคลื่อนโลก : https_://wp.me/p7TSgy-1Ja
 
 Pax Renaissance Spanish Collector's Edition
  
@@ -32,10 +32,10 @@ Pax Renaissance Spanish Collector's Edition
 
 จริงๆเกมนี้ผมเคยแอบคุยเล่นๆอยากแปลบ้าง แต่มานึกแล้วบ้านเราพิมพ์เล่นๆซัก 500 กล่องยังไงก็ขายไม่หมด ไม่รู้จะนอนกอดกล่องเกมค้างสต๊อคไว้ทำไม เลยต้องพับโปรเจคไป น่าอิจฉาภาษาที่มีฐานคนพูดเยอะๆจริงๆ
  
-ref: https://boardgamegeek.com/image/4612325/pax-renaissance
+ref: https_://boardgamegeek.com/image/4612325/pax-renaissance
  
-ref: https://paxrenaissancemasqueoca.blogspot.com/
+ref: https_://paxrenaissancemasqueoca.blogspot.com/
 
 ส่วนใครไม่รู้จัก เกมนี้เป็นเกมที่ดีที่สุดที่ออกมาในปี 2017 สำหรับผม (แต่เกมโคตรไม่แมสและต้องมีความติ่งประมาณนึงถึงจะเล่นแล้วสนุกนะ) 
 
-รีวิว Pax Renaissance : เงินตราขับเคลื่อนโลก : https://wp.me/p7TSgy-1Ja
+รีวิว Pax Renaissance : เงินตราขับเคลื่อนโลก : https_://wp.me/p7TSgy-1Ja

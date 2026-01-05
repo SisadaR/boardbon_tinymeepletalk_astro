@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Arkwright: The Card Game #thought
-blog link: https://boardnbon.wordpress.com/2021/11/26/arkwright-the-card-game/
+blog link: https_://boardnbon.wordpress.com/2021/11/26/arkwright-the-card-game/
 
 ▪️ ปี 1769, ช่างทำนาฬิกานามริชาร์ด อาร์คไรท์ ได้จดหนึ่งในสิทธิบัตรที่เปลี่ยนโฉมหน้าของโลกไปตลอดกาล นั้นคือเครื่องปั่นด้าย (spinning frame) ที่ส่งผลอังกฤษพลิกโฉมเข้าสู่ยุคปฎิวัติอุตสหกรรมโดยเริ่มจากการผลิตสิ่งทอด้วยความรวดเร็ว 
 

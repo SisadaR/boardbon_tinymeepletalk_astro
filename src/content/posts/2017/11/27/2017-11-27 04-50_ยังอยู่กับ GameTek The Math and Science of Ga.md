@@ -38,9 +38,9 @@ draft: false
 ตัวหนังสือมีบทความที่น่าสนใจหลายอย่าง ข้อเขียนไม่ยาวอ่านเพลินๆ อาจจะเอามานำเสนอแบบสรุปเป็นระยะๆ อย่างไรก็ตามอย่าลืมไปซื้อหนังสือสนับสนุนเจ้าของผลงานนะ (ผมซื้อแบบ digital มา 10usd เข้าใจว่าเดี๋ยวเค้าจะเอาตัว ebook ออกมาขายซักที่ แต่ตอนนี้ยังไม่มีนะ )
 
  
-ผมเคยเขียนเกี่ยวกับกลไกการแลกเปลี่ยนของ Mega Civilization ไว้ที่นี้ : https://goo.gl/mMWRL8
+ผมเคยเขียนเกี่ยวกับกลไกการแลกเปลี่ยนของ Mega Civilization ไว้ที่นี้ : https_://goo.gl/mMWRL8
 
-ลิงค์ KS ของ GameTek : https://www.kickstarter.com/projects/1777566431/gametek-the-book
+ลิงค์ KS ของ GameTek : https_://www.kickstarter.com/projects/1777566431/gametek-the-book
 
 #talk ยังอยู่กับ GameTek: The Math and Science of Gaming เช่นเคย เป็นหนังสือเกี่ยวกับการออกแบบเกมกระดานที่เกิดจากการรวมเอาส่วนที่น่าสนใจที่ Geoff Engelstein (คนเขียน) เคยพูดไว้ในโชว์ของ Dice Tower รอบนี้ผมขอยกบทที่พูดถึง 'เลขสามเหลี่ยม' (Triangular Numbers)
  
@@ -69,6 +69,6 @@ draft: false
 ตัวหนังสือมีบทความที่น่าสนใจหลายอย่าง ข้อเขียนไม่ยาวอ่านเพลินๆ อาจจะเอามานำเสนอแบบสรุปเป็นระยะๆ อย่างไรก็ตามอย่าลืมไปซื้อหนังสือสนับสนุนเจ้าของผลงานนะ (ผมซื้อแบบ digital มา 10usd เข้าใจว่าเดี๋ยวเค้าจะเอาตัว ebook ออกมาขายซักที่ แต่ตอนนี้ยังไม่มีนะ )
 
  
-ผมเคยเขียนเกี่ยวกับกลไกการแลกเปลี่ยนของ Mega Civilization ไว้ที่นี้ : https://goo.gl/mMWRL8
+ผมเคยเขียนเกี่ยวกับกลไกการแลกเปลี่ยนของ Mega Civilization ไว้ที่นี้ : https_://goo.gl/mMWRL8
 
-ลิงค์ KS ของ GameTek : https://www.kickstarter.com/projects/1777566431/gametek-the-book
+ลิงค์ KS ของ GameTek : https_://www.kickstarter.com/projects/1777566431/gametek-the-book

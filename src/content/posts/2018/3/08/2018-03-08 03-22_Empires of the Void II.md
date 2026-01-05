@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Empires of the Void II  #thought #first_impression
-blog link: https://wp.me/p7TSgy-2vx
+blog link: https_://wp.me/p7TSgy-2vx
 
 เกมยูโรระดับกลางหนัก ธีมต่อสู้ยึดครองจักรวาลที่ถึงจะเขียนว่าภาคสองแต่ระบบการเล่นก็ไม่มีอะไรเหมือนภาคแรกซักกะนิดเดียว ผลงานของนักออกแบบ Ryan Laukat (Near and Far, Eight-Minute Empire) โดยในเกมนี้เราจะเป็นเผ่าพันธ์ที่บ้านเมืองถูกทำลายทำให้ต้องเดินทางไปทั่วกาแลคซี่เพื่อหาที่อยู่ให้กับตัวเอง 
  
@@ -86,7 +86,7 @@ blog link: https://wp.me/p7TSgy-2vx
 ------------------------------------------
 
 Empires of the Void II  #thought #first_impression
-blog link: https://wp.me/p7TSgy-2vx
+blog link: https_://wp.me/p7TSgy-2vx
 
 เกมยูโรระดับกลางหนัก ธีมต่อสู้ยึดครองจักรวาลที่ถึงจะเขียนว่าภาคสองแต่ระบบการเล่นก็ไม่มีอะไรเหมือนภาคแรกซักกะนิดเดียว ผลงานของนักออกแบบ Ryan Laukat (Near and Far, Eight-Minute Empire) โดยในเกมนี้เราจะเป็นเผ่าพันธ์ที่บ้านเมืองถูกทำลายทำให้ต้องเดินทางไปทั่วกาแลคซี่เพื่อหาที่อยู่ให้กับตัวเอง 
  

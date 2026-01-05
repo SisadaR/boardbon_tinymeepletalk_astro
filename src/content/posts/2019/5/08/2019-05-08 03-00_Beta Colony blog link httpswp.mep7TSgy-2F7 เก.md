@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Beta Colony #thought #first_impression
-blog link: https://wp.me/p7TSgy-2F7
+blog link: https_://wp.me/p7TSgy-2F7
 
 เกมยูโรระดับกลางธีมหลวมๆที่ใช้ลูกเต๋าเดินเกมว่าด้วยการออกเดินทางไปตั้งรกรากใหม่ยังดาวเคราะห์ห่างไกล ผลงานของ Matt Riddle และ Ben Pinchback (Fleet, Wasteland Express Delivery Service) 
  

@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Lowland #thought #first_impression
-blog link: https://wp.me/s7TSgy-lowland
+blog link: https_://wp.me/s7TSgy-lowland
 
 เกมยูโรระดับกลางที่จะให้เรามาทำฟาร์มเลี้ยงแกะริมทะเลในประเทศแถบยุโรปตอนเหนือ ที่ซึ่งปัญหาคือพื้นดินแถวนั้นดันต่ำกว่าระดับน้ำทะเลโคตรๆ เลยนอกจากจะต้องทำฟาร์มเลี้ยงแกะสุขสรรค์แล้วเรายังต้องคอย(ช่วยกัน)สร้างเขื่อนกั้นน้ำไม่ให้น้ำทะเลทะลักเข้ามาอันจะทำให้ฟาร์มของเราเสียหาย ผลงานจากนักออกแบบหน้าใหม่ Claudia Partenheimer และ Ralf Partenheimer
  

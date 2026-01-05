@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Alma Mater #thought 
-blog link: https://tinyurl.com/y6fvcphe
+blog link: https_://tinyurl.com/y6fvcphe
 .
 ▪️ เกมยูโรระดับกลางหนัก ที่ให้เรารับบทเป็นเหล่าอาจารย์ใหญ่มาพัฒนามหาวิทยาลัยให้เป็นหนึ่งในยุโรป ผลงานของแก๊งอิตาเลี่ยนทีม Acchittocca (ภาษาอิตาเลี่ยนแปลว่า ตาใครแล้ว?....ว่ะ - "Who’s turn is it?" ) ห้าคนที่มีผลงานติดอันดับมากมายอย่าง Terramara, Coimbra, Lorenzo il Magnifico, Grand Austria Hotel
 .

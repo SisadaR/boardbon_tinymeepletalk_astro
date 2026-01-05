@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Black Rose Wars #bite_size
-blog link: https://wp.me/p7TSgy-2PY
+blog link: https_://wp.me/p7TSgy-2PY
   
 ▪️เกมแนวลูกผสมระหว่างอเมริเทรชและยูโรระดับกลางหนักที่จะให้เราสวมบทบาทเป็นจอมเวทย์เข้ามาห่ำหันกันในสนามประลองเวทย์มนต์เพื่อความเป็นหนึ่งในสงครามกุหลาบนิลแห่งนี้ ผลงานของ Marco Montanaro
  

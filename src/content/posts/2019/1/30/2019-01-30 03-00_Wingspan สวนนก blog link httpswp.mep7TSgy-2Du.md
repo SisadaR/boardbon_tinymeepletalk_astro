@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Wingspan: สวนนก #thought
-blog link: https://wp.me/p7TSgy-2Du
+blog link: https_://wp.me/p7TSgy-2Du
 
 Wingspan (ระยะระหว่างปลายปีกสองข้าง) คือระยะที่นักวิทยาศาสตร์ใช้วัดขนาดของนก และเป็นที่มาของชื่อเกมยูโรระดับกลางเบา ธีมหลวมๆ ที่จะให้เราดึงดูดนกนานาพันธ์มาไว้ในพื้นที่สงวนส่วนตัวของเรา ผลงานของนักออกแบบ Elizabeth Hargrave
  

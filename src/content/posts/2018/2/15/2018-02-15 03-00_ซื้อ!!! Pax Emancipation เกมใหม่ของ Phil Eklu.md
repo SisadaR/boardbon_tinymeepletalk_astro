@@ -20,7 +20,7 @@ draft: false
  
 อีกนิดคือถ้า 'โชคดี' เราอาจจะได้เห็น Pax Transhumanity กับ Bios: Origins ด้วย ที่บอกว่า'อาจจะ' ก็เพราะว่าตอนนี้ Phil กำลังเจอปัญหาเรื่องบริษัทส่งของ Ship Naked ที่ส่งเกม Bios ทั้งสองเกมกับ John Company ทำเรื่องไว้เยอะ (ส่งช้า,ส่งผิด,เรียกเก็บตังแพง ที่เหี้ยคือตอนส่งผิดบอกคนรับเกมให้เอาฟรีๆไปเลยตามนโยบาย worry-free แต่ว่าจ่ายเงินคืน Phil นิดเดียว) เป็นดราม่าที่กำลังดังพอควร (Bios ผมยังไม่ได้เลยหือออออ T_T) ขนาด Phil ออกปากเลยว่าปีนี้เข้าเนื้อเยอะ เงินอาจจะเหลือพอทำแค่เกมเดียว.......
 
-https://boardgamegeek.com/boardgame/245928/pax-emancipation
+https_://boardgamegeek.com/boardgame/245928/pax-emancipation
 
 #news ซื้อ!!! Pax Emancipation เกมใหม่ของ Phil Eklund ที่จับเอาประเด็นเรื่องทาสทั่วโลกในช่วง Age of Enlightenment (1685-1815) ถ้าเล่น Pax Renaissance มาแล้วเราก็จะได้เห็นที่มาที่ไปของเส้นทางการค้าสีดำเพิ่มขึ้นด้วย (ยุคสมัยมันคาบเกี่ยวกับประมาณหนึ่ง เส้นสีดำใน Pax Ren คือเส้นทางค้าทาส) ออกมาให้เล่นปีนี้เนี่ยแหละ (ดูจาก bgg entry คงผ่าน KS)
  
@@ -30,4 +30,4 @@ https://boardgamegeek.com/boardgame/245928/pax-emancipation
  
 อีกนิดคือถ้า 'โชคดี' เราอาจจะได้เห็น Pax Transhumanity กับ Bios: Origins ด้วย ที่บอกว่า'อาจจะ' ก็เพราะว่าตอนนี้ Phil กำลังเจอปัญหาเรื่องบริษัทส่งของ Ship Naked ที่ส่งเกม Bios ทั้งสองเกมกับ John Company ทำเรื่องไว้เยอะ (ส่งช้า,ส่งผิด,เรียกเก็บตังแพง ที่เหี้ยคือตอนส่งผิดบอกคนรับเกมให้เอาฟรีๆไปเลยตามนโยบาย worry-free แต่ว่าจ่ายเงินคืน Phil นิดเดียว) เป็นดราม่าที่กำลังดังพอควร (Bios ผมยังไม่ได้เลยหือออออ T_T) ขนาด Phil ออกปากเลยว่าปีนี้เข้าเนื้อเยอะ เงินอาจจะเหลือพอทำแค่เกมเดียว.......
 
-https://boardgamegeek.com/boardgame/245928/pax-emancipation
+https_://boardgamegeek.com/boardgame/245928/pax-emancipation

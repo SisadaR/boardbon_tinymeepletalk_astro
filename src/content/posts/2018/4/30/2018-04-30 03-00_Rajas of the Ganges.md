@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Rajas of the Ganges  #thought #first_impression
-blog link: https://wp.me/p7TSgy-2xh
+blog link: https_://wp.me/p7TSgy-2xh
 
 เกมยูโรระดับกลางที่จะให้เรารับบทเป็นเจ้านครริมแม่น้ำคงคา โดยเราจะต้องมาพัฒนาบ้านเมืองของตัวเองให้รุ่งเรืองแข่งกับเจ้านครคนอื่น ผลงานจากคู่สามีภรรยานักออกแบบ Markus Brand และ Inka Brand (Village , Exit: The Game)
  
@@ -56,7 +56,7 @@ blog link: https://wp.me/p7TSgy-2xh
 -------------------------------------------
 
 Rajas of the Ganges  #thought #first_impression
-blog link: https://wp.me/p7TSgy-2xh
+blog link: https_://wp.me/p7TSgy-2xh
 
 เกมยูโรระดับกลางที่จะให้เรารับบทเป็นเจ้านครริมแม่น้ำคงคา โดยเราจะต้องมาพัฒนาบ้านเมืองของตัวเองให้รุ่งเรืองแข่งกับเจ้านครคนอื่น ผลงานจากคู่สามีภรรยานักออกแบบ Markus Brand และ Inka Brand (Village , Exit: The Game)
  

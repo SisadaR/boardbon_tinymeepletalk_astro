@@ -19,6 +19,6 @@ Antiquity reprint มาแน่ปีหน้า!!
  
 ซัก 3-4 ปีก่อนคนในกลุ่มที่ผมเล่นอยู่ตบมาที่ราคา 5k+ สมัยก่อนค่ายนี้ พิมพ์ของน้อยมาก แพงก็แพงหาก็ยาก มาหลังจาก food chain เนี่ยล่ะที่เริ่มเอาของเก่ากลับมาใหม่
 
-Antiquity reprint confirmed for 2017! #Splotter (just like they said in our interview: https://heavycardboard.com/2016/10/28/heavy-cardboard-episode-56-edward-goes-to-essen-part-2/)! Thanks to Jeroen Doumen & Joris Wiersinga for the interview and the news!
+Antiquity reprint confirmed for 2017! #Splotter (just like they said in our interview: https_://heavycardboard.com/2016/10/28/heavy-cardboard-episode-56-edward-goes-to-essen-part-2/)! Thanks to Jeroen Doumen & Joris Wiersinga for the interview and the news!
 
-https://boardgamegeek.com/article/24070707
+https_://boardgamegeek.com/article/24070707

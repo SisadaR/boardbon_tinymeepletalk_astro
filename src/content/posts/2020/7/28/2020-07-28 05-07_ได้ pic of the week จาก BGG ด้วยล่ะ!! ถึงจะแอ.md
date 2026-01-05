@@ -15,7 +15,7 @@ draft: false
 
 ช่วงนี้กำลังทยอยเอารูปที่ตัวเองถ่ายไว้ลง bgg บ้างก็สังเกตุได้ว่าคนที่ upload รูปลงนี้มีไม่เยอะเท่าไร เพราะหน้าตา interface โบราณแถมรูปต้องรอ approve อีก ไปดู micro-badge คนที่เอารูปลงอย่างน้อย 10 รูปนี้มีแค่ หมื่นสองพันคนเท่านั้นเอง
 
-link: https://boardgamegeek.com/blogpost/106849/no-conflict-geek-weekly-331
+link: https_://boardgamegeek.com/blogpost/106849/no-conflict-geek-weekly-331
 
 ได้ pic of the week จาก BGG ด้วยล่ะ!! ถึงจะแอบงงนิดหน่อยเพราะเอากล่องมาวางเรียงกันไว้เฉยๆเท่านั้นเองก็เถอะ (แต่เกมนี้ปกเรียงกันสวยจริง)
 
@@ -23,4 +23,4 @@ link: https://boardgamegeek.com/blogpost/106849/no-conflict-geek-weekly-331
 
 ช่วงนี้กำลังทยอยเอารูปที่ตัวเองถ่ายไว้ลง bgg บ้างก็สังเกตุได้ว่าคนที่ upload รูปลงนี้มีไม่เยอะเท่าไร เพราะหน้าตา interface โบราณแถมรูปต้องรอ approve อีก ไปดู micro-badge คนที่เอารูปลงอย่างน้อย 10 รูปนี้มีแค่ หมื่นสองพันคนเท่านั้นเอง
 
-link: https://boardgamegeek.com/blogpost/106849/no-conflict-geek-weekly-331
+link: https_://boardgamegeek.com/blogpost/106849/no-conflict-geek-weekly-331

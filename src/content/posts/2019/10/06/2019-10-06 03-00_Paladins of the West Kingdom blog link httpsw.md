@@ -9,7 +9,7 @@ category: archived
 draft: false
 ---
 Paladins of the West Kingdom
-blog link: https://wp.me/p7TSgy-2Jg
+blog link: https_://wp.me/p7TSgy-2Jg
 
 ▪️ณ อาณาจักรแห่งหนึ่งในยุโรป เมืองเล็กๆกำลังประสบปัญหาการรุกรานจากต่างชาติในทุกทิศทาง เราจะต้องรวบรวมชาวเมือง ก่อร้างสร้างป้อมปราการ และส่งเหล่าอัศวินออกไปป้องกันเมือง กับเกมใหม่ในซี่รี่ย์ West Kingdom ของนักออกแบบ  Shem Phillips, S J Macdonald (Architects of the West Kingdom, Raiders of the North Sea )
  

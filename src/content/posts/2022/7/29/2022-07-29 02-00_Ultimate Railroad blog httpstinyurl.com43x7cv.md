@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Ultimate Railroad #thought
-blog: https://tinyurl.com/43x7cv7u
+blog: https_://tinyurl.com/43x7cv7u
 
 ▪️ เกมยูโรระดับกลางหนักที่จะให้เราต่อเชื่อมเส้นทางระหว่างเมืองใหญ่ ผ่านรูปแบบเครื่องจักรทำคะแนนอันทรงพลัง ผลงานของคู่นักออกแบบที่ทำเกมธุรกิจรถไฟตระกูล 18XX มาอย่างโชกโชน Helmut Ohley และ Leonhard "Lonny" Orgler
 

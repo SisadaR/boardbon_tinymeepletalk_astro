@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Call to Adventure #bite_size #first_impression
-blog link:  https://wp.me/p7TSgy-2SZ
+blog link:  https_://wp.me/p7TSgy-2SZ
 
 ▪️ เกมที่ให้เราได้สร้างและดำเนินเรื่องให้กับ 'ตัวเอก' ของเรื่องราวแฟนตาซี ชาติกำเนิด เส้นทางชีวิต และจุดมุ่งหมายของชีวิต ตัวเอกของเราจะจบพร้อมกับเรื่องราวเล่าขานแบบใดกัน?
 .

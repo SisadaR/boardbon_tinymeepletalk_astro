@@ -23,7 +23,7 @@ draft: false
 :
 ส่วนอีกเกมหนึ่งเกมสุดยอดของผมก็แน่นอนว่าคือ Agricola
 
-https://boardgamegeek.com/boardgame/391752/steam-power
+https_://boardgamegeek.com/boardgame/391752/steam-power
 
 [News] Martin Wallace ผู้สร้าง Brass และ Age of Steam สองในสามสุดยอดเกมส่วนตัวของผมกำลังจะออกเกมรถไฟใหม่อย่างนั้นหรือ? ลง GameFound ตอนเดือน 2 ปี 2024 ครับ
 
@@ -39,4 +39,4 @@ https://boardgamegeek.com/boardgame/391752/steam-power
 :
 ส่วนอีกเกมหนึ่งเกมสุดยอดของผมก็แน่นอนว่าคือ Agricola
 
-https://boardgamegeek.com/boardgame/391752/steam-power
+https_://boardgamegeek.com/boardgame/391752/steam-power

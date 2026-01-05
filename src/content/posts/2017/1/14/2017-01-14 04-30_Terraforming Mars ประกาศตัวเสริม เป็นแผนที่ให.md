@@ -14,6 +14,6 @@ draft: false
 
 comment จาก designer คืออันนี้เป็นแค่ตัวเสริมเล็ก มีโครงการที่จะทำตัวเสริมชุดใหญ่กว่านี้ตอน essen17 (เดาเอาเองว่าเป็นการ์ดมั้ง)
 
-https://boardgamegeek.com/thread/1706759/hellas-elysium-expansion
+https_://boardgamegeek.com/thread/1706759/hellas-elysium-expansion
 
 

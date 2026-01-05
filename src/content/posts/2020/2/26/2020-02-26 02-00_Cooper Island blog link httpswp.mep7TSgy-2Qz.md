@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Cooper Island #thought
-blog link: https://wp.me/p7TSgy-2Qz
+blog link: https_://wp.me/p7TSgy-2Qz
  
 ▪️เกมยูโรระดับหนักว่าด้วยการสำรวจและพัฒนาเกาะคูเปอร์ อันเป็นชื่อหมาของนักออกแบบที่เอามาแต่งเรื่องว่าเป็นคนเจอเกาะตอนล่องเรือสำรวจดินแดน..... ผลงานจากนักออกแบบสายหยิบเกมชาวบ้านมายำ Andreas "ode." Odendahl (La Granja, Solarius Mission)
  

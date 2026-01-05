@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Ave Roma:  พอยท์สลัดแห่งโรม
-blog link: https://wp.me/p7TSgy-2zb
+blog link: https_://wp.me/p7TSgy-2zb
 
 เกมยูโรระดับกลาง แนว Point Salad (ทำอะไรก็ได้แต้ม) ธีมหลวมๆว่าด้วยการพัฒนาอณาจักรโรมันให้รุ่งเรื่อง ผลงานจากนักออกแบบ Attila Szőgyi (Prehistory) 
  
@@ -59,7 +59,7 @@ blog link: https://wp.me/p7TSgy-2zb
 -------------------------------------------
 
 Ave Roma:  พอยท์สลัดแห่งโรม
-blog link: https://wp.me/p7TSgy-2zb
+blog link: https_://wp.me/p7TSgy-2zb
 
 เกมยูโรระดับกลาง แนว Point Salad (ทำอะไรก็ได้แต้ม) ธีมหลวมๆว่าด้วยการพัฒนาอณาจักรโรมันให้รุ่งเรื่อง ผลงานจากนักออกแบบ Attila Szőgyi (Prehistory) 
  

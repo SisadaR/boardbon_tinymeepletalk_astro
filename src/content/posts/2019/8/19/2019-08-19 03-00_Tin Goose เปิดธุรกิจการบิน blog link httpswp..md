@@ -11,8 +11,8 @@ category: archived
 draft: false
 ---
 Tin Goose: เปิดธุรกิจการบิน #thought
-blog link: https://wp.me/p7TSgy-2Ho
-blockdit:  https://tinyurl.com/y4b9usy6
+blog link: https_://wp.me/p7TSgy-2Ho
+blockdit:  https_://tinyurl.com/y4b9usy6
 
 ◾️เกมยูโรระดับกลางธีมว่าด้วยประวัติศาสตร์ของอุตสกรรมการบินอเมริกาในยุคแรกเริ่ม เราจะต้องมาลงทุนขยายเส้นทางการบิน จัดหาเครื่องบินเพิ่มเติมเพื่อรองรับความต้องการของตลาด รวมไปถึงบริหารความเสี่ยงจากอุบัติเหตุการบิน ผลงานจากนักออกแบบ Matt Calkins ( Sekigahara: The Unification of Japan)
   

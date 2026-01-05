@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Tekhenu: Obelisk of the Sun #thought
-blog link: https://boardnbon.wordpress.com/2020/10/22/tekhenu-obelisk-of-the-sun/
+blog link: https_://boardnbon.wordpress.com/2020/10/22/tekhenu-obelisk-of-the-sun/
 .
 ▪️ เกมยูโรระดับกลางหนักที่จะให้เรามาก่อสร้างวิหารเทพเจ้าในอียิปต์โบราณ ผลงานของ Daniele Tascini (Tzolk'in, Teotihuacan, The Voyages of Marco Polo ) และได้ Dávid Turczi มาช่วยทำ Solo Mode ให้
 .

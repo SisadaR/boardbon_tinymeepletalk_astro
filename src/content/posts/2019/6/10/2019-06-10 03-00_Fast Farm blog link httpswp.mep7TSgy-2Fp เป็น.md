@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Fast Farm #thought #first_impression #prototype
-blog link: https://wp.me/p7TSgy-2Fp
+blog link: https_://wp.me/p7TSgy-2Fp
  
 เป็นงานออกแบบงานปั้นกระดานของ ลานละเล่น บอร์ดเกมคาเฟ่ อีกเกมที่เข้ารอบเหมือนกับ Golden Mining ที่เคยเอามาคุยก่อนหน้า พอดีเล่นแล้วรู้สึกว่าโดนใจมากเลยคิดว่าต้องขอลัดคิวเกมที่พึ่งได้เล่นในงาน T3Con ที่ซีคอนนิดนึง 
  

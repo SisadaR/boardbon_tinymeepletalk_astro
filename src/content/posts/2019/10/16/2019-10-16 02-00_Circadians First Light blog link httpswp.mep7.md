@@ -9,7 +9,7 @@ category: archived
 draft: false
 ---
 Circadians: First Light
-blog link: https://wp.me/p7TSgy-2Ka
+blog link: https_://wp.me/p7TSgy-2Ka
 
 ▪️ณ ดวงดาวอันห่างไกล มนุษย์ได้เหยียบย่างลงพร้อมกับค้นพบว่ามีสิ่งทีชีวิตทรงปัญญาอาศัยอยู่ก่อนแล้ว แต่พวกเค้านั้นก็ไม่ได้ปิดกั้นอะไรกับผู้มาเยือนใหม่ และหน้าที่ของเราก็คือการพัฒนาที่อยู่ศัยให้กับเหล่ามนุษย์รุ่นต่อไป ในผลงานจากทีมสร้าง Raider of The North Sea และ Architects of the West Kingdom ที่ S J Macdonald ขอลงมาเป็นตัวหลักเอง
  

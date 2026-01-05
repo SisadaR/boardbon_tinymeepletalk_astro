@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Smartphone Inc. #thought
-blog link: https://wp.me/p7TSgy-2T6
+blog link: https_://wp.me/p7TSgy-2T6
 .
 ▪️ เกม Economic สไตล์ยูโรระดับกลางเบาที่จะให้เรามาบริหารจัดการผลิตและส่งมือถือไปขายทั่วโลก ผลงานเปิดตัวของ Ivan Lashin ที่ sold out อย่างไวในงาน Essen 2018 จนต้องกลับมาเปิด Kickstarter ใหม่อีกรอบในเวลาอันรวดเร็ว
 .

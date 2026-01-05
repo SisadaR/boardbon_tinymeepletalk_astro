@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Caylus 1303 #thought
-blog link: https://wp.me/p7TSgy-2PB
+blog link: https_://wp.me/p7TSgy-2PB
  
 ▪️การกลับมาเกิดใหม่ของเกมระดับคลาสสิคอย่าง Caylus อันเป็นหนึ่งในเกม Worker Placement ยอดเยี่ยมตลอดกาลสำหรับผม รอบนี้เรามาเป็นเหล่าคณะช่างผู้ต้องมาช่วยเหลือปรับปรุงปราสาทหลังเดิมที่เสียหายจากการศึก ผลงานจากนักออกแบบผู้ให้กำเนิดตันฉบับ William Attia
  

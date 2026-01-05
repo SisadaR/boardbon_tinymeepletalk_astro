@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Beyond The Sun #thought
-blog link: https://tinyurl.com/yyu63wnt
+blog link: https_://tinyurl.com/yyu63wnt
 
 ▪️ เกมยูโรระดับกลางเบา เล่าถึงการออกเดินทางไปยึดครองดวงดาวนอกระบบสุริยะของเรา (SOL - Solar System) ผ่านระบบเศรษฐกิจ, กองกำลัง และเทคโนโลยี ผลงานแรกของ Dennis K. Chan นักออกแบบชาวฮ่องกง
 

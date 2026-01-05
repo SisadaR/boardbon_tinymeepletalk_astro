@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 March of Ants: สงครามใหญ่โลกใบเล็ก #thought #first_impression
-blog link: https://wp.me/p7TSgy-2yY
+blog link: https_://wp.me/p7TSgy-2yY
  
 เกมยูโรระดับกลางเบา แนว 4X (อีกแล้ว)ที่เราจะได้ควบคุมฝูงมดมาแก่งแย่งพื้นที่ในสวนหลังบ้าน สิ่งที่ทำให้เกมนี้โดดเด่นคือสามารถมอบประสบการณ์การเล่นแบบ 4X เต็มรูปแบบมายัดใส่ในเวลาแค่ 60 นาที ผลงานจาก Tim Eisner (The Grimm Forest) และ Ryan Swisher
  
@@ -87,7 +87,7 @@ blog link: https://wp.me/p7TSgy-2yY
 -------------------------------------------
 
 March of Ants: สงครามใหญ่โลกใบเล็ก #thought #first_impression
-blog link: https://wp.me/p7TSgy-2yY
+blog link: https_://wp.me/p7TSgy-2yY
  
 เกมยูโรระดับกลางเบา แนว 4X (อีกแล้ว)ที่เราจะได้ควบคุมฝูงมดมาแก่งแย่งพื้นที่ในสวนหลังบ้าน สิ่งที่ทำให้เกมนี้โดดเด่นคือสามารถมอบประสบการณ์การเล่นแบบ 4X เต็มรูปแบบมายัดใส่ในเวลาแค่ 60 นาที ผลงานจาก Tim Eisner (The Grimm Forest) และ Ryan Swisher
  

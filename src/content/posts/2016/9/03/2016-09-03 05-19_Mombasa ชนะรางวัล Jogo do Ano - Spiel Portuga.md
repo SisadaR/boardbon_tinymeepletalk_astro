@@ -19,9 +19,9 @@ Mombasa ชนะรางวัล Jogo do Ano - Spiel Portugal
 
 ยังกะรู้ล่วงหน้าเขียนรีวิวไว้ก่อน 
 
-#SideRule1 เกมปีก่อนๆ https://boardgamegeek.com/wiki/page/Jogo_do_Ano#
+#SideRule1 เกมปีก่อนๆ https_://boardgamegeek.com/wiki/page/Jogo_do_Ano#
 
-#SideRule2 เกมที่ได้รับการเสนอชื่อปีนี้ https://jogoeu.wordpress.com/2016/08/18/jug-e-juguinho-2016/
+#SideRule2 เกมที่ได้รับการเสนอชื่อปีนี้ https_://jogoeu.wordpress.com/2016/08/18/jug-e-juguinho-2016/
 
 #SideRule3 ข้อเสียหนึ่งของรางวัลนี้สำหรับผมคือ Nuno Bizarro Sentieiro ที่เป็น designer ของ Madeira/Panamax/Nippon/... ดันเป็นกรรมการด้วยเกมแกเลยไปได้มากสุดแค่เสนอชื่อ เสียดายๆ
 

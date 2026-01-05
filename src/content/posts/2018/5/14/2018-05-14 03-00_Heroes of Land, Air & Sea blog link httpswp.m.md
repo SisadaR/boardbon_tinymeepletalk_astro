@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Heroes of Land, Air & Sea #thought #first_impression
-blog link: https://wp.me/p7TSgy-2xw
+blog link: https_://wp.me/p7TSgy-2xw
 
 เกมนี้เป็นเกมยูโรระดับกลางที่เน้นธีม 4X (สำรวจ, ขยายดินแดน, เก็บทรัพยากร และทำลายคู่แข่ง) ของเผ่าแฟนตาซีที่จะต้องมาสะสมกำลังและขยายพื้นที่ของเผ่าพันธ์ให้รุ่งเรือง ผลงานของนักออกแบบ Scott Almes ที่เป็นคนทำสารพัด Tiny Epic ทั้งหลาย แต่รอบนี้มาเป็นเกมใหญ่ล่ะ 
  
@@ -75,7 +75,7 @@ blog link: https://wp.me/p7TSgy-2xw
 ------------------------------------------
 
 Heroes of Land, Air & Sea #thought #first_impression
-blog link: https://wp.me/p7TSgy-2xw
+blog link: https_://wp.me/p7TSgy-2xw
 
 เกมนี้เป็นเกมยูโรระดับกลางที่เน้นธีม 4X (สำรวจ, ขยายดินแดน, เก็บทรัพยากร และทำลายคู่แข่ง) ของเผ่าแฟนตาซีที่จะต้องมาสะสมกำลังและขยายพื้นที่ของเผ่าพันธ์ให้รุ่งเรือง ผลงานของนักออกแบบ Scott Almes ที่เป็นคนทำสารพัด Tiny Epic ทั้งหลาย แต่รอบนี้มาเป็นเกมใหญ่ล่ะ 
  

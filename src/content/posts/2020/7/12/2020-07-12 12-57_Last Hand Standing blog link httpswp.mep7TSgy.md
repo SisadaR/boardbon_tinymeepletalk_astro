@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Last Hand Standing #bite_size
-blog link: https://wp.me/p7TSgy-2Tv
+blog link: https_://wp.me/p7TSgy-2Tv
 .
 ▪️ เกมปาร์ตี้เบาๆใช้เวลาไม่นานที่เป้าหมายคุณคือการ 'ตัดนิ้ว' เพื่อนในวงให้เหี้ยนและให้เราอยู่รอดเป็นคนสุดท้าย ผลงานของนักออกแบบ Perus Saranurak จากทีม Wizards of Learning ผู้สร้าง Pizza Master และเกมสไตล์การศึกษาและสื่อการสอนให้กับหลายองค์กร
 .

@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Rome and Roll #bite_size
-blog link: https://sisadar.github.io/rome-and-roll/
+blog link: https_://sisadar.github.io/rome-and-roll/
 
 เกมสไตล์ Roll & Write ระดับ 'หนัก'(!?) ที่จะนำเรามาพัฒนากรุงโรมกัน ผลงานของ Nick Shaw และ Dávid Turczi
 

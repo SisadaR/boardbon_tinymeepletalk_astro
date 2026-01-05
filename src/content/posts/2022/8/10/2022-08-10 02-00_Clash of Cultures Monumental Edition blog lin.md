@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Clash of Cultures: Monumental Edition
-blog link : https://tinyurl.com/45ud8cyf
+blog link : https_://tinyurl.com/45ud8cyf
 
 ▪️ ข้อเขียนนี้เป็นฉบับปรับปรุงจากอันเดิมที่ผมเขียนไว้ตอน 2018 ใน blog เดิมที่ ไน wordpress โดยฉบับ Clash of Cultures: Monumental Edition ที่ทำออกมาใหม่ในปี 2021 นี้เรียกว่ากลไกกว่า 90-95% นั้นไม่มีอะไรเปลี่ยนไปจากตัวเดิมที่ออกเมื่อปี 2012 นัก ส่วนที่มีการปรับก็จะเป็นเรื่องเล็กๆน้อยเสียส่วนมาก ที่เห็นได้ชัดจริงๆจะเป็นด้าน visual มากกว่า อันที่เปลี่ยนก็คือขัดตรงโน้นนิดปาดตรงนี้หน่อยให้ความรู้สึกกระชับมากขึ้นกว่าเดิม
 

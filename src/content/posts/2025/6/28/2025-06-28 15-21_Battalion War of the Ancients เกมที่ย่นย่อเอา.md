@@ -38,7 +38,7 @@ Battalion: War of the Ancients
 🧸newbie | 🟢casual/faimly : เกมอาจจะเฉพาะทางนิดๆ ถ้าหาเกมสองคนที่สนุกเข้าถึงง่ายแนะนำพวกเกมแนว Dual ดีกว่า
 
 ---
-อ่านข้อเขียนนี้และอื่นๆได้ที่ https://forum.tinymeepletalk.com/d/48-battalion-war-of-the-ancients
+อ่านข้อเขียนนี้และอื่นๆได้ที่ https_://forum.tinymeepletalk.com/d/48-battalion-war-of-the-ancients
 
 ---
 > 🐸 ME - ความเห็นส่วนตัวสำหรับตัวเองเพื่อตัวเอง

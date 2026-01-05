@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Tapestry: ถักทอสร้างชนชาติ #thought 
-blog link: https://wp.me/p7TSgy-2LK
+blog link: https_://wp.me/p7TSgy-2LK
 
 ▪️ เกมยูโรระดับกลางเบาที่จะให้เรานำพาชนชาติจำลองขยายพื้นที่และสร้างอารยธรรมไปสู่ยุคสมัยใหม่ ผลงานของ Jamey Stegmaier ผู้สร้าง Scythe, Charterstone และ Viticulture
  

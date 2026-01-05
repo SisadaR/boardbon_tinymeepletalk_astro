@@ -16,4 +16,4 @@ draft: false
 
 บอกเล่าความสนุก ความน่าสนใจของบอร์ดเกมส์
 
-Link: https://www.facebook.com/lostinboardgames
+Link: https_://www.facebook.com/lostinboardgames

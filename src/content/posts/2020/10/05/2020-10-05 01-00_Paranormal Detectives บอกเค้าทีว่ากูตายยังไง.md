@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Paranormal Detectives บอกเค้าทีว่ากูตายยังไง #bite_size
-blog link: https://tinyurl.com/y4uvembo
+blog link: https_://tinyurl.com/y4uvembo
 .
 .
 ▪️ เกมสไตล์ปาร์ตี้ว่าด้วยมีผู้เล่นคนหนึ่งต้องรับบทเป็นวิญญาณที่ตายไปแล้วมาค่อยบอกใบ้เหล่าหมอผีที่จะต้องมาตอบคำถามว่าฉันคนนี้ไปทำท่าไหนถึงได้กลายเป็นผีซะแบบนี้

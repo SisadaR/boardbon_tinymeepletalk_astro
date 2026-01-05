@@ -17,6 +17,6 @@ draft: false
 ส่วนตัวคิดว่าคงไม่สวยเท่าอัน reprint ของสเปนแต่ก็นะ
  
  
-ผมเคยเขียนถึงเกมนี้ไว้ใน blog ฮะ Pax Renaissance : เงินตราขับเคลื่อนโลก - https://wp.me/p7TSgy-1Ja
+ผมเคยเขียนถึงเกมนี้ไว้ใน blog ฮะ Pax Renaissance : เงินตราขับเคลื่อนโลก - https_://wp.me/p7TSgy-1Ja
 
 Hi, I sent an email to Ion game design, they told me there is a high chance of a reprint next spring! So start saving.

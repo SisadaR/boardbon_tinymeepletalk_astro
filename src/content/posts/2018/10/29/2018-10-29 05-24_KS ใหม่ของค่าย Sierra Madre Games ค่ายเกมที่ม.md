@@ -33,7 +33,7 @@ Project KS ใช้ค่าส่งแบบเดียวกัน 34usd �
  
 อันนี้มี conflict interest นิดนึง คือกำลังคิดอยู่ว่าจะไปคุยกับค่ายเอามาขายเองดีไหมนะ ติ่งนักเอามาขายแม่ม 
  
-https://www.kickstarter.com/projects/684398802/bios-origins-2nd-ed-pax-transhumanity-and-pax-porf/description
+https_://www.kickstarter.com/projects/684398802/bios-origins-2nd-ed-pax-transhumanity-and-pax-porf/description
 
 ![](./images/75d15d472d61f46332d8a9c1eb25d87c_original.png)
 

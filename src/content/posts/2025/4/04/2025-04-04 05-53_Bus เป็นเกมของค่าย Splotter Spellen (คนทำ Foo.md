@@ -28,7 +28,7 @@ draft: false
 รู้หมือไร่ - เกมนี้ถูกจัดเป็น Worker Placement เกมแรกนะ ออกมาตั้งแต่ปี 1999 แต่ปกติเรามักจะได้ยินเครดิตจาก Caylus มากกว่าว่าเป็นคนทำให้ระบบนี้โด่งดัง
 
 ---
-https://forum.tinymeepletalk.com/blog/25-bus
+https_://forum.tinymeepletalk.com/blog/25-bus
 
 #หยิบมาเล่า Bus เป็นเกมของค่าย Splotter Spellen (คนทำ Food Chain Magnet น่ะ) ที่ผมน่าจะได้หยิบมากางบ่อยสุด เพราะมันเป็นเกม 'เหี้ย'(ม) ที่กางง่ายเอามากๆ ในขณะที่เกมอื่นๆของค่ายนั้นมันแห้งและนานจนขี้เกียจกางไปซะทุกเกม
 
@@ -48,4 +48,4 @@ https://forum.tinymeepletalk.com/blog/25-bus
 รู้หมือไร่ - เกมนี้ถูกจัดเป็น Worker Placement เกมแรกนะ ออกมาตั้งแต่ปี 1999 แต่ปกติเรามักจะได้ยินเครดิตจาก Caylus มากกว่าว่าเป็นคนทำให้ระบบนี้โด่งดัง
 
 ---
-https://forum.tinymeepletalk.com/blog/25-bus
+https_://forum.tinymeepletalk.com/blog/25-bus

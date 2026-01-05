@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Forum Trajanum #thought
-blog link: https://wp.me/p7TSgy-2EC
+blog link: https_://wp.me/p7TSgy-2EC
 
 จักรพรรดิทราจันผู้ยิ่งใหญ่แห่งโรมันมีประสงค์จะสร้างสภาที่ยิ่งใหญ่เพื่อประกาศศักดาให้โลกเห็นและเราคือผู้มาสนองความต้องการนี้ด้วยการพัฒนาบ้านเมืองของเราไปพร้อมๆกับช่วยสร้างสภาในเกมแปะธีมมางั้งๆจากนักออกแบบดัง Stefan Feld (The Castles of Burgundy, Bora Bora, Luna)
  

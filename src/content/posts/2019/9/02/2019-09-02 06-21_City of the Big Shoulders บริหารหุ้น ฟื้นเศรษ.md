@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 City of the Big Shoulders: บริหารหุ้น ฟื้นเศรษฐกิจ #thought
-blog link: https://wp.me/p7TSgy-2HV
+blog link: https_://wp.me/p7TSgy-2HV
 
 เกมยูโรแนว Economic เน้นการลงทุนระดับหนัก ที่จะนำเราไปฟื้นฟูเมืองชิคาโก้หลังเหตุการณ์ไฟไหม้ครั้งใหญ่ในปี 1871 ผ่านการเข้าซื้อหุ้นและบริหารสร้างแบรนด์สินค้าดังที่ยังคงมีชื่อเสียงมาจนถึงปัจจุบัน ผลงานของนักออกแบบ Raymond Chandler III
  

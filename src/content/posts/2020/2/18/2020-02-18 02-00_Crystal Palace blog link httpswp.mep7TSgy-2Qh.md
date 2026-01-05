@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Crystal Palace #thought
-blog link: https://wp.me/p7TSgy-2Qh
+blog link: https_://wp.me/p7TSgy-2Qh
 
 ▪️ เกมยูโรระดับกลางหนักสไตล์ Dice Placement ที่จะนำเราไปกระทบไหล่นักประดิษฐ์ชื่อดัง ในงานประกวดสุดสร้างสรรค์ ณ เทศกาล World Fair ประเทศอังกฤษ ทั้งของใช้งานได้จริงอันน่าตื่นเต้นไปจนถึงของที่มองแล้วต้องเอียงคออย่าง เครื่องนับแก้วเบียร์ ผลงานของ Carsten Lauber
   

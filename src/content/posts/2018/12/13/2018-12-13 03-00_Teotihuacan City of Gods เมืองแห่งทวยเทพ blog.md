@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Teotihuacan: City of Gods เมืองแห่งทวยเทพ #thought
-blog link: https://wp.me/p7TSgy-2C3
+blog link: https_://wp.me/p7TSgy-2C3
 
 เกมยูโรระดับกลางหนักชื่ออ่านย๊ากยาก ที่จะพาเราย้อนเวลาไปสร้างวิหารแห่งทวยเทพของชาวแอซเท็กในทวีปอเมริกากลาง ผลงานของ Daniele Tascini (Tzolk'in, The Voyages of Marco Polo - รอบก่อน Tzolk'in เล่นเป็นชาวมายันก็อาศัยอยู่ใกล้ๆกันนั้นแหละ) และ Dávid Turczi (Anachrony, Dice Settlers, Cerebria, Petrichor)
  

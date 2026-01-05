@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 SpaceCorp: 2025-2300 AD #thought
-blog link: https://wp.me/p7TSgy-2FM
+blog link: https_://wp.me/p7TSgy-2FM
 
 เกมยูโร (?) ระดับกลางแนว Experiance แบบ Hard-Sci หน่อยๆที่จะให้เรามาเล่าการเดินทางสู่หวงอวกาศของมนุษย์ชาติในช่วงเวลาสามร้อยปีทีเริ่มจากการพิชิตระบบสุริยะไปจนถึงการเดินทางท่องไปในกาแลคซี่ ออกแบบโดย John H. Butterfield 
  

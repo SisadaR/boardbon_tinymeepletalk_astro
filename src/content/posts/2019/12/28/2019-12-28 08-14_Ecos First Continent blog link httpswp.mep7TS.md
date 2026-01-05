@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Ecos: First Continent #bite_size #first_impression
-blog link: https://wp.me/p7TSgy-2OQ
+blog link: https_://wp.me/p7TSgy-2OQ
 
 ▪️เกมระดับเบาที่ให้เราเป็นพระเจ้าที่ต้องรอชาร์ทพลังธรรมชาติไปทำการแปรเปลี่ยนภูมิประเทศและสิ่งมีชีวิตให้ก่อเกิดแต้มให้กับเรา งานของ John D. Clair (Mystic Vale, Edge of Darkness)
  

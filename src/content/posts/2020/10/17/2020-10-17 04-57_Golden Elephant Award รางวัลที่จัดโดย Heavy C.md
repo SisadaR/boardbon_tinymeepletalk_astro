@@ -26,7 +26,7 @@ Pax Transhumanity
 
 Pipeline
 
-ที่มา: https://www.youtube.com/watch?v=GAPaQicZbTo
+ที่มา: https_://www.youtube.com/watch?v=GAPaQicZbTo
 
 ![](./images/121525973_3407103569405078_6980125520797020432_n.png)
 

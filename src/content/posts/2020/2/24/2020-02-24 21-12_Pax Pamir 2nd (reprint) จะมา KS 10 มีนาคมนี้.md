@@ -16,8 +16,8 @@ draft: false
 ซึ่ง John Company นี้ต่อให้ผมมีกล่องแรกแล้วก็ยังน่าจะกดกล่องใหม่อยู่ดี เพราะผมเป็นติ่ง!! เอาจริงๆเพราะคิดว่าเค้าคงปรับแก้กติกากับอุปกรณ์ใหม่ด้วยล่ะ เพราะเป็นค่ายตัวเองแล้วทำอะไรก็ได้ไม่แคร์ อิงจาก Pax Pamir นี้ออกมาอลังมาก เป็นเกมที่ถ้าคุณมีเวลาแล้วอยากเจออะไรที่มันโรลเพลย์คอรัปชั่นแบบโลกความจริงหน่อย เกมนี้โยน I'm the Boss, China Town ลงถังไปเลย
  
  
-[Review] John Company:  https://wp.me/p7TSgy-2uJ
-[Review] Pax Pamir 2nd : https://wp.me/p7TSgy-2Gx
-[Review] Pax Pamir 1st  : https://wp.me/p7TSgy-2A1
+[Review] John Company:  https_://wp.me/p7TSgy-2uJ
+[Review] Pax Pamir 2nd : https_://wp.me/p7TSgy-2Gx
+[Review] Pax Pamir 1st  : https_://wp.me/p7TSgy-2A1
 
 เกมแนว Sand box ที่เล่าเรื่องการดำเนินกิจการของบริษัท East India Company (บริษัทการค้าของอังกฤษ มีชื่อเล่นว่า John Company) ที่ดำเน....

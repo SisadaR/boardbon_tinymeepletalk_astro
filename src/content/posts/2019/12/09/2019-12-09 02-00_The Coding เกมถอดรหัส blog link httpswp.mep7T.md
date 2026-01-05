@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 The Coding เกมถอดรหัส #thought #first_impression
-blog link: https://wp.me/p7TSgy-2Nn
+blog link: https_://wp.me/p7TSgy-2Nn
 
 ▪️เกมแนวนิรนัย (Deductive) ที่เราจะต้องเป็นแฮกเกอร์ไปเจาะหารหัสลับจากฝ่ายตรงข้าม พร้อมกับหาทางปล่อยข้อมูลที่ทำให้เราเสียเปรียบฝ่ายตรงข้ามน้อยที่สุด ผลงานจากนักออกแบบชาวไทย คุณอาร์ม (Vatcharis Thanomsub)
   

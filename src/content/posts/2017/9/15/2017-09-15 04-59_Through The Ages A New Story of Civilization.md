@@ -34,9 +34,9 @@ draft: false
  
 - Online ยังไม่ได้ลอง
 
-Android : https://play.google.com/store/apps/details?id=com.czechgames.tta
+Android : https_://play.google.com/store/apps/details?id=com.czechgames.tta
  
-iOS : https://itunes.apple.com/us/app/through-the-ages/id966245474?mt=8
+iOS : https_://itunes.apple.com/us/app/through-the-ages/id966245474?mt=8
 
 #short_comment #mobile #อวยสัดๆ Through The Ages: A New Story of Civilization เล่นบน Android กับ AI hard ไปสามรอบ
  
@@ -61,6 +61,6 @@ iOS : https://itunes.apple.com/us/app/through-the-ages/id966245474?mt=8
  
 - Online ยังไม่ได้ลอง
 
-Android : https://play.google.com/store/apps/details?id=com.czechgames.tta
+Android : https_://play.google.com/store/apps/details?id=com.czechgames.tta
  
-iOS : https://itunes.apple.com/us/app/through-the-ages/id966245474?mt=8
+iOS : https_://itunes.apple.com/us/app/through-the-ages/id966245474?mt=8

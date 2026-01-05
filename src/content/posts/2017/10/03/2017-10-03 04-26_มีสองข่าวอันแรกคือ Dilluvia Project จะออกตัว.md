@@ -19,8 +19,8 @@ draft: false
 มีนอกเรื่องมาเล่าว่าผมเคยเกือบได้  Dilluvia Project ฉบับพิมพ์อันแรกมาล่ะทีนึงเพราะร้านในไทยเอาเข้ามากล่องหนึ่ง ก็ว่าจะไปกดซักหน่อย ฝากคนรู้จักไปติดต่อแต่ดันได้รับคำตอบว่า 'พึ่งโดนตัดไป' สรุปว่าอด ก็ถือว่าเป็นความโชคดี (?) แบบหนึ่ง รอของค่ายใหม่ก็ได้ ส่วน Dominant Species นี้เป็นเกม Area Control ที่เล่นกันทีแทบจะต่อยกันปากแตก เฉือนกันได้โหดสุดๆ สนุกมาก เป็นเกมที่อยากเอากลับมากางหลายทีล่ะแต่ไม่มีจังหวะซักที
  
  
-ที่มา Dilluvia Project: https://boardgamegeek.com/thread/1857847/english-second-edition
-ที่มา Dominant Species: https://boardgamegeek.com/article/27066487#27066487
+ที่มา Dilluvia Project: https_://boardgamegeek.com/thread/1857847/english-second-edition
+ที่มา Dominant Species: https_://boardgamegeek.com/article/27066487#27066487
 
 #news มีสองข่าวอันแรกคือ Dilluvia Project จะออกตัว second edition ในปี 2018 โดยค่าย TMG ส่วนอันที่สองคือ Dominant Species 5th print ก็จะออกในช่วงต้นปี 2018 
  
@@ -31,5 +31,5 @@ draft: false
 มีนอกเรื่องมาเล่าว่าผมเคยเกือบได้  Dilluvia Project ฉบับพิมพ์อันแรกมาล่ะทีนึงเพราะร้านในไทยเอาเข้ามากล่องหนึ่ง ก็ว่าจะไปกดซักหน่อย ฝากคนรู้จักไปติดต่อแต่ดันได้รับคำตอบว่า 'พึ่งโดนตัดไป' สรุปว่าอด ก็ถือว่าเป็นความโชคดี (?) แบบหนึ่ง รอของค่ายใหม่ก็ได้ ส่วน Dominant Species นี้เป็นเกม Area Control ที่เล่นกันทีแทบจะต่อยกันปากแตก เฉือนกันได้โหดสุดๆ สนุกมาก เป็นเกมที่อยากเอากลับมากางหลายทีล่ะแต่ไม่มีจังหวะซักที
  
  
-ที่มา Dilluvia Project: https://boardgamegeek.com/thread/1857847/english-second-edition
-ที่มา Dominant Species: https://boardgamegeek.com/article/27066487#27066487
+ที่มา Dilluvia Project: https_://boardgamegeek.com/thread/1857847/english-second-edition
+ที่มา Dominant Species: https_://boardgamegeek.com/article/27066487#27066487

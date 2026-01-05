@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 The Castles of Tuscany #bite_size
-blog link: https://tinyurl.com/yywutcqm
+blog link: https_://tinyurl.com/yywutcqm
 .
 ▪️ เกมยูโรระดับเบาจากนักออกแบบขึ้นหิ้ง Stefan Feld และเป็นเกมลำดับสามของ ซี่รีย์ Alea Revised Big Box ที่เอาเกมมาทำปกสวยวางเรียกกันเป็นเลข (ตอนนี้มี Las Vegas Royale, The Castles of Burgundy  และเดี๋ยว Puerto Rico กำลังจะตามมา ) 
 .

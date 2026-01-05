@@ -16,11 +16,11 @@ draft: false
 
 ถ้าย่อย format ได้อาจจะเอาไปทำ player aid ต่อ จริงๆพบว่าเขียนภาษาไทยนี้ย๊าวยาว ตอน take note เป็น EN เขียนนิดเดียวจำได้ล่ะ
 
-https://tinyurl.com/vdrd6za
+https_://tinyurl.com/vdrd6za
 
 แต่ไม่ทำสอนนะครับเพราะของ Phasing Player อธิบายไว้ดีมากๆๆๆ แล้ว
 
-https://www.youtube.com/watch?v=XMuMO7dbtso
+https_://www.youtube.com/watch?v=XMuMO7dbtso
 
 ส่วนรีวิวขอเล่นอีกสองสามรอบก่อน แต่คงออกต้นๆปีหน้าแหละ เดี๋ยวเอาเวลาไปอ่าน Bios ต่อ
 
@@ -30,10 +30,10 @@ https://www.youtube.com/watch?v=XMuMO7dbtso
 
 ถ้าย่อย format ได้อาจจะเอาไปทำ player aid ต่อ จริงๆพบว่าเขียนภาษาไทยนี้ย๊าวยาว ตอน take note เป็น EN เขียนนิดเดียวจำได้ล่ะ
 
-https://tinyurl.com/vdrd6za
+https_://tinyurl.com/vdrd6za
 
 แต่ไม่ทำสอนนะครับเพราะของ Phasing Player อธิบายไว้ดีมากๆๆๆ แล้ว
 
-https://www.youtube.com/watch?v=XMuMO7dbtso
+https_://www.youtube.com/watch?v=XMuMO7dbtso
 
 ส่วนรีวิวขอเล่นอีกสองสามรอบก่อน แต่คงออกต้นๆปีหน้าแหละ เดี๋ยวเอาเวลาไปอ่าน Bios ต่อ

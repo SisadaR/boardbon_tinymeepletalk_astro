@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Letter Jam #bite_size
-blog link: https://wp.me/p7TSgy-2MU
+blog link: https_://wp.me/p7TSgy-2MU
 
 ▪️เกมใบ้คำแบบช่วยกันเล่นที่ทุกคนในทีมจะต้องมาช่วยกันเผยความลับของคำศัพท์ในมือผู้เล่นคนอื่นเพราะผู้เล่นแต่ละคนจะไม่รู้ว่าตัวเองมีคำศัพท์อะไร และประกอบจากตัวอักษรตัวไหน!!
  

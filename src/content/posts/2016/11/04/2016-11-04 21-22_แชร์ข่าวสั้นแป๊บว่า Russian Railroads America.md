@@ -12,6 +12,6 @@ draft: false
 แชร์ข่าวสั้นแป๊บว่า Russian Railroads : American Railroads เข้า bgg store ล่ะ ราคาเปิดที่ 22 usd กับส่งอีก 22 usd = 44 usd = 1500บาท
 ใครสนใจไปสั่งจากเยรมันได้เลยนะ 750 เอง (รูลสองภาษานะไม่มีปัญหา)
 
-link ของ store จาก publisher เยรมัน : https://cundco.de/en/mini-expansions/russian-railroads/178/russian-railroads-american-railroads?c=48
+link ของ store จาก publisher เยรมัน : https_://cundco.de/en/mini-expansions/russian-railroads/178/russian-railroads-american-railroads?c=48
 
 NOTE:  Actual postage fees will be added for orders with this item.Russian Railroads: American Railroads is a mini-expansion for Russian Railroads with new p...

@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 ▪️ Struggle of Empires : Deluxe Edition #thought
-blog link: https://boardnbon.wordpress.com/2020/09/26/struggle-of-empires-deluxe-edition/
+blog link: https_://boardnbon.wordpress.com/2020/09/26/struggle-of-empires-deluxe-edition/
 
 ▪️เป็นเกมสไตล์ Area Control ชิงความเป็นใหญ่ในพื้นที่จากนักออกแบบ Martin Wallance (Brass, Age of Stream) ที่เล่าถึงการต่อสู้ยึดครองดินแดนทั่วโลกของประเทศมหาอำนาจทั้งเจ็ดในยุคเรืองปัญญา (Age of Enlightenment สมัยล่าอาณานิคมนั้นแหละ) ลักษณะพิเศษคือมันเป็นเกมที่เหมาะกับผู้เล่น 5 - 7 คน ที่ผู้เล่นจำเป็นต้องประมูลเพื่อพาตัวเอง (หรือคู่แข่ง) ให้ไปอยู่ในหนึ่งในสองขั่วพันธมิตรที่จะเปลี่ยนไปหลายครั้งในเกม
 .

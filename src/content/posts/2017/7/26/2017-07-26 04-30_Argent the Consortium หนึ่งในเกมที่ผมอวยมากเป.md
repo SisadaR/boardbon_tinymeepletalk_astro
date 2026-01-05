@@ -20,7 +20,7 @@ draft: false
  
 ที่เหลือสำหรับคนสนใจถ้าเอาทุกสิ่งอย่างให้ครบเซ็ท ตัวหลัก+ทุกตัวเสริมทั้งแบบเล็กใหญ่ก็ 100USD + ค่าส่ง 49USD อันนี้จะมีกล่องใหม่ที่ใส่ทุกอย่างได้พอดีด้วย (อันเก่าถ้าซื้อตัวเสริมมา insert ที่ให้มาจะไม่พอใส่ทั้งหมดต้องเอาออก)
 
-link KS : https://www.kickstarter.com/projects/level99games/argent-the-consortium-2nd-ed/description
+link KS : https_://www.kickstarter.com/projects/level99games/argent-the-consortium-2nd-ed/description
  
 ส่วนลิงค์ที่แนบมาเป็นรีวิวเก่าที่ผมเขียนไว้นานแล้วที่บล๊อกล้อมวง พอดีเวบไม่ได้ทำต่อแล้ว ผมเลยย้ายบทความมาไว้ที่เวบของผมเองครับ
 

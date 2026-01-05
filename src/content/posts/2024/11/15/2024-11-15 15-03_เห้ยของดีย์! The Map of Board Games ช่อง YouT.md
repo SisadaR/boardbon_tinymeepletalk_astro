@@ -21,7 +21,7 @@ draft: false
 แผนที่ในรูปเค้าทำขายนะราคาประมาณ 600 บาท
 
 ---
-ที่มา - https://www.youtube.com/watch?v=fH4MaSJ8gXU
+ที่มา - https_://www.youtube.com/watch?v=fH4MaSJ8gXU
 
 เห้ยของดีย์! The Map of Board Games 
 
@@ -36,4 +36,4 @@ draft: false
 แผนที่ในรูปเค้าทำขายนะราคาประมาณ 600 บาท
 
 ---
-ที่มา - https://www.youtube.com/watch?v=fH4MaSJ8gXU
+ที่มา - https_://www.youtube.com/watch?v=fH4MaSJ8gXU

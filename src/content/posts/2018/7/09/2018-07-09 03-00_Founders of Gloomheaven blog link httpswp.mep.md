@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Founders of Gloomheaven #thought #first_impression
-blog link: https://wp.me/p7TSgy-2z6
+blog link: https_://wp.me/p7TSgy-2z6
 
 เกมยูโรระดับกลางหนักที่จะเราไปสู่จุดกำเนิดของเมือง Gloomheaven อันเป็นที่สถานที่เดียวกับเกม Co-Op RPG ชื่อดังที่ชื่อเดียวกับตัวเมือง แต่ว่าคราวนี้เราจะรับบทเป็นเผ่าที่แตกต่างกันที่จะมาช่วยกันสร้างเมืองแห่งนี้จากพื้นดินรกร้าง ผลงานจาก Isaac Childres (Gloomhaven, Forge War)
  
@@ -79,7 +79,7 @@ blog link: https://wp.me/p7TSgy-2z6
 ------------------------------------------
 
 Founders of Gloomheaven #thought #first_impression
-blog link: https://wp.me/p7TSgy-2z6
+blog link: https_://wp.me/p7TSgy-2z6
 
 เกมยูโรระดับกลางหนักที่จะเราไปสู่จุดกำเนิดของเมือง Gloomheaven อันเป็นที่สถานที่เดียวกับเกม Co-Op RPG ชื่อดังที่ชื่อเดียวกับตัวเมือง แต่ว่าคราวนี้เราจะรับบทเป็นเผ่าที่แตกต่างกันที่จะมาช่วยกันสร้างเมืองแห่งนี้จากพื้นดินรกร้าง ผลงานจาก Isaac Childres (Gloomhaven, Forge War)
  

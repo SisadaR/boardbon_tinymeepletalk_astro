@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Parks #bite_size
-blog link:  https://wp.me/p7TSgy-2Ug
+blog link:  https_://wp.me/p7TSgy-2Ug
 .
 ▪️ เกมสวยใสเบาสบายที่ให้เราเล่นเป็นนักท่องเที่ยวที่จะเดินแวะชมอุทยานแห่งชาติของอเมริกา ผลงานของ Henry Audubon (Space Park)
 .

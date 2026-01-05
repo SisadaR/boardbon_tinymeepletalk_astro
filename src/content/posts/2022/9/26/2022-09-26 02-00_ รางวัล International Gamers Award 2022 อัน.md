@@ -44,13 +44,13 @@ Soldiers in Postmen's Uniforms
 
 ส่วนเกมที่ชนะเคยเขียนถึงไว้แล้วตามนี้ครับ
 
-Carnegie - https://github.com/SisadaR/BoardNBon/blob/main/contents/carnegie.md
+Carnegie - https_://github.com/SisadaR/BoardNBon/blob/main/contents/carnegie.md
 
-Ark Nova - https://github.com/SisadaR/BoardNBon/blob/main/contents/ark%20nova.md
+Ark Nova - https_://github.com/SisadaR/BoardNBon/blob/main/contents/ark%20nova.md
 
-Cascadia - https://www.facebook.com/boardnbon/posts/pfbid027FpHDHQd5ZqG9vBsye7iEn9kDJKyM1NPrCawCvQGsnBdfV5JjzkSK5jaAdQQxpLrl
+Cascadia - https_://www.facebook.com/boardnbon/posts/pfbid027FpHDHQd5ZqG9vBsye7iEn9kDJKyM1NPrCawCvQGsnBdfV5JjzkSK5jaAdQQxpLrl
 
-สำหรับรางวัลปีก่อนๆดูได้ที่นี้ครับ https://www.internationalgamersawards.net/
+สำหรับรางวัลปีก่อนๆดูได้ที่นี้ครับ https_://www.internationalgamersawards.net/
 
 ![](./images/481108735_1214752197325491_2074724575170384151_n.jpg)
 

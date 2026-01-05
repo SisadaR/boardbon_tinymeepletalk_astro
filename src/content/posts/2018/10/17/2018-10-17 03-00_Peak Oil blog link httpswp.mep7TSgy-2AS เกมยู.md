@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Peak Oil #though #first_impression
-blog link: https://wp.me/p7TSgy-2AS
+blog link: https_://wp.me/p7TSgy-2AS
  
 เกมยูโรระดับกลาง-เบา ธีมว่าด้วยน้ำมันกำลังจะหมดไปจากโลก ทำให้เราในฐานะบริษัทน้ำมันยักษ์ใหญ่จะต้องทำการหาเงินไปลงทุนในบริษัทพลังงานทางเลือกอื่นๆ (ที่เดี๋ยวจะกลายเป็นเป็นพลังงานหลักแทนที่น้ำมัน) ผลงานจากนักออกแบบหน้าใหม่ Tobias Gohrbandt ที่ร่วมมือกับนักวาด/นักออกแบบ Heiko Günther (Dune: The Dice Game, A Straight Road และภาพประกอบอีกเยอะเกม)
  
@@ -62,7 +62,7 @@ blog link: https://wp.me/p7TSgy-2AS
 -------------------------------------------
 
 Peak Oil #though #first_impression
-blog link: https://wp.me/p7TSgy-2AS
+blog link: https_://wp.me/p7TSgy-2AS
  
 เกมยูโรระดับกลาง-เบา ธีมว่าด้วยน้ำมันกำลังจะหมดไปจากโลก ทำให้เราในฐานะบริษัทน้ำมันยักษ์ใหญ่จะต้องทำการหาเงินไปลงทุนในบริษัทพลังงานทางเลือกอื่นๆ (ที่เดี๋ยวจะกลายเป็นเป็นพลังงานหลักแทนที่น้ำมัน) ผลงานจากนักออกแบบหน้าใหม่ Tobias Gohrbandt ที่ร่วมมือกับนักวาด/นักออกแบบ Heiko Günther (Dune: The Dice Game, A Straight Road และภาพประกอบอีกเยอะเกม)
  

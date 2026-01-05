@@ -24,7 +24,7 @@ Pax Hispanica เกมใหม่ของ Pax Series ที่ผมชอบ
 สรุปคือผมรอซื้อแน่นอน แต่ไม่ค่อยตื่นเต้นล่ะ
 
 .
-ตอนแรกนึกว่าเกมมันจะลง KS สรุปให้พรีตรงๆแทนนะไปตามนี้ได้เลยถ้าอยากได้ early bird โดยจะมีทั้งฉบับธรรมดาและ deluxe ที่เปลี่ยนพวก punch board เป็นไม้ https://iongamedesign.com/collections/games
+ตอนแรกนึกว่าเกมมันจะลง KS สรุปให้พรีตรงๆแทนนะไปตามนี้ได้เลยถ้าอยากได้ early bird โดยจะมีทั้งฉบับธรรมดาและ deluxe ที่เปลี่ยนพวก punch board เป็นไม้ https_://iongamedesign.com/collections/games
 
 ![](./images/482224652_1229803155820395_997027506693345652_n.jpg)
 

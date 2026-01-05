@@ -10,7 +10,7 @@ draft: false
 ---
 Dominant Species: Marine
 .
-blog link: https://boardnbon.wordpress.com/2021/02/25/dominant-species-marine/
+blog link: https_://boardnbon.wordpress.com/2021/02/25/dominant-species-marine/
 .
 ▪️ เกมยูโรระดับหนัก ที่ให้เรารับบทเป็นเหล่าสัตว์น้ำ (และครึ่งน้ำ) ในยุคโบราณที่จะมาชิงความเป็นใหญ่ก่อนที่สูญพันธ์จากการโดนอุกกาบาตตกใส่.....(เอ๊ะ?!) ผลงานสุดท้ายจาก Chad Jensen ( Dominant Species, Combat Commander )
 .

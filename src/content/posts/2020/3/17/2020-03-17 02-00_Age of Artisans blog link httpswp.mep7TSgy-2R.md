@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Age of Artisans #bite_size
-blog link: https://wp.me/p7TSgy-2Ri  
+blog link: https_://wp.me/p7TSgy-2Ri  
 .
 สั้นๆล่ะกัน
 .

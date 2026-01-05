@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 The Golden Age #thought
-blog link: https://wp.me/p7TSgy-2EK
+blog link: https_://wp.me/p7TSgy-2EK
 
 เกมยูโรระดับกลางที่จะให้เรามานำพาชนชาติของเราเดินทางตั้งแต่ยุคเริ่มประวัติศาสตร์ไปจนสู่ยุคสมัยใหม่ ผ่านระบบการเล่นทีเรียบง่ายและจบภายในเวลา 90 นาที ผลงานของนักออกแบบ  Luigi Ferrini 
  

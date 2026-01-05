@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 It's a Wonderful World #bite_size #first_impression
-blog link: https://wp.me/p7TSgy-2N0
+blog link: https_://wp.me/p7TSgy-2N0
  
 ▪️เป็นเกมสไตล์ card drafting + engine building ที่ถ้าพูดง่ายๆก็คือ  7 Wonders ฉบับไม่ลีลาเน้นสร้าง engine อย่างเดียว
  

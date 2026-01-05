@@ -14,7 +14,7 @@ draft: false
 ---
 Space Race: The Card Game 
 #thought #first_impression
-WordPress link: https://wp.me/p7TSgy-2vH
+WordPress link: https_://wp.me/p7TSgy-2vH
 
 การ์ดเกมเล่นไม่นาน (ครึ่งชั่วโมงจบ) ที่จับเอาธีมการแข่งกันเพื่อเดินทางสู่อวกาศของหน่วยงานอวกาศระดับชาติ ผลงานออกแบบครั้งแรกของ Marek Loskot และ Jan Soukal ตัวเกมตีพิมพ์มาเพียง 1000 กล่องขายผ่าน Kickstarter เท่านั้น (ในเวบผู้ผลิตขายหมดแล้ว แต่เท่าที่ดูยังพอหาซื้อจากช่องทางอื่นได้อยู่)
  
@@ -56,7 +56,7 @@ WordPress link: https://wp.me/p7TSgy-2vH
 
 Space Race: The Card Game 
 #thought #first_impression
-WordPress link: https://wp.me/p7TSgy-2vH
+WordPress link: https_://wp.me/p7TSgy-2vH
 
 การ์ดเกมเล่นไม่นาน (ครึ่งชั่วโมงจบ) ที่จับเอาธีมการแข่งกันเพื่อเดินทางสู่อวกาศของหน่วยงานอวกาศระดับชาติ ผลงานออกแบบครั้งแรกของ Marek Loskot และ Jan Soukal ตัวเกมตีพิมพ์มาเพียง 1000 กล่องขายผ่าน Kickstarter เท่านั้น (ในเวบผู้ผลิตขายหมดแล้ว แต่เท่าที่ดูยังพอหาซื้อจากช่องทางอื่นได้อยู่)
  

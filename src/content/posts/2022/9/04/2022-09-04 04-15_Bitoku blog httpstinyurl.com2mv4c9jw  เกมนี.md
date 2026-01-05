@@ -12,7 +12,7 @@ draft: false
 ---
 Bitoku #bite_size
 
-blog: https://tinyurl.com/2mv4c9jw
+blog: https_://tinyurl.com/2mv4c9jw
 
 ▪️ เกมนี้จะเล่าถึงเหล่าภูติในป่าแห่งวิญญาณ เราจะได้ควบคุมเหล่าภูติให้สร้างสรรค์ผลงานในโลกแห่งจินตนาการ ผลงานของ Germán P. Millán
 

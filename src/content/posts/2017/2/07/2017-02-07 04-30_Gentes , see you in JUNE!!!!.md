@@ -10,4 +10,4 @@ draft: false
 ---
 Gentes , see you in JUNE!!!!
 
-Gentes on BoardGameGeek: https://www.boardgamegeek.com/boardgame/217780
+Gentes on BoardGameGeek: https_://www.boardgamegeek.com/boardgame/217780

@@ -16,7 +16,7 @@ draft: false
 ถ้ารู้สึกว่าการนำเสนอคุ้นๆก็คือผมก็อปไอเดียมาจากเพจ Buttersugar104 ครับ ชอบที่เค้าเล่าเรื่องด้วยภาพได้เจ๋งดี แต่ผมทำเองได้แค่นี้แหละวาดได้แค่สี่เหลี่ยมวงกลม....
 
 .
-ช่วงนี้ถ้าอยากได้เกม The Castle of Burgundy: Special Edition ก็น่าจะต้องรอคนปล่อยมือสอง - มือหนึ่ง.ห้าเอา เพราะตามร้านมีแต่ pre-order ยาวๆเลย  - https://shope.ee/4pnQLvHrmh (affiliate link)
+ช่วงนี้ถ้าอยากได้เกม The Castle of Burgundy: Special Edition ก็น่าจะต้องรอคนปล่อยมือสอง - มือหนึ่ง.ห้าเอา เพราะตามร้านมีแต่ pre-order ยาวๆเลย  - https_://shope.ee/4pnQLvHrmh (affiliate link)
 
 .
 รูปแมวไม่ได้วาดเองไปเอามาจาก Noun Project ครับ CC: 'Cat' by Kim Sun Youn from Noun Project
@@ -27,7 +27,7 @@ draft: false
 ถ้ารู้สึกว่าการนำเสนอคุ้นๆก็คือผมก็อปไอเดียมาจากเพจ Buttersugar104 ครับ ชอบที่เค้าเล่าเรื่องด้วยภาพได้เจ๋งดี แต่ผมทำเองได้แค่นี้แหละวาดได้แค่สี่เหลี่ยมวงกลม....
 
 .
-ช่วงนี้ถ้าอยากได้เกม The Castle of Burgundy: Special Edition ก็น่าจะต้องรอคนปล่อยมือสอง - มือหนึ่ง.ห้าเอา เพราะตามร้านมีแต่ pre-order ยาวๆเลย  - https://shope.ee/4pnQLvHrmh (affiliate link)
+ช่วงนี้ถ้าอยากได้เกม The Castle of Burgundy: Special Edition ก็น่าจะต้องรอคนปล่อยมือสอง - มือหนึ่ง.ห้าเอา เพราะตามร้านมีแต่ pre-order ยาวๆเลย  - https_://shope.ee/4pnQLvHrmh (affiliate link)
 
 .
 รูปแมวไม่ได้วาดเองไปเอามาจาก Noun Project ครับ CC: 'Cat' by Kim Sun Youn from Noun Project

@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Maracaibo #thought
-blog link : https://wp.me/p7TSgy-2Ox
+blog link : https_://wp.me/p7TSgy-2Ox
 
 ▪️เกมยูโรระดับกลางหนักว่าด้วยการเดินทางค้าขายและขยายอิทธิพลของชาติมหาอำนาจที่เข้ามาตักตวงผลประโยชน์ในพื้นแถบทะเลคาริบเบี้ยนตอนช่วงศตวรรษที่ 17 ผลงานของนักออกแบบ Alexander Pfister (Great Western Trail, Mombasa)
  

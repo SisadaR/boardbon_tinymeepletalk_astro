@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 The Artemis Project #thought #bite_size
-blog link: https://wp.me/p7TSgy-2J6
+blog link: https_://wp.me/p7TSgy-2J6
  
 ▪️เกมยูโรระดับกลางแนว Dice Placement ที่จะให้เราเอาหน้าเต๋าเราไปประมูลหยิบทรัพยากรมาพัฒนาดวงจันทร์ยูโรป้า (โปรดอย่าถามว่า พี่ น้า อา อยู่ไหน) อันเป็นดาวบริวารของดาวเสาร์ ผลงานของนักออกแบบของ Daniel Rocchi และ  Daryl Chow
  

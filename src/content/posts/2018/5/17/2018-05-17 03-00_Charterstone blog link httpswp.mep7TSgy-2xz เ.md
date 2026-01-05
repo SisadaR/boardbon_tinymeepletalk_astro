@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Charterstone #thought
-blog link: https://wp.me/p7TSgy-2xz
+blog link: https_://wp.me/p7TSgy-2xz
  
 เกมยูโรระดับกลางเบา ใช้ระบบ Worker Placement แนว Legacy อันเป็นเกมสไตล์ที่ผู้เล่นจะมีการขีดเขียน แปะสติกเกอร์ เพื่อเปลี่ยนแปลงกระดานในเกมให้เป็นไปตามเนื้อเรื่องที่จะมาจากสิ่งที่ผู้เล่นทำใน 12 รอบการเล่นของเกม ผลงานของ Jamey Stegmaier ( Scythe, Viticulture )
  
@@ -69,7 +69,7 @@ blog link: https://wp.me/p7TSgy-2xz
 -------------------------------------------
 
 Charterstone #thought
-blog link: https://wp.me/p7TSgy-2xz
+blog link: https_://wp.me/p7TSgy-2xz
  
 เกมยูโรระดับกลางเบา ใช้ระบบ Worker Placement แนว Legacy อันเป็นเกมสไตล์ที่ผู้เล่นจะมีการขีดเขียน แปะสติกเกอร์ เพื่อเปลี่ยนแปลงกระดานในเกมให้เป็นไปตามเนื้อเรื่องที่จะมาจากสิ่งที่ผู้เล่นทำใน 12 รอบการเล่นของเกม ผลงานของ Jamey Stegmaier ( Scythe, Viticulture )
  

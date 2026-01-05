@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Architects of the West Kingdom #thought
-blog link: https://wp.me/p7TSgy-2B6
+blog link: https_://wp.me/p7TSgy-2B6
  
 เกม Gateway (เกมแบบที่เหมาะกับการแนะนำให้คนที่พึ่งเล่นเกมกระดาน) แนวยูโรระดับกลางเบา ที่เราจะมารับบทเป็นผู้รับเหมาในธีมยุคกลางที่จะต้องพาคนงานมาสร้างตึกเพื่อเอาใจพระราชา ผลงานแรกจากนักออกแบบ S J Macdonald และ Shem Phillips (Raiders of the Northsea)
  
@@ -56,7 +56,7 @@ blog link: https://wp.me/p7TSgy-2B6
 -------------------------------------------
 
 Architects of the West Kingdom #thought
-blog link: https://wp.me/p7TSgy-2B6
+blog link: https_://wp.me/p7TSgy-2B6
  
 เกม Gateway (เกมแบบที่เหมาะกับการแนะนำให้คนที่พึ่งเล่นเกมกระดาน) แนวยูโรระดับกลางเบา ที่เราจะมารับบทเป็นผู้รับเหมาในธีมยุคกลางที่จะต้องพาคนงานมาสร้างตึกเพื่อเอาใจพระราชา ผลงานแรกจากนักออกแบบ S J Macdonald และ Shem Phillips (Raiders of the Northsea)
  

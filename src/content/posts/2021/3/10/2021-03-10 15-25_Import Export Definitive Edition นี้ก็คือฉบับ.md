@@ -15,7 +15,7 @@ Import / Export: Definitive Edition นี้ก็คือฉบับ deluxe 
 เป็นเกมสไตล์ Thinky filler (ที่ดันเล่นนานหน่อย) หลายคนถ้าไม่คุ้นกับระบบ Lead / Follow แบบทำ engine ของ Glory To Rome / Food Truck Champion มาก่อนรับประกันความงง แต่ถ้าเก็ทแล้วก็จะสนุกดีนะ
 
 ไม่เขียนซ้ำล่ะกัน ที่เอามาลงเพราะพึ่งได้เกมมาเลยอยากถ่ายรูปเฉยๆ
-https://boardnbon.wordpress.com/2017/10/04/import-export/
+https_://boardnbon.wordpress.com/2017/10/04/import-export/
 
 Panasonic G7 with Panasonic 25mm F1.7
 

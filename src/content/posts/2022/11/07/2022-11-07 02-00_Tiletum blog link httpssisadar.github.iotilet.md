@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Tiletum #thought
-blog link: https://sisadar.github.io/tiletum/
+blog link: https_://sisadar.github.io/tiletum/
 
 เกมยูโรระดับกลางหนักที่จะให้เราสวมบทเป็นพ่อค้าอันมั่นคั่งเดินทางท่องไปทั่วแคว้นยุโรป อีกหนึ่งผลงานใน T-Series ของ Daniele Tascini (Tzolk'in, Teotihucan) และ Simone Lucian (Lorenzo il Magniflco, The Voyages of Marco Polo)
 

@@ -1,6 +1,6 @@
 ---
 title: ไปเจอกระทู้ใน BGG มีชื่อว่า Most Board Games are not “Analog” - หรือเกมกระดานมันไม่ใช่อนาล็อกโว้ยยยยยยยยย
-  [https://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1]
+  [https_://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1]
 published: 2022-15-05
 description: ''
 image: ./images/482203356_9434279016687473_7748859287148145874_n.jpg
@@ -9,7 +9,7 @@ tags:
 category: archived
 draft: false
 ---
-ไปเจอกระทู้ใน BGG มีชื่อว่า Most Board Games are not “Analog” - หรือเกมกระดานมันไม่ใช่อนาล็อกโว้ยยยยยยยยย [https://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1]
+ไปเจอกระทู้ใน BGG มีชื่อว่า Most Board Games are not “Analog” - หรือเกมกระดานมันไม่ใช่อนาล็อกโว้ยยยยยยยยย [https_://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1]
 
 โดยที่จริงๆแล้วก็ไม่ได้เกี่ยวกับบอร์ดเกมขนาดนั้นแต่เป็นเรื่องของการใช้ภาษาในการนิยามที่น่าสนใจดีเพราะมันเป็นกรอบความคิดที่คนส่วนใหญ่ไม่คุ้นเคยนัก (ออกแนว Academic Nerd พอดู)
 
@@ -77,9 +77,9 @@ draft: false
 
 แต่อันนี้อ่านแล้วก็เปิดมุมมองดีเลยเอามาแชร์]
 
-อ่านเต็มๆได้จากกระทู้ใน BGG - https://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1
+อ่านเต็มๆได้จากกระทู้ใน BGG - https_://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1
 
-ไปเจอกระทู้ใน BGG มีชื่อว่า Most Board Games are not “Analog” - หรือเกมกระดานมันไม่ใช่อนาล็อกโว้ยยยยยยยยย [https://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1]
+ไปเจอกระทู้ใน BGG มีชื่อว่า Most Board Games are not “Analog” - หรือเกมกระดานมันไม่ใช่อนาล็อกโว้ยยยยยยยยย [https_://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1]
 
 โดยที่จริงๆแล้วก็ไม่ได้เกี่ยวกับบอร์ดเกมขนาดนั้นแต่เป็นเรื่องของการใช้ภาษาในการนิยามที่น่าสนใจดีเพราะมันเป็นกรอบความคิดที่คนส่วนใหญ่ไม่คุ้นเคยนัก (ออกแนว Academic Nerd พอดู)
 
@@ -147,4 +147,4 @@ draft: false
 
 แต่อันนี้อ่านแล้วก็เปิดมุมมองดีเลยเอามาแชร์]
 
-อ่านเต็มๆได้จากกระทู้ใน BGG - https://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1
+อ่านเต็มๆได้จากกระทู้ใน BGG - https_://boardgamegeek.com/thread/2864914/most-board-games-are-not-analog/page/1

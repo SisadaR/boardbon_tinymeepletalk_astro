@@ -13,7 +13,7 @@ category: archived
 draft: false
 ---
 Automotive Factory Game #thought #first_impression #thaidev #t3con
-blog link: https://wp.me/p7TSgy-2FA
+blog link: https_://wp.me/p7TSgy-2FA
  
 เกมแนว Worker Placement บริหารธุรกิจสร้างโรงงาน เป็นเกมที่ถูกพัฒนาเพื่อใช้สอน business thinking ให้แก่นักศึกษา ป.โท และ เอก โดยตัวเกมจะเกี่ยวกับการบริหารโรงงานด้วยธรรมาภิบาล วิทยาลัยพาณิชย์ศาสตร์๚ (GSC) ม.บูรพา (ยกข้อความบางส่วนมากจากเพจของผู้พัฒนา)
  

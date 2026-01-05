@@ -9,7 +9,7 @@ category: archived
 draft: false
 ---
 Viscounts of the West Kingdom 
-blog link: https://tinyurl.com/y4z6w23n
+blog link: https_://tinyurl.com/y4z6w23n
 
 ▪️ เกมยูโรระดับกลางหนัก ลำดับที่สามของซีรี่ย์อาณาจักรตะวันตกกล่องแดง จากผู้สร้าง เหล่าคนเถื่อนแห่งแดนเหนือ Shem Phillips, S J Macdonald โดยรอบนี้เราจะมาเล่นเป็นขุนนางที่ต้องเดินทางไปทั่วดินแดนเพื่อสร้างฐานอำนาจให้มั่นคงก่อนอาณาจักรจะล่มสลาย
 .

@@ -12,7 +12,7 @@ draft: false
 [เป็น fanmade unoffcial นะ] ที่รีธีมเกมทำสวนสัตว์สุดฮิตอย่าง Ark Nova ให้มาอยู่ในธีม Pokemon แล้วพี่แกแปลทับมันทุกใบด้วยดิ๊! พร้อมจะลุยกันหรือยังซาโตชิ.
 
 ---
-กระทู้อยู่ที่ : https://boardgamegeek.com/thread/3421759/pokemon-ark-nova 
+กระทู้อยู่ที่ : https_://boardgamegeek.com/thread/3421759/pokemon-ark-nova 
 
 รวบรวมและประกอบไฟล์โดย : bgg user - Allan Gao @tinyornithopter
 
@@ -33,7 +33,7 @@ draft: false
 [เป็น fanmade unoffcial นะ] ที่รีธีมเกมทำสวนสัตว์สุดฮิตอย่าง Ark Nova ให้มาอยู่ในธีม Pokemon แล้วพี่แกแปลทับมันทุกใบด้วยดิ๊! พร้อมจะลุยกันหรือยังซาโตชิ.
 
 ---
-กระทู้อยู่ที่ : https://boardgamegeek.com/thread/3421759/pokemon-ark-nova 
+กระทู้อยู่ที่ : https_://boardgamegeek.com/thread/3421759/pokemon-ark-nova 
 
 รวบรวมและประกอบไฟล์โดย : bgg user - Allan Gao @tinyornithopter
 

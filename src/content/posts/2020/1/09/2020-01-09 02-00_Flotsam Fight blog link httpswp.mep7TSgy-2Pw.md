@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Flotsam Fight #bite_size
-blog link: https://wp.me/p7TSgy-2Pw
+blog link: https_://wp.me/p7TSgy-2Pw
  
 ▪️เกมสั้นคั่นเวลาธีมเล่าถึงเหล่านักล่าสมบัติเรือแตกที่ต้องแบ่งสมบัติที่ได้มาลงเรือเล็ก ของที่เหลือนั้นถือเป็นรางวัลติดตัว แต่หากโลภไปเก็บของแพงไว้กับตัวล่ะก็จะโดนลงโทษ เป็นเกมกล่องเล็กจาก Oink เช่นเคย ออกแบบโดย Tomoyuki Maruta
  

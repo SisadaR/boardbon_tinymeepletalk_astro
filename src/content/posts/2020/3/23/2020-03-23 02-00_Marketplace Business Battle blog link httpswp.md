@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Marketplace: Business Battle #thought #first_impression
-blog link: https://wp.me/p7TSgy-2Rr
+blog link: https_://wp.me/p7TSgy-2Rr
 
 ▪️ เกมสไตล์ยูโรระดับกลางเบาธีมว่าด้วยการแข่งขันทำตลาดและวิจัยแย่งลูกค้าในตลาดออนไลน์ ผลงานของ Chakphet Jaroenvilaisuk (Minerva Nest)
  

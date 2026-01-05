@@ -9,7 +9,7 @@ category: archived
 draft: false
 ---
 Key Market: สู่การค้าแห่งอาณาจักรคีย์
-blog link: https://wp.me/p7TSgy-2Lb
+blog link: https_://wp.me/p7TSgy-2Lb
 
 ▪️เกมยูโรระดับกลางหนักหนึ่งใน Key-Series ที่ทุกเกมจะขึ้นชื่อด้วย Key ที่มาจาก  Keydom (เลียนแบบ Kingdom) เอกลักษณ์คือเป็น setting วิถีชาวบ้านแบบยุคกลางและมักจะมีระบบเกี่ยวกับ 'ฤดู' มาใช้เพื่อแบ่งยุคเกมเสมอ ออกแบบโดย David Brain
 

@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Decrypto #thought #first_impression
-blog link: https://wp.me/s7TSgy-decrypto
+blog link: https_://wp.me/s7TSgy-decrypto
 
 เกมปาร์ตี้ใบ้คำที่จะให้ผู้เล่นแบ่งออกเป็นสองทีมเพื่อพยายามมาใบ้รหัสลับของทีมฝั่งตรงข้ามไปพร้อมกับสื่อสารกับทีมตัวเองโดยที่ไม่ให้อีกฝ่ายจับทางได้ ผลงานของ Thomas Dagenais-Lespérance
 
@@ -93,7 +93,7 @@ blog link: https://wp.me/s7TSgy-decrypto
 -------------------------------------------
 
 Decrypto #thought #first_impression
-blog link: https://wp.me/s7TSgy-decrypto
+blog link: https_://wp.me/s7TSgy-decrypto
 
 เกมปาร์ตี้ใบ้คำที่จะให้ผู้เล่นแบ่งออกเป็นสองทีมเพื่อพยายามมาใบ้รหัสลับของทีมฝั่งตรงข้ามไปพร้อมกับสื่อสารกับทีมตัวเองโดยที่ไม่ให้อีกฝ่ายจับทางได้ ผลงานของ Thomas Dagenais-Lespérance
 

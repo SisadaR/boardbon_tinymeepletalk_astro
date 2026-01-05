@@ -13,4 +13,4 @@ draft: false
 
 ถ้าอ่านจบไว อาจจะเอามาบ่นให้ฟังนะฮะ
 
-Link: https://l.facebook.com/l.php?u=https%3A%2F%2Fboardgamegeek.com%2Fthread%2F1627362%2Frules-english-now-available-feast-odin-zman-websit&h=AT2GkoLBxe0L_mFiUJQqBUbG7cCp3VPH8PVXSIjvK0_wDWpCsb2IDjMivmTYqsi7AcPfVfeiYmT7_L_yVJYdky7DjPlYWz0oayDpeeQV5qwLF4LFxdlK_FS7GPSLiwpZw4lPQ5vTgiBMHktO&s=1
+Link: https_://l.facebook.com/l.php?u=https_%3A%2F%2Fboardgamegeek.com%2Fthread%2F1627362%2Frules-english-now-available-feast-odin-zman-websit&h=AT2GkoLBxe0L_mFiUJQqBUbG7cCp3VPH8PVXSIjvK0_wDWpCsb2IDjMivmTYqsi7AcPfVfeiYmT7_L_yVJYdky7DjPlYWz0oayDpeeQV5qwLF4LFxdlK_FS7GPSLiwpZw4lPQ5vTgiBMHktO&s=1

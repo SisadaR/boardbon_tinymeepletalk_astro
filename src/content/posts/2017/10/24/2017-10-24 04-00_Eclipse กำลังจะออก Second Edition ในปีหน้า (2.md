@@ -29,7 +29,7 @@ draft: false
 เกมนี้เป็นเกมที่ผมชอบมากๆอีกเกมหนึ่ง (แต่ยังไม่เคยเขียนถึง) เป็นเกม 4X ที่ผสมการเล่นแบบยูโรและการทอยเต๋าสู้พร้อมกับการเจรจาที่ลงตัวมากๆ ใครสนใจก็รอตัวใหม่ออกแล้วค่อยจัดก็ได้
  
  
-ที่มา : https://boardgamegeek.com/thread/1867908/eclipse-second-edition/page/1
+ที่มา : https_://boardgamegeek.com/thread/1867908/eclipse-second-edition/page/1
 
 #news Eclipse กำลังจะออก Second Edition ในปีหน้า (2018)
  
@@ -51,4 +51,4 @@ draft: false
 เกมนี้เป็นเกมที่ผมชอบมากๆอีกเกมหนึ่ง (แต่ยังไม่เคยเขียนถึง) เป็นเกม 4X ที่ผสมการเล่นแบบยูโรและการทอยเต๋าสู้พร้อมกับการเจรจาที่ลงตัวมากๆ ใครสนใจก็รอตัวใหม่ออกแล้วค่อยจัดก็ได้
  
  
-ที่มา : https://boardgamegeek.com/thread/1867908/eclipse-second-edition/page/1
+ที่มา : https_://boardgamegeek.com/thread/1867908/eclipse-second-edition/page/1

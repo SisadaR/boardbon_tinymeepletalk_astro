@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 The Estates: ประมูลมาสร้าง #thought
-blog link: https://wp.me/p7TSgy-2Ca
+blog link: https_://wp.me/p7TSgy-2Ca
 
 เกมคั่นเวลาเล่นไม่นานแนวประมูลแบบที่ใช้ความคิดนิดๆ ที่จะให้เรารับบทเป็นนักลงทุนเงินหนาเอามาถลุงในกิจการอสังหาริมทรัพย์แข่งกับคนอื่นอีกที เกมนี้เป็นฉบับทำใหม่ของเกมชื่อ Neue Heimat จากนักออกแบบ Klaus Zoch (Bausack, Chicken Cha Cha Cha) 
  

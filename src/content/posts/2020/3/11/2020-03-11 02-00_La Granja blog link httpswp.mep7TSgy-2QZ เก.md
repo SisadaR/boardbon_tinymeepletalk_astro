@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 La Granja #thought
-blog link: https://wp.me/p7TSgy-2QZ
+blog link: https_://wp.me/p7TSgy-2QZ
 
 ▪️เกมยูโรระดับกลางหนักที่จะให้เราเจ้าของไร่นาสวนผสมชายขอบชนบทที่จะต้องผลิตของไปขายในตลาดของหมู่บ้าน จุดเด่นในตอนเปิดตัวนั้นมาจากการประกาศกร้าวไว้ท้ายเล่มคู่มือว่า 'ยืม' โมดูลการเล่นมาจากเกมดังหลากหลายเกม  ผลงานตีพิมพ์แรกของนักออกแบบ Andreas "ode." Odendahl และ Michael Keller (II) (Solarius Mission, Agra, Cooper Island)
  

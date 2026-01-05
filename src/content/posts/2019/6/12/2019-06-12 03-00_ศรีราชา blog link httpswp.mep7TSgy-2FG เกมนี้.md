@@ -13,7 +13,7 @@ category: archived
 draft: false
 ---
 ศรีราชา #thought #first_impression #prototype #thaidev
-blog link: https://wp.me/p7TSgy-2FG
+blog link: https_://wp.me/p7TSgy-2FG
  
 เกมนี้เป็นงานตัวทดลองของคุณมนตรี (Foxy & Wooly) เป็นเกมแนวประมูล + Set Collection ธีมหลวมๆว่าด้วยการนำเข้าสินค้าเข้ามาที่แหล่มฉบังบ้านเกิดให้ก่อเกิดธุรกิจสร้างความเจริญให้กับเมือง (ซึ่งเอาจริงๆข้ามๆธีมไปก็ได้ แต่พอดีชอบวิธีที่หาธีมมาใส่) เป็นเกมสุดท้ายที่ผมได้ทดลองเล่นในงาน T3Con ครับ
  

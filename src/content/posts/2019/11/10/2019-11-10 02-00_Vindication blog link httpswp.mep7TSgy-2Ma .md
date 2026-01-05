@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Vindication #thought
-blog link: https://wp.me/p7TSgy-2Ma
+blog link: https_://wp.me/p7TSgy-2Ma
 
 ▪️ เกมยูโรระดับกลางที่จะให้เราเดินทางท่องเที่ยวไปทั่วเกาะแฟนตาซีเก็บสะสมทำแต้มผ่านการผจญภัยและตามหาเพื่อนร่วมทางเพื่อเสริมศักยภาพปาร์ตี้ของเรา ผลงานของ Marc Neidlinger
  

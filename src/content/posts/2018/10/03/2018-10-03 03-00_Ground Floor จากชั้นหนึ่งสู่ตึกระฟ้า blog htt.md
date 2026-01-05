@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Ground Floor: จากชั้นหนึ่งสู่ตึกระฟ้า #thought
-blog: https://wp.me/p7TSgy-2Az
+blog: https_://wp.me/p7TSgy-2Az
 
 เกมยูโรระดับกลางหนักแนว Economic ขับเคลื่อนด้วยระบบ Worker Placement ที่จะให้เราบริหารบริษัท พัฒนาเพิ่มแผนก พร้อมกับตั้งราคาสินค้าและปรับตัวตามสภาวะเศรษฐกิจที่เปลี่ยนแปลงไป ผลงานของ David Short (Bomb Squad, Automobiles)
  

@@ -10,7 +10,7 @@ category: archived
 draft: false
 ---
 Dreamscape #bite_size
-blog link: https://wp.me/p7TSgy-2Mp
+blog link: https_://wp.me/p7TSgy-2Mp
 
 ▪️เกมยูโรระดับกลางที่จะให้เราล่องลอยไปท่ามกลางดินแดนแห่งนิทราเพื่อนำเศษเสี้ยวแห่งจินตนาการมาสร้างสรรค์ทิวทัศน์ในความฝันของเรา
  

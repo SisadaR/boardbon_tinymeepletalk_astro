@@ -10,8 +10,8 @@ draft: false
 ---
 มั่วฉิบหายผมเป็น family party guy เฟ้ย!
 
-อันนี้เป็นผลจากแบบสอบถามเก่านะ ใครอยากทำแบบควิกๆ เค้ามีให้กดเล่นตามนี้เลย https://wizardsoflearning.com/6-personalities-of-thai-board-gamers-2021/
+อันนี้เป็นผลจากแบบสอบถามเก่านะ ใครอยากทำแบบควิกๆ เค้ามีให้กดเล่นตามนี้เลย https_://wizardsoflearning.com/6-personalities-of-thai-board-gamers-2021/
 
 มั่วฉิบหายผมเป็น family party guy เฟ้ย!
 
-อันนี้เป็นผลจากแบบสอบถามเก่านะ ใครอยากทำแบบควิกๆ เค้ามีให้กดเล่นตามนี้เลย https://wizardsoflearning.com/6-personalities-of-thai-board-gamers-2021/
+อันนี้เป็นผลจากแบบสอบถามเก่านะ ใครอยากทำแบบควิกๆ เค้ามีให้กดเล่นตามนี้เลย https_://wizardsoflearning.com/6-personalities-of-thai-board-gamers-2021/

@@ -49,9 +49,9 @@ SOLO
 - Sleeping Gods
 - Under Falling Skies
 
-ที่มา: https://boardgamegeek.com/blogpost/121685/nominees-announced-2021-international-gamers-award
+ที่มา: https_://boardgamegeek.com/blogpost/121685/nominees-announced-2021-international-gamers-award
 
-รางวัล IGA: https://www.internationalgamersawards.net/
+รางวัล IGA: https_://www.internationalgamersawards.net/
 
 International Gamers Awards นอมินีปี 2021 มาแล้ว
 
@@ -94,6 +94,6 @@ SOLO
 - Sleeping Gods
 - Under Falling Skies
 
-ที่มา: https://boardgamegeek.com/blogpost/121685/nominees-announced-2021-international-gamers-award
+ที่มา: https_://boardgamegeek.com/blogpost/121685/nominees-announced-2021-international-gamers-award
 
-รางวัล IGA: https://www.internationalgamersawards.net/
+รางวัล IGA: https_://www.internationalgamersawards.net/

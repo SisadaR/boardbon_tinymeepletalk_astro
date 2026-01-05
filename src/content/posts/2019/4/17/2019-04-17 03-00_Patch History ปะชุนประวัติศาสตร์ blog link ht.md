@@ -11,7 +11,7 @@ category: archived
 draft: false
 ---
 Patch History: ปะชุนประวัติศาสตร์ #thought
-blog link: https://wp.me/p7TSgy-2EU
+blog link: https_://wp.me/p7TSgy-2EU
 
 เกมยูโรระดับกลางหนักแนว Civilization ที่จะให้เรามาสร้างชนชาติไร้นามขยายดินแดนพร้อมกับสร้างประวัติศาสตร์ขึ้นใหม่ ผลงานของนักออกแบบชาวเกาหลี Yeon-Min Jung และ Jun-Hyup Kim
  

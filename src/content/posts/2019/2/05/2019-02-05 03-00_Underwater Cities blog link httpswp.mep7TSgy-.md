@@ -12,7 +12,7 @@ category: archived
 draft: false
 ---
 Underwater Cities #thought
-blog link: https://wp.me/p7TSgy-2DG
+blog link: https_://wp.me/p7TSgy-2DG
 
 ในโลกอนาคตอันใกล้ที่ประชากรกำลังล้นโลก จะไปดาวอังคารก็ยังต้องเตรียมตัวกันอีกนาน เอาเป็นว่าเราลงไปขยายถิ่นฐานในใต้น้ำกันเถอะ และนี้คือที่มาของเกมยูโรระดับกลางหนัก ผลงานของนักออกแบบ Vladimír Suchý (Pulsar 2849, Last Will, Shipyard)
  
