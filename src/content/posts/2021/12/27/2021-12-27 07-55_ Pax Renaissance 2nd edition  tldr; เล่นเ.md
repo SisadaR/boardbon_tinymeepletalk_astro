@@ -1,15 +1,14 @@
 ---
-title: "▪️ Pax Renaissance 2nd edition"
-published: 2021-27-12
-description: ""
+title: Pax Renaissance 2nd edition
+published: '2021-27-12'
+description: ''
 image: ./images/481020337_9346904915424884_6659611112432157052_n.jpg
 tags:
-  - archived
-  - bite_size
+- archived
+- bite_size
 category: archived
-draft: false
+draft: 'false'
 ---
-
 ▪️ Pax Renaissance 2nd edition #bite_size
 
 ▪️ tldr; เล่นเหมือนเดิมมี minor change หลายจุด ของสวยขึ้นเยอะมว๊าก แต่ไอคอนดันดูยากกว่าเดิม เคยเขียนถึงไว้แล้ว https://tinyurl.com/28zty6js 

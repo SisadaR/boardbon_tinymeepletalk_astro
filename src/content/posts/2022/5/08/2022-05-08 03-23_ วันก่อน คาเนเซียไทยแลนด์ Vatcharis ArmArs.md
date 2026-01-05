@@ -1,14 +1,13 @@
 ---
-title: "▪️ วันก่อน คาเนเซียไทยแลนด์ Vatcharis ArmArs Thanomsub จาก DNR Boardgame เอาเกมที่ทำอยู่สามเกมมาให้ลอง"
-published: 2022-08-05
-description: ""
+title: วันก่อน คาเนเซียไทยแลนด์ Vatcharis ArmArs Thanomsub จาก DNR Boardgame เอาเกมที่ทำอยู่สามเกมมาให้ลอง
+published: '2022-08-05'
+description: ''
 image: ./images/481251108_9429552260493482_6100570426181289267_n.jpg
 tags:
-  - archived
+- archived
 category: archived
-draft: false
+draft: 'false'
 ---
-
 ▪️ วันก่อน คาเนเซียไทยแลนด์ Vatcharis ArmArs Thanomsub จาก DNR Boardgame เอาเกมที่ทำอยู่สามเกมมาให้ลอง 
 
 ▪️ เกมแรก (นักออกแบบไม่ได้พูดว่าเป็น...) Splendor Killer อันเป็นเกมในจักรวาลอะไรซักอย่างแต่อันเดียวกับเกมคาเฟ่แมวที่กำลังเปิด pre-order ฉบับทำมืออยู่ตอนนี้ แต่รอบนี้สาวๆเปลี่ยนมาเดินร้านขายแคคตัสแทน ไอเดียถ้าว่าง่ายๆก็ Splender นั้นแหละ แต่ไม่ได้เป็น Engine Building แห้งๆแบบนั้น เล่นจริงต่างกันหลายอย่างอยู่ 

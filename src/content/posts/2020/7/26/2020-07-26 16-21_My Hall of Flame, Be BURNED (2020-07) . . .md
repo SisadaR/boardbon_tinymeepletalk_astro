@@ -1,15 +1,14 @@
 ---
-title: "🔥My Hall of Flame, Be BURNED (2020-07)"
-published: 2020-26-07
-description: ""
+title: My Hall of Flame, Be BURNED (2020-07)
+published: '2020-26-07'
+description: ''
 image: ./images/109449528_3155271454588292_7037909156152470379_n.jpg
 tags:
-  - archived
-  - bite_size
+- archived
+- bite_size
 category: archived
-draft: false
+draft: 'false'
 ---
-
 🔥My Hall of Flame, Be BURNED (2020-07) #bite_size
 .
 .

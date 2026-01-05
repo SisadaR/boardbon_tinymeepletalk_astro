@@ -1,14 +1,13 @@
 ---
-title: "▪️ จาก Red (Tayler's Version) สู่ Brass: Lancashire"
-published: 2021-22-11
-description: ""
+title: 'จาก Red (Tayler''s Version) สู่ Brass: Lancashire'
+published: '2021-22-11'
+description: ''
 tags:
-  - archived
-  - บ่นไปเรื่อย
+- archived
+- บ่นไปเรื่อย
 category: archived
-draft: false
+draft: 'false'
 ---
-
 ▪️ จาก Red (Tayler's Version) สู่ Brass: Lancashire #บ่นไปเรื่อย
 
 ▪️ ไม่รู้เรียกชวนคุยหรือถามความเห็นหรืออะไรดี เอาเป็นว่ามางึมงำความในหัวเฉยๆล่ะกัน (ไม่การันตีความถูกต้องทางกฎหมายใดๆทั้งนั้น)

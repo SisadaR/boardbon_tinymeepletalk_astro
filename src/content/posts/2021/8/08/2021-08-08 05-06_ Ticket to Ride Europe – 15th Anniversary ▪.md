@@ -1,15 +1,14 @@
 ---
-title: "▪️ Ticket to Ride: Europe – 15th Anniversary"
-published: 2021-08-08
-description: ""
+title: 'Ticket to Ride: Europe – 15th Anniversary'
+published: '2021-08-08'
+description: ''
 image: ./images/469573825_8924326884349358_3321483886652366507_n.jpg
 tags:
-  - archived
-  - bite_size
+- archived
+- bite_size
 category: archived
-draft: false
+draft: 'false'
 ---
-
 ▪️ Ticket to Ride: Europe – 15th Anniversary #bite_size
 
 ▪️ ย้อนกลับไปสิบกว่าปีก่อนที่ผมเริ่มเล่นเกมกระดาน Ticket To Ride ตัวดั้งเดิมเป็นเกมกล่องแรกๆที่ผมได้เล่นและดึงให้ผมอยู่ในโลกของเกมบนโต๊ะนี้

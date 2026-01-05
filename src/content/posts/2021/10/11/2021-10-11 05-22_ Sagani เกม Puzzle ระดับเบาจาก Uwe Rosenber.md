@@ -1,16 +1,17 @@
 ---
-title: "▪️ Sagani เกม Puzzle ระดับเบาจาก Uwe Rosenberg ที่เชื่อว่าคนเล่นเกมใหม่ๆน่าจะรู้จักเค้าจากเกมแนว puzzle น่ารักๆอย่าง Patchwork, Indian Summer, Nova Luna, New York Zoo มากกว่าจะเป็นเกมหนักอย่าง Agricola, Le Harve"
-published: 2021-11-10
-description: ""
+title: Sagani เกม Puzzle ระดับเบาจาก Uwe Rosenberg ที่เชื่อว่าคนเล่นเกมใหม่ๆน่าจะรู้จักเค้าจากเกมแนว
+  puzzle น่ารักๆอย่าง Patchwork, Indian Summer, Nova Luna, New York Zoo มากกว่าจะเป็นเกมหนักอย่าง
+  Agricola, Le Harve
+published: '2021-11-10'
+description: ''
 image: ./images/473415496_9108653955916649_2247320251084662507_n.jpg
 tags:
-  - archived
-  - bite_size
-  - first_impression
+- archived
+- bite_size
+- first_impression
 category: archived
-draft: false
+draft: 'false'
 ---
-
 ▪️ Sagani เกม Puzzle ระดับเบาจาก Uwe Rosenberg ที่เชื่อว่าคนเล่นเกมใหม่ๆน่าจะรู้จักเค้าจากเกมแนว puzzle น่ารักๆอย่าง Patchwork, Indian Summer, Nova Luna, New York Zoo มากกว่าจะเป็นเกมหนักอย่าง Agricola, Le Harve #bite_size #first_impression
 
 ▪️ ธีมเกมเป็นการสะสมพลังของภูติธรรมชาติทั้งสี่ ที่ไม่เข้าใจเหมือนกันว่าจะพยายามใส่ธีมไปทำไม วาดภูติมาหลายแบบตามขนาดแต้มด้วยนะ.......แต่เล่นจริงไม่ได้มองหรอก แต่คงมีประโยชน์เอาไว้เล่าเรื่องให้เด็กๆฟังตอนเล่นแหละ

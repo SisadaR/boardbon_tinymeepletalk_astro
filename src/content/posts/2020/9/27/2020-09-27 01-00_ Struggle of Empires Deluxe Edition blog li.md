@@ -1,15 +1,14 @@
 ---
-title: "▪️ Struggle of Empires : Deluxe Edition"
-published: 2020-27-09
-description: ""
+title: 'Struggle of Empires : Deluxe Edition'
+published: '2020-27-09'
+description: ''
 image: ./images/120202828_3344382235677212_384076003824862154_n.jpg
 tags:
-  - archived
-  - thought
+- archived
+- thought
 category: archived
-draft: false
+draft: 'false'
 ---
-
 ▪️ Struggle of Empires : Deluxe Edition #thought
 blog link: https://boardnbon.wordpress.com/2020/09/26/struggle-of-empires-deluxe-edition/
 

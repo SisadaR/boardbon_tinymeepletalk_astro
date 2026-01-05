@@ -1,14 +1,16 @@
 ---
-title: "The Agricola 15th Anniversary Edition will be available at SPIEL '22 Essen this October. The limited edition will be available with Asmodee and Asmodee partners worldwide and released in German, Englisch, Spanish, Portuguese, Korean, Japanese, Chinese (traditional and simplified) and 🔹🔹🔹🔹Thai 🔹🔹🔹🔹."
-published: 2022-23-06
-description: ""
+title: The Agricola 15th Anniversary Edition will be available at SPIEL '22 Essen
+  this October. The limited edition will be available with Asmodee and Asmodee partners
+  worldwide and released in German, Englisch, Spanish, Portuguese, Korean, Japanese,
+  Chinese (traditional and simplified) and Thai .
+published: '2022-23-06'
+description: ''
 image: ./images/290045901_5248607408588009_2136221133986401378_n.png
 tags:
-  - archived
+- archived
 category: archived
-draft: false
+draft: 'false'
 ---
-
 The Agricola 15th Anniversary Edition will be available at SPIEL '22 Essen this October. The limited edition will be available with Asmodee and Asmodee partners worldwide and released in German, Englisch, Spanish, Portuguese, Korean, Japanese, Chinese (traditional and simplified) and 🔹🔹🔹🔹Thai 🔹🔹🔹🔹. 
 
 🐖  มีกลิ่นไรงับหมด  ว่ากันตามตรงผมเคยบอกว่ากล่องนี้ไร้สาระยังไงตอนนี้ก็บอกอย่างนั้นเพราะของไม่ครบ มันคุ้มแค่สำหรับคนจะซื้อใหม่ ซึ่งหมายความว่าถ้ามันแปลไทยมันก็ต้องซื้อใหม่ไงโว๊ยยยยยยยยยยย ซื้อเด๊ะๆๆๆๆๆๆๆๆๆๆๆๆๆๆๆ กร๊าซซซซซซซซ
