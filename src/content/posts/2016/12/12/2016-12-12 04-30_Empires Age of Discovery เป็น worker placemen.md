@@ -1,5 +1,5 @@
 ---
-title: Empires: Age of Discovery
+title: Empires - Age of Discovery
 published: 2016-12-12
 description: ''
 image: ./images/510076459_24001493622872771_6827486877752617085_n.jpg
