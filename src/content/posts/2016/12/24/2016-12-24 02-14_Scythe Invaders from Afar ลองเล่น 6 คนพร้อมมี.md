@@ -1,5 +1,5 @@
 ---
-title: Scythe: Invaders from Afar
+title: Scythe - Invaders from Afar
 published: 2016-12-24
 description: ''
 image: ./images/510555884_24003598199328980_133757908243484518_n.jpg
