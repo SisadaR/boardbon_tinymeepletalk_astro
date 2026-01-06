@@ -1,5 +1,5 @@
 ---
-title: Pandemic : Legacy season 1
+title: Pandemic - Legacy season 1
 published: 2016-12-26
 description: ''
 image: ./images/510797736_24002570472765086_5745687786261492222_n.jpg
