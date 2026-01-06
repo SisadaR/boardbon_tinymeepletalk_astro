@@ -1,11 +1,11 @@
 ---
-title: เป็นหนังสือชื่อย๊าวยาวที่ผมพึ่งซื้อมาอ่านบน kindle เมื่ออาทิตย์ก่อน อ่านจบแล้วคิดว่าเป็นหนังสือที่ดีนะ
+title: Civilization Guide to Tabletop Gaming
 published: 2016-12-19
 description: ''
 image: ./images/51qXhT8y6AL._SR600,315_PIWhiteStrip,BottomLeft,0,35_PIAmznPrime,BottomLeft,0,-5_SCLZZZZZZZ_.jpg
 tags:
   - archived
-  - book_review
+  - review
 category: archived
 draft: false
 ---
