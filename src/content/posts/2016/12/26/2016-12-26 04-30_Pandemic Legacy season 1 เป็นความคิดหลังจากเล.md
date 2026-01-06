@@ -1,15 +1,11 @@
 ---
-title: 'Pandemic : Legacy season 1 เป็นความคิดหลังจากเล่นไป1/3 ของเนื้อเรื่องทั้งหมด
-  (เล่นช้ากว่าชาวบ้านเยอะเลย)'
+title: Pandemic : Legacy season 1
 published: 2016-12-26
 description: ''
 image: ./images/510797736_24002570472765086_5745687786261492222_n.jpg
 tags:
   - archived
-  - thought
-  - ยูโร
-  - แมวชาวบ้านเราก็ใช้
-  - ไม่มีสปอลย์
+  - review
 category: archived
 draft: false
 ---

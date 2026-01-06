@@ -6,7 +6,7 @@ description: ''
 image: ./images/dsc03401.jpg
 tags:
   - archived
-  - friday_review
+  - review
   - thought
 category: archived
 draft: false

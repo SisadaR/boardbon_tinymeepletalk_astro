@@ -8,7 +8,7 @@ description: ''
 image: ./images/dsc04700.jpg
 tags:
   - archived
-  - friday_review
+  - review
 category: archived
 draft: false
 ---

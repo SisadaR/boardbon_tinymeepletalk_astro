@@ -1,14 +1,11 @@
 ---
-title: 'Scythe: Invaders from Afar ลองเล่น 6 คนพร้อมมีเผ่าใหม่สองเผ่า (จากที่เล่นคิดว่าเล่น
-  7 คน comment ก็ไม่น่าจะต่างจากนี้) พบว่าเดิมรู้สึกยังไง ใส่ตัวเสริมก็รู้สึกก็ยังงั้ง
-  ที่เพิ่มเติมคือจำนวนคน (ในแง่หนึ่งก็ถือว่าดี แสดงว่าทำ scalability จำนวนผู้เล่นมาดี)'
+title: Scythe: Invaders from Afar
 published: 2016-12-24
 description: ''
 image: ./images/510555884_24003598199328980_133757908243484518_n.jpg
 tags:
   - archived
-  - first_impression
-  - thought
+  - review
 category: archived
 draft: false
 ---

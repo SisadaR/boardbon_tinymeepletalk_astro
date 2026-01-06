@@ -1,14 +1,10 @@
 ---
-title: Seafall เกมแนว Legacy เกมแรกที่ผมได้เล่น เนื่องจากผมไม่ชอบเกม co-op อย่าง Pandemic
-  เท่าไร เลยกะมาลองกับเกมนี้ก่อน อันนี้พึ่งลองเล่นแค่ Intro + ตอนแรก (จากทั้งหมดประมาณ
-  15 ตอน)
+title: Seafall
 published: 2016-11-30
 description: ''
 image: ./images/511132796_24000443876311079_3616524015789651519_n.jpg
 tags:
   - archived
-  - shot_comment
-  - ไม่มีสปอย
 category: archived
 draft: false
 ---

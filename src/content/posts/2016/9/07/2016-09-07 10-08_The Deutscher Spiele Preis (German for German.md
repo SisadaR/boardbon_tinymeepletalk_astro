@@ -3,12 +3,8 @@ title: The Deutscher Spiele Preis (German for German Game Prize) (DSP) พึ่
   Mombasa เอาไปกินอีกแล้ว
 published: 2016-09-07
 description: ''
-image: ./images/fb.png
 tags:
   - archived
-  - รู้ไว้บ้างก็ดี
-  - ไม่ต้องรู้ก็ได้1
-  - ไม่ต้องรู้ก็ได้2
 category: archived
 draft: false
 ---
