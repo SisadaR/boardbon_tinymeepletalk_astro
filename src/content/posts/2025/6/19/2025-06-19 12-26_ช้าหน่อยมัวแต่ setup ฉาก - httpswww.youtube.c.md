@@ -1,0 +1,14 @@
+---
+title: ช้าหน่อยมัวแต่ setup ฉาก - https_://www.youtube.com/watch?v=VH8q25rjgtg -
+published: 2025-06-19
+description: ''
+tags:
+  - archived
+category: archived
+draft: false
+---
+ช้าหน่อยมัวแต่ setup ฉาก - https_://www.youtube.com/watch?v=VH8q25rjgtg -
+
+ศึกแห่งศักดิ์ศรีจะเกิดขึ้น กับการแข่งขันชิงความภูมิใจ แพ้เป็นพระ ชนะได้เอิด 💢 กับเกม Nippon Zaibatsu สึ สึ สึ สึ!..ไลน....
+
+![](./images/maxresdefault.jpg)

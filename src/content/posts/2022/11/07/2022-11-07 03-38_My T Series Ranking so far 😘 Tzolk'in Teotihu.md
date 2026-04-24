@@ -1,0 +1,61 @@
+---
+title: 'My T Series Ranking so far:'
+published: 2022-11-07
+description: ''
+image: ./images/482028193_1227657406034970_7459368743904243149_n.jpg
+tags:
+  - archived
+category: archived
+draft: false
+---
+My T Series Ranking so far:
+
+😘 Tzolk'in / Teotihuacan
+.
+😁 Tabannusi / Tiletum
+.
+.
+🙂 Tawantinsuyu 
+.
+.
+.
+.
+.
+🤬🔥 Tekhenu/Trismegistus
+
+ส่วนตัวผมไม่ค่อย 'buy' คำว่า T-Series เท่าไร เพราะรู้สึกเอามาใช้กันเลอะเทอะแบบไม่ได้มี concept อะไรเป็นแก่นสารขนาดนั้น 
+
+คือถ้าไม่ใช่ Daniele Tascini ทำแล้วชื่อตัว T ก็ไม่ค่อยอยากเอามารวมเลย
+
+- Tawantinsuyu นี้ไม่ได้เกี่ยวอะไรกับเค้าเลยเพราะคนทำนี้ Dávid Turczi 
+- Terracotta Army นี้มันก็ไม่ได้เกี่ยวกันซักกะนิด 
+
+แบบพวกนายจะยึดเอาตัว T ไปรวมกันหมดไม่ได้นะ!! งี้เอา Terraforming Mars , Terra Mystica ไปด้วยสิฟระ!!
+
+ว่าแต่เรื่องแบน Daniele Tascini นี้เค้าเนียนๆเลิกทำกันแล้วใช่มะ? คือส่วนตัวก็คิดว่ามัน woke แบบ overly sensitive ไปเยอะอยู่
+
+My T Series Ranking so far:
+
+😘 Tzolk'in / Teotihuacan
+.
+😁 Tabannusi / Tiletum
+.
+.
+🙂 Tawantinsuyu 
+.
+.
+.
+.
+.
+🤬🔥 Tekhenu/Trismegistus
+
+ส่วนตัวผมไม่ค่อย 'buy' คำว่า T-Series เท่าไร เพราะรู้สึกเอามาใช้กันเลอะเทอะแบบไม่ได้มี concept อะไรเป็นแก่นสารขนาดนั้น 
+
+คือถ้าไม่ใช่ Daniele Tascini ทำแล้วชื่อตัว T ก็ไม่ค่อยอยากเอามารวมเลย
+
+- Tawantinsuyu นี้ไม่ได้เกี่ยวอะไรกับเค้าเลยเพราะคนทำนี้ Dávid Turczi 
+- Terracotta Army นี้มันก็ไม่ได้เกี่ยวกันซักกะนิด 
+
+แบบพวกนายจะยึดเอาตัว T ไปรวมกันหมดไม่ได้นะ!! งี้เอา Terraforming Mars , Terra Mystica ไปด้วยสิฟระ!!
+
+ว่าแต่เรื่องแบน Daniele Tascini นี้เค้าเนียนๆเลิกทำกันแล้วใช่มะ? คือส่วนตัวก็คิดว่ามัน woke แบบ overly sensitive ไปเยอะอยู่
